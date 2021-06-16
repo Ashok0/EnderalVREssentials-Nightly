@@ -587,6 +587,10 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [**Wellwatch Manor SE v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/151?tab=files): Adds a proper outpost to the Wellwatch myrad tower and a purchasable player home.
 
+[**Riverville Jail SE v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/157?tab=files): Expands upon the Riverville Jail by adding a watchtower, a secret exit and more.
+
+[**Bank of Ark SE v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/158?tab=files): Adds new models for corridors, vault doors/vault door numbers and makes some changes to the interior of the Ark Bank.  
+
 [**Storeable Phasmalist Talismans v1.01**](https://www.nexusmods.com/enderalspecialedition/mods/68?tab=files): Allows you to store away Phasmalist Talismans.
 
 [**Maps - SE v1.2**](https://www.nexusmods.com/enderal/mods/49?tab=files): You can now buy maps that will show you the landmarks of the region.
