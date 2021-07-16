@@ -1,4 +1,5 @@
 # ENDERAL VR ESSENTIALS (EVRE)
+Latest update: July 10th, 2021 (v1.05)
 
 ## Table of contents
 * [Preamble](#preamble)
@@ -7,8 +8,8 @@
 * [Installation](#installation)
 * [MCM Settings](#mcm-settings)
 * [Updating](#updating)
-* [Noteworthy mods](#noteworthy-mods)
 * [Known issues](#known-issues)
+* [Noteworthy mods](#noteworthy-mods)
 * [Scoped bows](#scoped-bows)
 * [Supersampling](#supersampling)
 * [Character Customization](#character-customization)
@@ -31,14 +32,14 @@ Minimum:
 * RAM: 8 GB
 * OS: Windows 7/8.1/10 (64-bit versions)
 * GPU: Nvidia GeForce GTX 970 / AMD RX 480 8GB or better
-* STORAGE: 73GB
+* STORAGE: 75GB
 
 Recommended:
 * CPU: Intel Core i7-4790 or AMD Ryzen 5 1500X or better
 * RAM: 8 GB
 * OS: Windows 10 (64-bit versions)
 * GPU: Nvidia GeForce GTX 1070 8GB or better
-* STORAGE: 73GB
+* STORAGE: 75GB
 * WI-FI: 802.11ac or 802.11ax (for Virtual Desktop or Air Link; optional) 
 
 ## Requirements
@@ -46,7 +47,7 @@ Recommended:
 * [Enderal: Forgotten Stories (Special Edition)](https://store.steampowered.com/app/976620/Enderal_Forgotten_Stories_Special_Edition)
 * [Premium NexusMods account](https://www.nexusmods.com/)
 * [Wabbajack](https://www.wabbajack.org/#/)
-* [EVRE_v1.01.wabbajack](https://github.com/Ashok0/EnderalVREssentials/releases/)
+* [EVRE_v1.05.wabbajack](https://github.com/Ashok0/EnderalVREssentials/releases/)
 	
 ## Installation
 1.  Add Enderal SE to your Steam library from [HERE](https://store.steampowered.com/app/976620/Enderal_Forgotten_Stories_Special_Edition/). The game needs to be in your Steam library but does not need to be installed.
@@ -57,8 +58,8 @@ Recommended:
 5.  Download Wabbajack from [HERE](https://www.wabbajack.org/#/) and place "Wabbajack.exe" in a blank folder i.e. C:\Games\Wabbajack 
 6.  Run Wabbajack one time and then exit the program.  
 7.  Create a new folder where you wish to install Enderal VR i.e. C:\Games\Enderal VR
-8.  Download "EVRE_v1.01.wabbajack" from [HERE](https://github.com/Ashok0/EnderalVREssentials/releases/) and place it anywhere outside of your Wabbajack folder.
-9.  Launch Wabbajack by double-clicking "EVRE_v1.01.wabbajack"
+8.  Download "EVRE_v1.05.wabbajack" from [HERE](https://github.com/Ashok0/EnderalVREssentials/releases/) and place it anywhere outside of your Wabbajack folder.
+9.  Launch Wabbajack by double-clicking "EVRE_v1.05.wabbajack"
 10.  Under "Installation Location", select the folder you created above under Step 6 and then click the green "PLAY" icon in the lower right. 
 11.  Wait for Wabbajack to download all the mods and patches required to play Enderal VR.  This could take several hours depending on your Internet connection.
 		* If you receive an error message during this step, a mod has most likely been updated preventing the modlist from installing.  Wait for me to update this Wabbajack modlist and then try again.
@@ -69,7 +70,7 @@ Recommended:
 14. Configure your mod loadout: 
 	* Disable "Dear Diary VR" if you prefer to use the vanilla SkyUI menu.
 	* Disable "Smaller HUD for VR Larger Text Patch" if you wish to decrease the size of the in-game text.
-	* Enable "VRIK Rift-Index-WMR Controller Bindings" if using the Valve Index.
+	* Enable "VRIK Rift-Index-WMR Controller Bindings" if using the Rift, Valve Index, or WMR headset.
 	* Enable "High Poly Project" for higher polygon objects.  Improves visuals but may cause minor graphical glitches.   
 	* Disable "Caliente's Beautiful Bodies Enhancer -CBBE-" if you prefer vanilla bodies.  Pre-configured as Vanilla NeverNude.
 	* Disable "Bijin Skin UNP and CBBE" if you prefer vanilla skin.
@@ -96,7 +97,7 @@ Once you start a new game, you can configure your individual Enderal VR mods thr
  
 ## Updating
 
-This Wabbajack modlist will be updated regularly with the latest versions of all its included mods.  If the Wabbajack is updated, just re-download [EVRE_v1.01.wabbajack](https://github.com/Ashok0/EnderalVREssentials/releases/) and re-install the Wabbajack file to keep your mods up to date with a single click.  Be sure to set the "Installation Location" to the same path used during the original installation and tick "Overwrite Installation" before hitting the "Run" button.  Updating should be much quicker than the initial installation process.    
+This Wabbajack modlist will be updated regularly with the latest versions of all its included mods.  If the Wabbajack is updated, just re-download [EVRE_v1.05.wabbajack](https://github.com/Ashok0/EnderalVREssentials/releases/) and re-install the Wabbajack file to keep your mods up to date with a single click.  Be sure to set the "Installation Location" to the same path used during the original installation and tick "Overwrite Installation" before hitting the "Run" button.  Updating should be much quicker than the initial installation process.    
 
 Wabbajack will delete all files that are not part of its modlist when updating!  Your downloads folder will not be touched.  If you have installed additional mods not included in the Wabbajack, you will need to re-install them manually if you choose to update your mods via the Wabbajack file.  You can alternatively update your mods manually through Mod Organizer 2.
 
@@ -106,7 +107,26 @@ Wabbajack will delete all files that are not part of its modlist when updating! 
 
 
 
-
+## Known issues
+* Your headset and controllers must be active before launching the game or it will not start.
+* Cutscenes do not work.  Audio always plays against the SteamVR backdrop.  This is a very minor issue as there are only 3 cutscenes in the entire game.  These can be easily viewed on YouTube and two of the videos are introduction videos which play at the beginning of the game.
+* You have no avatar during the tutorial.  This is normal as you do not get an avatar until completing the character creation wizard.
+* There are some clipping issues with the character creation wizard on the ship.  You may need to step through the wall of the ship or peer above the ship ceiling to view the full menu.
+* &#x1F53A; Do not press any triggers during conversations with NPCs.  There is a nasty bug where interrupting dialogue may prevent you from finishing key conversations and will soft lock your game.  The only way to continue is to reload an old save game. &#x1F53A; 
+* If you get stuck during quests from animations that do not trigger properly, press "~" with the game in focus on your monitor and type player.tai or enableplayercontrols in the console.
+* Loading saved games during the opening tutorial may cause VRIK to glitch out.
+* If you need to reset your height in-game, do not run "Floor Fix" through Open VR Advanced Settings as this may causes problems with VRIK where you get stuck in "Sneak" mode.  Recalibrate your height through the VRIK Calibration Power.  You can do this by selecting the VRIK Calibration Power from the magic menu.
+* If you are using Virtual Desktop, you may see a subtle "rectangular box" around the edges of the view where the image becomes blurry outside of the rectangle.  This effect is normal and is caused by the foveation used by Virtual Desktop when streaming Enderal VR wirelessly.
+* If you are using Virtual Desktop, Mod Organizer 2 may freeze up when starting a new game if SteamVR is already running.  Selecting "Exit SteamVR" from inside of Virtual Desktop before hitting "Run" in Mod Organizer 2 should fix this issue.
+* If you have trouble selecting ingredients at alchemy benches, on your left controller be sure to tap the analog stick to the right which should allow you to select ingredients for crafting.
+* If you have issues equipping arrows for your bow, you need to reach behind your back in real life to grab an arrow.  This is a feature from the included Simple Realistic Archery mod. 
+* If the Hero menu doesn't pop up when raising one controller over your head, make sure the Enderal window is active and in focus on the Windows desktop.
+* The werewolf race has issues in Enderal VR so avoid using the lycanthropy tree perk.
+* Steam achievements do not work.
+* Crouching in real life will cause a minor "hitch" in your video as you approach the ground.  This is due to the "Automatic Sneaking" feature which is enabled by default.  If you dislike this effect and don't care about physical sneaking, you can turn this feature off from the in-game settings.
+* The loading screen artwork is out of frame.
+* &#x1F53A; If using ENB Particle Patch, Static Mesh Improvement Mod (SMIM), Blended Roads, Water for ENB, Embers XD / Embers HD, Glorious Doors of Skyrim, Yee - A New Snowflake Mod, or Kanjs - Chaurus Eggs and Staff you must make sure you are NOT using any plugins for these mods.  Only meshes and textures may be used.  Delete ALL .esp files associated with these plugins before launching the game. &#x1F53A; 
+* &#x1F53A; Note that with the exception of texture/mesh mods, mods cannot be safely removed mid-savegame. &#x1F53A;
 
 ## Noteworthy mods
 [**Enderal SE**](https://www.nexusmods.com/enderalspecialedition/mods/1?tab=files): Complete Enderal for Skyrim Special Edition.
@@ -137,6 +157,8 @@ Wabbajack will delete all files that are not part of its modlist when updating! 
 
 [**DragonbornSpeaksNaturally**](https://www.nexusmods.com/skyrimspecialedition/mods/16514?tab=files): Adds speech recognition to Skyrim VR or Skyrim SE so you can recite your dialogue lines to select them.  Requires no speech training!
 
+[**Immersive Gathering (Woodchopping and Mining) SE - VR Friendly**](https://www.nexusmods.com/skyrimspecialedition/mods/29710?tab=files): Chop wood and mine ore for real by swinging your axe or pickaxe!
+
 [**HapticSkyrimVR - Spellcasting and Enhanced Bow and Melee Feedback SKSE Plugin**](https://www.nexusmods.com/skyrimspecialedition/mods/20364?tab=files): SKSEVR plugin to get spell casting and enhanced bow and melee haptic feedback on VR controllers.
 
 [**Simple Realistic Archery VR**](https://www.nexusmods.com/skyrimspecialedition/mods/28524?tab=files): Automatically unequips your arrows after shooting them, then reequips the arrow after pressing the trigger (MCM configurable) over your shoulder. It also has options for binding different arrows to different buttons, for the position and size of the quiver, and options for attribute costs. Up to 25 arrow types can be bound at once.
@@ -161,7 +183,7 @@ Wabbajack will delete all files that are not part of its modlist when updating! 
 
 [**Bijin Skin - CBBE**](https://www.nexusmods.com/skyrimspecialedition/mods/20078?tab=files): Smoother skin for NPCs with less blemishes.  Disable if you prefer vanilla skin.
 
-[**Equippable Tattoo Skins UNP + CBBE**](https://www.nexusmods.com/skyrimspecialedition/mods/39530?tab=files): Disabled by default.  For female players only.  If enabled, this mod allows you to craft up to five unique tattoos at a forge which you can apply to your body from your inventory.  These tattoos are NOT lore friendly but you can overwrite these tattoos in your \mods\Equippable Tattoo Skins UNP + CBBE\textures\actors\character\equipskins\female\ folder with custom bodypaint textures of your choice.  Bodypaint applied to female characters with this mod can be viewed in first person on your VRIK body when playing in VR!
+[**Equippable Tattoo Skins UNP + CBBE**]: Disabled by default.  For female players only.  If enabled, this mod allows you to craft up to five unique tattoos at a forge which you can apply to your body from your inventory.  These tattoos are NOT lore friendly but you can overwrite these tattoos in your \mods\Equippable Tattoo Skins UNP + CBBE\textures\actors\character\equipskins\female\ folder with custom bodypaint textures of your choice.  Bodypaint applied to female characters with this mod can be viewed in first person on your VRIK body when playing in VR!
 
 [**Dynamically Disable Eye Adaptation and Bloom**](https://www.nexusmods.com/skyrimspecialedition/mods/2135?tab=files): Disables Bloom to remove the "glow" effect around light sources.  Disable if you prefer having Bloom effects in VR.
 
@@ -179,26 +201,7 @@ Wabbajack will delete all files that are not part of its modlist when updating! 
 
 &#x1F53A; **SMALL PERFORMANCE DROP --- For lower end GPUs, you may wish to experiment with disabling DynDOLOD by disabling "xLODGen_Output", "TexGen_Output", and "DynDOLOD_Output" in Mod Organizer 2.** &#x1F53A;
 
-## Known issues
-* Your headset and controllers must be active before launching the game or it will not start.
-* Cutscenes do not work.  Audio always plays against the SteamVR backdrop.  This is a very minor issue as there are only 3 cutscenes in the entire game.  These can be easily viewed on YouTube and two of the videos are introduction videos which play at the beginning of the game.
-* You have no avatar during the tutorial.  This is normal as you do not get an avatar until completing the character creation wizard.
-* There are some clipping issues with the character creation wizard on the ship.  You may need to step through the wall of the ship or peer above the ship ceiling to view the full menu.
-* &#x1F53A; Do not press any triggers during conversations with NPCs.  There is a nasty bug where interrupting dialogue may prevent you from finishing key conversations and will soft lock your game.  The only way to continue is to reload an old save game. &#x1F53A; 
-* If you get stuck during quests from animations that do not trigger properly, press "~" with the game in focus on your monitor and type player.tai or enableplayercontrols in the console.
-* Loading saved games during the opening tutorial may cause VRIK to glitch out.
-* If you need to reset your height in-game, do not run "Floor Fix" through Open VR Advanced Settings as this may causes problems with VRIK where you get stuck in "Sneak" mode.  Recalibrate your height through the VRIK Calibration Power.  You can do this by selecting the VRIK Calibration Power from the magic menu.
-* If you are using Virtual Desktop, you may see a subtle "rectangular box" around the edges of the view where the image becomes blurry outside of the rectangle.  This effect is normal and is caused by the foveation used by Virtual Desktop when streaming Enderal VR wirelessly.
-* If you are using Virtual Desktop, Mod Organizer 2 may freeze up when starting a new game if SteamVR is already running.  Selecting "Exit SteamVR" from inside of Virtual Desktop before hitting "Run" in Mod Organizer 2 should fix this issue.
-* If you have trouble selecting ingredients at alchemy benches, on your left controller be sure to tap the analog stick to the right which should allow you to select ingredients for crafting.
-* If you have issues equipping arrows for your bow, you need to reach behind your back in real life to grab an arrow.  This is a feature from the included Simple Realistic Archery mod. 
-* If the Hero menu doesn't pop up when raising one controller over your head, make sure the Enderal window is active and in focus on the Windows desktop.
-* The werewolf race has issues in Enderal VR so avoid using the lycanthropy tree perk.
-* Steam achievements do not work.
-* Crouching in real life will cause a minor "hitch" in your video as you approach the ground.  This is due to the "Automatic Sneaking" feature which is enabled by default.  If you dislike this effect and don't care about physical sneaking, you can turn this feature off from the in-game settings.
-* The loading screen artwork is out of frame.
-* &#x1F53A; If using ENB Particle Patch, Static Mesh Improvement Mod (SMIM), Blended Roads, Water for ENB, Embers XD / Embers HD, Glorious Doors of Skyrim, Yee - A New Snowflake Mod, or Kanjs - Chaurus Eggs and Staff you must make sure you are NOT using any plugins for these mods.  Only meshes and textures may be used.  Delete ALL .esp files associated with these plugins before launching the game. &#x1F53A; 
-* &#x1F53A; Note that with the exception of texture/mesh mods, mods cannot be safely removed mid-savegame. &#x1F53A;
+
 
 ## Scoped bows
 * For scoped bow aiming to work, open VRIK MCM and disable "Adjust Held Weapons Position"
@@ -290,17 +293,19 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 ## Tools
 
-[**Synthesis v0.19.2**](https://github.com/Mutagen-Modding/Synthesis): A framework and GUI to construct a single Bethesda game patch from many patcher sources. Designed to allow any program to work as a patcher as long as it conforms to the CLI API.
+[**UI Tweaks v1.0**](https://www.nexusmods.com/skyrim/mods/70774/?tab=files): Theme for Mod Organizer, based on the default style with better and cleaner UI elements.
 
 [**Nemesis Unlimited Behavior Engine v0.84-beta**](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main/releases): An animation framework that enables behavior mods like CGO, SkySA, Ultimate Combat and most FNIS dependent mods to work together.
 
+[**xLODGen Beta 83**](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-80-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/): Tool for generating terrain LOD.
+
 [**DynDOLOD Standalone 3.0 Alpha-33**](https://www.nexusmods.com/skyrimspecialedition/mods/32382?tab=files): DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD + tree LOD and the new, optional dynamic distant object LOD in a few simple steps.
 
-[**xLODGen Beta 83**](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-80-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/): Tool for generating terrain LOD.
+[**Synthesis v0.19.2**](https://github.com/Mutagen-Modding/Synthesis): A framework and GUI to construct a single Bethesda game patch from many patcher sources. Designed to allow any program to work as a patcher as long as it conforms to the CLI API.
 
 [**SSEEdit v4.0.3**](https://www.nexusmods.com/skyrimspecialedition/mods/164?tab=files): SSEEdit is the Skyrim: Special Edition version of xEdit. xEdit is an advanced graphical module viewer/editor and conflict detector.
 
-[**UI Tweaks v1.0**](https://www.nexusmods.com/skyrim/mods/70774/?tab=files): Theme for Mod Organizer, based on the default style with better and cleaner UI elements.
+[**LOOT v0.16.1**](https://github.com/loot/loot/releases/tag/0.16.1): LOOT is a plugin load order optimisation tool for Skyrim VR.  It is designed to assist mod users in avoiding detrimental conflicts, by automatically calculating a load order that satisfies all plugin dependencies and maximises each plugin's impact on the user's game.
 
 ## Included Mods and Tools (Skyrim VR Installation Folder)
 [**SKSE VR v2.0.12**](https://skse.silverlock.org): A tool used by many Skyrim mods that expands scripting capabilities and adds additional functionality to the game.
@@ -378,7 +383,7 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 [**Flinching for VR Magic can trigger flinching v1.361**](https://www.nexusmods.com/skyrimspecialedition/mods/42550?tab=files): A little mod that allows the player and NPCs to flinch when hit.
 - Requires patching with Nemesis.
 
-[**VRIK V0.8.1. In-Dev Build 28**](https://www.nexusmods.com/skyrimspecialedition/mods/23416?tab=posts): VRIK will display the player character's body in SkyrimVR and animate it to match your movements. Weapons can be kept, drawn, and sheathed in up to 14 visible holsters on your body. An input gesture system allows users to bind actions to gestures on each hand, reducing the need to open menus. An MCM menu allows full configuration of everything.
+[**VRIK V0.8.1. In-Dev Build 28**](https://www.nexusmods.com/skyrimspecialedition/mods/23416?tab=files): VRIK will display the player character's body in SkyrimVR and animate it to match your movements. Weapons can be kept, drawn, and sheathed in up to 14 visible holsters on your body. An input gesture system allows users to bind actions to gestures on each hand, reducing the need to open menus. An MCM menu allows full configuration of everything.
 - Make the following changes to these VRIK INI files to pre-configure MCM settings with proper behavior for bows:  
 	- vrik.ini: weaponAdjustment = 0
 	- vrikslots.ini: visibleSlot11 = 0 
@@ -387,17 +392,29 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [**VRIK Rift-Index-WMR Controller Bindings V2.1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/23416?tab=files): These control bindings are an optional add-on for VRIK to make it easier to use holsters.  The button for shout has been moved to Right A (or the right WMR touchpad), and interact is performed by squeezing the right grip.  Sprinting is now done by squeezing the left grip.  With these "safe" inputs on grips, players do not need to worry about shouting accidentally when grabbing holstered weapons.
 
-[**HIGGS VR v1.2.0**](https://www.nexusmods.com/skyrimspecialedition/mods/43930?tab=files): Hand/weapon collision, realistic object grabbing, and gravity gloves-style mechanics for Skyrim VR.
-- Remove any [HAVOK] settings from your Skyrim INI files as these settings are no longer necessary with HIGGS VR v1.2. 
+[**HIGGS VR v1.2.2**](https://www.nexusmods.com/skyrimspecialedition/mods/43930?tab=files): Hand/weapon collision, realistic object grabbing, and gravity gloves-style mechanics for Skyrim VR.
+- Remove any [HAVOK] settings from your Skyrim INI files as these settings are no longer necessary with HIGGS VR v1.2.x.
+- Make the following changes to higgs_vr.ini to make all held objects use velocity-based movement (recommended):
+	- ForcePhysicsGrab = 1
+- Make the following changes to higgs_vr.ini to grab when you have a bow out but no arrow in your main hand, or to let you grab with your offhand while the main hand holds a two-handed weapon:
+	- AllowGrabWithEmptyArrowHand = 1
+	- AllowGrabWithTwoHandedOffhand = 1
 
 [**Spell Wheel VR v1.1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/47630?tab=files): Selection wheel mod for Skyrim VR. It allows you to select spells, weapons, shields, arrows, potions, poisons, food, torch, armors and more without going into a menu very quickly by press of a button or button combinations to spawn the wheel and hold your hand over the item and letting go of the button. It's equipped automatically.
 
-[**NavigateVR v1.4**](https://www.nexusmods.com/skyrimspecialedition/mods/47174?tab=files): This mod brings immersive navigation to VR with a functional compass
+[**NavigateVR v1.5**](https://www.nexusmods.com/skyrimspecialedition/mods/47174?tab=files): This mod brings immersive navigation to VR with a functional compass
 - Replace "LHandTamrielSettlements.dds" and "RHandTamrielSettlements.dds" with maps of your choice from the "Maps - SE" mod to make the default Navigate VR map artwork lore friendly to Enderal.
 
 [**Splashes of Skyrim - VR v1.2.1**](https://www.nexusmods.com/skyrimspecialedition/mods/47710?tab=files): SKSE plugin that adds projectile based water splashes and ripples, and underwater explosions.
 
 [**DragonbornSpeaksNaturally - Beta v0.21.0-beta**](https://www.nexusmods.com/skyrimspecialedition/mods/16514?tab=files): Adds speech recognition to Skyrim VR or Skyrim SE so you can recite your dialogue lines to select them.
+
+[**Immersive Gathering (Woodchopping and Mining) SE - VR Friendly v1.7**](https://www.nexusmods.com/skyrimspecialedition/mods/29710?tab=files): Chop wood and mine ore for real!
+
+[**Destructible Bottles Extended v1.5**](https://www.nexusmods.com/skyrim/mods/26017?tab=files): Hit the bottle and smash it in pieces! Latest version 1.5 includes also some glazed pottery items such as pots, jugs, plates and bowls.
+- LE mod.  Converted to Form 44 (SE) by opening and resaving ESP file in Creation Kit.
+
+[**Alternative Smashing Glass Sounds v1.0**](https://www.nexusmods.com/skyrim/mods/26017?tab=files): Alternative HQ glass sounds thanks to rolloLG.
 
 [**HapticSkyrimVR - Spellcasting and Enhanced Bow and Melee Feedback SKSE Plugin v1.7.2**](https://www.nexusmods.com/skyrimspecialedition/mods/20364?tab=files): SKSEVR plugin to get spell casting and enhanced bow and melee haptic feedback on VR controllers.
 
@@ -423,6 +440,12 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [**Immersive Draw Sheathe Sounds v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/44992?tab=files): This improves the Draw/Sheathe sounds for use in VR.
 
+[**JS Purses and Septims SE v1.2**](https://www.nexusmods.com/skyrimspecialedition/mods/37306?tab=files): A complete re-creation of Septims, Coin Purses and Coin Piles.
+
+[**VR Refit - JS Purses and Septims Resized v1.0.1**](https://www.nexusmods.com/skyrimspecialedition/mods/49850?tab=files): A VR mod for smaller coins, coin purses, and coin piles from JS Purses and Septims. It also patches the invisible coin purse drop sound bug.
+
+[**JS Instruments of Skyrim SE v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/51959?tab=files): A complete remake of the Lute, Flute & Drum. Comes in 2k and 4k versions.
+
 [**Basic Dining Set Replacer 1k v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/30055?tab=files): A mod that replaces the dining set we often see in farmhouses or taverns in skyrim.
 
 [**Noble Skyrim FULL PACK Performance Edition v5.5.0**](https://www.nexusmods.com/skyrimspecialedition/mods/21423?tab=files): Gives all of Skyrim's architecture a complete new look by changing its textures to custom ones. Beside the architecture, several other things, such as landscape, dungeons (ruins, mines, caves etc.), clutter stuff etc. have been re-textured as well, to match the rest of the mod.
@@ -434,10 +457,21 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [**CC's HQ Caves - 2K v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/8448?tab=files): This is a retexture of the Cavewalls and the Cavefloor. All textures handmade using Substance Designer 6.
 
+[**WiZkiD Parallax Farmhouses 2k No Parallax v1.4**](https://www.nexusmods.com/skyrimspecialedition/mods/39185?tab=files): A complete overhaul of all farmhouses related models with high quality textures. This overhaul includes exteriors, interiors, basement and stonewalls.
+
 [**Pine Branches Redone 4K v2.0**](https://www.nexusmods.com/skyrimspecialedition/mods/45294?tab=files): Realistic pine branches replacer. All types covered.  Billboards included.
 
+[**El Sopa - HD Medieval Anvil SE v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/48825?tab=files): New Model And Textures For The Anvil . The Hammer And Tongs. Performance Friendly. Ultra Immersive. All Resolutions. No ESP.
+
+[**Animated Forge Water v0.1**](https://www.nexusmods.com/skyrimspecialedition/mods/52322?tab=files): A mesh only animated forge water replacer with refraction. No ESP.
+
+[**Animated Forge Water v0.1.2**](https://www.nexusmods.com/skyrimspecialedition/mods/52322?tab=files): Also fixes some Elsopa bugs.
+
 [**Embers XD v2.2.3**](https://www.nexusmods.com/skyrimspecialedition/mods/37085?tab=files): An overhaul of campfires and other fire sources.
+- Use "Vanilla Flames" as vanilla flames look better in VR.
 - Delete ESP files.
+- If using "Animated Forge Water v0.1", Embers XD must be patched manually using Nifskope.  Open .nif files in \mods\Animated Forge Water\meshes\furniture\ and \mods\Embers XD\meshes\furniture\.  Navigate to the following "Values", BlacksmithForgeMarker.nif > BlacksmithForgeMarker > BlacksmithForge01 > Fire > OrderedRenderingNode > WATER.  Right click WATER in the Animated Forge files and select Block > Copy Branch.  Right click WATER in the Embers XD files and select Block > Remove.  Then right click BSORderedNode in the Embers XD files and select Block > Paste Branch > Yes and then press SAVE and OK.
+- If using "Animated Forge Water v0.1.2", Embers XD must be patched again manually using Nifskope.  Open .nif files in \meshes\dlc02\architecture\ and \meshes\furniture\ for both the Animated Forge and Embers XD mods.  Navigate to "Values" containing BlacksmithAnvil01 and copy these from the Animated Forge mod using "Copy Branch".  Remove BlacksmithAnvil01 values from the Embers XD mod and replace them with the Animated Forge BlacksmithAnvil01 values using "Paste Branch".  Then press SAVE and OK.
 
 [**HLP Night Sky High v2.07**](https://www.nexusmods.com/skyrimspecialedition/mods/8752): HLP Night Sky offers a tasteful, realistic, and lore-friendly replacement of the night sky textures (stars, constellations, and the milky way. 
 
@@ -452,12 +486,8 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [**Remove Blurry Snowflakes v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/38358): This mod removes the blurry snowflakes by using a transparent texture. The normal snowflakes are still present.
 
-[**Farmhouse Stonewalls 4K 2K by CleverCharff v1.3**](https://www.nexusmods.com/skyrimspecialedition/mods/32582): Replaces ugly farmhouse stonewalls with photorealistic 4K or 2K version. Includes parallax.
-
 [**Glorious Doors of Skyrim v1.03**](https://www.nexusmods.com/skyrimspecialedition/mods/32376): All-In-One pack of all my doors including a handy Fomod installer and a new Dwemer door!
 - Delete ESP files.
-
-[**R's Windmill v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/9884): Adds Renthal311 meshes and textures to Windmills in Skyrim. (Increased Wheels)
 
 [**Rustic Windows - Special Edition v2.0**](https://www.nexusmods.com/skyrimspecialedition/mods/1937): This mod retextures the Skyrim and Dragonborn windows in a lore-friendly way. The window glass has been revised to be thick, textured and insulating. The "opaque" nature of the glass has a purpose. 2K and 1K versions.
 
@@ -472,10 +502,28 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [**Loose Clear refracting icicle and FrostAtronach v1.5**](https://www.nexusmods.com/skyrimspecialedition/mods/2458?tab=files): Realistic looking Icicle and Frost Atronach.
 
+[**Rallys City Roofs 2K - AIO v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/20896?tab=files): This mod retextures the roofs of houses and market stalls in Whiterun, Riften and Solitude.
+
+[**Renthal's Workbench v1.4**](https://www.nexusmods.com/skyrimspecialedition/mods/23164?tab=files): New high poly mesh and texture for the workbench.
+
+[**Better Dirt Cliffs and Alphas v4.0**](https://www.nexusmods.com/skyrimspecialedition/mods/34035?tab=files): Overhaul of the meshes & alpha channels involved in blending the top of the dirt cliff with the roots, and the roots with the wall. Covers SMIM meshes too.
+
+[**Enhanced Vanilla Trees SE v2.1**](https://www.nexusmods.com/skyrimspecialedition/mods/11008?tab=files): Better Vanilla Trees? Sign me up! All-In-One tree overhaul package with enhanced Vanilla trees. Supports RAT, SFO Branches, SFO Snowy Pines, and more!
+- Delete ESP files.
+- Remove DynDOLOD folders (which contain billboards) as DynDOLOD generates its own superior billboards.
+
+[**HD Dead Trees and Driftwoods v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/35308?tab=files): Combine "4K Parallax Treebark" and "Spooknik's - Tundra Trees HD" to achieve HD dead trees and driftwoods. Contains original mods port.
+
+[**CC's Enhanced Ore Veins SSE Edition v8.0**](https://www.nexusmods.com/skyrimspecialedition/mods/1306?tab=files): A texture replacement for the ore veins found in mines and around skyrim. This mod also retextures the mined ores and the ingots.
+
+[**CC's Enhanced Ore Veins SSE Edition v8.0.1 - Patch**](https://www.nexusmods.com/skyrimspecialedition/mods/1306?tab=files): Install this to resolve the issue where all mines revert to vanilla textures when depleted. 
+
+[**Rustic Alchemy and Enchanting Tables v1.0**](https://www.nexusmods.com/skyrim/mods/62328?tab=files): A rustic overhaul of the alchemy and enchanting tables of Skyrim. The aim was to bring real antiquity to these arcane crafting tables as is fitting of their ancient origin.
+
 [**High Poly Project v4.95**](https://www.nexusmods.com/skyrimspecialedition/mods/12029): An on going process to improve the models of the game with more polygons , UV edits or just replace them all together. SMIM was the inspiration and the lack of similar mods led me to make this.
 - Should be installed with a Custom Install.  Skip "Farmhouse Stone Walls" as these are better replaced by seperate mods. Skip "Whiterun Clutter", "Smelter Coal", "Furniture", "Plants", and "Riften 3D Leaves" as these at a minimum are incompatible with Enderal VR and can cause purple texture glitches.
 
-[**Tamrielic Textures Terrain LOD v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/39563?tab=files): New overhaul for Terrain LOD landscape textures that corresponds with the texture mods you have installed. Generated with xLODGen. Also contains Tree LOD.
+[**Tamrielic Textures Terrain LOD v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/39563): New overhaul for Terrain LOD landscape textures that corresponds with the texture mods you have installed. Generated with xLODGen. Also contains Tree LOD.
 
 [**Smaller Insects v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/51551?tab=files): This mod aims to resize the scale of animals in Skyrim to give a better immersive feelig in VR / First person.
 
@@ -485,7 +533,15 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [**Bijin Skin - CBBE v1.4**](https://www.nexusmods.com/skyrimspecialedition/mods/20078?tab=files): Skin textures for CBBE and UNP made by rxkx22.
 
-[**Equipable Female Tattoo UNP CBBE v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/39530?tab=files): Mod adds 5 x Equippable Tattoo skins for UUNP or CBBE Options are: Bijin, Leyenda or Fair Skin Complexion.
+[**Equipable Female Tattoo UNP CBBE v1.0**]: Mod adds 5 x Equippable Tattoo skins for UUNP or CBBE Options are: Bijin, Leyenda or Fair Skin Complexion.
+
+[**Deadly Spell Impacts v1.7**](https://www.nexusmods.com/skyrimspecialedition/mods/12939?tab=files): Fire, lightning, frost, and spit (Spider/Chaurus) spell impacts now have their own unique textures. This mod also increases the variation in impact size, increases the size of dragon breath impacts, and adds melted snow impacts for fire and lightning spells.
+
+[**Visual Animated Enchants v0.2**](https://www.nexusmods.com/skyrimspecialedition/mods/7037?tab=files): A replacer for the visual and animation of the enchantments on weapons to make them more magical and immersive.  
+
+[**Qwinn's Refined Visual Animated Enchants v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/24665?tab=files): With L3stat's kind permission, a refinement and fix for various issues with Visual Animated Enchants.
+
+[**Adjusted Visual Animated Enchants (No ENB Complex Particle Lights) v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/50382?tab=files): Tweaks the appearance of enchantments from Visual Animated Enchants. Reduces size and brightness to work better when using ENB, alters flame mesh shapes on unique weapons to fit more closely, and adjusts some colours.
 
 [**Dynamically Disable Eye Adaptation and Bloom v1.2.0**](https://www.nexusmods.com/skyrimspecialedition/mods/2135?tab=files): Disables the irritating eye adaptation and object blooming through scripting. Compatible with all image space lighting mods!
 
@@ -553,9 +609,11 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [**Bank of Ark SE v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/158?tab=files): Adds new models for corridors, vault doors/vault door numbers and makes some changes to the interior of the Ark Bank.  
 
-[**Storeable Phasmalist Talismans v1.01**](https://www.nexusmods.com/enderalspecialedition/mods/68?tab=files): Allows you to store away Phasmalist Talismans.
+[**Seaview Lodge SE v1.01**](https://www.nexusmods.com/enderalspecialedition/mods/188?tab=files): Seaview Lodge adds a player home in the scenic area of the sea near Ark.
 
-[**Maps - SE v1.2**](https://www.nexusmods.com/enderal/mods/49?tab=files): You can now buy maps that will show you the landmarks of the region.
+[**Center of the Earth v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/196?tab=files): Follow Yaronth of Aran's ill-fated expedition to the center of the earth.
+
+[**Storeable Phasmalist Talismans v1.01**](https://www.nexusmods.com/enderalspecialedition/mods/68?tab=files): Allows you to store away Phasmalist Talismans.
 
 [**Unique Armor Sets Replacer Enderal SE v2.3**](https://www.nexusmods.com/enderalspecialedition/mods/27?tab=files): High-quality and lore friendly replacers for many of Enderal's unique armor sets! Converted with SSE nif optimizer.
 
@@ -569,23 +627,29 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [**Kolapon's Unique Weapons v1.5**](https://www.nexusmods.com/enderalspecialedition/mods/95?tab=files): Gives unique appearance to several of the unique weapons in Enderal and adds a brand new staff to one of the bosses.
 
+[**Craftable Bound Weapons v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/195?tab=files): Allows the player to craft and temper fully functional permanent bound weapons and arrows. Can be crafted at any smithy for 2 filled grand soul gems and tempered for 1 grand soul gem at any grindstone. Fully compatible.
+
+[**Maps - SE v1.2**](https://www.nexusmods.com/enderal/mods/49?tab=files): You can now buy maps that will show you the landmarks of the region.
+
+[**Ark Easserspeier - Ark Watersprouts (SE) v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/62?tab=files): Changes the waterspouts in the Foreign Quarter in Ark.
+
+[**Drunken Bee Sign v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/118): Adds a sign to the blank wall on the exterior of the Drunken Bee in Riverville.  
+
 [**Static Mushrooms  - High Poly SE v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/129?tab=files): Many animated/interactive/static mushrooms across Enderal are high poly now.
  
 [**Craftsman Tools Replacer v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/28?tab=files): Replaces meshes and textures of the crafting tools seen throughout Enderal.
 
-[**Ark Easserspeier - Ark Watersprouts (SE) v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/62?tab=files): Changes the waterspouts in the Foreign Quarter in Ark.
-
-[**Celtic Endralean Penny v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/71?tab=files): A simple mod that replaces the default Enderalean Penny Coin with InsanitySorrow's Celtic coin.
-
 [**Cannons 2K v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/63?tab=files): Replaces the cannons and cannonballs with new 2K textures.
-
-[**Drunken Bee Sign v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/118): Adds a sign to the blank wall on the exterior of the Drunken Bee in Riverville.  
 
 [**Enderal Upscale Project v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/126?tab=files): Vanilla Enderal textures upscaled 4x up to 4096px BC compressed. Normal/Specular maps generated from result, same resolution.
 
 [**The Notice Board Redefined for Enderal v1.1**](https://www.nexusmods.com/enderalspecialedition/mods/153?tab=files): Replaces low quality notes on bounty boards with notes from The Notice Board Redefined.
 
-[**Diverse Weather v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/70?tab=files): Diversifies the weather in Enderal and adds a few new ones.
+[**Diverse Weather v1.1**](https://www.nexusmods.com/enderalspecialedition/mods/70?tab=files): Diversifies the weather in Enderal and adds a few new ones.
+
+[**True Storms Special Edition - Thunder Rain and Weather Redone v1.0.2**](https://www.nexusmods.com/skyrimspecialedition/mods/2472?tab=files): True Storms Special Edition is a complete overhaul of the storm systems in Skyrim SE, including new heavy and unique weathers, loads of new intense sound effects, interior sounds, particle effects, new rain, snow, and dust textures, heavy fogs, new weathers for Solstheim including dust storms, and much more!
+
+[**Enderal SE - True Storms v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/203?tab=files): Compatibility patch for True Storms.
 
 [**Enderal NPC Overhaul - SE version v2.3.1**](https://www.nexusmods.com/enderalspecialedition/mods/150?tab=description): Overhaul of all NPCs in Enderal. Most important NPCs are given unique look (100+), others - KS Hairdos Hair. NO ESP. No requirements.
 
@@ -593,7 +657,9 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [**Stronger Souls v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/113?tab=files): Makes the conjured Souls stronger. 
 
-[**Tharael as Follower and Housemate v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/45?tab=files): Adds an option to make Tharaêl your companion after completing Dark Chambers of Our Mind (providing that you sided with him and offered to help him).
+[**Stronger Summons v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/202?tab=files): Makes your summoned creatures stronger.
+
+[**Tharael's Afterlife v2.0**](https://www.nexusmods.com/enderalspecialedition/mods/45?tab=files):  The mod adds an option to make Tharaêl your companion after completing Dark Chambers of Our Mind (providing that you sided with him). It also changes the side room in the house in the Nobles Quarter.
 
 [**Amanda v1.4.2**](https://www.nexusmods.com/enderalspecialedition/mods/15?tab=files): Adds female follower to The Drunken Bee tavern in Riverville.
 
@@ -618,6 +684,7 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 [**Kolapon's Various Creatures Replacers v1.5v**](https://www.nexusmods.com/enderalspecialedition/mods/64?tab=files): Changes the appearance of some of the creatures so they are unique to Enderal.
 
 [**Kolapon's Undead Creatures Replacer v1.2u**](https://www.nexusmods.com/enderalspecialedition/mods/64?tab=files): Changes the appearance of some of the creatures so they are unique to Enderal.
+- Delete ESP files to fix crash during "Old Wounds" quest.
 
 [**Enderal SE - Predators v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/115?tab=files): Replaces the models of Panthers, Leopards and Shadow/Mountain Deerstalker with alternatives.
 
@@ -710,13 +777,68 @@ Flinching adds flinching animations.  NPCs will react with an animation when att
 12. Revert the upper right dropdown bar back to "SKSE".
 13. You may need to re-run this process if you change your load order.
 
+### xLODGen/TexGen/DynDOLOD  
+
+DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim.
+DynDOLOD has been pre-configured with Wabbajack but the configuration process has been documented below for reference. 
+
+Note that many DynDOLOD guides on the Web are heavily outdated or are not relevant for patching Enderal VR.  While DynDOLOD is a dynamic patch and thus a bit more complicated to setup versus standard mods, the processs is fairly quick once you understand the general workflow.  The following steps outline everything necessary to setup DynDOLOD with Enderal VR.
+
+#### Quickstart Guide
+1. Install the following prerequisite mods: SKSE VR, PapyrusUtil VR, DynDOLOD Resources SE 3.0
+2. Finalize load order in Mod Organizer 2.
+3. Install a terrain LOD mod and place it after other Skyrim SE texture mods.  Enable your Terrain LOD .esm plugin and place it at the very top of the plugin list above "Enderal - Forgotten Stories.esm".
+	* [Tamrielic Textures Terrain LOD](https://www.nexusmods.com/skyrimspecialedition/mods/39563?tab=files) works very well with [Tamrielic Textures](https://www.nexusmods.com/skyrimspecialedition/mods/32973?tab=files).  
+4. Use xLODGen to generate terrain LOD meshes and textures into a dedicated output folder and then install as a mod.
+5. Use TexGen to generate object LOD textures and tree/grass LOD billboards into a dedicated output folder and then install as a mod.
+6. Optionally remove your Terrain LOD .esm plugin as it is no longer needed after running xLODGen and TexGen. 
+7. Use DynDOLOD to generate object LOD (includes grass LOD if enabled), tree and optional dynamic LOD into a dedicated output folder and then install as a mod.
+
+#### xLODGen/TexGen/DynDOLOD Configuration 
+
+1. Install [Microsoft Visual C++ Redistributable for Visual Studio 2015, 2017 and 2019](https://aka.ms/vs/16/release/vc_redist.x64.exe) if you don't already have it installed.
+2. Extract [SKSE VR](https://skse.silverlock.org/beta/sksevr_2_00_12.7z) to your Skyrim VR installation folder.  If you have already setup Skyrim VR or Enderal VR, this step has most likely already been completed.
+3. Install the following prerequisite mods through Mod Organizer 2 (place them high in the load order above all texture mods):
+	- [SKSE VR](https://skse.silverlock.org/beta/sksevr_2_00_12.7z) (Scripts folder only)
+	- [PapyrusUtil VR - Scripting Utility Functions](https://www.nexusmods.com/skyrimspecialedition/mods/13048?tab=files) (Under "Miscellaneous Files")
+	- [DynDOLOD Resources SE 3.00](https://www.nexusmods.com/skyrimspecialedition/mods/32382?tab=files) (Under "Miscellaneous Files")
+4. Install a terrain LOD mod through Mod Organizer 2 that corresponds with the lowest texture mod for terrain that you have installed.  If using Tamrielic Textures, the [Terrain LOD for Tamrielic Textures](https://www.nexusmods.com/skyrimspecialedition/mods/39563) mod is recommended.
+	- Place this mod BELOW all other Skyrim SE texture mods in your mod load order in the left window pane.
+	- Move your Terrain LOD .esm plugin ABOVE Enderal - Forgotten Stories.esm in the right window pane.
+5. Download [xLODGen](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-81-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/) and extract the contents to a new \xLODGen\ directory that is outside of special OS folders like 'Programs Files' or 'Program Files (x86)', Users, Documents, Desktop, Downloads and also not in SteamApps, game or any mod manager folders.
+6. Download [DynDOLOD 3.00](https://www.nexusmods.com/skyrimspecialedition/mods/32382?tab=files) under "Miscellaneous Files" and extract the contents to a new \DynDOLOD\ directory that is outside of special OS folders like 'Programs Files' or 'Program Files (x86)', Users, Documents, Desktop, Downloads and also not in SteamApps, game or any mod manager folders.
+7. Launch Mod Organizer 2.
+	- Select Tools > Executables  
+	- Select Add an executable ("+" icon in upper left) > Add from file > Navigate to "xLODGenx64.exe" in the folder created in Step 5 and select "Open" > Type -tes5vr -o:"c:\xLODGen_Output\" under "Arguments" and click "Apply".  
+	- Select Add an executable ("+" icon in upper left) > Add from file > Navigate to "TexGenx64.exe" in the folder created in Step 6 and select "Open" > Type -tes5vr under "Arguments" and click "Apply".  
+	- Select Add an executable ("+" icon in upper left) > Add from file > Navigate to "DynDOLODx64.exe" in the folder created in Step 6 and select "Open" > Type -tes5vr under "Arguments" and click "Apply".  
+	- Click OK to return to the main Mod Organizer 2 window. 
+8.  Select xLODGenx64 from the upper right drop down bar and click Run.
+	- Tick all world spaces once the xLODGen window appears.  Tick Terrain LOD.  Tick "Protect Borders".  Leave Objects LOD, Trees LOD, and Occlusion unticked.  Then click Generate.
+	- If xLODGen freezes or crashes when running, re-run the process a 2nd time and it should complete successfully.
+	- Close the xLODGen window once you see "LOD generation complete".	
+9.  Close MO2.  Navigate to C:\xLODGen_Output\ and move this folder to C:\Users\ (Username)\AppData\Local\ModOrganizer\Skyrim VR\mods.  Launch MO2 and enable xLODGen_Output in the left window pane.
+10.  Select TexGenx64 from the upper right drop down bar and click Run.
+		- If you get a "Could not open registry key" error, launch vanilla Skyrim VR one time from Steam.  Then exit Skyrim VR and repeat this step.  (This step can be performed outside of VR.  Simply launching Skyrim VR from your flatscreen and exiting after any Steam VR errors regarding no detected headset is sufficient.)
+		- If you get a "Found stitched object LOD textures" error click "Ignore".
+		- Click "Start" with default options once the TexGen window appears.
+		- Wait for TexGen to finish running, it typically takes several minutes.  When the process completes, click "Exit TexGen".
+11.  Close MO2.  Navigate to your \DynDOLOD\ folder from Step 6 and move the \TexGen_Output\ folder to C:\Users\ (Username)\AppData\Local\ModOrganizer\Skyrim VR\mods.  Launch MO2 and enable TexGen_Output in the left window pane.
+12.  Right click the Terrain LOD .esm plugin on the right window pane and click "Open Origin in Explorer".  Optionally delete your Terrain LOD .esm file in Windows Explorer as this file is only needed when running xLODGen and TexGen. 
+13.  Select DynDOLODx64 from the upper right drop down bar and click Run.
+		- Once the DynDOLOD window appears, click "Advanced".  Then tick all world spaces, click "High" at the top of the window, and tick "Ultra" in the options below.  Then click "OK" to start the process.  Wait for DynDOLOD to finish running, it typically takes several minutes.  When the process completes, click "Save & Exit".  
+14.  Close MO2.  Navigate to your \DynDOLOD\ folder from Step 6 and move the \DynDOLOD_Output\ folder to C:\Users\ (Username)\AppData\Local\ModOrganizer\Skyrim VR\mods.  Launch MO2 and enable DynDOLOD_Output in the left window pane.
+15.  Confirm "xLODGen_Output", "TexGen_Output", and "DynDOLOD_Output" are ticked in the left window pane and ensure DynDOLOD.esp is ticked in the right window pane.
+16.  Revert the upper right dropdown bar back to "SKSE".
+17.  DynDOLOD is now successfully configured!  You should see FAR more detail in the distance when looking across large open areas of the game! (You may need to re-run this process if you change your load order.)
+
 ### SkyVRaan Configuration 
-SkyVRaan adds shimmering water effects to the game.  SkyVRaan has been pre-configured with Wabbajack but the configuration process has been documented below for reference.  This process should be run immediately after xLODGen/TexGen/DynDOLOD (if using xLODGen/TexGen/DynDOLOD).  If you have installed a terrain LOD mod, disable any correpsonding .esm files when patching SkyVRaan as terrain LOD .esm files only need to be active when running xLODGen/TexGen. 
+SkyVRaan adds shimmering water effects to the game.  SkyVRaan has been pre-configured with Wabbajack but the configuration process has been documented below for reference.  This process should be run immediately before or after xLODGen/TexGen/DynDOLOD (if using xLODGen/TexGen/DynDOLOD).  
 
 1. If you have updated Synthesis, you MUST remove files from older versions by removing the following folder:  C:\Users\ (My Username)\AppData\Local\Temp\Synthesis
 2. Close Mod Organizer 2 if open
 3. Create a blank Skyrim.ini file in C:\Users\ (Username)\Documents\My Games\Skyrim VR\
-4. Install .NET SDK 5.0 and remove any previously installed .NET runtimes.  You can confirm .NET SDK 5.0 is properly installed by running the following from your command prompt:  dotnet --info
+4. Install .NET SDK 5.0 from [HERE](https://dotnet.microsoft.com/download/dotnet/5.0) and remove any previously installed .NET runtimes.  You can confirm .NET SDK 5.0 is properly installed by running the following from your command prompt:  dotnet --info
 5. Download Synthesis from [HERE](https://github.com/Mutagen-Modding/Synthesis/releases/) and extract it to a folder anywhere on your drive called \Synthesis\  
 6. Launch MO2 and select Tools > Executables > Add an executable ("+" icon in upper left) > Add from file > Navigate to "Synthesis.exe" in the folder created in Step 5 and select "Open"
 7. Right click on "Overwrite" in the left window pane and select: Clean Overwrite > OK. (If applicable, this option may not be available if your overwrite folder is already clean)
@@ -735,62 +857,6 @@ SkyVRaan adds shimmering water effects to the game.  SkyVRaan has been pre-confi
 15. Tick "Synthesis output" in the left window pane and make sure "Synthesis.esp" is near the bottom of your Plugin load order and ticked in the right window pane.  
 16. Revert the upper right dropdown bar back to "SKSE".
 17. You may need to re-run this process if you change your load order.
-
-### xLODGen/TexGen/DynDOLOD  
-
-DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim.
-DynDOLOD has been pre-configured with Wabbajack but the configuration process has been documented below for reference. 
-
-Note that many DynDOLOD guides on the Web are heavily outdated or are not relevant for patching Enderal VR.  While DynDOLOD is a dynamic patch and thus a bit more complicated to setup versus standard mods, the processs is fairly quick once you understand the general workflow.  The following steps outline everything necessary to setup DynDOLOD with Enderal VR.
-
-#### Quickstart Guide
-1. Install the following prerequisite mods: SKSE VR, PapyrusUtil VR, DynDOLOD Resources SE 3.0
-2. Finalize load order in Mod Organizer 2.
-3. Install a terrain LOD mod and place it after other Skyrim SE texture mods.  Enable "Perfect Terrain LOD.esm" plugin and place near top of the plugin list underneath "Enderal - Forgotten Stories.esm".
-	* [Tamrielic Textures Terrain LOD](https://www.nexusmods.com/skyrimspecialedition/mods/39563?tab=files) works very well.
-4. Use xLODGen to generate terrain LOD meshes and textures into a dedicated output folder and then install as a mod.
-5. Use TexGen to generate object LOD textures and tree/grass LOD billboards into a dedicated output folder and then install as a mod.
-6. Remove .esm files from any LOD terrain mods.  If these are not removed before running DynDOLOD, you may experience worldspace issues with Enderal VR.
-7. Use DynDOLOD to generate object LOD (includes grass LOD if enabled), tree and optional dynamic LOD into a dedicated output folder and then install as a mod.
-8. Use xLODGen to generate Occlusion.esp into a dedicated output folder and then install as a mod. (optional)
-
-#### xLODGen/TexGen/DynDOLOD Configuration 
-
-1. Install [Microsoft Visual C++ Redistributable for Visual Studio 2015, 2017 and 2019](https://aka.ms/vs/16/release/vc_redist.x64.exe) if you don't already have it installed.
-2. Extract [SKSE VR](https://skse.silverlock.org/beta/sksevr_2_00_12.7z) to your Skyrim VR installation folder.  If you have already setup Skyrim VR or Enderal VR, this step has most likely already been completed.
-3. Install the following prerequisite mods through Mod Organizer 2:
-	- [SKSE VR](https://skse.silverlock.org/beta/sksevr_2_00_12.7z) (Scripts folder only)
-	- [PapyrusUtil VR - Scripting Utility Functions](https://www.nexusmods.com/skyrimspecialedition/mods/13048?tab=files) (Under "Miscellaneous Files")
-	- [DynDOLOD Resources SE 3.00](https://www.nexusmods.com/skyrimspecialedition/mods/32382?tab=files) (Under "Miscellaneous Files")
-4. Install a terrain LOD mod through Mod Organizer 2.  If using Tamrielic textures, the [Terrain LOD for Tamrielic Textures](https://www.nexusmods.com/skyrimspecialedition/mods/39563?tab=files) mod is recommended.
-	- Place this mod AFTER all other Skyrim SE texture mods in your mod load order in the left window pane.
-	- Move the Perfect Terrain LOD.esm plugin underneath Enderal - Forgotten Stories.esm in the right window pane.
-5. Download [xLODGen](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-81-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/) and extract the contents to a new \xLODGen\ directory that is outside of special OS folders like 'Programs Files' or 'Program Files (x86)', Users, Documents, Desktop, Downloads and also not in SteamApps, game or any mod manager folders.
-6. Download [DynDOLOD 3.00](https://www.nexusmods.com/skyrimspecialedition/mods/32382?tab=files) under "Miscellaneous Files" and extract the contents to a new \DynDOLOD\ directory that is outside of special OS folders like 'Programs Files' or 'Program Files (x86)', Users, Documents, Desktop, Downloads and also not in SteamApps, game or any mod manager folders.
-7. Launch Mod Organizer 2.
-	- Select Tools > Executables  
-	- Select Add an executable ("+" icon in upper left) > Add from file > Navigate to "xLODGenx64.exe" in the folder created in Step 5 and select "Open" > Type -tes5vr -o:"c:\xLODGen_Output\" under "Arguments" and click "Apply".  
-	- Select Add an executable ("+" icon in upper left) > Add from file > Navigate to "TexGenx64.exe" in the folder created in Step 6 and select "Open" > Type -tes5vr under "Arguments" and click "Apply".  
-	- Select Add an executable ("+" icon in upper left) > Add from file > Navigate to "DynDOLODx64.exe" in the folder created in Step 6 and select "Open" > Type -tes5vr under "Arguments" and click "Apply".  
-	- Click OK to return to the main Mod Organizer 2 window. 
-8.  Select xLODGenx64 from the upper right drop down bar and click Run.
-	- Tick all world spaces once the xLODGen window appears.  Tick Terrain LOD.  Leave Objects LOD, Trees LOD, and Occlusion unticked.  Then click Generate.
-	- If xLODGen freezes or crashes when running, re-run the process a 2nd time and it should complete successfully.
-	- Close the xLODGen window once you see "LOD generation complete".	
-9.  Close MO2.  Navigate to C:\xLODGen_Output\ and move this folder to C:\Users\ (Username)\AppData\Local\ModOrganizer\Skyrim VR\mods.  Launch MO2 and enable xLODGen_Output in the left window pane.
-10.  Select TexGenx64 from the upper right drop down bar and click Run.
-		- If you get a "Could not open registry key" error, launch vanilla Skyrim VR one time from Steam.  Then exit Skyrim VR and repeat this step.  (This step can be performed outside of VR.  Simply launching Skyrim VR from your flatscreen and exiting after any Steam VR errors regarding no detected headset is sufficient.)
-		- If you get a "Found stitched object LOD textures" error click "Ignore".
-		- Click "Start" with default options once the TexGen window appears.
-		- Wait for TexGen to finish running, it typically takes several minutes.  When the process completes, click "Exit TexGen".
-11.  Close MO2.  Navigate to your \DynDOLOD\ folder from Step 6 and move the \TexGen_Output\ folder to C:\Users\ (Username)\AppData\Local\ModOrganizer\Skyrim VR\mods.  Launch MO2 and enable TexGen_Output in the left window pane.
-12.  Right click Perfect Terrain LOD.esm in the right window pane and click "Open Origin in Explorer".  Delete "Perfect Terrain LOD.esm" as this file is only needed for generating terrain LOD.  Leaving it active when running DynDOLOD will cause worldspace problems in Enderal VR.
-13.  Select DynDOLODx64 from the upper right drop down bar and click Run.
-		- Tick all world spaces and click "High" once the DynDOLOD window appears.  Wait for DynDOLOD to finish running, it typically takes several minutes.  When the process completes, click "Save & Exit".  
-14.  Close MO2.  Navigate to your \DynDOLOD\ folder from Step 6 and move the \DynDOLOD_Output\ folder to C:\Users\ (Username)\AppData\Local\ModOrganizer\Skyrim VR\mods.  Launch MO2 and enable DynDOLOD_Output in the left window pane.
-15.  Confirm "xLODGen_Output", "TexGen_Output", and "DynDOLOD_Output" are ticked in the left window pane and ensure DynDOLOD.esp is ticked in the right window pane.
-16.  Revert the upper right dropdown bar back to "SKSE".
-17.  DynDOLOD is now successfully configured!  You should see FAR more detail in the distance when looking across large open areas of the game! (You may need to re-run this process if you change your load order.)
 
 ### Mod Organizer 2 Settings
 Required Mod Load Order (left side):
