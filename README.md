@@ -392,7 +392,7 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [**VRIK Rift-Index-WMR Controller Bindings V2.1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/23416?tab=files): These control bindings are an optional add-on for VRIK to make it easier to use holsters.  The button for shout has been moved to Right A (or the right WMR touchpad), and interact is performed by squeezing the right grip.  Sprinting is now done by squeezing the left grip.  With these "safe" inputs on grips, players do not need to worry about shouting accidentally when grabbing holstered weapons.
 
-[**HIGGS VR v1.2.2**](https://www.nexusmods.com/skyrimspecialedition/mods/43930?tab=files): Hand/weapon collision, realistic object grabbing, and gravity gloves-style mechanics for Skyrim VR.
+[**HIGGS VR v1.3.0**](https://www.nexusmods.com/skyrimspecialedition/mods/43930?tab=files): Hand/weapon collision, realistic object grabbing, and gravity gloves-style mechanics for Skyrim VR.
 - Remove any [HAVOK] settings from your Skyrim INI files as these settings are no longer necessary with HIGGS VR v1.2.x.
 - Make the following changes to higgs_vr.ini to make all held objects use velocity-based movement (recommended):
 	- ForcePhysicsGrab = 1
@@ -463,15 +463,13 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [**El Sopa - HD Medieval Anvil SE v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/48825?tab=files): New Model And Textures For The Anvil . The Hammer And Tongs. Performance Friendly. Ultra Immersive. All Resolutions. No ESP.
 
-[**Animated Forge Water v0.1**](https://www.nexusmods.com/skyrimspecialedition/mods/52322?tab=files): A mesh only animated forge water replacer with refraction. No ESP.
-
-[**Animated Forge Water v0.1.2**](https://www.nexusmods.com/skyrimspecialedition/mods/52322?tab=files): Also fixes some Elsopa bugs.
-
 [**Embers XD v2.2.3**](https://www.nexusmods.com/skyrimspecialedition/mods/37085?tab=files): An overhaul of campfires and other fire sources.
 - Use "Vanilla Flames" as vanilla flames look better in VR.
+- Install Forges and Lava Craters Add-On.
 - Delete ESP files.
-- If using "Animated Forge Water v0.1", Embers XD must be patched manually using Nifskope.  Open .nif files in \mods\Animated Forge Water\meshes\furniture\ and \mods\Embers XD\meshes\furniture\.  Navigate to the following "Values", BlacksmithForgeMarker.nif > BlacksmithForgeMarker > BlacksmithForge01 > Fire > OrderedRenderingNode > WATER.  Right click WATER in the Animated Forge files and select Block > Copy Branch.  Right click WATER in the Embers XD files and select Block > Remove.  Then right click BSORderedNode in the Embers XD files and select Block > Paste Branch > Yes and then press SAVE and OK.
-- If using "Animated Forge Water v0.1.2", Embers XD must be patched again manually using Nifskope.  Open .nif files in \meshes\dlc02\architecture\ and \meshes\furniture\ for both the Animated Forge and Embers XD mods.  Navigate to "Values" containing BlacksmithAnvil01 and copy these from the Animated Forge mod using "Copy Branch".  Remove BlacksmithAnvil01 values from the Embers XD mod and replace them with the Animated Forge BlacksmithAnvil01 values using "Paste Branch".  Then press SAVE and OK.
+
+[**Animated Forge Water v0.3.1**](https://www.nexusmods.com/skyrimspecialedition/mods/52322?tab=files): A mesh only animated forge water replacer with refraction. No ESP. Includes patches for Elsopa and Embers.
+- Install "Elsopa and Embers XD" patch. 
 
 [**HLP Night Sky High v2.07**](https://www.nexusmods.com/skyrimspecialedition/mods/8752): HLP Night Sky offers a tasteful, realistic, and lore-friendly replacement of the night sky textures (stars, constellations, and the milky way. 
 
@@ -493,7 +491,7 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [**Vanilla Table Replacers v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/33041): Replaces some tables of the game specially the main tables for nobles.
 
-[**DUST By Ramccoid v6.0**](https://www.nexusmods.com/skyrimspecialedition/mods/38444?tab=files): This mod retextures the ambient dust particles which float in the air and also the falling dust effect in dungeons and such places.
+[**DUST x2048 By Ramccoid v6.1**](https://www.nexusmods.com/skyrimspecialedition/mods/38444?tab=files): This mod retextures the ambient dust particles which float in the air and also the falling dust effect in dungeons and such places.
 
 [**Kanjs - Chaurus eggs and staff v2.1**](https://www.nexusmods.com/skyrimspecialedition/mods/46486?tab=files): A Simple Chaurus Egss Meshes and Textures remade ! With an optional Staff!
 - Delete ESP files.
