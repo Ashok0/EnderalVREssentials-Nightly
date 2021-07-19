@@ -661,6 +661,14 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [**Amanda v1.4.2**](https://www.nexusmods.com/enderalspecialedition/mods/15?tab=files): Adds female follower to The Drunken Bee tavern in Riverville.
 
+[**Seagulls of Skyrim v1.4**](https://www.nexusmods.com/skyrimspecialedition/mods/52153?tab=files): This mod adds seagulls along the coasts of Skyrim and Solstheim, with animated models and sounds from Mr. Siika Seagulls for Skyrim SE!
+
+[**Enderal SE - Seagulls of Skyrim v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/204?tab=files): Compatibility patch for Seagulls of Skyrim which adds them to the world of Vyn.
+
+[**Flying Crows SSE v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/49270?tab=files): Adds flying crows to various locations around Tamriel to create a more nordic atmosphere in your Skyrim.
+
+[**Enderal SE - Flying Crows v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/205?tab=files): Compatibility patch for Flying Crows which adds them to the world of Vyn.
+
 [**Bears of the North v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/47541?tab=files): Visual overhaul of the bears of Skyrim. Bigger, badder bears fit for the harsh northern lands they roam.
 
 [**Enderal SE - Bears of the North v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/30?tab=files): Enderal SE compatibility patch for Bears of the North.
