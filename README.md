@@ -413,6 +413,8 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [**Immersive Gathering (Woodchopping and Mining) SE - VR Friendly v1.7**](https://www.nexusmods.com/skyrimspecialedition/mods/29710?tab=files): Chop wood and mine ore for real!
 
+[**Armored Flesh v2.0**](https://www.nexusmods.com/skyrimspecialedition/mods/25365?tab=files): A small mod, offering improved visuals for each of the Alteration school's five armor spells.
+
 [**Destructible Bottles Extended v1.5**](https://www.nexusmods.com/skyrim/mods/26017?tab=files): Hit the bottle and smash it in pieces! Latest version 1.5 includes also some glazed pottery items such as pots, jugs, plates and bowls.
 - LE mod.  Converted to Form 44 (SE) by opening and resaving ESP file in Creation Kit.
 
