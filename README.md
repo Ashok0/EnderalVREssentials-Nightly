@@ -127,6 +127,7 @@ Wabbajack will delete all files that are not part of its modlist when updating! 
 * The loading screen artwork is out of frame.
 * &#x1F53A; If using ENB Particle Patch, Static Mesh Improvement Mod (SMIM), Blended Roads, Water for ENB, Embers XD / Embers HD, Glorious Doors of Skyrim, Yee - A New Snowflake Mod, Kanjs - Chaurus Eggs and Staff, Enhanced Vanilla Trees SE, or Kolapon's Undead Creatures Replacer you must make sure you are NOT using any plugins for these mods.  Only meshes and textures may be used.  Delete ALL .esp files associated with these mods before launching the game. &#x1F53A; 
 * &#x1F53A; Dragonborn Speaks Naturally does not work when using OpenComposite. &#x1F53A; 
+* &#x1F53A; You must temporarily downgrade Enderal VR to v2.4.1 to play the gambling game with Esme during "Our Mark on this World". &#x1F53A; 
 * &#x1F53A; Note that with the exception of texture/mesh mods, mods cannot be safely removed mid-savegame. &#x1F53A;
 
 ## Noteworthy mods
