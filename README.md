@@ -446,6 +446,8 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [**VR Refit - JS Purses and Septims Resized v1.0.1**](https://www.nexusmods.com/skyrimspecialedition/mods/49850?tab=files): A VR mod for smaller coins, coin purses, and coin piles from JS Purses and Septims. It also patches the invisible coin purse drop sound bug.
 
+[**Rally's Candlelight and Magelight Fix SE - VR v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/36594?tab=files): Fix for the Candlelight Spell and Magelight Spell in SE/VR.
+
 [**JS Instruments of Skyrim SE v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/51959?tab=files): A complete remake of the Lute, Flute & Drum. Comes in 2k and 4k versions.
 
 [**Basic Dining Set Replacer 1k v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/30055?tab=files): A mod that replaces the dining set we often see in farmhouses or taverns in skyrim.
