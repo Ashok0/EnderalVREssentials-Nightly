@@ -19,7 +19,6 @@ New Mods
 - Visual Animated Enchants:  A replacer for the visual and animation of the enchantments on weapons to make them more magical and immersive.
 - Qwinn's Refined Visual Animated Enchants:  With L3stat's kind permission, a refinement and fix for various issues with Visual Animated Enchants.
 - Adjusted Visual Animated Enchants (No ENB Complex Particle Lights):  Tweaks the appearance of enchantments from Visual Animated Enchants. Reduces size and brightness to work better when using ENB, alters flame mesh shapes on unique weapons to fit more closely, and adjusts some colours.
-- Seaview Lodge SE:  Seaview Lodge adds a player home in the scenic area of the sea near Ark.
 - True Storms Special Edition - Thunder Rain and Weather Redone:  True Storms Special Edition is a complete overhaul of the storm systems in Skyrim SE, including new heavy and unique weathers, loads of new intense sound effects, interior sounds, particle effects, new rain, snow, and dust textures, heavy fogs, new weathers for Solstheim including dust storms, and much more!
 - Enderal SE - True Storms:  Compatibility patch for True Storms.
 - Stronger Summons:  Makes your summoned creatures stronger.
@@ -32,6 +31,7 @@ Updated Mods
 - HIGGS VR:  Hand collision, physics object grabbing, and gravity gloves-style mechanics for Skyrim VR.
 - JS Purses and Septims SE:  A complete re-creation of Septims, Coin Purses and Coin Piles.
 - DUST x2048 By Ramccoid:  This mod retextures the ambient dust particles which float in the air and also the falling dust effect in dungeons and such places.
+- Seaview Lodge SE:  Seaview Lodge adds a player home in the scenic area of the sea near Ark.
 - Diverse Weather:  Diversifies the weather in Enderal and adds a few new ones.
 
 Removed Mods
