@@ -445,7 +445,7 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [**Immersive Draw Sheathe Sounds v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/44992?tab=files): This improves the Draw/Sheathe sounds for use in VR.
 
-[**Deflection v1.7**](https://www.nexusmods.com/skyrimspecialedition/mods/34412?tab=files): Deflection is a full featured, customizable, performance friendly, balanced, combat overhaul. Designed to work along side other popular combat mods, or as a standalone combat mod in vanilla Skyrim.
+[**Deflection v1.8**](https://www.nexusmods.com/skyrimspecialedition/mods/34412?tab=files): Deflection is a full featured, customizable, performance friendly, balanced, combat overhaul. Designed to work along side other popular combat mods, or as a standalone combat mod in vanilla Skyrim.
 
 [**Pretty Animated Potions - VR Edition v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/52663?tab=files): Yet another animated potions mod. This time in small bottles! 1K retexture. Refracting bottles option available!
 
