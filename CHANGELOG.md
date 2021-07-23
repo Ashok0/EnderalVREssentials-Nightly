@@ -1,5 +1,5 @@
 
-Release date: July 22nd, 2021
+Release date: July 23rd, 2021
 
 New Mods
 - Immersive Gathering (Woodchopping and Mining) SE - VR Friendly:  Chop wood and mine ore for real!
