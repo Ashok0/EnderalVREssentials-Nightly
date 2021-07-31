@@ -1,5 +1,5 @@
 # ENDERAL VR ESSENTIALS (EVRE)
-Latest update: July 23rd, 2021 (v1.06)
+Latest update: AUgust 1st, 2021 (v1.10)
 
 ## Table of contents
 * [Preamble](#preamble)
@@ -47,7 +47,7 @@ Recommended:
 * [Enderal: Forgotten Stories (Special Edition)](https://store.steampowered.com/app/976620/Enderal_Forgotten_Stories_Special_Edition)
 * [Premium NexusMods account](https://www.nexusmods.com/)
 * [Wabbajack](https://www.wabbajack.org/#/)
-* [EVRE_v1.06.wabbajack](https://github.com/Ashok0/EnderalVREssentials/releases/)
+* [EVRE_v1.09.wabbajack](https://github.com/Ashok0/EnderalVREssentials/releases/)
 	
 ## Installation
 1.  Add Enderal SE to your Steam library from [HERE](https://store.steampowered.com/app/976620/Enderal_Forgotten_Stories_Special_Edition/). The game needs to be in your Steam library but does not need to be installed.
@@ -58,16 +58,16 @@ Recommended:
 5.  Download Wabbajack from [HERE](https://www.wabbajack.org/#/) and place "Wabbajack.exe" in a blank folder i.e. C:\Games\Wabbajack 
 6.  Run Wabbajack one time and then exit the program.  
 7.  Create a new folder where you wish to install Enderal VR i.e. C:\Games\Enderal VR
-8.  Download "EVRE_v1.06.wabbajack" from [HERE](https://github.com/Ashok0/EnderalVREssentials/releases/) and place it anywhere outside of your Wabbajack folder.
-9.  Launch Wabbajack by double-clicking "EVRE_v1.06.wabbajack"
+8.  Download "EVRE_v1.09.wabbajack" from [HERE](https://github.com/Ashok0/EnderalVREssentials/releases/) and place it anywhere outside of your Wabbajack folder.
+9.  Launch Wabbajack by double-clicking "EVRE_v1.09.wabbajack"
 10.  Under "Installation Location", select the folder you created above under Step 6 and then click the green "PLAY" icon in the lower right. 
 11.  Wait for Wabbajack to download all the mods and patches required to play Enderal VR.  This could take several hours depending on your Internet connection.
 		* If you receive an error message during this step, a mod has most likely been updated preventing the modlist from installing.  Wait for me to update this Wabbajack modlist and then try again.
 
-11. Once Wabbajack is done downloading and configuring Enderal VR, navigate to your game folder from Step 6.
-12. Copy the contents of \Game Folder Files\ to C:\Program Files (x86)\Steam\steamapps\common\SkyrimVR
-13. Launch Mod Organizer 2. 
-14. Configure your mod loadout: 
+12. Once Wabbajack is done downloading and configuring Enderal VR, navigate to your game folder from Step 6.
+13. Copy the contents of \Game Folder Files\ to C:\Program Files (x86)\Steam\steamapps\common\SkyrimVR
+14. Launch Mod Organizer 2. 
+15. Configure your mod loadout: 
 	* Disable "Dear Diary VR" if you prefer to use the vanilla SkyUI menu.
 	* Disable "Smaller HUD for VR Larger Text Patch" if you wish to decrease the size of the in-game text.
 	* Enable "VRIK Rift-Index-WMR Controller Bindings" if using the Rift, Valve Index, or WMR headset.
@@ -76,8 +76,9 @@ Recommended:
 	* Disable "Bijin Skin UNP and CBBE" if you prefer vanilla skin.
 	* Enable "Equippable Tattoo Skins UNP + CBBE" if you wish to apply tattoos/bodypaint to your character (female only).
 	* Enable "Replace spiders with wolfs and bears" if you have arachnophobia!
-15.   (Optional) For Oculus Air Link / Oculus Link users only:  Download the 64-bit DLL for [OpenComposite](https://gitlab.com/znixian/OpenOVR/) to your Skyrim VR installation folder.  Backup and overwrite the existing DLL file in your Skyrim VR folder.  Not required but improves framerate by launching Enderal VR directly through the Oculus runtime and eliminating overhead from Steam VR. &#x1F53A;Dragonborn Speaks Naturally does not work when using OpenComposite.&#x1F53A;
-16.   Make sure "SKSE" is selected in the upper right dropdown bar and click "Run" to launch and play Enderal VR!  
+16.   (Optional) You can optimize your VR performance by installing either [OpenVR FSR](https://github.com/fholger/openvr_fsr) (Compatible with all headsets) or the 64-bit DLL for [OpenComposite](https://gitlab.com/znixian/OpenOVR/) (Compatible with Oculus headsets only) to your Skyrim VR installation folder.  Backup and overwrite the existing DLL file in your Skyrim VR folder.  
+		* OpenComposite improves framerates by launching Enderal VR directly through the Oculus runtime and eliminating overhead from Steam VR. &#x1F53A;Dragonborn Speaks Naturally does not work when using OpenComposite as it requires SteamVR to function properly.&#x1F53A;
+17.   Make sure "SKSE" is selected in the upper right dropdown bar and click "Run" to launch and play Enderal VR!  
 		* You can optionally click "Shortcut" underneath "Run" to create a shortcut for launching Enderal VR directly from the Windows desktop!
 
 ## MCM Settings
@@ -88,8 +89,9 @@ Once you start a new game, you can configure your individual Enderal VR mods thr
 3. Select Controls > Tick "Selfie Mode" if you want to be able to view and take photos of your character in third person.  You can activate and deactivate the third person view by raising your right hand in the air. 
 
 * Spell Wheel VR MCM: 
-1. Select Presets > Spellsword (Loads preset for equipping spells and weapons from the spell wheel)
-2. Select Advanced > Set "Slow Time Scale" to 5.  (Enables slow motion when selecting items from the spell wheel)
+1. Select Presets > SpellSword + More Pages (Loads preset for equipping spells, weapons, and items from the spell wheel across multiple pages)
+2. Select General > Tick "Unequip to Grab with Higgs" (Allows you to grab potions directly from the Spell Wheel menu to your hand for added immersion)
+3. Select Advanced > Set "Slow Time Scale" to 5.  (Enables slow motion when selecting items from the spell wheel)
 
 * R.A.S.S.
 1. Select Options > Raining and set this option to "Off" if you dislike waterdroplet effects on the camera when it is raining.
@@ -97,7 +99,7 @@ Once you start a new game, you can configure your individual Enderal VR mods thr
  
 ## Updating
 
-This Wabbajack modlist will be updated regularly with the latest versions of all its included mods.  If the Wabbajack is updated, just re-download [EVRE_v1.06.wabbajack](https://github.com/Ashok0/EnderalVREssentials/releases/) and re-install the Wabbajack file to keep your mods up to date with a single click.  Be sure to set the "Installation Location" to the same path used during the original installation and tick "Overwrite Installation" before hitting the "Run" button.  Updating should be much quicker than the initial installation process.    
+This Wabbajack modlist will be updated regularly with the latest versions of all its included mods.  If the Wabbajack is updated, just re-download [EVRE_v1.09.wabbajack](https://github.com/Ashok0/EnderalVREssentials/releases/) and re-install the Wabbajack file to keep your mods up to date with a single click.  Be sure to set the "Installation Location" to the same path used during the original installation and tick "Overwrite Installation" before hitting the "Run" button.  Updating should be much quicker than the initial installation process.    
 
 Wabbajack will delete all files that are not part of its modlist when updating!  Your downloads folder will not be touched.  If you have installed additional mods not included in the Wabbajack, you will need to re-install them manually if you choose to update your mods via the Wabbajack file.  You can alternatively update your mods manually through Mod Organizer 2.
 
@@ -128,7 +130,6 @@ Wabbajack will delete all files that are not part of its modlist when updating! 
 * The talent points in the game are too high to reach in VR.  To use them, install [OVR Advanced Settings](https://github.com/OpenVR-Advanced-Settings/OpenVR-AdvancedSettings) which allows you to change your player height on the fly.  From the in-game Steam menu, select OVR Advanced Settings > Space Offsets -> Y-Axis (up/down). Just lower the value there to "grow" ingame. Note that this fix requires SteamVR and is not compatible with OpenComposite.    
 * &#x1F53A; If using ENB Particle Patch, Static Mesh Improvement Mod (SMIM), Blended Roads, Water for ENB, Embers XD / Embers HD, Glorious Doors of Skyrim, Yee - A New Snowflake Mod, Kanjs - Chaurus Eggs and Staff, Enhanced Vanilla Trees SE, or Kolapon's Undead Creatures Replacer you must make sure you are NOT using any plugins for these mods.  Only meshes and textures may be used.  Delete ALL .esp files associated with these mods before launching the game. &#x1F53A; 
 * &#x1F53A; Dragonborn Speaks Naturally does not work when using OpenComposite. &#x1F53A; 
-* &#x1F53A; You must temporarily downgrade Enderal VR to v2.4.1 to play the gambling game with Esme during "Our Mark on this World". &#x1F53A; 
 * &#x1F53A; With the exception of texture/mesh mods, mods cannot always be safely removed mid-savegame. &#x1F53A;
 
 ## Noteworthy mods
@@ -280,8 +281,8 @@ You can further customize your character in VR with custom armor mods.  Custom a
 * In addition to improving visuals with The Sharper Eye, you can continue to supersample Enderal VR through SteamVR, Oculus Tray Tool, or Virtual Desktop.
     * If playing wired with an HTC/Valve/HP headset, increase your SteamVR resolution above 100% to the maximum resolution your GPU can handle.  
     * If playing wired with an Oculus headset, increase your supersampling as high as your GPU can handle via Oculus Tray Tool.  
-    * If playing wirelessly with Air Link, increase your supersampling as high as your GPU can handle via Oculus Tray Tool.  For optimal Air Link performance, set your Air Link Bitrate to around 50Mbps.  You can also further optimize Air Link performance by installing [OpenComposite](https://gitlab.com/znixian/OpenOVR/) to your Skyrim VR installation folder.
-    * If playing wirelessly with Virtual Desktop, lock your SteamVR resolution at 100% and set your Virtual Desktop video settings to Low/Medium/High based on your GPU. For optimal Virtual Desktop performance, set your Streaming settings to 60fps @ 80Mbps bitrate with Sliced Encoding enabled and SSW set to Auto.  You can also experiment with toggling Video Buffering ON and OFF.
+    * If playing wirelessly with Air Link, increase your supersampling as high as your GPU can handle via Oculus Tray Tool.  For optimal Air Link performance, set your Air Link Bitrate to around 50Mbps.  You can further optimize performance by installing [OpenVR FSR](https://github.com/fholger/openvr_fsr) or [OpenComposite](https://gitlab.com/znixian/OpenOVR/) to your Skyrim VR installation folder.
+    * If playing wirelessly with Virtual Desktop, lock your SteamVR resolution at 100% and set your Virtual Desktop video settings to Low/Medium/High based on your GPU. For optimal Virtual Desktop performance, set your Streaming settings to 60fps @ 80Mbps bitrate with Sliced Encoding enabled and SSW set to Auto.  You can also experiment with increasing the refresh rate to 90fps and toggling Video Buffering ON and OFF.  You can further optimize performance by installing [OpenVR FSR](https://github.com/fholger/openvr_fsr) to your Skyrim VR installation folder.
 
 ## Game capture
 * If you want to take screenshots or record footage while in VR using an HTC/Valve/WMR headset, use [OBS Studio](https://obsproject.com) with the [OBS OpenVR Input Plugin v1.5](https://github.com/baffler/OBS-OpenVR-Input-Plugin/releases/tag/v1.5).  This will allow you to capture the game in widescreen at a higher resolution than what can be achieved when capturing the game from the SteamVR mirror window.
@@ -342,7 +343,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**SkyrimVRTools v2.3-BETA**](https://www.nexusmods.com/skyrimspecialedition/mods/27782?tab=files): Providing OpenVR input information and control as a service to other Skyrim VR mods.
 
-[**Enderal VR - Patch v2.9**](https://www.nexusmods.com/enderalspecialedition/mods/8?tab=files): Mod for playing Enderal in VR (with the SkyrimVR engine).
+[**Enderal VR - Patch v2.9.1**](https://www.nexusmods.com/enderalspecialedition/mods/8?tab=files): Mod for playing Enderal in VR (with the SkyrimVR engine).
 
 [**SKSEVR 2.0.12**](https://skse.silverlock.org): A tool used by many Skyrim mods that expands scripting capabilities and adds additional functionality to the game.
 
@@ -407,7 +408,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 	- AllowGrabWithEmptyArrowHand = 1
 	- AllowGrabWithTwoHandedOffhand = 1
 
-[**Spell Wheel VR v1.1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/47630?tab=files): Selection wheel mod for Skyrim VR. It allows you to select spells, weapons, shields, arrows, potions, poisons, food, torch, armors and more without going into a menu very quickly by press of a button or button combinations to spawn the wheel and hold your hand over the item and letting go of the button. It's equipped automatically.
+[**Spell Wheel VR v1.2.1**](https://www.nexusmods.com/skyrimspecialedition/mods/47630?tab=files): Selection wheel mod for Skyrim VR. It allows you to select spells, weapons, shields, arrows, potions, poisons, food, torch, armors and more without going into a menu very quickly by press of a button or button combinations to spawn the wheel and hold your hand over the item and letting go of the button. It's equipped automatically.
 
 [**NavigateVR v1.5**](https://www.nexusmods.com/skyrimspecialedition/mods/47174?tab=files): This mod brings immersive navigation to VR with a functional compass
 - Replace "LHandTamrielSettlements.dds" and "RHandTamrielSettlements.dds" with maps of your choice from the "Maps - SE" mod to make the default Navigate VR map artwork lore friendly to Enderal.
@@ -450,7 +451,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Immersive Draw Sheathe Sounds v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/44992?tab=files): This improves the Draw/Sheathe sounds for use in VR.
 
-[**Deflection v1.8**](https://www.nexusmods.com/skyrimspecialedition/mods/34412?tab=files): Deflection is a full featured, customizable, performance friendly, balanced, combat overhaul. Designed to work along side other popular combat mods, or as a standalone combat mod in vanilla Skyrim.
+[**Strike Obstruction Systems - Combat Blocking Overhaul v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/53050?tab=files): Blocking can now mitigate damage from blocked Spells, Shouts, Enchants, and Poisons. Timed Blocks can provide greater mitigation, redirect parried spells & arrows, and inflict various debuffs. All features configurable via MCM (Light Plugin).
 
 [**Pretty Animated Potions - VR Edition v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/52663?tab=files): Yet another animated potions mod. This time in small bottles! 1K retexture. Refracting bottles option available!
 
@@ -533,8 +534,6 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**CC's Enhanced Ore Veins SSE Edition v8.0.1 - Patch**](https://www.nexusmods.com/skyrimspecialedition/mods/1306?tab=files): Install this to resolve the issue where all mines revert to vanilla textures when depleted. 
 
 [**Rustic Alchemy and Enchanting Tables v1.0**](https://www.nexusmods.com/skyrim/mods/62328?tab=files): A rustic overhaul of the alchemy and enchanting tables of Skyrim. The aim was to bring real antiquity to these arcane crafting tables as is fitting of their ancient origin.
-
-[**ElSopa - Iron Weapons Redone SE v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/52605?tab=files): Every Iron Weapon Redone. New Meshes. New Textures. No ESP. Performance Friendly. All Resolutions.
 
 [**High Poly Project v4.95**](https://www.nexusmods.com/skyrimspecialedition/mods/12029): An on going process to improve the models of the game with more polygons , UV edits or just replace them all together. SMIM was the inspiration and the lack of similar mods led me to make this.
 - Should be installed with a Custom Install.  Skip "Farmhouse Stone Walls" as these are better replaced by seperate mods. Skip "Whiterun Clutter", "Smelter Coal", "Furniture", "Plants", and "Riften 3D Leaves" as these at a minimum are incompatible with Enderal VR and can cause purple texture glitches.
