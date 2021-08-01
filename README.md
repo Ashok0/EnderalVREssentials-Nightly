@@ -451,7 +451,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Immersive Draw Sheathe Sounds v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/44992?tab=files): This improves the Draw/Sheathe sounds for use in VR.
 
-[**Strike Obstruction Systems - Combat Blocking Overhaul v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/53050?tab=files): Blocking can now mitigate damage from blocked Spells, Shouts, Enchants, and Poisons. Timed Blocks can provide greater mitigation, redirect parried spells & arrows, and inflict various debuffs. All features configurable via MCM (Light Plugin).
+[**Strike Obstruction Systems - Combat Blocking Overhaul v1.01**](https://www.nexusmods.com/skyrimspecialedition/mods/53050?tab=files): Blocking can now mitigate damage from blocked Spells, Shouts, Enchants, and Poisons. Timed Blocks can provide greater mitigation, redirect parried spells & arrows, and inflict various debuffs. All features configurable via MCM (Light Plugin).
 
 [**Pretty Animated Potions - VR Edition v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/52663?tab=files): Yet another animated potions mod. This time in small bottles! 1K retexture. Refracting bottles option available!
 
