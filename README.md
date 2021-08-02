@@ -19,6 +19,7 @@ Latest update: August 1st, 2021 (v1.10)
 * [Included Mods and Tools (Skyrim VR Installation Folder)](#Included-Mods-and-Tools-Skyrim-VR-Installation-Folder)
 * [Included Mods (Mod Organizer 2)](#included-mods-mod-organizer-2)
 * [Game Tweaks](#game-tweaks)
+* [Nemesis Configuration](#nemesis-configuration)
 * [DynDOLOD and SkyVRaan Configuration](#dyndolod-and-skyvraan-configuration)
 * [Changelog](#changelog)
 
@@ -784,7 +785,9 @@ Recommended game settings are listed below.  Note that the above Wabbajack insta
 10. Enable "Animated trees"
 11. Distance sliders are set to: Item 20%, Actor 20%, Objects 40%, Grass 100% (Skip this step if you adjusted [LOD] values manually in skyrimprefs.ini)
 
-### Flinching Configuration 
+## Nemesis Configuration
+
+### Flinching Animations
 Flinching adds flinching animations.  NPCs will react with an animation when attacked with the right fist or melee weapons in either hand.  Flinching has been pre-configured with Wabbajack but the configuration process has been documented below for reference. 
 
 1. Download Nemesis Unlimited Behavior Engine from [HERE](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main/releases).
