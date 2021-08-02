@@ -19,6 +19,7 @@ Latest update: August 1st, 2021 (v1.10)
 * [Included Mods and Tools (Skyrim VR Installation Folder)](#Included-Mods-and-Tools-Skyrim-VR-Installation-Folder)
 * [Included Mods (Mod Organizer 2)](#included-mods-mod-organizer-2)
 * [Game Tweaks](#game-tweaks)
+* [DynDOLOD and SkyVRaan Configuration](#dyndolod-and-skyvraan-configuration)
 * [Changelog](#changelog)
 
 ## Preamble
@@ -799,6 +800,8 @@ Flinching adds flinching animations.  NPCs will react with an animation when att
 11. Tick "Nemesis output" in the left window pane. 
 12. Revert the upper right dropdown bar back to "SKSE".
 13. You may need to re-run this process if you change your load order.
+
+## DynDOLOD and SkyVRaan Configuration
 
 ### xLODGen/TexGen/DynDOLOD  
 
