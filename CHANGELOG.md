@@ -6,6 +6,7 @@ New Mods
 
 Updated Mods
 - Enderal VR v2.9.1:  Removed \meshes\actors\werewolfbeast folder to fix CTD on the beach after meeting Jespar.  
+- Caliente's Beautiful Bodies Enhancer - CBBE v1.6.2: Fixed some seams, fixed zaps and size sliders for bow ties, and added mage gloves from USSEP to the vanilla outfits.
 - Stronger Souls v1.1: Fixed a bug where the ghost shader was missing.
 
 Removed Mods
