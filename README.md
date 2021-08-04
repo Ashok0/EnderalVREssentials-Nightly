@@ -455,6 +455,10 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Strike Obstruction Systems - Combat Blocking Overhaul v1.01**](https://www.nexusmods.com/skyrimspecialedition/mods/53050?tab=files): Blocking can now mitigate damage from blocked Spells, Shouts, Enchants, and Poisons. Timed Blocks can provide greater mitigation, redirect parried spells & arrows, and inflict various debuffs. All features configurable via MCM (Light Plugin).
 
+[**SMIM v2.08**](https://www.nexusmods.com/skyrimspecialedition/mods/659?tab=files): A massive project to greatly improve the appearance of countless static 3D models in Skyrim. Basically, this is my attempt to make the Skyrim architecture, clutter, furniture, and landscaping much nicer.
+- Place above all other texture/mesh mods to avoid SMIM conflicts.
+- Remove ESP files.
+
 [**Pretty Animated Potions - VR Edition v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/52663?tab=files): Yet another animated potions mod. This time in small bottles! 1K retexture. Refracting bottles option available!
 
 [**JS Purses and Septims SE v1.2**](https://www.nexusmods.com/skyrimspecialedition/mods/37306?tab=files): A complete re-creation of Septims, Coin Purses and Coin Piles.
@@ -536,6 +540,8 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**CC's Enhanced Ore Veins SSE Edition v8.0.1 - Patch**](https://www.nexusmods.com/skyrimspecialedition/mods/1306?tab=files): Install this to resolve the issue where all mines revert to vanilla textures when depleted. 
 
 [**Rustic Alchemy and Enchanting Tables v1.0**](https://www.nexusmods.com/skyrim/mods/62328?tab=files): A rustic overhaul of the alchemy and enchanting tables of Skyrim. The aim was to bring real antiquity to these arcane crafting tables as is fitting of their ancient origin.
+
+[**Pillows - My HD Version SE v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/43752?tab=files): HD replace for the pillows of all the beds. Adds missing pillows, like to the orcish beds. HD noble beds texture (4K).
 
 [**High Poly Project v4.95**](https://www.nexusmods.com/skyrimspecialedition/mods/12029): An on going process to improve the models of the game with more polygons , UV edits or just replace them all together. SMIM was the inspiration and the lack of similar mods led me to make this.
 - Should be installed with a Custom Install.  Skip "Farmhouse Stone Walls" as these are better replaced by seperate mods. Skip "Whiterun Clutter", "Smelter Coal", "Furniture", "Plants", and "Riften 3D Leaves" as these at a minimum are incompatible with Enderal VR and can cause purple texture glitches.
