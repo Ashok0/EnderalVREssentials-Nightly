@@ -6,6 +6,8 @@ New Mods
 - SMIM v2.08: A massive project to greatly improve the appearance of countless static 3D models in Skyrim. Basically, this is my attempt to make the Skyrim architecture, clutter, furniture, and landscaping much nicer.
 - Jabber's 2K Archery Targets v1.0: Retextures the SMIM archery targets with high-quality 2K textures.
 - Training Dummies Retexture 4K v1.0: Replaces vanilla training dummies. 2k and 4k Versions. This mod was requested by several people. So here it is! No esp needed. Just a texture replacer.
+- Realistic Paper Parchment v1.0: Couldn't find a good texture so I've made one.
+- Realistic Paper Scrolls v1.0: Couldn't find a good texture so I've made one.
 - Pillows - My HD Version SE v1.0: HD replace for the pillows of all the beds. Adds missing pillows, like to the orcish beds. HD noble beds texture (4K). 
 
 Updated Mods
