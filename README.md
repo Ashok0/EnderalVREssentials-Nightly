@@ -546,7 +546,9 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Training Dummies Retexture 4K v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/13522?tab=files): Replaces vanilla training dummies. 2k and 4k Versions. This mod was requested by several people. So here it is! No esp needed. Just a texture replacer.
 
-[**Realistic Paper Parchment**](): 
+[**Realistic Paper Parchment v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/44223?tab=files): Couldn't find a good texture so I've made one.
+
+[**Realistic Paper Scrolls v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/44223?tab=files): Couldn't find a good texture so I've made one.
 
 [**Pillows - My HD Version SE v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/43752?tab=files): HD replace for the pillows of all the beds. Adds missing pillows, like to the orcish beds. HD noble beds texture (4K).
 
