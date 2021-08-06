@@ -11,6 +11,7 @@ New Mods
 - Training Dummies Retexture 4K v1.0: Replaces vanilla training dummies. 2k and 4k Versions. This mod was requested by several people. So here it is! No esp needed. Just a texture replacer.
 - Realistic Paper Parchment v1.0: Couldn't find a good texture so I've made one.
 - Realistic Paper Scrolls v1.0: Couldn't find a good texture so I've made one.
+- Clothing Iron - 4K v1.1: Remesh and 4K retexture of the clothing iron.
 - Pillows - My HD Version SE v1.0: HD replace for the pillows of all the beds. Adds missing pillows, like to the orcish beds. HD noble beds texture (4K). 
 - 4K Bedroll v1.0: Simple texture replacer for the bedroll and an alt texture if you want it.  4K textures.
 - Boreal Boats SE - 4K v1.3: A ship and Boat retexture in 8, 4 or 2K, with parallax enabled meshes. The roof now has its own texture with environment mapping, no more sharing textures with whiterun. Ships with optional closed roof version in 8-2K resolution.
