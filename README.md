@@ -460,6 +460,13 @@ If you are using a language pack, you may need to change the font used by Dear D
 - Place above all other texture/mesh mods to avoid SMIM conflicts.
 - Remove ESP files.
 
+[**Noble Skyrim FULL PACK Performance Edition v5.5.0**](https://www.nexusmods.com/skyrimspecialedition/mods/21423?tab=files): Gives all of Skyrim's architecture a complete new look by changing its textures to custom ones. Beside the architecture, several other things, such as landscape, dungeons (ruins, mines, caves etc.), clutter stuff etc. have been re-textured as well, to match the rest of the mod.
+- Recommend placing before other texture packs; Remove "whroughgroundmud.dds".
+
+[**Rustic Clutter Collection - SE - 2K v1.0**](): This is a collection of my Rustic clutter item retextures. The mod includes RUSTIC DINNERWARE, RUSTIC POTTERY, and RUSTIC SILVERWARE. There are also a few other clutter items like mead bottles, wine bottles, the satchel, knapsack, coin purse, strongbox, safe, prisoner cage, and the dwemer lexicon cubes. 2K and 1K versions available. 
+
+[**Realistic HD Mods Remastered Collection - 2K v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/5795?tab=files): Collection of all Remastered Realistic HD Series Mods for SSE (All in One).  
+
 [**Pretty Animated Potions - VR Edition v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/52663?tab=files): Yet another animated potions mod. This time in small bottles! 1K retexture. Refracting bottles option available!
 
 [**JS Purses and Septims SE v1.2**](https://www.nexusmods.com/skyrimspecialedition/mods/37306?tab=files): A complete re-creation of Septims, Coin Purses and Coin Piles.
@@ -471,9 +478,6 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**JS Instruments of Skyrim SE v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/51959?tab=files): A complete remake of the Lute, Flute & Drum. Comes in 2k and 4k versions.
 
 [**Basic Dining Set Replacer 1k v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/30055?tab=files): A mod that replaces the dining set we often see in farmhouses or taverns in skyrim.
-
-[**Noble Skyrim FULL PACK Performance Edition v5.5.0**](https://www.nexusmods.com/skyrimspecialedition/mods/21423?tab=files): Gives all of Skyrim's architecture a complete new look by changing its textures to custom ones. Beside the architecture, several other things, such as landscape, dungeons (ruins, mines, caves etc.), clutter stuff etc. have been re-textured as well, to match the rest of the mod.
-- Recommend placing before other texture packs; Remove "whroughgroundmud.dds".
 
 [**Real Mountains Rebuilt v1.2**](https://www.nexusmods.com/skyrimspecialedition/mods/3704?tab=files): Retexture that enhance the detail of mountains and rocks.
 
