@@ -560,7 +560,11 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**ElSopa - High Quality Buckets SE - HOTFIX v1.2**](https://www.nexusmods.com/skyrimspecialedition/mods/47227?tab=files): High Quality Buckets. New Meshes And Textures. All Resolutions. No ESP.
 
+[**Skyrim Posts Replacer v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/29625?tab=files): Replaces most of the posts in skyrim and i made it close to the original as possible because I don't want to completely change the original model.
+
 [**Tihzz's Lantern HD Replacer 4K v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/25361?tab=files): A simple model replacement for the candlelanternwithcandle01 and candlelantern01.
+
+[**Nightingale Pride 4K SSE Edition - With Gems v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/22813?tab=files): High Resolution, Lore Friendly Retexture Of Nightingales Bow and Blade. Polished for SSE EDITION.
 
 [**High Poly Project v4.95**](https://www.nexusmods.com/skyrimspecialedition/mods/12029): An on going process to improve the models of the game with more polygons , UV edits or just replace them all together. SMIM was the inspiration and the lack of similar mods led me to make this.
 - Should be installed with a Custom Install.  Skip "Farmhouse Stone Walls" as these are better replaced by seperate mods. Skip "Whiterun Clutter", "Smelter Coal", "Furniture", "Plants", and "Riften 3D Leaves" as these at a minimum are incompatible with Enderal VR and can cause purple texture glitches.
