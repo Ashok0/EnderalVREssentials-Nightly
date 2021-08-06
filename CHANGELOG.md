@@ -9,6 +9,11 @@ New Mods
 - Realistic Paper Parchment v1.0: Couldn't find a good texture so I've made one.
 - Realistic Paper Scrolls v1.0: Couldn't find a good texture so I've made one.
 - Pillows - My HD Version SE v1.0: HD replace for the pillows of all the beds. Adds missing pillows, like to the orcish beds. HD noble beds texture (4K). 
+- 4K Bedroll v1.0: Simple texture replacer for the bedroll and an alt texture if you want it.  4K textures.
+- Boreal Boats SE - 4K v1.3: A ship and Boat retexture in 8, 4 or 2K, with parallax enabled meshes. The roof now has its own texture with environment mapping, no more sharing textures with whiterun. Ships with optional closed roof version in 8-2K resolution.
+- ElSopa - High Quality Buckets SE v1.1: High Quality Buckets. New Meshes And Textures. All Resolutions. No ESP.
+- ElSopa - High Quality Buckets SE - HOTFIX v1.2: High Quality Buckets. New Meshes And Textures. All Resolutions. No ESP.
+- Tihzz's Lantern HD Replacer 4K v1.1: A simple model replacement for the candlelanternwithcandle01 and candlelantern01.
 
 Updated Mods
 - Enderal VR v2.9.1:  Removed \meshes\actors\werewolfbeast folder to fix CTD on the beach after meeting Jespar.  
