@@ -556,6 +556,8 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Realistic Paper Scrolls v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/44223?tab=files): Couldn't find a good texture so I've made one.
 
+[**Clothing Iron - 4K v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/53247?tab=files): Remesh and 4K retexture of the clothing iron.
+
 [**Pillows - My HD Version SE v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/43752?tab=files): HD replace for the pillows of all the beds. Adds missing pillows, like to the orcish beds. HD noble beds texture (4K).
 
 [**4K Bedroll v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/46101?tab=files): Simple texture replacer for the bedroll and an alt texture if you want it.  4K textures.
