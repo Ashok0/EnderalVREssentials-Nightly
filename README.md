@@ -552,6 +552,16 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Pillows - My HD Version SE v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/43752?tab=files): HD replace for the pillows of all the beds. Adds missing pillows, like to the orcish beds. HD noble beds texture (4K).
 
+[**4K Bedroll v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/46101?tab=files): Simple texture replacer for the bedroll and an alt texture if you want it.  4K textures.
+
+[**Boreal Boats SE - 4K v1.3**](https://www.nexusmods.com/skyrimspecialedition/mods/47608?tab=files): A ship and Boat retexture in 8, 4 or 2K, with parallax enabled meshes. The roof now has its own texture with environment mapping, no more sharing textures with whiterun. Ships with optional closed roof version in 8-2K resolution.
+
+[**ElSopa - High Quality Buckets SE v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/47227?tab=files): High Quality Buckets. New Meshes And Textures. All Resolutions. No ESP.
+
+[**ElSopa - High Quality Buckets SE - HOTFIX v1.2**](https://www.nexusmods.com/skyrimspecialedition/mods/47227?tab=files): High Quality Buckets. New Meshes And Textures. All Resolutions. No ESP.
+
+[**Tihzz's Lantern HD Replacer 4K v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/25361?tab=files): A simple model replacement for the candlelanternwithcandle01 and candlelantern01.
+
 [**High Poly Project v4.95**](https://www.nexusmods.com/skyrimspecialedition/mods/12029): An on going process to improve the models of the game with more polygons , UV edits or just replace them all together. SMIM was the inspiration and the lack of similar mods led me to make this.
 - Should be installed with a Custom Install.  Skip "Farmhouse Stone Walls" as these are better replaced by seperate mods. Skip "Whiterun Clutter", "Smelter Coal", "Furniture", "Plants", and "Riften 3D Leaves" as these at a minimum are incompatible with Enderal VR and can cause purple texture glitches.
 
