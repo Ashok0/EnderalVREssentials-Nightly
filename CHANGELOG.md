@@ -4,6 +4,9 @@ Release date: August 4th, 2021
 New Mods
 - Strike Obstruction Systems - Combat Blocking Overhaul v1.02: Blocking can now mitigate damage from blocked Spells, Shouts, Enchants, and Poisons. Timed Blocks can provide greater mitigation, redirect parried spells & arrows, and inflict various debuffs. All features configurable via MCM (Light Plugin).
 - SMIM v2.08: A massive project to greatly improve the appearance of countless static 3D models in Skyrim. Basically, this is my attempt to make the Skyrim architecture, clutter, furniture, and landscaping much nicer.
+- 4K SMIM Whiterun Bench v1.1: Retextures the SMIM bench in Whiterun with darker and dirtier options available.
+- 4K SMIM Furniture Improvement v1.2: A 4K retexture of SMIM furniture textures.
+- 4K SMIM Furniture Chest v1.1: A retexture of the SMIM furniture chests, Upperclass, Weathered, Open and Snow. 4K or 2K.
 - Rustic Clutter Collection - SE - 2K v1.0: This is a collection of my Rustic clutter item retextures. The mod includes RUSTIC DINNERWARE, RUSTIC POTTERY, and RUSTIC SILVERWARE. There are also a few other clutter items like mead bottles, wine bottles, the satchel, knapsack, coin purse, strongbox, safe, prisoner cage, and the dwemer lexicon cubes. 2K and 1K versions available. 
 - Realistic HD Mods Remastered Collection - 2K v1.0: Collection of all Remastered Realistic HD Series Mods for SSE (All in One).  
 - Better Wine Labels - Vanilla v1.0: HD wine label textures for the vanilla wine label and ones added by Legacy of the Dragonborn.
