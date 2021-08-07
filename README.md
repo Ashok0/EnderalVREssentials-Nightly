@@ -485,6 +485,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**SMIM v2.08**](https://www.nexusmods.com/skyrimspecialedition/mods/659?tab=files): A massive project to greatly improve the appearance of countless static 3D models in Skyrim. Basically, this is my attempt to make the Skyrim architecture, clutter, furniture, and landscaping much nicer.
 - Place above all other texture/mesh mods to avoid SMIM conflicts.
+- Remove \meshes\architecture\farmhouse\farmhousewindmill, \meshes\architecture\solitude\swindmill.nif, and \meshes\architecture\solitude\swindmillrotor.nif to revert windmills back to vanilla which arguably look better in VR.
 - Remove ESP files.
 
 [**Noble Skyrim FULL PACK Performance Edition v5.5.0**](https://www.nexusmods.com/skyrimspecialedition/mods/21423?tab=files): Gives all of Skyrim's architecture a complete new look by changing its textures to custom ones. Beside the architecture, several other things, such as landscape, dungeons (ruins, mines, caves etc.), clutter stuff etc. have been re-textured as well, to match the rest of the mod.
