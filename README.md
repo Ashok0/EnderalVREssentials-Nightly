@@ -373,7 +373,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**SkyrimVRTools v2.3-BETA**](https://www.nexusmods.com/skyrimspecialedition/mods/27782?tab=files): Providing OpenVR input information and control as a service to other Skyrim VR mods.
 
-[**Enderal VR - Patch v2.9.1**](https://www.nexusmods.com/enderalspecialedition/mods/8?tab=files): Mod for playing Enderal in VR (with the SkyrimVR engine).
+[**Enderal VR - Patch v2.9.2**](https://www.nexusmods.com/enderalspecialedition/mods/8?tab=files): Mod for playing Enderal in VR (with the SkyrimVR engine).
 
 [**SKSEVR 2.0.12**](https://skse.silverlock.org): A tool used by many Skyrim mods that expands scripting capabilities and adds additional functionality to the game.
 
@@ -520,7 +520,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**El Sopa - HD Medieval Anvil SE v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/48825?tab=files): New Model And Textures For The Anvil . The Hammer And Tongs. Performance Friendly. Ultra Immersive. All Resolutions. No ESP.
 
-[**Embers XD v2.2.3**](https://www.nexusmods.com/skyrimspecialedition/mods/37085?tab=files): An overhaul of campfires and other fire sources.
+[**Embers XD v2.2.4**](https://www.nexusmods.com/skyrimspecialedition/mods/37085?tab=files): An overhaul of campfires and other fire sources.
 - Use "Vanilla Flames" as vanilla flames look better in VR.
 - Install Forges and Lava Craters Add-On.
 - Delete ESP files.
@@ -582,8 +582,6 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**Realistic Paper Parchment v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/44223?tab=files): Couldn't find a good texture so I've made one.
 
 [**Realistic Paper Scrolls v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/44223?tab=files): Couldn't find a good texture so I've made one.
-
-[**Clothing Iron - 4K v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/53247?tab=files): Remesh and 4K retexture of the clothing iron.
 
 [**Pillows - My HD Version SE v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/43752?tab=files): HD replace for the pillows of all the beds. Adds missing pillows, like to the orcish beds. HD noble beds texture (4K).
 
