@@ -7,6 +7,8 @@ New Mods
 - 4K SMIM Whiterun Bench v1.1: Retextures the SMIM bench in Whiterun with darker and dirtier options available.
 - 4K SMIM Furniture Improvement v1.2: A 4K retexture of SMIM furniture textures.
 - 4K SMIM Furniture Chest v1.1: A retexture of the SMIM furniture chests, Upperclass, Weathered, Open and Snow. 4K or 2K.
+- Misc Retexture Project v2.5: An ongoing project to find and retexture overlooked items throughout Skyrim.
+- Misc Retexture Project - 2.5 UPDATE v2.5: An ongoing project to find and retexture overlooked items throughout Skyrim. 
 - Rustic Clutter Collection - SE - 2K v1.0: This is a collection of my Rustic clutter item retextures. The mod includes RUSTIC DINNERWARE, RUSTIC POTTERY, and RUSTIC SILVERWARE. There are also a few other clutter items like mead bottles, wine bottles, the satchel, knapsack, coin purse, strongbox, safe, prisoner cage, and the dwemer lexicon cubes. 2K and 1K versions available. 
 - Realistic HD Mods Remastered Collection - 2K v1.0: Collection of all Remastered Realistic HD Series Mods for SSE (All in One).  
 - Better Wine Labels - Vanilla v1.0: HD wine label textures for the vanilla wine label and ones added by Legacy of the Dragonborn.
