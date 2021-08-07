@@ -19,6 +19,9 @@ New Mods
 - Skyrim Posts Replacer v1.0: Replaces most of the posts in skyrim and i made it close to the original as possible because I don't want to completely change the original model.
 - Tihzz's Lantern HD Replacer 4K v1.1: A simple model replacement for the candlelanternwithcandle01 and candlelantern01.
 - Nightingale Pride 4K SSE Edition - With Gems v1.0: High Resolution, Lore Friendly Retexture Of Nightingales Bow and Blade. Polished for SSE EDITION.
+- 4K Hunting Bow v1.1: Hunting Bow in 4K, optional 2K.
+- 4K Imperial Bow and Iron Arrows Retexture v1.5: A 4k retexture of the Imperial Bow (aka Iron Bow), the iron arrows and quiver. Optional 2K. Saved in BC7 format.
+- Auriels Holy Bow - REDUX v4.0: I am proud to present a totally remade version of my Auriel's Holy bow mod for Skyrim Special Edition. This mod adds a really cool looking glow to the Auriel's Bow from the Dawnguard DLC.
 
 Updated Mods
 - Enderal VR v2.9.2: Minor fix causing a CTD in the begining of the game (nif testing file) thanks to Bolzenschuss and Ashoko
