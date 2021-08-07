@@ -21,6 +21,7 @@ New Mods
 - ElSopa - High Quality Buckets SE - HOTFIX v1.2: High Quality Buckets. New Meshes And Textures. All Resolutions. No ESP.
 - Skyrim Posts Replacer v1.0: Replaces most of the posts in skyrim and i made it close to the original as possible because I don't want to completely change the original model.
 - Tihzz's Lantern HD Replacer 4K v1.1: A simple model replacement for the candlelanternwithcandle01 and candlelantern01.
+- Organic Riften Leaves 2K v1.02: Quality textures for the fallen leaves in Riften 4K, 2K, 1K.
 - Nightingale Pride 4K SSE Edition - With Gems v1.0: High Resolution, Lore Friendly Retexture Of Nightingales Bow and Blade. Polished for SSE EDITION.
 - 4K Hunting Bow v1.1: Hunting Bow in 4K, optional 2K.
 - 4K Imperial Bow and Iron Arrows Retexture v1.5: A 4k retexture of the Imperial Bow (aka Iron Bow), the iron arrows and quiver. Optional 2K. Saved in BC7 format.
