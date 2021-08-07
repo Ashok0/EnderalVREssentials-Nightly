@@ -570,6 +570,8 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Rallys City Roofs 2K - AIO v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/20896?tab=files): This mod retextures the roofs of houses and market stalls in Whiterun, Riften and Solitude.
 
+[**Rally's Mead Barrels v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/49641?tab=files): Replacer for mead barrels and spigots.
+
 [**Renthal's Workbench v1.4**](https://www.nexusmods.com/skyrimspecialedition/mods/23164?tab=files): New high poly mesh and texture for the workbench.
 
 [**Better Dirt Cliffs and Alphas v4.0**](https://www.nexusmods.com/skyrimspecialedition/mods/34035?tab=files): Overhaul of the meshes & alpha channels involved in blending the top of the dirt cliff with the roots, and the roots with the wall. Covers SMIM meshes too.
