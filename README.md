@@ -600,6 +600,12 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Nightingale Pride 4K SSE Edition - With Gems v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/22813?tab=files): High Resolution, Lore Friendly Retexture Of Nightingales Bow and Blade. Polished for SSE EDITION.
 
+[**4K Hunting Bow v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/32251?tab=files): Hunting Bow in 4K, optional 2K.
+
+[**4K Imperial Bow and Iron Arrows Retexture v1.5**](https://www.nexusmods.com/skyrimspecialedition/mods/14523?tab=files): A 4k retexture of the Imperial Bow (aka Iron Bow), the iron arrows and quiver. Optional 2K. Saved in BC7 format.
+
+[**Auriels Holy Bow - REDUX v4.0**](https://www.nexusmods.com/skyrimspecialedition/mods/2069?tab=files): I am proud to present a totally remade version of my Auriel's Holy bow mod for Skyrim Special Edition. This mod adds a really cool looking glow to the Auriel's Bow from the Dawnguard DLC.
+
 [**High Poly Project v4.95**](https://www.nexusmods.com/skyrimspecialedition/mods/12029): An on going process to improve the models of the game with more polygons , UV edits or just replace them all together. SMIM was the inspiration and the lack of similar mods led me to make this.
 - Should be installed with a Custom Install.  Skip "Farmhouse Stone Walls" as these are better replaced by seperate mods. Skip "Whiterun Clutter", "Smelter Coal", "Furniture", "Plants", and "Riften 3D Leaves" as these at a minimum are incompatible with Enderal VR and can cause purple texture glitches.
 
