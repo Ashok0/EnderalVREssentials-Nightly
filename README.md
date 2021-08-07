@@ -507,6 +507,8 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Better Wine Labels - Vanilla v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/34698?tab=files): HD wine label textures for the vanilla wine label and ones added by Legacy of the Dragonborn.
 
+[**Better Wine Labels - San's Spiced Wine  v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/34698?tab=files): 2x size and cleaner than vanilla but not that much of an improvement (the label is very small in-game). Can be used with either of the main files.
+
 [**Pretty Animated Potions - VR Edition v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/52663?tab=files): Yet another animated potions mod. This time in small bottles! 1K retexture. Refracting bottles option available!
 
 [**JS Purses and Septims SE v1.2**](https://www.nexusmods.com/skyrimspecialedition/mods/37306?tab=files): A complete re-creation of Septims, Coin Purses and Coin Piles.
