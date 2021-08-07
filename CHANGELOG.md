@@ -11,7 +11,6 @@ New Mods
 - Training Dummies Retexture 4K v1.0: Replaces vanilla training dummies. 2k and 4k Versions. This mod was requested by several people. So here it is! No esp needed. Just a texture replacer.
 - Realistic Paper Parchment v1.0: Couldn't find a good texture so I've made one.
 - Realistic Paper Scrolls v1.0: Couldn't find a good texture so I've made one.
-- Clothing Iron - 4K v1.1: Remesh and 4K retexture of the clothing iron.
 - Pillows - My HD Version SE v1.0: HD replace for the pillows of all the beds. Adds missing pillows, like to the orcish beds. HD noble beds texture (4K). 
 - 4K Bedroll v1.0: Simple texture replacer for the bedroll and an alt texture if you want it.  4K textures.
 - Boreal Boats SE - 4K v1.3: A ship and Boat retexture in 8, 4 or 2K, with parallax enabled meshes. The roof now has its own texture with environment mapping, no more sharing textures with whiterun. Ships with optional closed roof version in 8-2K resolution.
@@ -22,8 +21,9 @@ New Mods
 - Nightingale Pride 4K SSE Edition - With Gems v1.0: High Resolution, Lore Friendly Retexture Of Nightingales Bow and Blade. Polished for SSE EDITION.
 
 Updated Mods
-- Enderal VR v2.9.1:  Removed \meshes\actors\werewolfbeast folder to fix CTD on the beach after meeting Jespar.  
+- Enderal VR v2.9.2: Minor fix causing a CTD in the begining of the game (nif testing file) thanks to Bolzenschuss and Ashoko
 - NavigateVR v1.5: Updated with new custom Enderalean map.
+- Embers XD v2.2.4: An overhaul of campfires and other fire sources.
 - Caliente's Beautiful Bodies Enhancer - CBBE v1.6.2: Fixed some seams, fixed zaps and size sliders for bow ties, and added mage gloves from USSEP to the vanilla outfits.
 - Stronger Souls v1.1: Fixed a bug where the ghost shader was missing.
 
