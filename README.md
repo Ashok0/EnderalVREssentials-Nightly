@@ -491,6 +491,12 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**Noble Skyrim FULL PACK Performance Edition v5.5.0**](https://www.nexusmods.com/skyrimspecialedition/mods/21423?tab=files): Gives all of Skyrim's architecture a complete new look by changing its textures to custom ones. Beside the architecture, several other things, such as landscape, dungeons (ruins, mines, caves etc.), clutter stuff etc. have been re-textured as well, to match the rest of the mod.
 - Recommend placing before other texture packs; Remove "whroughgroundmud.dds".
 
+[**4K SMIM Whiterun Bench v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/32164?tab=files): Retextures the SMIM bench in Whiterun with darker and dirtier options available.
+
+[**4K SMIM Furniture Improvement v1.2**](https://www.nexusmods.com/skyrimspecialedition/mods/32552?tab=files): A 4K retexture of SMIM furniture textures.
+
+[**4K SMIM Furniture Chest v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/33369?tab=files): A retexture of the SMIM furniture chests, Upperclass, Weathered, Open and Snow. 4K or 2K.
+
 [**Rustic Clutter Collection - SE - 2K v1.0**](): This is a collection of my Rustic clutter item retextures. The mod includes RUSTIC DINNERWARE, RUSTIC POTTERY, and RUSTIC SILVERWARE. There are also a few other clutter items like mead bottles, wine bottles, the satchel, knapsack, coin purse, strongbox, safe, prisoner cage, and the dwemer lexicon cubes. 2K and 1K versions available. 
 
 [**Realistic HD Mods Remastered Collection - 2K v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/5795?tab=files): Collection of all Remastered Realistic HD Series Mods for SSE (All in One).  
