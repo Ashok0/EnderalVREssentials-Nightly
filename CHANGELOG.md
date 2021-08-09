@@ -40,3 +40,4 @@ Updated Mods
 
 Removed Mods
 - Deflection v1.8:  Redundant with Strike Obstruction Systems - Combat Blocking Overhaul.
+- Undercity Relit v1.0: Removed due to stability issues.
