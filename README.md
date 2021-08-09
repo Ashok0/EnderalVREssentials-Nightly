@@ -688,8 +688,6 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Bathhouse Relit v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/90): Makes subtle enhancement to the lighting of the bathhouse.
 
-[**Undercity Relit v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/108?tab=files): Extensive lighting overhaul of the Undercity.
-
 [**Dal Mercer Relit v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/134?tab=files): Relights Dal'Mercer's Estate.
 
 [**Agnod Lighter v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/131?tab=files): Makes the Agnod dungeon a bit lighter.
