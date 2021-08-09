@@ -590,6 +590,10 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Rustic Alchemy and Enchanting Tables v1.0**](https://www.nexusmods.com/skyrim/mods/62328?tab=files): A rustic overhaul of the alchemy and enchanting tables of Skyrim. The aim was to bring real antiquity to these arcane crafting tables as is fitting of their ancient origin.
 
+[**WEBS v0.2**](https://www.nexusmods.com/skyrim/mods/33718?tab=files): A complete set of 1k texture replacers for the default webs and cobwebs. 
+
+[**Snazzy Furniture and Clutter Overhaul SE v1.73**](https://www.nexusmods.com/skyrimspecialedition/mods/2414?tab=files): Comprehensive overhaul of furniture and clutter throughout Tamriel, including: - New HD noble chairs, beds, drapery, Imperial Banners, etc. - Several styles of weapon racks, plaques, and display cases - Many new wall art paintings - More...
+
 [**Jabber's 2K Archery Targets v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/21726): Retextures the SMIM archery targets with high-quality 2K textures.
 
 [**Training Dummies Retexture 4K v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/13522?tab=files): Replaces vanilla training dummies. 2k and 4k Versions. This mod was requested by several people. So here it is! No esp needed. Just a texture replacer.
