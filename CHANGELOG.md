@@ -14,6 +14,8 @@ New Mods
 - Better Wine Labels - Vanilla v1.0: HD wine label textures for the vanilla wine label and ones added by Legacy of the Dragonborn.
 - Better Wine Labels - San's Spiced Wine  v1.1: 2x size and cleaner than vanilla but not that much of an improvement (the label is very small in-game). Can be used with either of the main files.
 - Rally's Mead Barrels v1.1: Replacer for mead barrels and spigots.
+- WEBS v0.2: A complete set of 1k texture replacers for the default webs and cobwebs. 
+- Snazzy Furniture and Clutter Overhaul SE v1.73: Comprehensive overhaul of furniture and clutter throughout Tamriel, including: - New HD noble chairs, beds, drapery, Imperial Banners, etc. - Several styles of weapon racks, plaques, and display cases - Many new wall art paintings - More...
 - Jabber's 2K Archery Targets v1.0: Retextures the SMIM archery targets with high-quality 2K textures.
 - Training Dummies Retexture 4K v1.0: Replaces vanilla training dummies. 2k and 4k Versions. This mod was requested by several people. So here it is! No esp needed. Just a texture replacer.
 - Realistic Paper Parchment v1.0: Couldn't find a good texture so I've made one.
