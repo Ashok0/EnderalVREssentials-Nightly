@@ -639,10 +639,10 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Caliente's Beautiful Bodies Enhancer - CBBE v1.6.2**](https://www.nexusmods.com/skyrimspecialedition/mods/198?tab=files): A completely customisable female body replacer for TESV: Skyrim.
 
-[**Mature Skin 2 CBBE (SE) v1.4**](https://www.nexusmods.com/skyrimspecialedition/mods/26017?tab=files): Skin textures for CBBE and UNP made by rxkx22.
+[**Mature Skin 2 CBBE (SE) v2.15.2**](https://www.nexusmods.com/skyrimspecialedition/mods/26017?tab=files): Skin textures for CBBE and UNP made by rxkx22.
 - Install with default options.
 
-[**SC - Mature Skin Specs - CBBE - Less Contrast v2.15.2**](https://www.nexusmods.com/skyrimspecialedition/mods/39115?tab=files): A re-upload of the popular Mature Skins for CBBE or UNP. Compatible with CBBE Special and UUNP Special.
+[**SC - Mature Skin Specs - CBBE - Less Contrast v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/39115?tab=files): A re-upload of the popular Mature Skins for CBBE or UNP. Compatible with CBBE Special and UUNP Special.
 - Tick "2k4k" option before installation.
 
 [**Equipable Female Tattoo UNP CBBE v1.0**]: Mod adds 5 x Equippable Tattoo skins for UUNP or CBBE Options are: Bijin, Leyenda or Fair Skin Complexion.
