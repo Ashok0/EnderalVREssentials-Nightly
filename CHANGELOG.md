@@ -13,6 +13,7 @@ New Mods
 - Realistic HD Mods Remastered Collection - 2K v1.0: Collection of all Remastered Realistic HD Series Mods for SSE (All in One).  
 - Better Wine Labels - Vanilla v1.0: HD wine label textures for the vanilla wine label and ones added by Legacy of the Dragonborn.
 - Better Wine Labels - San's Spiced Wine  v1.1: 2x size and cleaner than vanilla but not that much of an improvement (the label is very small in-game). Can be used with either of the main files.
+- HD Transparent Smaller Snowflakes 2K v1.0: This mod replaces the default Skyrim snowflakes with Ultra HD Ultra Realistic Transparent Crystal Snowflakes. 
 - Rally's Mead Barrels v1.1: Replacer for mead barrels and spigots.
 - WEBS v0.2: A complete set of 1k texture replacers for the default webs and cobwebs. 
 - Snazzy Furniture and Clutter Overhaul SE v1.73: Comprehensive overhaul of furniture and clutter throughout Tamriel, including: - New HD noble chairs, beds, drapery, Imperial Banners, etc. - Several styles of weapon racks, plaques, and display cases - Many new wall art paintings - More...
@@ -42,4 +43,5 @@ Updated Mods
 
 Removed Mods
 - Deflection v1.8:  Redundant with Strike Obstruction Systems - Combat Blocking Overhaul.
+- Yee: A New Snowflake Mod - Cathedral Concept v1.0: Redundant with Ultra HD Transparent Snowflakes.
 - Undercity Relit v1.0: Removed due to stability issues.
