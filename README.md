@@ -219,7 +219,7 @@ Wabbajack will delete all files that are not part of its modlist when updating! 
     * Player.AddItem 1801FE32 1 (Daedric Wrath)
     * Player.AddItem 1801FE4C 1 (Nordic Assault Bow)
     * Player.AddItem 1801FE58 1 (Dragonbone Bow - Scoped)
-    * Player.AddItem 1801F34F 1 (Glass Bow - Scoped)
+    * Player.AddItem 1801FE4F 1 (Glass Bow - Scoped)
     * Player.AddItem 1801FE54 1 (Hunting Bow - Scoped)
     * Player.AddItem 18033257 1 (Noble Hunting Bow - Scoped)
     * Player.AddItem 1801FE47 1 (Imperial Bow - Scoped)
@@ -237,7 +237,7 @@ Wabbajack will delete all files that are not part of its modlist when updating! 
     * Player.AddItem 1804CB28 1 (Stormcloak Hunting Bow)
     * Player.AddItem 02000800 1 (Auriel's Bow)
     * Player.AddItem 04018ED5 1 (Glass Bow of the Stag Prince)
-    * Player.AddItem 4A0012C8 1 (Bound Bow)
+    * Player.AddItem 490012C8 1 (Bound Bow)
     * Player.AddItem 0402C01A 1 (Dwarven Black Bow of Fate)
     * Player.AddItem 000CC392 1 (Angi's Bow)
     * Player.AddItem 000AB705 1 (Bow of the Hunt)
@@ -248,6 +248,7 @@ Wabbajack will delete all files that are not part of its modlist when updating! 
     * Player.AddItem 000F5D22 1 (Gauldur Black Bow)
     * Player.AddItem 000C0186 1 (Froki's Bow)
     * Player.AddItem 0006B9AD 1 (Dravin's Bow)
+    * Player.AddItem 1801FE32 1 (Daedric Wrath)
 
 ## Character Customization
 ### RaceMenu Presets
