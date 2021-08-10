@@ -616,6 +616,8 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Tihzz's Lantern HD Replacer 4K v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/25361?tab=files): A simple model replacement for the candlelanternwithcandle01 and candlelantern01.
 
+[**Cinematic Light Sprite (Candles and Lanterns) v1.0**](https://www.nexusmods.com/skyrim/mods/78160?tab=files): Replace candles and lantern lightsprite.
+
 [**Organic Riften Leaves 2K v1.02**](https://www.nexusmods.com/skyrimspecialedition/mods/17911?tab=files): Quality textures for the fallen leaves in Riften 4K, 2K, 1K.
 
 [**Nightingale Pride 4K SSE Edition - With Gems v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/22813?tab=files): High Resolution, Lore Friendly Retexture Of Nightingales Bow and Blade. Polished for SSE EDITION.
