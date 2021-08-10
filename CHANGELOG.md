@@ -28,6 +28,7 @@ New Mods
 - ElSopa - High Quality Buckets SE - HOTFIX v1.2: High Quality Buckets. New Meshes And Textures. All Resolutions. No ESP.
 - Skyrim Posts Replacer v1.0: Replaces most of the posts in skyrim and i made it close to the original as possible because I don't want to completely change the original model.
 - Tihzz's Lantern HD Replacer 4K v1.1: A simple model replacement for the candlelanternwithcandle01 and candlelantern01.
+- Cinematic Light Sprite (Candles and Lanterns) v1.0: Replace candles and lantern lightsprite.
 - Organic Riften Leaves 2K v1.02: Quality textures for the fallen leaves in Riften 4K, 2K, 1K.
 - Nightingale Pride 4K SSE Edition - With Gems v1.0: High Resolution, Lore Friendly Retexture Of Nightingales Bow and Blade. Polished for SSE EDITION.
 - 4K Hunting Bow v1.1: Hunting Bow in 4K, optional 2K.
@@ -35,7 +36,7 @@ New Mods
 - Auriels Holy Bow - REDUX v4.0: I am proud to present a totally remade version of my Auriel's Holy bow mod for Skyrim Special Edition. This mod adds a really cool looking glow to the Auriel's Bow from the Dawnguard DLC.
 
 Updated Mods
-- Enderal VR v2.9.2: Minor fix causing a CTD in the begining of the game (nif testing file) thanks to Bolzenschuss and Ashoko
+- Enderal VR v2.9.2: Minor fix causing a CTD in the begining of the game (nif testing file) thanks to Bolzenschuss and Ashok0.
 - NavigateVR v1.5: Updated with new custom Enderalean map.
 - Embers XD v2.2.4: An overhaul of campfires and other fire sources.
 - Caliente's Beautiful Bodies Enhancer - CBBE v1.6.2: Fixed some seams, fixed zaps and size sliders for bow ties, and added mage gloves from USSEP to the vanilla outfits.
