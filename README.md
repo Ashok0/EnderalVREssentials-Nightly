@@ -820,8 +820,6 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Frost Troll Replacer v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/121?tab=files): Replaces the model of Frost Trolls with high-quality alternatives.
 
-[**Dragon Replacer (Variant 3-6) v1.01**](https://www.nexusmods.com/enderalspecialedition/mods/120?tab=files): Replaces the dragon model with high quality alternatives. 
-
 [**Replace spiders with wolfs and bears v1.0.1**](https://www.nexusmods.com/enderalspecialedition/mods/31?tab=files): Replaces spiders with wolves and bears.
 
 [**Nemesis_Output**]: Flinching Animations patch generated with [**Nemesis**](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main/releases). 
