@@ -41,7 +41,7 @@ New Mods
 - Enderal SE - Dirt and Blood v1.0: Compatibility patch for Dirt and Blood.
 
 Updated Tools
-DynDOLOD Standalone 3.0 Alpha-37
+- DynDOLOD Standalone 3.0 Alpha-37
 
 Updated Mods
 - Enderal VR v2.9.2: Minor fix causing a CTD in the begining of the game (nif testing file) thanks to Bolzenschuss and Ashok0.
