@@ -2,7 +2,7 @@
 Release date: August 7th, 2021
 
 New Mods
-- Strike Obstruction Systems - Combat Blocking Overhaul v1.02: Blocking can now mitigate damage from blocked Spells, Shouts, Enchants, and Poisons. Timed Blocks can provide greater mitigation, redirect parried spells & arrows, and inflict various debuffs. All features configurable via MCM (Light Plugin).
+- Strike Obstruction Systems - Combat Blocking Overhaul v1.03: Blocking can now mitigate damage from blocked Spells, Shouts, Enchants, and Poisons. Timed Blocks can provide greater mitigation, redirect parried spells & arrows, and inflict various debuffs. All features configurable via MCM (Light Plugin).
 - SMIM v2.08: A massive project to greatly improve the appearance of countless static 3D models in Skyrim. Basically, this is my attempt to make the Skyrim architecture, clutter, furniture, and landscaping much nicer.
 - 4K SMIM Whiterun Bench v1.1: Retextures the SMIM bench in Whiterun with darker and dirtier options available.
 - 4K SMIM Furniture Improvement v1.2: A 4K retexture of SMIM furniture textures.
