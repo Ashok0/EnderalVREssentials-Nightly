@@ -386,8 +386,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**VR FPS Stabilizer v1.2.2**](https://www.nexusmods.com/skyrimspecialedition/mods/31392?tab=files): The VR FPS Stabilizer functionality of this mod is not being used with this Enderal VR release.  This mod has been included because it has the ability to automatically setup TAA (Temporal Anti-Aliasing) settings every time Enderal VR is launched.  TAA settings cannot be preconfigured with INI files and must be tweaked using VR FPS Stabilizer.  Default TAA settings will make Enderal VR look extremely blurry.  This can be quickly fixed by simply disabling TAA but this will also break Enderal VR menu artwork.  The best way to handle TAA is to tweak its settings with VR FPS Stabilizer to essentially disable all of its visual effects when enabled.  This allows Enderal VR menu artwork to work properly while keeping the visuals sharp without any blur in-game.  To remove TAA blur, add the following lines to \VR FPS Stabilizer\SKSE\Plugins\VRFpsStabilizer.ini:
 - AutoConfigEnabled=0  
 - GrassChange = 0 
--        [DataLoaded]	 
-         taa sharp 2.285
+-        taa sharp 2.285
 	 taa lf 0	 
          taa hf 0.8	 
          taa po 1.0	 
