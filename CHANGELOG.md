@@ -40,14 +40,17 @@ New Mods
 - Dirt and Blood - Dynamic Visual Effects v2.1: Your character will accumulate dirt and blood dynamically, which you can clean by swimming, standing in the rain or taking a bath. The effects are mostly visual only and do not affect gameplay. NPCs will also get bloody as a result of battles. Mod is designed to be simple and lightweight.
 - Enderal SE - Dirt and Blood v1.0: Compatibility patch for Dirt and Blood.
 
+Updated Tools
+DynDOLOD Standalone 3.0 Alpha-37
 
 Updated Mods
 - Enderal VR v2.9.2: Minor fix causing a CTD in the begining of the game (nif testing file) thanks to Bolzenschuss and Ashok0.
+- VR FPS Stabilizer v1.2.2: Added LODcitychange and LODinteriorchange options to the ini to turn off LODs in cities and/or interiors. Disabled by default.
+- DynDOLOD Resources SE v3.00 Alpha-11
 - NavigateVR v1.5: Updated with new custom Enderalean map.
 - Embers XD v2.2.4: An overhaul of campfires and other fire sources.
 - Caliente's Beautiful Bodies Enhancer - CBBE v1.6.2: Fixed some seams, fixed zaps and size sliders for bow ties, and added mage gloves from USSEP to the vanilla outfits.
 - Stronger Souls v1.1: Fixed a bug where the ghost shader was missing.
-- VR FPS Stabilizer v1.2.2: Added LODcitychange and LODinteriorchange options to the ini to turn off LODs in cities and/or interiors. Disabled by default.
 
 Removed Mods
 - Deflection v1.8:  Redundant with Strike Obstruction Systems - Combat Blocking Overhaul.
