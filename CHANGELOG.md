@@ -36,7 +36,7 @@ New Mods
 - SC - Mature Skin Specs - CBBE - More Contrast v1.0: A re-upload of the popular Mature Skins for CBBE or UNP. Compatible with CBBE Special and UUNP Special.
 - Bowgasm SE - Nicos AIO Vanilla Bow Replacer SE v1.1: Optional file is a non-plug in replacer for nearly all Vanilla bows in game with higher poly models, more realistic shapes, and higher resolution textures.
 - I Want Better Weapons Iron Dark and Dirty SE v1.0: This is a Dark and Dirty version of my IWBW Iron replacer mod because everyone will like different things. :) Reworked all textures, specular maps, and normal maps to provide a more used and rough appearance to the weapons for those that would like it.
-- Dirt and Blood - Dynamic Visual Effects v2.1: Your character will accumulate dirt and blood dynamically, which you can clean by swimming, standing in the rain or taking a bath. The effects are mostly visual only and do not affect gameplay. NPCs will also get bloody as a result of battles. Mod is designed to be simple and lightweight.
+- Dirt and Blood - Dynamic Visual Effects v2.11: Your character will accumulate dirt and blood dynamically, which you can clean by swimming, standing in the rain or taking a bath. The effects are mostly visual only and do not affect gameplay. NPCs will also get bloody as a result of battles. Mod is designed to be simple and lightweight.
 - Enderal SE - Dirt and Blood v1.0: Compatibility patch for Dirt and Blood.
 - Sighted Crossbows VR v1.2: Sights for Crossbows Skyrim VR.
 - Simple Iron Sights for Sighted Crossbows VR v1.0: Changes the sights included in Sighted Crossbows VR into more of a simplistic, medieval style.
