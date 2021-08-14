@@ -14,6 +14,7 @@ New Mods
 - Better Wine Labels - Vanilla v1.0: HD wine label textures for the vanilla wine label and ones added by Legacy of the Dragonborn.
 - Better Wine Labels - San's Spiced Wine  v1.1: 2x size and cleaner than vanilla but not that much of an improvement (the label is very small in-game). Can be used with either of the main files.
 - Enhanced Blood Textures SE (LITE VERSION) v1.1: A blood overhaul mod.
+- WiZkiD Carriages v1.1: A complete replacer for all carriages with high quality textures.
 - HD Transparent Smaller Snowflakes 2K v1.0: This mod replaces the default Skyrim snowflakes with Ultra HD Ultra Realistic Transparent Crystal Snowflakes. 
 - Rally's Mead Barrels v1.1: Replacer for mead barrels and spigots.
 - WEBS v0.2: A complete set of 1k texture replacers for the default webs and cobwebs. 
@@ -36,6 +37,9 @@ New Mods
 - SC - Mature Skin Specs - CBBE - More Contrast v1.0: A re-upload of the popular Mature Skins for CBBE or UNP. Compatible with CBBE Special and UUNP Special.
 - Bowgasm SE - Nicos AIO Vanilla Bow Replacer SE v1.1: Optional file is a non-plug in replacer for nearly all Vanilla bows in game with higher poly models, more realistic shapes, and higher resolution textures.
 - I Want Better Weapons Iron Dark and Dirty SE v1.0: This is a Dark and Dirty version of my IWBW Iron replacer mod because everyone will like different things. :) Reworked all textures, specular maps, and normal maps to provide a more used and rough appearance to the weapons for those that would like it.
+- Dirt and Blood - Dynamic Visual Effects v2.1: Your character will accumulate dirt and blood dynamically, which you can clean by swimming, standing in the rain or taking a bath. The effects are mostly visual only and do not affect gameplay. NPCs will also get bloody as a result of battles. Mod is designed to be simple and lightweight.
+- Enderal SE - Dirt and Blood v1.0: Compatibility patch for Dirt and Blood.
+
 
 Updated Mods
 - Enderal VR v2.9.2: Minor fix causing a CTD in the begining of the game (nif testing file) thanks to Bolzenschuss and Ashok0.
@@ -43,6 +47,7 @@ Updated Mods
 - Embers XD v2.2.4: An overhaul of campfires and other fire sources.
 - Caliente's Beautiful Bodies Enhancer - CBBE v1.6.2: Fixed some seams, fixed zaps and size sliders for bow ties, and added mage gloves from USSEP to the vanilla outfits.
 - Stronger Souls v1.1: Fixed a bug where the ghost shader was missing.
+- VR FPS Stabilizer v1.2.2: Added LODcitychange and LODinteriorchange options to the ini to turn off LODs in cities and/or interiors. Disabled by default.
 
 Removed Mods
 - Deflection v1.8:  Redundant with Strike Obstruction Systems - Combat Blocking Overhaul.
