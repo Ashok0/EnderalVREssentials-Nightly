@@ -44,7 +44,7 @@ New Mods
 - Advanced Alloys Carbon Fiber Reinforced Dwarven Crossbow v1.0: Texture replacer for Dwemer crossbow.
 
 Updated Tools
-- DynDOLOD Standalone 3.0 Alpha-37
+- DynDOLOD Standalone 3.0 Alpha-38
 
 Updated Mods
 - Enderal VR v2.9.2: Minor fix causing a CTD in the begining of the game (nif testing file) thanks to Bolzenschuss and Ashok0.
