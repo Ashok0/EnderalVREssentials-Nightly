@@ -58,4 +58,4 @@ Updated Mods
 Removed Mods
 - Deflection v1.8:  Redundant with Strike Obstruction Systems - Combat Blocking Overhaul.
 - Yee: A New Snowflake Mod - Cathedral Concept v1.0: Redundant with Ultra HD Transparent Snowflakes.
-- Undercity Relit v1.0: Removed due to stability issues.
+- Undercity Relit v1.0: Removed due to possible stability issues.
