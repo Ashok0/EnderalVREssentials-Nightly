@@ -51,6 +51,7 @@ Updated Mods
 - VR FPS Stabilizer v1.2.2: Added LODcitychange and LODinteriorchange options to the ini to turn off LODs in cities and/or interiors. Disabled by default.
 - DynDOLOD Resources SE v3.00 Alpha-11
 - NavigateVR v1.5: Updated with new custom Enderalean map.
+- Dual Wield Block VR v1.6: No longer treat two-handed weapons as a one-handed weapon + unarmed. This made it so that your offhand while two-handing could trigger a block, and really this mod had no business affecting two-handed weapons at all.
 - Embers XD v2.2.4: An overhaul of campfires and other fire sources.
 - Caliente's Beautiful Bodies Enhancer - CBBE v1.6.2: Fixed some seams, fixed zaps and size sliders for bow ties, and added mage gloves from USSEP to the vanilla outfits.
 - Stronger Souls v1.1: Fixed a bug where the ghost shader was missing.
