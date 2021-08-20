@@ -631,6 +631,8 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Organic Riften Leaves 2K v1.02**](https://www.nexusmods.com/skyrimspecialedition/mods/17911?tab=files): Quality textures for the fallen leaves in Riften 4K, 2K, 1K.
 
+[**Dwemer Pipework Reworked v3.1**](https://www.nexusmods.com/skyrimspecialedition/mods/46507?tab=files): Rework of Dwemer pipes, including Dwemer boilers.
+
 [**Nightingale Pride 4K SSE Edition - With Gems v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/22813?tab=files): High Resolution, Lore Friendly Retexture Of Nightingales Bow and Blade. Polished for SSE EDITION.
 
 [**Auriels Holy Bow 4K - REDUX v4.0**](https://www.nexusmods.com/skyrimspecialedition/mods/2069?tab=files): I am proud to present a totally remade version of my Auriel's Holy bow mod for Skyrim Special Edition. This mod adds a really cool looking glow to the Auriel's Bow from the Dawnguard DLC.
@@ -749,6 +751,8 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Kolapon's Unique Weapons v1.5**](https://www.nexusmods.com/enderalspecialedition/mods/95?tab=files): Gives unique appearance to several of the unique weapons in Enderal and adds a brand new staff to one of the bosses.
 
+[**Sting of the Blue Islands Replacer v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/86?tab=files): Replaces that Ugly Scimitar with something worthy of betraying the Golden Sickle for.
+
 [**Craftable Bound Weapons v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/195?tab=files): Allows the player to craft and temper fully functional permanent bound weapons and arrows. Can be crafted at any smithy for 2 filled grand soul gems and tempered for 1 grand soul gem at any grindstone. Fully compatible.
 
 [**Bowgasm SE - Nicos AIO Vanilla Bow Replacer SE v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/42929?tab=files): Optional file is a non-plug in replacer for nearly all Vanilla bows in game with higher poly models, more realistic shapes, and higher resolution textures.
@@ -825,10 +829,6 @@ If you are using a language pack, you may need to change the font used by Dear D
 - Delete ESP files to fix crash during "Old Wounds" quest.
 
 [**Enderal SE - Predators v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/115?tab=files): Replaces the models of Panthers, Leopards and Shadow/Mountain Deerstalker with alternatives.
-
-[**Dwemer Automatons Glowmapped v2.2**](https://www.nexusmods.com/skyrimspecialedition/mods/48724?tab=files): Adds glow maps to all dwemer automatons.
-
-[**Enderal SE - Dwemer Automatons Glowmapped v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/111?tab=files): Compatibility patch for Dwemer Automatons Glowmapped.
 
 [**Deerstalker (Sabrecat) Replacer v1.01**](https://www.nexusmods.com/enderalspecialedition/mods/122?tab=files): Replaces the Deerstalker (Sabrecat) models with high quality alternatives.
 
