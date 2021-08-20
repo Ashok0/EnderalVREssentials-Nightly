@@ -904,7 +904,7 @@ Flinching adds flinching animations.  NPCs will react with an animation when att
 1. Install the prerequisite "Spell, Perk, Item Distributor" and "Ultimate Combat and Creatures Behaviour compatibility for Nemesis﻿" mods in MO2.
 2. Download Nemesis Unlimited Behavior Engine from [HERE](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main/releases).
 3. Launch MO2 and install Nemesis Unlimited Behavior Engine as a regular mod.  (This tool must be run from the MO2 virtual file system or Skyrim Data folder)
-4. select Tools > Executables > Add an executable ("+" icon in upper left) > Add from file > Navigate to "Nemesis Unlimited Behavior Engine.exe" in the \mods\Nemesis\Nemesis_Engine\ subfolder in your MO2 folder and select "Open"
+4. Select Tools > Executables > Add an executable ("+" icon in upper left) > Add from file > Navigate to "Nemesis Unlimited Behavior Engine.exe" in the \mods\Nemesis\Nemesis_Engine\ subfolder in your MO2 folder and select "Open"
 5. Right click on "Overwrite" in the left window pane and select: Clean Overwrite > OK.  (If applicable, this option may not be available if your overwrite folder is already clean)
 6. Select Nemesis Unlimited Behavior Engine from upper right drop down and click RUN
 7. Click OK for both Warning pop-ups
