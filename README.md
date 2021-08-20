@@ -903,7 +903,7 @@ Recommended game settings are listed below.  Note that the above Wabbajack insta
 ### Flinching Animations
 Flinching adds flinching animations.  NPCs will react with an animation when attacked with the right fist or melee weapons in either hand.  Flinching has been pre-configured with Wabbajack but the configuration process has been documented below for reference. 
 
-1. Install the prerequisite "Spell, Perk, Item Distributor" and "Ultimate Combat and Creatures Behaviour compatibility for Nemesis﻿" mods in MO2.
+1. Install the prerequisite "Spell, Perk, Item Distributor" and "Ultimate Combat and Creatures Behaviour compatibility for Nemesis" mods in MO2.  Remove any previously installed FNIS related mods.
 2. Download Nemesis Unlimited Behavior Engine from [HERE](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main/releases).
 3. Launch MO2 and install Nemesis Unlimited Behavior Engine as a regular mod.  (This tool must be run from the MO2 virtual file system or Skyrim Data folder)
 4. Select Tools > Executables > Add an executable ("+" icon in upper left) > Add from file > Navigate to "Nemesis Unlimited Behavior Engine.exe" in the \mods\Nemesis\Nemesis_Engine\ subfolder in your MO2 folder and select "Open"
