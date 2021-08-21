@@ -458,6 +458,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Destructible Bottles Extended v1.5**](https://www.nexusmods.com/skyrim/mods/26017?tab=files): Hit the bottle and smash it in pieces! Latest version 1.5 includes also some glazed pottery items such as pots, jugs, plates and bowls.
 - LE mod.  Converted to Form 44 (SE) by opening and resaving ESP file in Creation Kit.
+- Needs processed by Cathedral Assets Optimizer with the following settings enabled: Process meshes, Full optimization, Always process headparts, Resave meshes. Process textures, necessary optimization, Compress textures, Generate mipmaps.  
 
 [**Alternative Smashing Glass Sounds v1.0**](https://www.nexusmods.com/skyrim/mods/26017?tab=files): Alternative HQ glass sounds thanks to rolloLG.
 
@@ -562,6 +563,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**Fluffy Snow v1.4**](https://www.nexusmods.com/skyrimspecialedition/mods/8955): Simple texture replacer for snow. The aim is to make the snow a little more fluffy than vanilla.
 
 [**HD Transparent Smaller Snowflakes 2K v1.0**](https://www.nexusmods.com/skyrim/mods/74048?tab=files): This mod replaces the default Skyrim snowflakes with Ultra HD Ultra Realistic Transparent Crystal Snowflakes. 
+- Needs processed by Cathedral Assets Optimizer with the following settings enabled: Process meshes, Full optimization, Always process headparts, Resave meshes. Process textures, necessary optimization, Compress textures, Generate mipmaps.  
 
 [**Remove Blurry Snowflakes v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/38358): This mod removes the blurry snowflakes by using a transparent texture. The normal snowflakes are still present.
 
@@ -650,6 +652,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**Smaller Insects v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/51551?tab=files): This mod aims to resize the scale of animals in Skyrim to give a better immersive feelig in VR / First person.
 
 [**Better Dwemer Spider Textures v1.1**](https://www.nexusmods.com/skyrim/mods/51270?tab=files): Get your Dwemer Spiders ready for their closeups with these brilliant and astounding new textures, built from the ground up with top-quality Dwarven Ingots and entirely too many Photoshop layers. Guaranteed to improve spider productivity by up to 42 percent.
+- Needs processed by Cathedral Assets Optimizer with the following settings enabled: Process meshes, Full optimization, Always process headparts, Resave meshes. Process textures, necessary optimization, Compress textures, Generate mipmaps.  
 
 [**KS Hairdos SSE v1.8**](https://www.nexusmods.com/skyrimspecialedition/mods/6817?tab=files): KS Hairdos is a hair pack that contains 922 hairstyles. 830 hairstyles are for females, 92 are for males.
 
