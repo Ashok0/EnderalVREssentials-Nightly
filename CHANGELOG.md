@@ -32,7 +32,7 @@ New Mods
 - Cinematic Light Sprite (Candles and Lanterns) v1.0: Replace candles and lantern lightsprite.
 - Organic Riften Leaves 2K v1.02: Quality textures for the fallen leaves in Riften 4K, 2K, 1K.
 - Dwemer Pipework Reworked v3.1: Rework of Dwemer pipes, including Dwemer boilers.
-- Better Dwemer Spider Textures v1.1: Get your Dwemer Spiders ready for their closeups with these brilliant and astounding new textures, built from the ground up with top-quality Dwarven Ingots and entirely too many Photoshop layers. Guaranteed to improve spider productivity by up to 42 percent.
+- Better Dwemer Spider Textures 4096 Pixel Standard v1.1: Get your Dwemer Spiders ready for their closeups with these brilliant and astounding new textures, built from the ground up with top-quality Dwarven Ingots and entirely too many Photoshop layers. Guaranteed to improve spider productivity by up to 42 percent.
 - Nightingale Pride 4K SSE Edition - With Gems v1.0: High Resolution, Lore Friendly Retexture Of Nightingales Bow and Blade. Polished for SSE EDITION.
 - Auriels Holy Bow - REDUX v4.0: I am proud to present a totally remade version of my Auriel's Holy bow mod for Skyrim Special Edition. This mod adds a really cool looking glow to the Auriel's Bow from the Dawnguard DLC.
 - SC - Mature Skin Specs - CBBE - More Contrast v1.0: A re-upload of the popular Mature Skins for CBBE or UNP. Compatible with CBBE Special and UUNP Special.
