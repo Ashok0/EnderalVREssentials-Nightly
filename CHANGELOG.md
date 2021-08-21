@@ -53,6 +53,7 @@ Updated Mods
 - Enderal VR v2.9.2: Minor fix causing a CTD in the begining of the game (nif testing file) thanks to Bolzenschuss and Ashok0.
 - VR FPS Stabilizer v1.2.2: Added LODcitychange and LODinteriorchange options to the ini to turn off LODs in cities and/or interiors. Disabled by default.
 - DynDOLOD Resources SE v3.00 Alpha-11
+- HIGGS v1.4.1: Fix broken transforms for two-handed weapons when using left-handed mode.
 - NavigateVR v1.5: Updated with new custom Enderalean map.
 - Dual Wield Block VR v1.6: No longer treat two-handed weapons as a one-handed weapon + unarmed. This made it so that your offhand while two-handing could trigger a block, and really this mod had no business affecting two-handed weapons at all.
 - Embers XD v2.2.4: An overhaul of campfires and other fire sources.
