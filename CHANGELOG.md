@@ -64,6 +64,7 @@ Updated Mods
 
 Removed Mods
 - Deflection v1.8:  Redundant with Strike Obstruction Systems - Combat Blocking Overhaul.
+- Pine Branches Redone 4K v2.0: Redundant with Enhanced Vanilla Trees.
 - Yee: A New Snowflake Mod - Cathedral Concept v1.0: Redundant with Ultra HD Transparent Snowflakes.
 - Undercity Relit v1.0: Removed due to possible stability issues.
 - Dwemer Automatons Glowmapped v2.2: Redundant with Better Dwemer Spider Textures by Naitrii.
