@@ -951,7 +951,7 @@ Note that many DynDOLOD guides on the Web are heavily outdated or are not relev
 #### xLODGen/TexGen/DynDOLOD Configuration 
 
 1.  Finalize your MO2 load order.
-2.  If you wish to reset your xLODGen/TexGen/DynDOLOD settings to default, remove all files in the following location: C:\Users\(Username)\AppData\Local\Skyrim VR\
+2.  If you wish to reset your xLODGen/TexGen/DynDOLOD settings to default, remove all files in the following location: C:\Users\ (Username)\AppData\Local\Skyrim VR\
 3.  Install [Microsoft Visual C++ Redistributable for Visual Studio 2015, 2017 and 2019](https://aka.ms/vs/16/release/vc_redist.x64.exe) if you don't already have it installed.
 4. Extract [SKSE VR](https://skse.silverlock.org/beta/sksevr_2_00_12.7z) to your Skyrim VR installation folder.  If you have already setup Skyrim VR or Enderal VR, this step has most likely already been completed.
 5. Install the following prerequisite mods through Mod Organizer 2 with default settings (place them high in the load order above all texture mods):
