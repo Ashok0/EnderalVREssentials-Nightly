@@ -592,8 +592,9 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**Better Dirt Cliffs and Alphas v4.0**](https://www.nexusmods.com/skyrimspecialedition/mods/34035?tab=files): Overhaul of the meshes & alpha channels involved in blending the top of the dirt cliff with the roots, and the roots with the wall. Covers SMIM meshes too.
 
 [**Enhanced Vanilla Trees SE v2.1**](https://www.nexusmods.com/skyrimspecialedition/mods/11008?tab=files): Better Vanilla Trees? Sign me up! All-In-One tree overhaul package with enhanced Vanilla trees. Supports RAT, SFO Branches, SFO Snowy Pines, and more!
+- Installed with Enhanced Vanilla Meshes, Enhanced Tree Clutter, Firewood Textures.
 - Delete ESP files.
-- Remove DynDOLOD folders (which contain billboards) as DynDOLOD generates its own superior billboards.
+- Remove DynDOLOD and Terrain folders (which contain billboards) as DynDOLOD generates its own superior billboards.
 
 [**HD Dead Trees and Driftwoods v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/35308?tab=files): Combine "4K Parallax Treebark" and "Spooknik's - Tundra Trees HD" to achieve HD dead trees and driftwoods. Contains original mods port.
 
