@@ -596,6 +596,13 @@ If you are using a language pack, you may need to change the font used by Dear D
 - Delete ESP files.
 - Remove DynDOLOD and Terrain folders (which contain billboards) as DynDOLOD generates its own superior billboards.
 
+[**Skyrim Flora Overhaul (No Grass) v2.72H**](https://www.nexusmods.com/skyrimspecialedition/mods/2154?tab=files): Snowy trees are much more detailed with heavy snow, some are bent by the snow.
+- Remove ESP files.
+- Remove DynDOLOD folder.
+- Under Meshes folder, remove all files with the exception of \Meshes\Landscape\Trees\treepineforestsnow*.*
+- Under Textures folder, remove all files with the exception of \Textures\Landscape\Trees\*.*
+- The above steps will essentially disable SFO aside from the snowy pine textures and meshes which will override EVT for better snow pines.
+
 [**HD Dead Trees and Driftwoods v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/35308?tab=files): Combine "4K Parallax Treebark" and "Spooknik's - Tundra Trees HD" to achieve HD dead trees and driftwoods. Contains original mods port.
 
 [**CC's Enhanced Ore Veins SSE Edition v8.0**](https://www.nexusmods.com/skyrimspecialedition/mods/1306?tab=files): A texture replacement for the ore veins found in mines and around skyrim. This mod also retextures the mined ores and the ingots.
