@@ -12,6 +12,7 @@ New Mods
 - Realistic HD Mods Remastered Collection - 2K v1.0: Collection of all Remastered Realistic HD Series Mods for SSE (All in One).  
 - Better Wine Labels - Vanilla v1.0: HD wine label textures for the vanilla wine label and ones added by Legacy of the Dragonborn.
 - Better Wine Labels - San's Spiced Wine  v1.1: 2x size and cleaner than vanilla but not that much of an improvement (the label is very small in-game). Can be used with either of the main files.
+- Skyrim Flora Overhaul (No Grass) v2.72H: Snowy trees are much more detailed with heavy snow, some are bent by the snow.
 - Enhanced Blood Textures SE (LITE VERSION) v1.1: A blood overhaul mod.
 - WiZkiD Carriages v1.1: A complete replacer for all carriages with high quality textures.
 - HD Transparent Smaller Snowflakes 2K v1.0: This mod replaces the default Skyrim snowflakes with Ultra HD Ultra Realistic Transparent Crystal Snowflakes. 
