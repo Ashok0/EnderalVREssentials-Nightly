@@ -807,6 +807,8 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Amanda v1.4.2**](https://www.nexusmods.com/enderalspecialedition/mods/15?tab=files): Adds female follower to The Drunken Bee tavern in Riverville.
 
+[**Jespar Has Steel SE v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/239?tab=files): Jespar no longer uses toothpicks in battles of life and death.
+
 [**Seagulls of Skyrim v1.4**](https://www.nexusmods.com/skyrimspecialedition/mods/52153?tab=files): This mod adds seagulls along the coasts of Skyrim and Solstheim, with animated models and sounds from Mr. Siika Seagulls for Skyrim SE!
 
 [**Enderal SE - Seagulls of Skyrim v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/204?tab=files): Compatibility patch for Seagulls of Skyrim which adds them to the world of Vyn.
