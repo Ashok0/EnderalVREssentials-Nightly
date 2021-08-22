@@ -46,6 +46,7 @@ New Mods
 - Sighted Crossbows VR v1.2: Sights for Crossbows Skyrim VR.
 - Simple Iron Sights for Sighted Crossbows VR v1.0: Changes the sights included in Sighted Crossbows VR into more of a simplistic, medieval style.
 - Advanced Alloys Carbon Fiber Reinforced Dwarven Crossbow v1.0: Texture replacer for Dwemer crossbow.
+- Jespar Has Steel SE v1.0: Jespar no longer uses toothpicks in battles of life and death.
 
 Updated Tools
 - DynDOLOD Standalone 3.0 Alpha-39
