@@ -961,11 +961,11 @@ Note that many DynDOLOD guides on the Web are heavily outdated or are not relev
 	- Place this mod BELOW all other Skyrim SE texture mods in your mod load order in the left window pane.
 	- Move your Terrain LOD .esm plugin ABOVE Enderal - Forgotten Stories.esm in the right window pane.
 7. If using [Enhanced Vanilla Trees SE](https://www.nexusmods.com/skyrimspecialedition/mods/11008?tab=files) (highly recommended), delete the ESP files (incompatible with Enderal VR) and delete the DynDOLOD and Terrain folders (which contain billboards) as DynDOLOD generates its own superior billboards.
-8. For snowy pine trees, you can install [Enhanced Vanilla Trees SE - Alternative Branches v2.1.1](https://www.nexusmods.com/skyrimspecialedition/mods/11008?tab=files) (Not recommended as this method requires a plugin built specificallyy for Skyrim SE) or you can install [Skyrim Flora Overhaul SE](https://www.nexusmods.com/skyrimspecialedition/mods/2154?tab=files) (Recommended as this method requires no plugins).  Install SFO after EVT, then perform the following steps:
-- Remove ESP files.
-- Remove DynDOLOD folder.
-- Under Meshes folder, remove all files with the exception of \Meshes\Landscape\Trees\treepineforestsnow*.*
-- Under Textures folder, remove all files with the exception of \Textures\Landscape\Trees\*.*
+8. For snowy pine trees, you can install [Enhanced Vanilla Trees SE - Alternative Branches v2.1.1](https://www.nexusmods.com/skyrimspecialedition/mods/11008?tab=files) (Not recommended as this method requires a plugin built specifically for Skyrim SE) or you can install [Skyrim Flora Overhaul (No Grass) v2.72H](https://www.nexusmods.com/skyrimspecialedition/mods/2154?tab=files) (Recommended as this method requires no plugins).  Install SFO after EVT, then perform the following steps:
+		- Remove ESP files.
+		- Remove DynDOLOD folder.
+		- Under Meshes folder, remove all files with the exception of \Meshes\Landscape\Trees\treepineforestsnow*.*
+		- Under Textures folder, remove all files with the exception of \Textures\Landscape\Trees\*.*
 9. Download [xLODGen](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-81-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/) and extract the contents to a new \xLODGen\ directory that is outside of special OS folders like 'Programs Files' or 'Program Files (x86)', Users, Documents, Desktop, Downloads and also not in SteamApps, game or any mod manager folders.
 10. Download [DynDOLOD 3.00](https://www.nexusmods.com/skyrimspecialedition/mods/32382?tab=files) under "Miscellaneous Files" and extract the contents to a new \DynDOLOD\ directory that is outside of special OS folders like 'Programs Files' or 'Program Files (x86)', Users, Documents, Desktop, Downloads and also not in SteamApps, game or any mod manager folders.
 11. Launch Mod Organizer 2.
