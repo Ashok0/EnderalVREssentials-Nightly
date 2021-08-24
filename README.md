@@ -543,7 +543,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**El Sopa - HD Medieval Anvil SE v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/48825?tab=files): New Model And Textures For The Anvil . The Hammer And Tongs. Performance Friendly. Ultra Immersive. All Resolutions. No ESP.
 
-[**Embers XD v2.2.5**](https://www.nexusmods.com/skyrimspecialedition/mods/37085?tab=files): An overhaul of campfires and other fire sources.
+[**Embers XD v2.2.6**](https://www.nexusmods.com/skyrimspecialedition/mods/37085?tab=files): An overhaul of campfires and other fire sources.
 - Use "Vanilla Flames" as vanilla flames look better in VR.
 - Install Forges and Lava Craters Add-On.
 - Delete ESP files.
