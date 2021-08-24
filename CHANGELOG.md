@@ -59,11 +59,10 @@ Updated Mods
 - HIGGS v1.4.2: Fix the vrik body disappearing in certain cases while holding a weapon with two hands.  Vrik's head bobbing is now disabled when holding a weapon with two hands.
 - NavigateVR v1.5: Updated with new custom Enderalean map.
 - Dual Wield Block VR v1.6: No longer treat two-handed weapons as a one-handed weapon + unarmed. This made it so that your offhand while two-handing could trigger a block, and really this mod had no business affecting two-handed weapons at all.
-- Embers XD v2.2.4: An overhaul of campfires and other fire sources.
 - Caliente's Beautiful Bodies Enhancer - CBBE v1.6.2: Fixed some seams, fixed zaps and size sliders for bow ties, and added mage gloves from USSEP to the vanilla outfits.
 - Stronger Souls v1.1: Fixed a bug where the ghost shader was missing.
 - JS Instruments of Skrim SE: Removed ESP file due to FormID problem.
-- Embers XD v2.2.5: Braziers that can be activated/deactivated now work correctly.
+- Embers XD v2.2.6: Core content now includes Embers XD style makeover for giant fires.
 - Splashes of Skyrim v1.3: Fixed false positives where splashes would trigger on adjacent surfaces with same water height. Splashes will no longer trigger on surfaces with water havok material, as these are already covered by vanilla.
 
 Removed Mods
