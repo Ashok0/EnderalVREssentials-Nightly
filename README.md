@@ -719,12 +719,6 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Frostville SE v1.02**](https://www.nexusmods.com/enderalspecialedition/mods/127?tab=files): A small but functional settlement overhaul for the Frostcliff Tavern.
 
-[**Bathhouse Relit v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/90): Makes subtle enhancement to the lighting of the bathhouse.
-
-[**Dal Mercer Relit v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/134?tab=files): Relights Dal'Mercer's Estate.
-
-[**Agnod Lighter v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/131?tab=files): Makes the Agnod dungeon a bit lighter.
-
 [**White Hearth - Enderal SE v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/137?tab=files): A new player home near Ark (port to SE).
 
 [**Thalgard Monastery v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/133?tab=files): Forgotten Dungeons implements cut content, originally made by SureAI, with updates and fixes to fit seamlessly into the game.
