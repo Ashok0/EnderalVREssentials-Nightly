@@ -883,7 +883,18 @@ Recommended game settings are listed below.  Note that the above Wabbajack insta
 7. Open skyrimprefs.ini and add this text somewhere under the [VRWand] section: fBowHoldOffsetY=-6.6 (Tweaks bows for VR)
 8. Open skyrimprefs.ini and add this text somewhere under the [Particles] section: iMaxDesired=1500 (Tweaks Embers XD)
 9. Open skyrimprefs.ini and add this text somewhere under the [Display] section: bUseTAA = 1 (Fixes menus in Enderal VR; Requires TAA tweaking via VR FPS Stabilizer)
-10. Open skyrimprefs.ini and REPLACE all text under the [LOD] section with the following lines for higher performance (**OPTIONAL; Will cause visual pop-in issues.  Only recommended for very low end GPUs**): 
+10. Open skyrimprefs.ini and add this text somewhere under the [Display] and [Trees] section: (Recommended tree settings from [STEP guide](https://stepmodifications.org/wiki/Guide:Skyrim_Tree_Settings)): 
+
+         [Display]	 
+         fMeshLODLevel1FadeTreeDistance=6144
+         fMeshLODLevel2FadeTreeDistance=4096 
+         fTreesMidLODSwitchDist=8192	 
+
+         [Trees] 
+         bRenderSkinnedTrees=1
+         uiMaxSkinnedTreesToRender=200
+	
+11. Open skyrimprefs.ini and REPLACE all text under the [LOD] section with the following lines for higher performance (**OPTIONAL; Will cause visual pop-in issues.  Only recommended for very low end GPUs**): 
 
         fLODFadeOutMultObjects=3.0000
         fLODFadeOutMultItems=2.0000
