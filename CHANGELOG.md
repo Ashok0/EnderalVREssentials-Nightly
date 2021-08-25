@@ -4,6 +4,7 @@ Release date: August 15th, 2021
 New Mods
 - Strike Obstruction Systems - Combat Blocking Overhaul v1.03: Blocking can now mitigate damage from blocked Spells, Shouts, Enchants, and Poisons. Timed Blocks can provide greater mitigation, redirect parried spells & arrows, and inflict various debuffs. All features configurable via MCM (Light Plugin).
 - SMIM v2.08: A massive project to greatly improve the appearance of countless static 3D models in Skyrim. Basically, this is my attempt to make the Skyrim architecture, clutter, furniture, and landscaping much nicer.
+- Septentrional Landscapes SE - 2K v1.3.2: Landscape textures made with 3D Scans. 8, 4 & 2K versions available.
 - 4K SMIM Whiterun Bench v1.1: Retextures the SMIM bench in Whiterun with darker and dirtier options available.
 - 4K SMIM Furniture Improvement v1.2: A 4K retexture of SMIM furniture textures.
 - 4K SMIM Furniture Chest v1.1: A retexture of the SMIM furniture chests, Upperclass, Weathered, Open and Snow. 4K or 2K.
@@ -36,6 +37,7 @@ New Mods
 - Better Dwemer Spider Textures 4096 Pixel Standard v1.1: Get your Dwemer Spiders ready for their closeups with these brilliant and astounding new textures, built from the ground up with top-quality Dwarven Ingots and entirely too many Photoshop layers. Guaranteed to improve spider productivity by up to 42 percent.
 - Nightingale Pride 4K SSE Edition - With Gems v1.0: High Resolution, Lore Friendly Retexture Of Nightingales Bow and Blade. Polished for SSE EDITION.
 - Auriels Holy Bow - REDUX v4.0: I am proud to present a totally remade version of my Auriel's Holy bow mod for Skyrim Special Edition. This mod adds a really cool looking glow to the Auriel's Bow from the Dawnguard DLC.
+- Terrain LOD for Septentrional Landscapes v1.1: New overhaul for Terrain LOD landscape textures that corresponds with the texture mods you have installed. Generated with xLODGen. Also contains Tree LOD.
 - SC - Mature Skin Specs - CBBE - More Contrast v1.0: A re-upload of the popular Mature Skins for CBBE or UNP. Compatible with CBBE Special and UUNP Special.
 - Sting of the Blue Islands Replacer v1.0: Replaces that Ugly Scimitar with something worthy of betraying the Golden Sickle for.
 - Bowgasm SE - Nicos AIO Vanilla Bow Replacer SE v1.1: Optional file is a non-plug in replacer for nearly all Vanilla bows in game with higher poly models, more realistic shapes, and higher resolution textures.
@@ -75,3 +77,4 @@ Removed Mods
 - Agnod Lighter v1.0: Removed due to possible stability issues.
 - Dwemer Automatons Glowmapped v2.2: Redundant with Better Dwemer Spider Textures by Naitrii.
 - Enderal SE - Dwemer Automatons Glowmapped v1.0: Redundant with Better Dwemer Spider Textures by Naitrii. 
+- Tamrielic Textures SE LOD v1.3.0: Redundant with Terrain LOD for Septentrional Landscapes.
