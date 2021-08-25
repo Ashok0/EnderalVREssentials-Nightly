@@ -65,7 +65,6 @@ Updated Mods
 - Stronger Souls v1.1: Fixed a bug where the ghost shader was missing.
 - JS Instruments of Skrim SE: Removed ESP file due to FormID problem.
 - Embers XD v2.2.6: Core content now includes Embers XD style makeover for giant fires.
-- Splashes of Skyrim v1.3: Fixed false positives where splashes would trigger on adjacent surfaces with same water height. Splashes will no longer trigger on surfaces with water havok material, as these are already covered by vanilla.
 
 Removed Mods
 - Deflection v1.8:  Redundant with Strike Obstruction Systems - Combat Blocking Overhaul.
