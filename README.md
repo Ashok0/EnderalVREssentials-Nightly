@@ -594,7 +594,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 - Installed with Recommended options (with asterisk), Realistic Aspen Trees, SFO Snow Pines.
 - Keep \DYNDOLOD\ folders.  Used by DynDOLOD 3.
 - Delete ESP files.  
-- Navigate to \Enhanced Vanilla Trees SE\*.* and remove SRG_ prefix from filenames.  Required when not using plugin.
+- Navigate to \Enhanced Vanilla Trees SE\ and remove SRG_ prefix from filenames.  Required when not using plugin.
 
 [**HD Dead Trees and Driftwoods v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/35308?tab=files): Combine "4K Parallax Treebark" and "Spooknik's - Tundra Trees HD" to achieve HD dead trees and driftwoods. Contains original mods port.
 
@@ -961,7 +961,7 @@ Note that many DynDOLOD guides on the Web are heavily outdated or are not relev
 6. Install a terrain LOD mod through Mod Organizer 2 that corresponds with the lowest texture mod for terrain that you have installed.  If using Septentrional Landscapes SE, the [Terrain LOD for Septentrional Landscapes](https://www.nexusmods.com/skyrimspecialedition/mods/39563) mod is recommended.
 	- Place this mod BELOW all other Skyrim SE texture mods in your mod load order in the left window pane.
 	- Move your Terrain LOD .esm plugin ABOVE Enderal - Forgotten Stories.esm in the right window pane.
-7. If using [Enhanced Vanilla Trees SE](https://www.nexusmods.com/skyrimspecialedition/mods/11008?tab=files) (highly recommended), install all recommended options (with asterisk) + RAT + SFO Snow Pines, delete the ESP files (untested with Enderal VR), and navigate to \Enhanced Vanilla Trees SE\*.* and remove SRG_ prefix from all filenames (required if not using plugin). 
+7. If using [Enhanced Vanilla Trees SE](https://www.nexusmods.com/skyrimspecialedition/mods/11008?tab=files) (highly recommended), install all recommended options (with asterisk) + RAT + SFO Snow Pines, delete the ESP files (untested with Enderal VR), and navigate to \Enhanced Vanilla Trees SE\ and remove SRG_ prefix from all filenames (required if not using plugin). 
 8. Download [xLODGen](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-81-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/) and extract the contents to a new \xLODGen\ directory that is outside of special OS folders like 'Programs Files' or 'Program Files (x86)', Users, Documents, Desktop, Downloads and also not in SteamApps, game or any mod manager folders.
 9. Download [DynDOLOD 3.00](https://www.nexusmods.com/skyrimspecialedition/mods/32382?tab=files) under "Miscellaneous Files" and extract the contents to a new \DynDOLOD\ directory that is outside of special OS folders like 'Programs Files' or 'Program Files (x86)', Users, Documents, Desktop, Downloads and also not in SteamApps, game or any mod manager folders.
 10. Launch Mod Organizer 2.
