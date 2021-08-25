@@ -61,6 +61,7 @@ Updated Mods
 - HIGGS v1.4.2: Fix the vrik body disappearing in certain cases while holding a weapon with two hands.  Vrik's head bobbing is now disabled when holding a weapon with two hands.
 - NavigateVR v1.5: Updated with new custom Enderalean map.
 - Dual Wield Block VR v1.6: No longer treat two-handed weapons as a one-handed weapon + unarmed. This made it so that your offhand while two-handing could trigger a block, and really this mod had no business affecting two-handed weapons at all.
+- Enhanced Vanilla Trees v2.2.0: General updates. New 3D hybrid LOD models. 
 - Caliente's Beautiful Bodies Enhancer - CBBE v1.6.2: Fixed some seams, fixed zaps and size sliders for bow ties, and added mage gloves from USSEP to the vanilla outfits.
 - Stronger Souls v1.1: Fixed a bug where the ghost shader was missing.
 - JS Instruments of Skrim SE: Removed ESP file due to FormID problem.
