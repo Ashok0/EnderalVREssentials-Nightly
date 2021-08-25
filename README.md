@@ -654,7 +654,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Terrain LOD for Septentrional Landscapes v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/39563): New overhaul for Terrain LOD landscape textures that corresponds with the texture mods you have installed. Generated with xLODGen. Also contains Tree LOD.
 
-[**FusaFusa Project - Fluffy Animals SE v14.2**](FusaFusa Project - Fluffy Animals SE): Increase Fur Volume of Animals. They become more fluffy.
+[**FusaFusa Project - Fluffy Animals SE v14.2**](https://www.nexusmods.com/skyrimspecialedition/mods/5514?tab=files): Increase Fur Volume of Animals. They become more fluffy.
 
 [**Smaller Insects v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/51551?tab=files): This mod aims to resize the scale of animals in Skyrim to give a better immersive feelig in VR / First person.
 
@@ -947,9 +947,8 @@ Note that many DynDOLOD guides on the Web are heavily outdated or are not relev
 #### Quickstart Guide
 1. Install the following prerequisite mods: SKSE VR, PapyrusUtil VR, DynDOLOD Resources SE 3.0
 2. Finalize load order in Mod Organizer 2.
-3. If using landscape texture mods (Noble + Tamrielic Textures recommended) and tree mods (EVT + SFO snowy pines recommended), remove all plugins and billboards included with these mods. 
+3. If using landscape texture mods (Noble + Tamrielic + Septentrional recommended) and tree mods (EVT recommended), remove all plugins and billboards included with these mods. 
 4. Install a terrain LOD mod and place it after other Skyrim SE texture mods.  Enable your Terrain LOD .esm plugin and place it at the very top of the plugin list above "Enderal - Forgotten Stories.esm".
-	* [Tamrielic Textures Terrain LOD](https://www.nexusmods.com/skyrimspecialedition/mods/39563?tab=files) works very well with [Tamrielic Textures](https://www.nexusmods.com/skyrimspecialedition/mods/32973?tab=files).  
 5. Use xLODGen to generate terrain LOD meshes and textures into a dedicated output folder and then install as a mod.
 6. Use TexGen to generate object LOD textures and tree/grass LOD billboards into a dedicated output folder and then install as a mod.
 7. Optionally remove your Terrain LOD .esm plugin as it is no longer needed after running xLODGen and TexGen. 
@@ -965,7 +964,7 @@ Note that many DynDOLOD guides on the Web are heavily outdated or are not relev
 	- [SKSE VR](https://skse.silverlock.org/beta/sksevr_2_00_12.7z) (Scripts folder only)
 	- [PapyrusUtil VR - Scripting Utility Functions](https://www.nexusmods.com/skyrimspecialedition/mods/13048?tab=files) (Under "Miscellaneous Files")
 	- [DynDOLOD Resources SE 3.00](https://www.nexusmods.com/skyrimspecialedition/mods/32382?tab=files) (Under "Miscellaneous Files")
-6. Install a terrain LOD mod through Mod Organizer 2 that corresponds with the lowest texture mod for terrain that you have installed.  If using Tamrielic Textures, the [Terrain LOD for Tamrielic Textures](https://www.nexusmods.com/skyrimspecialedition/mods/39563) mod is recommended.
+6. Install a terrain LOD mod through Mod Organizer 2 that corresponds with the lowest texture mod for terrain that you have installed.  If using Septentrional Landscapes SE, the [Terrain LOD for Septentrional Landscapes](https://www.nexusmods.com/skyrimspecialedition/mods/39563) mod is recommended.
 	- Place this mod BELOW all other Skyrim SE texture mods in your mod load order in the left window pane.
 	- Move your Terrain LOD .esm plugin ABOVE Enderal - Forgotten Stories.esm in the right window pane.
 7. If using [Enhanced Vanilla Trees SE](https://www.nexusmods.com/skyrimspecialedition/mods/11008?tab=files) (highly recommended), delete the ESP files (incompatible with Enderal VR) and delete the DynDOLOD and Terrain folders (which contain billboards) as DynDOLOD generates its own superior billboards.
