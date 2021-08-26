@@ -985,6 +985,7 @@ Note that many DynDOLOD guides on the Web are heavily outdated or are not relev
 17.  Navigate to your \DynDOLOD\ folder from Step 9 and move the \DynDOLOD_Output\ folder to C:\ (Your Game Folder)\mods.  Refresh MO2 with "F5" and enable DynDOLOD_Output in the left window pane. Place this mod directly under "TexGen_Output".
 18.  Confirm "xLODGen_Output", "TexGen_Output", and "DynDOLOD_Output" are ticked in the left window pane and ensure DynDOLOD.esp is ticked in the right window pane.
 19.  Navigate to \Enhanced Vanilla Trees SE\ folder and delete the ESP file (untested with Enderal VR), then navigate to \Enhanced Vanilla Trees SE\meshes\landscape\trees\ and remove the SRG_ prefix from all filenames (required if not using plugin). 
+		- This step may be unnecessary but avoids potential compatability issues with the EVT plugin.
 20.  Revert the upper right dropdown bar back to "SKSE".
 21.  DynDOLOD is now successfully configured!  You should see FAR more detail in the distance when looking across large open areas of the game! (You may need to re-run this process if you change your load order.)
 
