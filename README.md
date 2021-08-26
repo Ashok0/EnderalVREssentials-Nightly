@@ -1024,7 +1024,13 @@ Required Mod Load Order (left side):
 * moreHUD VR 
 * SkyrimVRTools
 * Enderal VR patch
-* (everything else)
+* (everything else; Enderal SE specific mods should be placed near the bottom)
+* xLODGen_Output
+* TexGen_Output
+* DynDOLOD_Output
+* Synthesis_Output
+* (any conflict resolution patches generated with SSEEdit)
+* Allow Fast Travel (Must be placed at the very bottom as the above mods alter world space which will break fast traveling) 
 
 Required Plugins Load Order (right side):
 * Enderal Forgotten Stories.esm
@@ -1035,7 +1041,7 @@ Required Plugins Load Order (right side):
 * (everything else; Enderal SE specific plugins should be placed near the bottom)
 * DynDOLOD.esp (Generated with the DynDOLOD utility and should be placed near the bottom)
 * Synthesis.esp (Generated with the Synthesis utility and should be placed beneath DynDOLOD) 
-* (any conflic resoluion patches generated with SSEEdit)
+* (any conflic resolution patches generated with SSEEdit)
 * AllowFastTravel.esp (Must be placed at the very bottom as the above plugins alter world space which will break fast traveling) 
 
 When installing mods, if prompted to extract BSA files, select "No".
