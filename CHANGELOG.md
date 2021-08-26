@@ -64,7 +64,7 @@ Updated Mods
 - Caliente's Beautiful Bodies Enhancer - CBBE v1.6.2: Fixed some seams, fixed zaps and size sliders for bow ties, and added mage gloves from USSEP to the vanilla outfits.
 - Stronger Souls v1.1: Fixed a bug where the ghost shader was missing.
 - JS Instruments of Skrim SE: Removed ESP file due to FormID problem.
-- Embers XD v2.2.6: Core content now includes Embers XD style makeover for giant fires.
+- Embers XD v2.2.7: A number of improvements to the giant fires.
 
 Removed Mods
 - Deflection v1.8:  Redundant with Strike Obstruction Systems - Combat Blocking Overhaul.
