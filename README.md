@@ -836,6 +836,10 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Replace spiders with wolfs and bears v1.0.1**](https://www.nexusmods.com/enderalspecialedition/mods/31?tab=files): Replaces spiders with wolves and bears.
 
+[**SSEEdit_Output**]: Conflict resolution patches generated with [**SSEEdit**](https://www.nexusmods.com/skyrimspecialedition/mods/164).
+
+[**Allow Fast Travel v1.3**](https://www.nexusmods.com/enderalspecialedition/mods/42?tab=files): Allows Fast Travel in Enderal.
+
 [**Nemesis_Output**]: Flinching Animations patch generated with [**Nemesis**](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main/releases). 
 
 [**xLODGen_Output**]: Terrain LOD patch generated with [**xLODGen**](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-81-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/).
@@ -845,10 +849,6 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**DynDOLOD_Output**]: Object and tree LOD patch generated with [**DynDOLOD Standalone 3.0**](https://www.nexusmods.com/skyrimspecialedition/mods/32382?tab=files). 
 
 [**Synthesis_Output**]: SkyVRaan patch generated with [**Synthesis**](https://github.com/Mutagen-Modding/Synthesis/releases).
-
-[**SSEEdit_Output**]: Conflict resolution patches generated with [**SSEEdit**](https://www.nexusmods.com/skyrimspecialedition/mods/164).
-
-[**Allow Fast Travel v1.3**](https://www.nexusmods.com/enderalspecialedition/mods/42?tab=files): Allows Fast Travel in Enderal.
 
 ## GAME TWEAKS 
 Recommended game settings are listed below.  Note that the above Wabbajack install has already been pre-configured with the following tweaks which are merely listed for reference.
