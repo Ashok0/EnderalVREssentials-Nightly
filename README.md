@@ -1006,9 +1006,9 @@ SkyVRaan adds shimmering water effects to the game.  SkyVRaan has been pre-confi
 12. Click RUN icon
 13. Wait for the utility to report "Completed" and close Synthesis.  If Synthesis errors out when patching SkyVRaan, try the following:
 	- If you get a "Blocking Error", you may be using an outdated version of Synthesis.  To fix this problem, perform the following steps.
+		-  Try re-running Synthesis.
 		-  Delete any files from C:\Users\ (Username)\AppData\Local\Temp\Synthesis
 		-  Download and run the latest version of Synthesis from Github [HERE](https://github.com/Mutagen-Modding/Synthesis/releases)
-	- Select SkyVRaanAutoPatcher and SkyVRaanWeatherPatcher in the left hand bar and set "Mutagen" and "Synthesis" to "Latest".
 14. Right click on "Overwrite" and select "Create Mod".  Enter a custom name i.e. Synthesis_Output and click OK.
 15. Tick "Synthesis_Output" in the left window pane and make sure "Synthesis.esp" is near the bottom of your Plugin load order and ticked in the right window pane. (Place it directly after "DynDOLOD_Output" if xLODGen/TexGen/DynDOLOD have already been run.) 
 16. Revert the upper right dropdown bar back to "SKSE".
