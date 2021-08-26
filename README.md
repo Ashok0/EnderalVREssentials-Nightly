@@ -938,14 +938,16 @@ DynDOLOD has been pre-configured with Wabbajack but the configuration process ha
 Note that many DynDOLOD guides on the Web are heavily outdated or are not relevant for patching Enderal VR.  While DynDOLOD is a dynamic patch and thus a bit more complicated to setup versus standard mods, the processs is fairly quick once you understand the general workflow.  The following steps outline everything necessary to setup DynDOLOD with Enderal VR.
 
 #### Quickstart Guide
-1. Install the following prerequisite mods: SKSE VR, PapyrusUtil VR, DynDOLOD Resources SE 3.0
-2. Finalize load order in Mod Organizer 2.
-3. If using landscape texture mods (Noble + Tamrielic + Septentrional recommended) and tree mods (EVT recommended), remove all plugins and billboards included with these mods. 
-4. Install a terrain LOD mod and place it after other Skyrim SE texture mods.  Enable your Terrain LOD .esm plugin and place it at the very top of the plugin list above "Enderal - Forgotten Stories.esm".
-5. Use xLODGen to generate terrain LOD meshes and textures into a dedicated output folder and then install as a mod.
-6. Use TexGen to generate object LOD textures and tree/grass LOD billboards into a dedicated output folder and then install as a mod.
-7. Optionally remove your Terrain LOD .esm plugin as it is no longer needed after running xLODGen and TexGen. 
-8. Use DynDOLOD to generate object LOD (includes grass LOD if enabled), tree and optional dynamic LOD into a dedicated output folder and then install as a mod.
+1. Install Visual C++ Redistributable for Visual Studio 2015, 2017 and 2019
+2. Install the following prerequisite mods: SKSE VR, PapyrusUtil VR, DynDOLOD Resources SE 3.0
+3. Finalize load order in Mod Organizer 2.
+4. If using landscape texture mods (Noble + Tamrielic + Septentrional recommended) and tree mods (EVT recommended), remove any billboards included with these mods (You can keep EVT's \DYNDOLOD\ folders). 
+5. Install a terrain LOD mod (that corresponds with the lowest texture mod used for terrain) and place it after other Skyrim SE texture mods.  Enable your Terrain LOD .esm plugin and place it at the very top of the plugin list above "Enderal - Forgotten Stories.esm".
+6. Use xLODGen to generate terrain LOD meshes and textures into a dedicated output folder and then install as a mod.
+7. Optionally remove your Terrain LOD .esm plugin as it is no longer needed after running xLODGen. 
+8. Use TexGen to generate object LOD textures and tree/grass LOD billboards into a dedicated output folder and then install as a mod.
+9. Use DynDOLOD to generate object LOD (includes grass LOD if enabled), tree and optional dynamic LOD into a dedicated output folder and then install as a mod.
+10. (Optional) Remove the Enhanced Vanilla Tree .esp file to avoid potential plugin issues.  Then navigate to \Enhanced Vanilla Trees SE\meshes\landscape\trees\ and remove the SRG_ prefix from all filenames (required if not using plugin). 
 
 #### xLODGen/TexGen/DynDOLOD Configuration 
 
@@ -959,8 +961,8 @@ Note that many DynDOLOD guides on the Web are heavily outdated or are not relev
 	- [DynDOLOD Resources SE 3.00](https://www.nexusmods.com/skyrimspecialedition/mods/32382?tab=files) (Under "Miscellaneous Files")
 6. Install a terrain LOD mod through Mod Organizer 2 that corresponds with the lowest texture mod for terrain that you have installed.  If using Septentrional Landscapes SE, the [Terrain LOD for Septentrional Landscapes](https://www.nexusmods.com/skyrimspecialedition/mods/39563) mod is recommended.
 	- Place this mod BELOW all other Skyrim SE texture mods in your mod load order in the left window pane.
-	- Move your Terrain LOD .esm plugin ABOVE Enderal - Forgotten Stories.esm in the right window pane and make sure the plugin is ENABLED.
-7. If using [Enhanced Vanilla Trees SE](https://www.nexusmods.com/skyrimspecialedition/mods/11008?tab=files) (highly recommended), install all recommended options (with asterisk) + RAT + SFO Snow Pines.
+	- Move your Terrain LOD .esm plugin ABOVE Enderal - Forgotten Stories.esm in the right window pane and make sure the plugin is enabled.
+7. If using [Enhanced Vanilla Trees SE](https://www.nexusmods.com/skyrimspecialedition/mods/11008?tab=files) (highly recommended), install all recommended options (with asterisk) + RAT + SFO Snow Pines.  Keep the \DYNDOLOD\ folders as these are used by DynDOLOD 3.0.
 8. Download [xLODGen](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-81-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/) and extract the contents to a new \xLODGen\ directory that is outside of special OS folders like 'Programs Files' or 'Program Files (x86)', Users, Documents, Desktop, Downloads and also not in SteamApps, game or any mod manager folders.
 9. Download [DynDOLOD 3.00](https://www.nexusmods.com/skyrimspecialedition/mods/32382?tab=files) under "Miscellaneous Files" and extract the contents to a new \DynDOLOD\ directory that is outside of special OS folders like 'Programs Files' or 'Program Files (x86)', Users, Documents, Desktop, Downloads and also not in SteamApps, game or any mod manager folders.
 10. Launch Mod Organizer 2.
