@@ -939,7 +939,7 @@ Note that many DynDOLOD guides on the Web are heavily outdated or are not relev
 #### Quickstart Guide
 1. Install Visual C++ Redistributable for Visual Studio 2015, 2017 and 2019
 2. Install the following prerequisite mods: SKSE VR, PapyrusUtil VR, DynDOLOD Resources SE 3.0
-4. Install landscape texture mods (Noble + Tamrielic + Septentrional recommended) and tree mods (EVT recommended). following prerequisite mods through Mod Organizer 2 with default settings (place them high in the load order above all texture mods):
+4. Install landscape texture mods (Noble + Tamrielic + Septentrional recommended) and tree mods (EVT recommended). 
 	- If using EVT for trees, make sure ESP is enabled as it is used by DynDOLOD 3.0. 
 	- Disable any billboards that are included in tree mods (found in \data\textures\lodgen\).
 3. Finalize load order in Mod Organizer 2.
