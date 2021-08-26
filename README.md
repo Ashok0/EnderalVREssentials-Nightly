@@ -834,11 +834,12 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Frost Troll Replacer v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/121?tab=files): Replaces the model of Frost Trolls with high-quality alternatives.
 
+[**Allow Fast Travel v1.3**](https://www.nexusmods.com/enderalspecialedition/mods/42?tab=files): Allows Fast Travel in Enderal.
+- Must be placed near end of load order as any mods that alter worldspace will break fast travel.
+
 [**Replace spiders with wolfs and bears v1.0.1**](https://www.nexusmods.com/enderalspecialedition/mods/31?tab=files): Replaces spiders with wolves and bears.
 
 [**SSEEdit_Output**]: Conflict resolution patches generated with [**SSEEdit**](https://www.nexusmods.com/skyrimspecialedition/mods/164).
-
-[**Allow Fast Travel v1.3**](https://www.nexusmods.com/enderalspecialedition/mods/42?tab=files): Allows Fast Travel in Enderal.
 
 [**Nemesis_Output**]: Flinching Animations patch generated with [**Nemesis**](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main/releases). 
 
@@ -1028,12 +1029,11 @@ Required Mod Load Order (left side):
 * SkyrimVRTools
 * Enderal VR patch
 * (everything else; Enderal SE specific mods should be placed near the bottom)
+* Nemesis_Output
 * xLODGen_Output
 * TexGen_Output
 * DynDOLOD_Output
 * Synthesis_Output
-* (any conflict resolution patches generated with SSEEdit)
-* Allow Fast Travel (Must be placed at the very bottom as the above mods alter world space which will break fast traveling) 
 
 Required Plugins Load Order (right side):
 * Enderal Forgotten Stories.esm
@@ -1044,8 +1044,6 @@ Required Plugins Load Order (right side):
 * (everything else; Enderal SE specific plugins should be placed near the bottom)
 * DynDOLOD.esp (Generated with the DynDOLOD utility and should be placed near the bottom)
 * Synthesis.esp (Generated with the Synthesis utility and should be placed beneath DynDOLOD) 
-* (any conflict resolution patches generated with SSEEdit)
-* AllowFastTravel.esp (Must be placed at the very bottom as the above plugins alter world space which will break fast traveling) 
 
 When installing mods, if prompted to extract BSA files, select "No".
 
