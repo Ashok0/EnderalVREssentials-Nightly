@@ -1000,7 +1000,7 @@ SkyVRaan adds shimmering water effects to the game.  SkyVRaan has been pre-confi
 6. Launch MO2 and select Tools > Executables > Add an executable ("+" icon in upper left) > Add from file > Navigate to "Synthesis.exe" in the folder created in Step 5 and select "Open"
 7. Right click on "Overwrite" in the left window pane and select: Clean Overwrite > OK. (If applicable, this option may not be available if your overwrite folder is already clean)
 8. Select Synthesis from upper right dropdown and click RUN
-9. Select Skyrim VR
+9. Select Skyrim VR (if prompted).
 10. Select Git Repository (2nd icon in upper left) 
 11. Search for SkyVRaan and select the "+" icon next to SkyVRaanAutoPatcher and SkyVRaanWeatherPatcher
 12. Click RUN icon
