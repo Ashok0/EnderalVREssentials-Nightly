@@ -972,17 +972,17 @@ Note that many DynDOLOD guides on the Web are heavily outdated or are not relev
 11.  Select xLODGenx64 from the upper right drop down bar and click Run.
 		- Tick all world spaces once the xLODGen window appears.  Tick Terrain LOD.  Set "Optimize Unseen" to 500.  Tick "Protect Borders".  Leave Objects LOD, Trees LOD, and Occlusion unticked.  Then click Generate.	
 		- Close the xLODGen window once you see "LOD generation complete".	
-12.  Navigate to C:\xLODGen_Output\ and move this folder to C:\Users\ (Username)\AppData\Local\ModOrganizer\Skyrim VR\mods.  Refresh MO2 with "F5" and enable xLODGen_Output in the left window pane.
+12.  Navigate to C:\xLODGen_Output\ and move this folder to C:\ (Your Game Folder)\mods.  Refresh MO2 with "F5" and enable xLODGen_Output in the left window pane.
 13.  Right click the Terrain LOD .esm plugin on the right window pane and click "Open Origin in Explorer".  Optionally delete your Terrain LOD .esm file in Windows Explorer as this file is only needed when running xLODGen. 
 14.  Select TexGenx64 from the upper right drop down bar and click Run.
 		- If you get a "Could not open registry key" error, launch vanilla Skyrim VR one time from Steam.  Then exit Skyrim VR and repeat this step.  (This step can be performed outside of VR.  Simply launching Skyrim VR from your flatscreen and exiting after any Steam VR errors regarding no detected headset is sufficient.)
 		- If you get a "Found stitched object LOD textures" error click "Ignore".
 		- Tick "HD Trees" and click "Start" once the TexGen window appears.
 		- Wait for TexGen to finish running, it typically takes several minutes.  When the process completes, click "Exit TexGen".
-15.  Navigate to your \DynDOLOD\ folder from Step 6 and move the \TexGen_Output\ folder to C:\Users\ (Username)\AppData\Local\ModOrganizer\Skyrim VR\mods.  Refresh MO2 with "F5" and enable TexGen_Output in the left window pane.
+15.  Navigate to your \DynDOLOD\ folder from Step 6 and move the \TexGen_Output\ folder to C:\ (Your Game Folder)\mods.  Refresh MO2 with "F5" and enable TexGen_Output in the left window pane.
 16.  Select DynDOLODx64 from the upper right drop down bar and click Run.
 		- Once the DynDOLOD window appears, click "Advanced".  Then tick all world spaces, click "High" at the top of the window, tick "Ultra" in the options below, and under "Mesh and Reference Rules" scroll down to 'tree' and set LOD Level 4/8/16 to Level0/Billboard2/Billboard2 respectively.  Then click "OK" to start the process.  Wait for DynDOLOD to finish running, it typically takes several minutes.  When the process completes, click "Save & Exit".  
-17.  Navigate to your \DynDOLOD\ folder from Step 6 and move the \DynDOLOD_Output\ folder to C:\Users\ (Username)\AppData\Local\ModOrganizer\Skyrim VR\mods.  Refresh MO2 with "F5" and enable DynDOLOD_Output in the left window pane.
+17.  Navigate to your \DynDOLOD\ folder from Step 6 and move the \DynDOLOD_Output\ folder to C:\ (Your Game Folder)\mods.  Refresh MO2 with "F5" and enable DynDOLOD_Output in the left window pane.
 18.  Confirm "xLODGen_Output", "TexGen_Output", and "DynDOLOD_Output" are ticked in the left window pane and ensure DynDOLOD.esp is ticked in the right window pane.
 19.  Navigate to \Enhanced Vanilla Trees SE\ folder and delete the ESP files (untested with Enderal VR), then navigate to \Enhanced Vanilla Trees SE\meshes\landscape\trees\ and remove SRG_ prefix from all filenames (required if not using plugin). 
 20.  Revert the upper right dropdown bar back to "SKSE".
