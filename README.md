@@ -940,11 +940,11 @@ Note that many DynDOLOD guides on the Web are heavily outdated or are not relev
 #### Quickstart Guide
 1. Install Visual C++ Redistributable for Visual Studio 2015, 2017 and 2019
 2. Install the following prerequisite mods: SKSE VR, PapyrusUtil VR, DynDOLOD Resources SE 3.0
-4. Install landscape texture mods (Noble + Tamrielic + Septentrional recommended) and tree mods (EVT recommended). 
+3. Install landscape texture mods (Noble + Tamrielic + Septentrional recommended) and tree mods (EVT recommended). 
 	- If using EVT for trees, make sure ESP is enabled as it is used by DynDOLOD 3.0. 
 	- Disable any billboards that are included in tree mods (found in \data\textures\lodgen\).
-3. Finalize load order in Mod Organizer 2.
-5. Install a terrain LOD mod (that corresponds with the lowest texture mod used for terrain) and place it after other Skyrim SE texture mods.  Enable your Terrain LOD .esm plugin and place it at the very top of the plugin list above "Enderal - Forgotten Stories.esm".
+4. Install a terrain LOD mod (that corresponds with the lowest texture mod used for terrain) and place it after other Skyrim SE texture mods.  Enable your Terrain LOD .esm plugin and place it at the very top of the plugin list above "Enderal - Forgotten Stories.esm".
+5. Finalize load order in Mod Organizer 2.
 6. Use xLODGen to generate terrain LOD meshes and textures into a dedicated output folder and then install as a mod.
 7. Optionally remove your Terrain LOD .esm plugin as it is no longer needed after running xLODGen. 
 8. Use TexGen to generate object LOD textures and tree/grass LOD billboards into a dedicated output folder and then install as a mod.
@@ -953,18 +953,18 @@ Note that many DynDOLOD guides on the Web are heavily outdated or are not relev
 
 #### xLODGen/TexGen/DynDOLOD Configuration 
 
-1.  Finalize your MO2 load order.
-2.  If you wish to reset your xLODGen/TexGen/DynDOLOD settings to default, remove all files in the following location: C:\Users\ (Username)\AppData\Local\Skyrim VR\
-3.  Install [Microsoft Visual C++ Redistributable for Visual Studio 2015, 2017 and 2019](https://aka.ms/vs/16/release/vc_redist.x64.exe) if you don't already have it installed.
-4. Extract [SKSE VR](https://skse.silverlock.org/beta/sksevr_2_00_12.7z) to your Skyrim VR installation folder.  If you have already setup Skyrim VR or Enderal VR, this step has most likely already been completed.
-5. Install the following prerequisite mods through Mod Organizer 2 with default settings (place them high in the load order above all texture mods):
+1.  If you wish to reset your xLODGen/TexGen/DynDOLOD settings to default, remove all files in the following location: C:\Users\ (Username)\AppData\Local\Skyrim VR\
+2.  Install [Microsoft Visual C++ Redistributable for Visual Studio 2015, 2017 and 2019](https://aka.ms/vs/16/release/vc_redist.x64.exe) if you don't already have it installed.
+3. Extract [SKSE VR](https://skse.silverlock.org/beta/sksevr_2_00_12.7z) to your Skyrim VR installation folder.  If you have already setup Skyrim VR or Enderal VR, this step has most likely already been completed.
+4. Install the following prerequisite mods through Mod Organizer 2 with default settings (place them high in the load order above all texture mods):
 	- [SKSE VR](https://skse.silverlock.org/beta/sksevr_2_00_12.7z) (Scripts folder only)
 	- [PapyrusUtil VR - Scripting Utility Functions](https://www.nexusmods.com/skyrimspecialedition/mods/13048?tab=files) (Under "Miscellaneous Files")
 	- [DynDOLOD Resources SE 3.00](https://www.nexusmods.com/skyrimspecialedition/mods/32382?tab=files) (Under "Miscellaneous Files")
-6. Install a terrain LOD mod through Mod Organizer 2 that corresponds with the lowest texture mod for terrain that you have installed.  If using Septentrional Landscapes SE, the [Terrain LOD for Septentrional Landscapes](https://www.nexusmods.com/skyrimspecialedition/mods/39563) mod is recommended.
+5. Install a terrain LOD mod through Mod Organizer 2 that corresponds with the lowest texture mod for terrain that you have installed.  If using Septentrional Landscapes SE, the [Terrain LOD for Septentrional Landscapes](https://www.nexusmods.com/skyrimspecialedition/mods/39563) mod is recommended.
 	- Place this mod BELOW all other Skyrim SE texture mods in your mod load order in the left window pane.
 	- Move your Terrain LOD .esm plugin ABOVE Enderal - Forgotten Stories.esm in the right window pane and make sure the plugin is enabled.
-7. If using [Enhanced Vanilla Trees SE](https://www.nexusmods.com/skyrimspecialedition/mods/11008?tab=files) (highly recommended), install all recommended options (with asterisk) + RAT + SFO Snow Pines.  Keep the \DYNDOLOD\ folders as these are used by DynDOLOD 3.0.  Disable any billboards that are included in tree mods (found in \data\textures\lodgen).
+6. If using [Enhanced Vanilla Trees SE](https://www.nexusmods.com/skyrimspecialedition/mods/11008?tab=files) (highly recommended), install all recommended options (with asterisk) + RAT + SFO Snow Pines.  Keep the \DYNDOLOD\ folders as these are used by DynDOLOD 3.0.  Disable any billboards that are included in tree mods (found in \data\textures\lodgen).
+7. Finalize your MO2 load order.
 8. Download [xLODGen](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-81-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/) and extract the contents to a new \xLODGen\ directory that is outside of special OS folders like 'Programs Files' or 'Program Files (x86)', Users, Documents, Desktop, Downloads and also not in SteamApps, game or any mod manager folders.
 9. Download [DynDOLOD 3.00](https://www.nexusmods.com/skyrimspecialedition/mods/32382?tab=files) under "Miscellaneous Files" and extract the contents to a new \DynDOLOD\ directory that is outside of special OS folders like 'Programs Files' or 'Program Files (x86)', Users, Documents, Desktop, Downloads and also not in SteamApps, game or any mod manager folders.
 10. Launch Mod Organizer 2.
