@@ -939,8 +939,10 @@ Note that many DynDOLOD guides on the Web are heavily outdated or are not relev
 #### Quickstart Guide
 1. Install Visual C++ Redistributable for Visual Studio 2015, 2017 and 2019
 2. Install the following prerequisite mods: SKSE VR, PapyrusUtil VR, DynDOLOD Resources SE 3.0
+4. Install landscape texture mods (Noble + Tamrielic + Septentrional recommended) and tree mods (EVT recommended). following prerequisite mods through Mod Organizer 2 with default settings (place them high in the load order above all texture mods):
+	- If using EVT for trees, make sure ESP is enabled as it is used by DynDOLOD 3.0. 
+	- Disable any billboards that are included in tree mods (found in \data\textures\lodgen\).
 3. Finalize load order in Mod Organizer 2.
-4. If using landscape texture mods (Noble + Tamrielic + Septentrional recommended) and tree mods (EVT recommended), remove any billboards included with these mods (You can keep EVT's \DYNDOLOD\ folders). 
 5. Install a terrain LOD mod (that corresponds with the lowest texture mod used for terrain) and place it after other Skyrim SE texture mods.  Enable your Terrain LOD .esm plugin and place it at the very top of the plugin list above "Enderal - Forgotten Stories.esm".
 6. Use xLODGen to generate terrain LOD meshes and textures into a dedicated output folder and then install as a mod.
 7. Optionally remove your Terrain LOD .esm plugin as it is no longer needed after running xLODGen. 
