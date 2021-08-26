@@ -20,7 +20,7 @@ Latest update: August 15th, 2021 (v1.10)
 * [Included Mods (Mod Organizer 2)](#included-mods-mod-organizer-2)
 * [Game Tweaks](#game-tweaks)
 * [Nemesis Configuration](#nemesis-configuration)
-* [DynDOLOD 3.0 and SkyVRaan Configuration](#dyndolod-and-skyvraan-configuration)
+* [DynDOLOD 3.0 and SkyVRaan Configuration](#dyndolod-3.0-and-skyvraan-configuration)
 * [Changelog](#changelog)
 
 ## Preamble
