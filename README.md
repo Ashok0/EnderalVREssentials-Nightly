@@ -134,7 +134,7 @@ Wabbajack will delete all files that are not part of its modlist when updating! 
 * Crouching in real life will cause a minor "hitch" in your video as you approach the ground.  This is due to the "Automatic Sneaking" feature which is enabled by default.  If you dislike this effect and don't care about physical sneaking, you can turn this feature off from the in-game settings.
 * The loading screen artwork is out of frame.
 * The talent points in the game are too high to reach in VR.  To use them, install [OVR Advanced Settings](https://github.com/OpenVR-Advanced-Settings/OpenVR-AdvancedSettings) which allows you to change your player height on the fly.  From the in-game Steam menu, select OVR Advanced Settings > Space Offsets -> Y-Axis (up/down). Just lower the value there to "grow" ingame. Note that this fix requires SteamVR and is not compatible with OpenComposite.    
-* &#x1F53A; If using ENB Particle Patch, Static Mesh Improvement Mod (SMIM), Blended Roads, Water for ENB, Embers XD / Embers HD, Glorious Doors of Skyrim, Kanjs - Chaurus Eggs and Staff, Enhanced Vanilla Trees SE, Auriels Holy Bow Redux, or Kolapon's Undead Creatures Replacer you must make sure you are NOT using any plugins for these mods.  Only meshes and textures may be used.  Delete ALL .esp files associated with these mods before launching the game. &#x1F53A; 
+* &#x1F53A; If using ENB Particle Patch, Static Mesh Improvement Mod (SMIM), Blended Roads, Water for ENB, Embers XD / Embers HD, Glorious Doors of Skyrim, Kanjs - Chaurus Eggs and Staff, Enhanced Vanilla Trees SE, or Auriels Holy Bow Redux you must make sure you are NOT using any plugins for these mods.  Only meshes and textures may be used.  Delete ALL .esp files associated with these mods before launching the game. &#x1F53A; 
 * &#x1F53A; When using OpenComposite, you cannot have any audio recording devices attached to your PC aside from your VR headset or Dragonborn Speaks Naturally will not work. &#x1F53A; 
 * &#x1F53A; With the exception of texture/mesh mods, mods cannot always be safely removed mid-savegame. &#x1F53A;
 
@@ -496,7 +496,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**SMIM v2.08**](https://www.nexusmods.com/skyrimspecialedition/mods/659?tab=files): A massive project to greatly improve the appearance of countless static 3D models in Skyrim. Basically, this is my attempt to make the Skyrim architecture, clutter, furniture, and landscaping much nicer.
 - Place above all other texture/mesh mods to avoid SMIM conflicts.
 - Remove \meshes\architecture\farmhouse\farmhousewindmill, \meshes\architecture\solitude\swindmill.nif, and \meshes\architecture\solitude\swindmillrotor.nif to revert windmills back to vanilla which arguably look better in VR.
-- Remove ESP files.
+- Remove ESP file.
 
 [**Noble Skyrim FULL PACK Performance Edition v5.5.0**](https://www.nexusmods.com/skyrimspecialedition/mods/21423?tab=files): Gives all of Skyrim's architecture a complete new look by changing its textures to custom ones. Beside the architecture, several other things, such as landscape, dungeons (ruins, mines, caves etc.), clutter stuff etc. have been re-textured as well, to match the rest of the mod.
 - Recommend placing before other texture packs; Remove "whroughgroundmud.dds".
@@ -533,7 +533,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**Rally's Candlelight and Magelight Fix SE - VR v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/36594?tab=files): Fix for the Candlelight Spell and Magelight Spell in SE/VR.
 
 [**JS Instruments of Skyrim SE v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/51959?tab=files): A complete remake of the Lute, Flute & Drum. Comes in 2k and 4k versions.
-- Delete ESP files.
+- Delete ESP file.
 
 [**Basic Dining Set Replacer 1k v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/30055?tab=files): A mod that replaces the dining set we often see in farmhouses or taverns in skyrim.
 
@@ -550,7 +550,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**Embers XD v2.2.6**](https://www.nexusmods.com/skyrimspecialedition/mods/37085?tab=files): An overhaul of campfires and other fire sources.
 - Use "Vanilla Flames" as vanilla flames look better in VR.
 - Install Forges and Lava Craters Add-On.
-- Delete ESP files.
+- Delete ESP file.
 
 [**Animated Forge Water v0.3.1**](https://www.nexusmods.com/skyrimspecialedition/mods/52322?tab=files): A mesh only animated forge water replacer with refraction. No ESP. Includes patches for Elsopa and Embers.
 - Install "Elsopa and Embers XD" patch. 
@@ -569,7 +569,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**Remove Blurry Snowflakes v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/38358): This mod removes the blurry snowflakes by using a transparent texture. The normal snowflakes are still present.
 
 [**Glorious Doors of Skyrim v1.03**](https://www.nexusmods.com/skyrimspecialedition/mods/32376): All-In-One pack of all my doors including a handy Fomod installer and a new Dwemer door!
-- Delete ESP files.
+- Delete ESP file.
 
 [**Rustic Windows - Special Edition v2.0**](https://www.nexusmods.com/skyrimspecialedition/mods/1937): This mod retextures the Skyrim and Dragonborn windows in a lore-friendly way. The window glass has been revised to be thick, textured and insulating. The "opaque" nature of the glass has a purpose. 2K and 1K versions.
 
@@ -578,7 +578,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**DUST x2048 By Ramccoid v6.1**](https://www.nexusmods.com/skyrimspecialedition/mods/38444?tab=files): This mod retextures the ambient dust particles which float in the air and also the falling dust effect in dungeons and such places.
 
 [**Kanjs - Chaurus eggs and staff v2.1**](https://www.nexusmods.com/skyrimspecialedition/mods/46486?tab=files): A Simple Chaurus Egss Meshes and Textures remade ! With an optional Staff!
-- Delete ESP files.
+- Delete ESP file.
 
 [**3D Casting FX - Fire and Frost Hand FX Replacer v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/50197?tab=files): Replaces the effect in your hand when holding a fire or frost spell. The vanilla effects are made up of 2D sprites moving in a single plane which is very apparent and quite ugly in VR. These new ones are specifically designed to look good in VR and SE both.
 
@@ -595,7 +595,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**Enhanced Vanilla Trees SE v2.2**](https://www.nexusmods.com/skyrimspecialedition/mods/11008?tab=files): Better Vanilla Trees? Sign me up! All-In-One tree overhaul package with enhanced Vanilla trees. Supports RAT, SFO Branches, SFO Snowy Pines, and more!
 - Installed with Recommended options (with asterisk), Realistic Aspen Trees, SFO Snow Pines.
 - Keep \DYNDOLOD\ folders.  Used by DynDOLOD 3.
-- After running DynDOLOD 3... 1) Delete ESP files as plugin is untested with Enderal VR.  2) Navigate to \Enhanced Vanilla Trees SE\meshes\landscape\trees\ and remove SRG_ prefix from filenames.  Required if not using plugin.
+- After running DynDOLOD 3... 1) Delete ESP file as plugin is untested with Enderal VR.  2) Navigate to \Enhanced Vanilla Trees SE\meshes\landscape\trees\ and remove SRG_ prefix from filenames.  Required if not using plugin.
 
 [**HD Dead Trees and Driftwoods v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/35308?tab=files): Combine "4K Parallax Treebark" and "Spooknik's - Tundra Trees HD" to achieve HD dead trees and driftwoods. Contains original mods port.
 
@@ -640,7 +640,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**Nightingale Pride 4K SSE Edition - With Gems v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/22813?tab=files): High Resolution, Lore Friendly Retexture Of Nightingales Bow and Blade. Polished for SSE EDITION.
 
 [**Auriels Holy Bow 4K - REDUX v4.0**](https://www.nexusmods.com/skyrimspecialedition/mods/2069?tab=files): I am proud to present a totally remade version of my Auriel's Holy bow mod for Skyrim Special Edition. This mod adds a really cool looking glow to the Auriel's Bow from the Dawnguard DLC.
-- Delete ESP files.
+- Delete ESP file.
 
 [**Advanced Alloys Carbon Fiber Reinforced Dwarven Crossbow v1.0**](https://www.nexusmods.com/skyrim/mods/23646?tab=files): Texture replacer for Dwemer crossbow.
 
@@ -827,9 +827,6 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**Ancestral Spirit Replacer (Variant 2) v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/60?tab=files): Replaces the models Ancestral Spirits with high quality alternatives.
 
 [**Kolapon's Various Creatures Replacers v1.5v**](https://www.nexusmods.com/enderalspecialedition/mods/64?tab=files): Changes the appearance of some of the creatures so they are unique to Enderal.
-
-[**Kolapon's Undead Creatures Replacer v1.2u**](https://www.nexusmods.com/enderalspecialedition/mods/64?tab=files): Changes the appearance of some of the creatures so they are unique to Enderal.
-- Delete ESP files to fix crash during "Old Wounds" quest.
 
 [**Enderal SE - Predators v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/115?tab=files): Replaces the models of Panthers, Leopards and Shadow/Mountain Deerstalker with alternatives.
 
