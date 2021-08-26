@@ -1010,7 +1010,7 @@ SkyVRaan adds shimmering water effects to the game.  SkyVRaan has been pre-confi
 		-  Delete any files from C:\Users\ (Username)\AppData\Local\Temp\Synthesis
 		-  Make sure you are using the latest version of Synthesis from Github [HERE](https://github.com/Mutagen-Modding/Synthesis/releases)
 14. Right click on "Overwrite" and select "Create Mod".  Enter a custom name i.e. Synthesis_Output and click OK.
-15. Tick "Synthesis_Output" in the left window pane and make sure "Synthesis.esp" is near the bottom of your Plugin load order and ticked in the right window pane. (Place it directly after "DynDOLOD_Output" if xLODGen/TexGen/DynDOLOD have already been run.) 
+15. Tick "Synthesis_Output" in the left window pane and make sure "Synthesis.esp" is near the bottom of your Plugin load order and ticked in the right window pane. (Place them directly after "DynDOLOD_Output" and "DynDOLOD.esp" respectively if xLODGen/TexGen/DynDOLOD have already been run.) 
 16. Revert the upper right dropdown bar back to "SKSE".
 17. You may need to re-run this process if you change your load order.
 
