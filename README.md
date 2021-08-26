@@ -20,7 +20,7 @@ Latest update: August 15th, 2021 (v1.10)
 * [Included Mods (Mod Organizer 2)](#included-mods-mod-organizer-2)
 * [Game Tweaks](#game-tweaks)
 * [Nemesis Configuration](#nemesis-configuration)
-* [DynDOLOD and SkyVRaan Configuration](#dyndolod-and-skyvraan-configuration)
+* [DynDOLOD 3.0 and SkyVRaan Configuration](#dyndolod-and-skyvraan-configuration)
 * [Changelog](#changelog)
 
 ## Preamble
@@ -928,7 +928,7 @@ Flinching adds flinching animations.  NPCs will react with an animation when att
 13. Revert the upper right dropdown bar back to "SKSE".
 14. You may need to re-run this process if you change your load order.
 
-## DynDOLOD and SkyVRaan Configuration
+## DynDOLOD 3.0 and SkyVRaan Configuration
 
 ### xLODGen/TexGen/DynDOLOD  
 
