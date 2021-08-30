@@ -66,6 +66,7 @@ Updated Mods
 - Stronger Souls v1.1: Fixed a bug where the ghost shader was missing.
 - JS Instruments of Skrim SE: Removed ESP file due to FormID problem.
 - Embers XD v2.2.7: A number of improvements to the giant fires.
+- El Sopa - HD Medieval Anvil SE v1.0: Removed bad mesh from mod to fix visual glitches.
 
 Removed Mods
 - Deflection v1.8:  Redundant with Strike Obstruction Systems - Combat Blocking Overhaul.
