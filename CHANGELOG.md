@@ -78,3 +78,6 @@ Removed Mods
 - Dwemer Automatons Glowmapped v2.2: Redundant with Better Dwemer Spider Textures by Naitrii.
 - Enderal SE - Dwemer Automatons Glowmapped v1.0: Redundant with Better Dwemer Spider Textures by Naitrii. 
 - Tamrielic Textures SE LOD v1.3.0: Redundant with Terrain LOD for Septentrional Landscapes.
+
+INI Updates
+- fMeleeLinearVelocityThreshold=3.0000: Slightly decreases melee sensitivity.
