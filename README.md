@@ -906,9 +906,9 @@ Recommended game settings are listed below.  Note that the above Wabbajack insta
          [TerrainManager]
          fBlockLevel0Distance=20000.0000
          fBlockLevel1Distance=42000.0000
-	 fBlockMaximumDistance=90000.0000
+         fBlockMaximumDistance=90000.0000
          fSplitDistanceMult=0.750
-	 fTreeLoadDistance=25600.0000
+         fTreeLoadDistance=25600.0000
  
 ### In-Game Settings
 1. Set Movement speed to 50%
