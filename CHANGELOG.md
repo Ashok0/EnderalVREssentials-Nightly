@@ -1,5 +1,5 @@
 
-Release date: August 30th, 2021
+Release date: August 31st, 2021
 
 New Mods
 - VRIK Neardistance Fix Patch for Build: Sets fNearDistance to 13 to fix mountain flickering.
