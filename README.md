@@ -898,17 +898,17 @@ Recommended game settings are listed below.  Note that the above Wabbajack insta
 	
 12. Open skyrimprefs.ini and REPLACE all text under the [LOD] and [TerrainManager] section with the following lines for higher performance (**OPTIONAL; Will cause visual pop-in issues.  Only recommended for very low end GPUs**): 
 
-	[LOD]
-        fLODFadeOutMultObjects=3.0000
-        fLODFadeOutMultItems=2.0000
-        fLODFadeOutMultActors=2.0000
-	
-	[TerrainManager]
-        fBlockLevel0Distance=20000.0000
-        fBlockLevel1Distance=42000.0000
-        fBlockMaximumDistance=90000.0000
-	fSplitDistanceMult=0.750
-        fTreeLoadDistance=25600.0000
+         [LOD]	 
+         fLODFadeOutMultObjects=3.0000
+         fLODFadeOutMultItems=2.0000
+         fLODFadeOutMultActors=2.0000 
+
+         [TerrainManager]
+         fBlockLevel0Distance=20000.0000
+         fBlockLevel1Distance=42000.0000
+	 fBlockMaximumDistance=90000.0000
+         fSplitDistanceMult=0.750
+	 fTreeLoadDistance=25600.0000
  
 ### In-Game Settings
 1. Set Movement speed to 50%
