@@ -157,6 +157,8 @@ Wabbajack will delete all files that are not part of its modlist when updating! 
 
 [**VRIK Rift-Index-WMR Controller Bindings**](https://www.nexusmods.com/skyrimspecialedition/mods/23416?tab=files): These control bindings are an optional add-on for VRIK to make it easier to use holsters.  These bindings are disabled by default but MUST be enabled if you are using Index controllers.
 
+[**VRIK Neardistance Fix Patch for Build**](https://mega.nz/file/fABDEKBL#6hMat5Urx2QkCNB7Z_-PCFYC3YPLcoTYJLvq3sgcMMA): Sets fNearDistance to 13 to fix mountain flickering.
+
 [**HIGGS VR**](https://www.nexusmods.com/skyrimspecialedition/mods/43930?tab=files): Hand collision, physics object grabbing, and gravity gloves-style mechanics for Skyrim VR.
 
 [**Spell Wheel VR**](https://www.nexusmods.com/skyrimspecialedition/mods/47630?tab=files): Selection wheel mod for Skyrim VR. It allows you to select spells, weapons, shields, arrows, potions, poisons, food, torch, armors and more without going into a menu very quickly by press of a button or button combinations to spawn the wheel and hold your hand over the item and letting go of the button. It's equipped automatically.  Be sure to set the "Slow Time Scale" to 5 in the Spell Wheel VR MCM if you want a nice slow motion effect when selecting items from the spell wheel.  Set "Presets" to Spellsword in the Spell Wheel VR MCM to make spells and weapons selectable from the spell wheel.
@@ -548,8 +550,12 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**El Sopa - HD Medieval Anvil SE v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/48825?tab=files): New Model And Textures For The Anvil . The Hammer And Tongs. Performance Friendly. Ultra Immersive. All Resolutions. No ESP.
 - Delete blacksmithnovicetongs01.nif (this mesh causes visual glitches).
 
-[**Embers XD v2.2.7**](https://www.nexusmods.com/skyrimspecialedition/mods/37085?tab=files): An overhaul of campfires and other fire sources.
-- Use "Vanilla Flames" as vanilla flames look better in VR.
+[**Inferno - Fire Effects Redux v4.1**](https://www.nexusmods.com/skyrimspecialedition/mods/29316?tab=files): Spiritual successor to the original Ultimate HD Fire Effects mod by rheadude with improved meshes and textures! 
+- Use the following installation options: Ultra > Brighter > Freesia > New > Regular > None > No Patch
+- Delete ESP file.
+
+[**Embers XD v2.3.0**](https://www.nexusmods.com/skyrimspecialedition/mods/37085?tab=files): An overhaul of campfires and other fire sources.
+- Use "Inferno Flames" if using "Inferno - Fire Effects Redux".
 - Install Forges and Lava Craters Add-On.
 - Delete ESP file.
 
