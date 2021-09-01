@@ -40,7 +40,6 @@ New Mods
 - Nightingale Pride 4K SSE Edition - With Gems v1.0: High Resolution, Lore Friendly Retexture Of Nightingales Bow and Blade. Polished for SSE EDITION.
 - Auriels Holy Bow - REDUX v4.0: I am proud to present a totally remade version of my Auriel's Holy bow mod for Skyrim Special Edition. This mod adds a really cool looking glow to the Auriel's Bow from the Dawnguard DLC.
 - Terrain LOD for Septentrional Landscapes v1.1: New overhaul for Terrain LOD landscape textures that corresponds with the texture mods you have installed. Generated with xLODGen. Also contains Tree LOD.
-- SC - Mature Skin Specs - CBBE - More Contrast v1.0: A re-upload of the popular Mature Skins for CBBE or UNP. Compatible with CBBE Special and UUNP Special.
 - Sting of the Blue Islands Replacer v1.0: Replaces that Ugly Scimitar with something worthy of betraying the Golden Sickle for.
 - Bowgasm SE - Nicos AIO Vanilla Bow Replacer SE v1.1: Optional file is a non-plug in replacer for nearly all Vanilla bows in game with higher poly models, more realistic shapes, and higher resolution textures.
 - FusaFusa Project - Fluffy Animals SE v14.2: Increase Fur Volume of Animals. They become more fluffy.
