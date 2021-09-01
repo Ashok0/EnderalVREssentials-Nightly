@@ -69,6 +69,7 @@ Updated Mods
 - JS Instruments of Skrim SE: Removed ESP file due to FormID problem.
 - Embers XD v2.3.0: Added Inferno compatible installation option provided by agentw.
 - El Sopa - HD Medieval Anvil SE v1.0: Removed bad mesh from mod to fix visual glitches.
+- SkyVRaan - Shimmering VR Waters v1.0.1: Removed Rocky Riverbeds due to massive FPS drops.
 
 Removed Mods
 - Deflection v1.8:  Redundant with Strike Obstruction Systems - Combat Blocking Overhaul.
