@@ -1,5 +1,5 @@
 # ENDERAL VR ESSENTIALS (EVRE)
-Latest update: August 31st, 2021 (v1.10)
+Latest update: September 1st, 2021 (v1.10)
 
 ## Table of contents
 * [Preamble](#preamble)
@@ -206,16 +206,13 @@ Wabbajack will delete all files that are not part of its modlist when updating! 
 [**R.A.S.S - Rain Ash And Snow Shader**](https://www.nexusmods.com/skyrimspecialedition/mods/22780?tab=files): "R.A.S.S." adds weather effects to the Player such as water droplet effects in your vision. Disable if you prefer having no weather effects.  You can alternatively disable select weather effects from the R.A.S.S. MCM. 
 
 [**SkyVRaan - Shimmering VR Waters**](https://www.nexusmods.com/skyrimspecialedition/mods/30571?tab=files): Adds a fake reflection effect to Skyrim VR's outdoor water. It breaks up the distant LOD, shows wave movement on the distant water, and gives an illusion of water depth in the distance. Also has improved realism and clarity of near water.
-
-&#x1F53A; **SMALL PERFORMANCE DROP --- For lower end GPUs, you may wish to experiment with disabling SkyVRaan by disabling "SkyVRaan - Shimmering VR Waters" and "Synthesis_Output" in Mod Organizer 2.** &#x1F53A;
+- During the installation, tick "Rally's Water Foam (4K)" and "Improved Water Normals for Vanilla" and leave all other settings at default.  Do NOT install Rocky Riverbeds due to high performance drop.
 
 [**Dirt and Blood - Dynamic Visual Effects**](https://www.nexusmods.com/skyrimspecialedition/mods/38886?tab=files): Your character will accumulate dirt and blood dynamically, which you can clean by swimming or standing in the rain. The effects are mostly visual only and do not affect gameplay. NPCs will also get bloody as a result of battles. Mod is designed to be simple and lightweight.
 
 [**Replace spiders with wolfs and bears**](https://www.nexusmods.com/enderalspecialedition/mods/31?tab=files): Replaces spiders with wolves and bears.  Enable if you have arachnophobia! 
 
 [**DynDOLOD**](https://www.nexusmods.com/skyrimspecialedition/mods/32382/?tab=files): Adds distant LOD for objects and trees to Skyrim.  When looking across the horizon in large open areas, this mod allows you to see FAR more detail than what is possible with the vanilla game, even with in-game LOD settings set to max.
-
-&#x1F53A; **SMALL PERFORMANCE DROP --- For lower end GPUs, you may wish to experiment with disabling DynDOLOD by disabling "xLODGen_Output", "TexGen_Output", and "DynDOLOD_Output" in Mod Organizer 2.** &#x1F53A;
 
 
 
@@ -1008,7 +1005,8 @@ Note that many DynDOLOD guides on the Web are heavily outdated or are not relev
 		- Wait for TexGen to finish running, it typically takes several minutes.  When the process completes, click "Exit TexGen".
 15.  Navigate to your \DynDOLOD\ folder from Step 9 and move the \TexGen_Output\ folder to C:\ (Your Game Folder)\mods.  Refresh MO2 with "F5" and enable TexGen_Output in the left window pane.  Place this mod directly under "xLODGen_Output".
 16.  Select DynDOLODx64 from the upper right drop down bar and click Run.
-		- Once the DynDOLOD window appears, click "Advanced".  Then tick all world spaces, click "High" at the top of the window, and tick "Ultra" in the options below.  Then click "OK" to start the process.  Wait for DynDOLOD to finish running, it typically takes several minutes.  When the process completes, click "Save & Exit".  
+		- Once the DynDOLOD window appears, click "Advanced".  Then tick all world spaces, click "High" at the top of the window, and tick "Ultra" in the options below.  Then click "OK" to start the process.  Wait for DynDOLOD to finish running, it typically takes several minutes.  When the process completes, click "Save & Exit". 
+		- Under "Mesh and Reference rules", 'tree' can be set to Level0/Billboard2/Billboard2 under LOD Level 4/8/16 respectively for slightly improved visuals.  Not recommended for VR due to the high performance drop.  
 17.  Navigate to your \DynDOLOD\ folder from Step 9 and move the \DynDOLOD_Output\ folder to C:\ (Your Game Folder)\mods.  Refresh MO2 with "F5" and enable DynDOLOD_Output in the left window pane. Place this mod directly under "TexGen_Output".
 18.  Confirm "xLODGen_Output", "TexGen_Output", and "DynDOLOD_Output" are ticked in the left window pane and ensure DynDOLOD.esp is ticked in the right window pane.
 19.  Navigate to \Enhanced Vanilla Trees SE\ folder and delete the ESP file (untested with Enderal VR), then navigate to \Enhanced Vanilla Trees SE\meshes\landscape\trees\ and remove the SRG_ prefix from all filenames (required if not using plugin). You will need to reinstall EVT with its plugin if you ever wish to re-run DynDOLOD.  
@@ -1019,7 +1017,7 @@ Note that many DynDOLOD guides on the Web are heavily outdated or are not relev
 ### SkyVRaan Configuration 
 SkyVRaan adds shimmering water effects to the game.  SkyVRaan has been pre-configured with Wabbajack but the configuration process has been documented below for reference.  This process should be run immediately before or after xLODGen/TexGen/DynDOLOD (if using xLODGen/TexGen/DynDOLOD). DynDOLOD and SkyVRaan's Synthesis plugin should be placed in your load order in the order that they are generated.
 
-1.  Download SkyVRaan from [HERE](https://www.nexusmods.com/skyrimspecialedition/mods/30571?tab=files) and install it through MO2 underneath other grass and water mods.  Tick "Rocky River Beds", "Rally's Water Foam", and "Improved Water Normals for Vanilla" and leave all other settings at default. 
+1.  Download SkyVRaan from [HERE](https://www.nexusmods.com/skyrimspecialedition/mods/30571?tab=files) and install it through MO2 underneath other grass and water mods.  Tick "Rally's Water Foam (4K)" and "Improved Water Normals for Vanilla" and leave all other settings at default. 
 2. If you have previously used Synthesis, you MUST remove files from older versions by removing the following folder:  C:\Users\ (My Username)\AppData\Local\Temp\Synthesis
 3. Close Mod Organizer 2 if open
 4. Install .NET SDK 5.0 from [HERE](https://dotnet.microsoft.com/download/dotnet/5.0) and remove any previously installed .NET runtimes.  You can confirm .NET SDK 5.0 is properly installed by running the following from your command prompt:  dotnet --info
