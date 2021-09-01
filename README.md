@@ -671,9 +671,6 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**Bijin Skin - CBBE v1.4**](https://www.nexusmods.com/skyrimspecialedition/mods/20078?tab=files): Skin textures for CBBE and UNP made by rxkx22.
 - Installed with default settings with "4K - Wet" specular maps.
 
-[**SC - Mature Skin Specs - CBBE - More Contrast v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/39115?tab=files): A re-upload of the popular Mature Skins for CBBE or UNP. Compatible with CBBE Special and UUNP Special.
-- Tick "2k4k" option before installation.
-
 [**Equipable Female Tattoo UNP CBBE v1.0**]: Mod adds 5 x Equippable Tattoo skins for UUNP or CBBE Options are: Bijin, Leyenda or Fair Skin Complexion.
 
 [**Deadly Spell Impacts v1.7**](https://www.nexusmods.com/skyrimspecialedition/mods/12939?tab=files): Fire, lightning, frost, and spit (Spider/Chaurus) spell impacts now have their own unique textures. This mod also increases the variation in impact size, increases the size of dragon breath impacts, and adds melted snow impacts for fire and lightning spells.
