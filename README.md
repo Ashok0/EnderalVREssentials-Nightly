@@ -133,7 +133,7 @@ Wabbajack will delete all files that are not part of its modlist when updating! 
 * Steam achievements do not work.
 * Crouching in real life will cause a minor "hitch" in your video as you approach the ground.  This is due to the "Automatic Sneaking" feature which is enabled by default.  If you dislike this effect and don't care about physical sneaking, you can turn this feature off from the in-game settings.
 * The loading screen artwork is out of frame.
-* The "Dirt & Blood" mod adds a 'Wash and Rinse' spell to your magic list.  This spell does not work in Enderal VR, you have to rinse dirt and blood off your body by swimming in water.
+* The "Dirt & Blood" mod adds a 'Wash and Rinse' spell to your magic list.  This spell does not work in Enderal VR, you have to rinse dirt and blood off your body by swimming in water or standing in the rain.
 * The talent points in the game are too high to reach in VR.  To use them, install [OVR Advanced Settings](https://github.com/OpenVR-Advanced-Settings/OpenVR-AdvancedSettings) which allows you to change your player height on the fly.  From the in-game Steam menu, select OVR Advanced Settings > Space Offsets -> Y-Axis (up/down). Just lower the value there to "grow" ingame. Note that this fix requires SteamVR and is not compatible with OpenComposite.    
 * &#x1F53A; If using ENB Particle Patch, Static Mesh Improvement Mod (SMIM), Blended Roads, Water for ENB, Embers XD / Embers HD, Glorious Doors of Skyrim, Kanjs - Chaurus Eggs and Staff, Enhanced Vanilla Trees SE, or Auriels Holy Bow Redux you must make sure you are NOT using any plugins for these mods.  Only meshes and textures may be used.  Delete ALL .esp files associated with these mods before launching the game. &#x1F53A; 
 * &#x1F53A; When using OpenComposite, you cannot have any audio recording devices attached to your PC aside from your VR headset or Dragonborn Speaks Naturally will not work. &#x1F53A; 
@@ -1068,4 +1068,3 @@ When installing mods, if prompted to extract BSA files, select "No".
 
 ## Changelog
 See [Changelog](https://github.com/Ashok0/EnderalVREssentials/blob/master/CHANGELOG.md)
-
