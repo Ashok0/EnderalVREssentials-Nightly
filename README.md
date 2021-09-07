@@ -1,5 +1,5 @@
 # ENDERAL VR ESSENTIALS (EVRE)
-Latest update: September 1st, 2021 (v1.10)
+Latest update: September 1st, 2021 (v1.101)
 
 ## Table of contents
 * [Preamble](#preamble)
@@ -554,10 +554,10 @@ If you are using a language pack, you may need to change the font used by Dear D
 - Use the following installation options: Ultra > Brighter > Freesia > New > Regular > None > No Patch
 - Delete ESP file.
 
-[**Embers XD v2.3.0**](https://www.nexusmods.com/skyrimspecialedition/mods/37085?tab=files): An overhaul of campfires and other fire sources.
+[**Embers XD v2.3.2**](https://www.nexusmods.com/skyrimspecialedition/mods/37085?tab=files): An overhaul of campfires and other fire sources.
 - Use "Inferno Flames" if using "Inferno - Fire Effects Redux".
 - Install Forges and Lava Craters Add-On.
-- Delete ESP file.
+- Delete ESP files.
 
 [**Animated Forge Water v0.3.1**](https://www.nexusmods.com/skyrimspecialedition/mods/52322?tab=files): A mesh only animated forge water replacer with refraction. No ESP. Includes patches for Elsopa and Embers.
 - Install "Elsopa and Embers XD" patch. 
@@ -642,7 +642,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Organic Riften Leaves 2K v1.02**](https://www.nexusmods.com/skyrimspecialedition/mods/17911?tab=files): Quality textures for the fallen leaves in Riften 4K, 2K, 1K.
 
-[**Dwemer Pipework Reworked v3.1**](https://www.nexusmods.com/skyrimspecialedition/mods/46507?tab=files): Rework of Dwemer pipes, including Dwemer boilers.
+[**Dwemer Pipework Reworked v4.0**](https://www.nexusmods.com/skyrimspecialedition/mods/46507?tab=files): Rework of Dwemer pipes, including Dwemer boilers.
 
 [**Stockade Brown Timber 2K v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/15501?tab=files): A 4k or 2k retexturing of all stockade wood textures. These are found at farms, in forts, and out the front of mines Three options are now available due to popular request: Old Grey, Painted and Brown!
 
