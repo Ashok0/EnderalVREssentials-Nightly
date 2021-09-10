@@ -601,7 +601,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**Enhanced Vanilla Trees SE-Lush Trees v2.2.1**](https://www.nexusmods.com/skyrimspecialedition/mods/11008?tab=files): Better Vanilla Trees? Sign me up! All-In-One tree overhaul package with enhanced Vanilla trees. Supports RAT, SFO Branches, SFO Snowy Pines, and more!
 - Recommend installing with Vanilla (i.e., None), Realistic Aspen Trees, SFO Snowy Pine Trees with all other settings left at default.
 - Keep \DYNDOLOD\ folders.  Used by DynDOLOD 3.
-- After running DynDOLOD 3... 1) Delete ESP file as plugin is untested with Enderal VR.  2) Navigate to \Enhanced Vanilla Trees SE\meshes\landscape\trees\ and remove SRG_ prefix from filenames.  Required if not using plugin.
+- After running DynDOLOD 3... 1) Delete ESP file as plugin is untested with Enderal VR.  2) Navigate to \Enhanced Vanilla Trees SE-Lush Trees\meshes\landscape\trees\ and remove SRG_ prefix from filenames.  Required if not using plugin.
 
 [**HD Dead Trees and Driftwoods v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/35308?tab=files): Combine "4K Parallax Treebark" and "Spooknik's - Tundra Trees HD" to achieve HD dead trees and driftwoods. Contains original mods port.
 
@@ -967,7 +967,7 @@ Note that many DynDOLOD guides on the Web are heavily outdated or are not relev
 7. Optionally remove your Terrain LOD .esm plugin as it is no longer needed after running xLODGen. 
 8. Use TexGen to generate object LOD textures and tree/grass LOD billboards into a dedicated output folder and then install as a mod.
 9. Use DynDOLOD to generate object LOD (includes grass LOD if enabled), tree and optional dynamic LOD into a dedicated output folder and then install as a mod.
-10. (Optional) Remove the Enhanced Vanilla Tree .esp file to avoid potential plugin issues.  Then navigate to \Enhanced Vanilla Trees SE\meshes\landscape\trees\ and remove the SRG_ prefix from all filenames (required if not using plugin). 
+10. (Optional) Remove the Enhanced Vanilla Tree .esp file to avoid potential plugin issues.  Then navigate to \Enhanced Vanilla Trees SE-Lush Trees\meshes\landscape\trees\ and remove the SRG_ prefix from all filenames (required if not using plugin). 
 
 #### xLODGen/TexGen/DynDOLOD Configuration 
 
@@ -1007,7 +1007,7 @@ Note that many DynDOLOD guides on the Web are heavily outdated or are not relev
 		- Under "Mesh and Reference rules", 'tree' can be set to Level0/Billboard2/Billboard2 under LOD Level 4/8/16 respectively for slightly improved visuals.  Not recommended for VR due to the high performance drop.  
 17.  Navigate to your \DynDOLOD\ folder from Step 9 and move the \DynDOLOD_Output\ folder to C:\ (Your Game Folder)\mods.  Refresh MO2 with "F5" and enable DynDOLOD_Output in the left window pane. Place this mod directly under "TexGen_Output".
 18.  Confirm "xLODGen_Output", "TexGen_Output", and "DynDOLOD_Output" are ticked in the left window pane and ensure DynDOLOD.esp is ticked in the right window pane.
-19.  Navigate to \Enhanced Vanilla Trees SE\ folder and delete the ESP file (untested with Enderal VR), then navigate to \Enhanced Vanilla Trees SE\meshes\landscape\trees\ and remove the SRG_ prefix from all filenames (required if not using plugin). You will need to reinstall EVT with its plugin if you ever wish to re-run DynDOLOD.  
+19.  Navigate to \Enhanced Vanilla Trees SE-Lush Trees\ folder and delete the ESP file (untested with Enderal VR), then navigate to \Enhanced Vanilla Trees SE-Lush Trees\meshes\landscape\trees\ and remove the SRG_ prefix from all filenames (required if not using plugin). You will need to reinstall EVT with its plugin if you ever wish to re-run DynDOLOD.  
 		- This step may be unnecessary but avoids potential compatability issues with the EVT plugin.
 20.  Revert the upper right dropdown bar back to "SKSE".
 21.  DynDOLOD is now successfully configured!  You should see FAR more detail in the distance when looking across large open areas of the game! (You may need to re-run this process if you change your load order.)
