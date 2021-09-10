@@ -598,8 +598,8 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Better Dirt Cliffs and Alphas v4.0**](https://www.nexusmods.com/skyrimspecialedition/mods/34035?tab=files): Overhaul of the meshes & alpha channels involved in blending the top of the dirt cliff with the roots, and the roots with the wall. Covers SMIM meshes too.
 
-[**Enhanced Vanilla Trees SE v2.2**](https://www.nexusmods.com/skyrimspecialedition/mods/11008?tab=files): Better Vanilla Trees? Sign me up! All-In-One tree overhaul package with enhanced Vanilla trees. Supports RAT, SFO Branches, SFO Snowy Pines, and more!
-- Installed with Recommended options (with asterisk), Realistic Aspen Trees, SFO Snow Pines.
+[**Enhanced Vanilla Trees SE-Lush Trees v2.2.1**](https://www.nexusmods.com/skyrimspecialedition/mods/11008?tab=files): Better Vanilla Trees? Sign me up! All-In-One tree overhaul package with enhanced Vanilla trees. Supports RAT, SFO Branches, SFO Snowy Pines, and more!
+- Recommend installing with Vanilla (i.e., None), Realistic Aspen Trees, SFO Snowy Pine Trees with all other settings left at default.
 - Keep \DYNDOLOD\ folders.  Used by DynDOLOD 3.
 - After running DynDOLOD 3... 1) Delete ESP file as plugin is untested with Enderal VR.  2) Navigate to \Enhanced Vanilla Trees SE\meshes\landscape\trees\ and remove SRG_ prefix from filenames.  Required if not using plugin.
 
