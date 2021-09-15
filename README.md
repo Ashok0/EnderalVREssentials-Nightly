@@ -656,7 +656,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 - Should be installed with a Custom Install.  Skip "Farmhouse Stone Walls" as these are better replaced by seperate mods. Skip "Whiterun Clutter", "Smelter Coal", "Furniture", "Plants", and "Riften 3D Leaves" as these at a minimum are incompatible with Enderal VR and can cause purple texture glitches.
 
 [**Terrain LOD for Septentrional Landscapes v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/39563): New overhaul for Terrain LOD landscape textures that corresponds with the texture mods you have installed..
-- Only used for terrain noise texture.  Remove ALL files except for the \texture\ folder.
+- Only used for terrain noise texture.  Remove ALL files except for the \textures\ folder.
 
 [**FusaFusa Project - Fluffy Animals SE v14.2**](https://www.nexusmods.com/skyrimspecialedition/mods/5514?tab=files): Increase Fur Volume of Animals. They become more fluffy.
 
@@ -962,7 +962,7 @@ Note that many DynDOLOD guides on the Web are heavily outdated or are not relev
 3. Install landscape texture mods (Noble + Tamrielic + Septentrional recommended) and tree mods (EVT recommended). 
 	- If using EVT for trees, make sure ESP is enabled as it is used by DynDOLOD 3.0. 
 	- Disable any billboards that are included in tree mods (found in \data\textures\lodgen\).
-4. Install a terrain LOD mod (that corresponds with the lowest texture mod used for terrain) and place it after other Skyrim SE texture mods.  Only used for terrain noise texture.  Remove ALL files except for the \texture\ folder.
+4. Install a terrain LOD mod (that corresponds with the lowest texture mod used for terrain) and place it after other Skyrim SE texture mods.  Only used for terrain noise texture.  Remove ALL files except for the \textures\ folder.
 5. Finalize load order in Mod Organizer 2.
 6. Use xLODGen to generate terrain LOD meshes and textures into a dedicated output folder and then install as a mod.
 7. Use TexGen to generate object LOD textures and tree/grass LOD billboards into a dedicated output folder and then install as a mod.
@@ -980,7 +980,7 @@ Note that many DynDOLOD guides on the Web are heavily outdated or are not relev
 	- [DynDOLOD Resources SE 3.00](https://www.nexusmods.com/skyrimspecialedition/mods/32382?tab=files) (Under "Miscellaneous Files")
 5. Install a terrain LOD mod through Mod Organizer 2 that corresponds with the lowest texture mod for terrain that you have installed.  If using Septentrional Landscapes SE, the [Terrain LOD for Septentrional Landscapes](https://www.nexusmods.com/skyrimspecialedition/mods/39563) mod is recommended.
 	- Place this mod BELOW all other Skyrim SE texture mods in your mod load order in the left window pane.
-	- Only used for terrain noise texture.  Remove ALL files except for the \texture\ folder.
+	- Only used for terrain noise texture.  Remove ALL files except for the \textures\ folder.
 6. If using [Enhanced Vanilla Trees SE-Lush Trees](https://www.nexusmods.com/skyrimspecialedition/mods/11008?tab=files) (highly recommended), install all default options + Vanilla (i.e., None) + RAT + SFO Snow Pines.  Keep the \DYNDOLOD\ folders as these are used by DynDOLOD 3.0.  Disable any billboards that are included in tree mods (found in \data\textures\lodgen).
 7. Finalize your MO2 load order.
 8. Download [xLODGen](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-81-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/) and extract the contents to a new \xLODGen\ directory that is outside of special OS folders like 'Programs Files' or 'Program Files (x86)', Users, Documents, Desktop, Downloads and also not in SteamApps, game or any mod manager folders.
@@ -995,23 +995,22 @@ Note that many DynDOLOD guides on the Web are heavily outdated or are not relev
 		- Untick MQP01Home and tick all other world spaces once the xLODGen window appears.  Tick Terrain LOD.  Set "Optimize Unseen" to 500.  Tick "Protect Borders".  Leave Objects LOD, Trees LOD, and Occlusion unticked.  Then click Generate.	
 		- Close the xLODGen window once you see "LOD generation complete".	
 12.  Navigate to C:\xLODGen_Output\ and move this folder to C:\ (Your Game Folder)\mods.  Refresh MO2 with "F5" and enable xLODGen_Output in the left window pane.  Place this mod near the end of your load order.
-13.  Right click the Terrain LOD .esm plugin on the right window pane and click "Open Origin in Explorer".  Optionally delete your Terrain LOD .esm file in Windows Explorer as this file is only needed when running xLODGen. 
-14.  Select TexGenx64 from the upper right drop down bar and click Run.
+13.  Select TexGenx64 from the upper right drop down bar and click Run.
 		- If you get a "Could not open registry key" error, launch vanilla Skyrim VR one time from Steam.  Then exit Skyrim VR and repeat this step.  (This step can be performed outside of VR.  Simply launching Skyrim VR from your flatscreen and exiting after any Steam VR errors regarding no detected headset is sufficient.)
 		- If you get a "Found stitched object LOD textures" error, click "Ignore".
 		- Tick "HD Trees" and click "Start" once the TexGen window appears.
 		- Wait for TexGen to finish running, it typically takes several minutes.  When the process completes, click "Exit TexGen".
-15.  Navigate to your \DynDOLOD\ folder from Step 9 and move the \TexGen_Output\ folder to C:\ (Your Game Folder)\mods.  Refresh MO2 with "F5" and enable TexGen_Output in the left window pane.  Place this mod directly under "xLODGen_Output".
-16.  Select DynDOLODx64 from the upper right drop down bar and click Run.
+14.  Navigate to your \DynDOLOD\ folder from Step 9 and move the \TexGen_Output\ folder to C:\ (Your Game Folder)\mods.  Refresh MO2 with "F5" and enable TexGen_Output in the left window pane.  Place this mod directly under "xLODGen_Output".
+15.  Select DynDOLODx64 from the upper right drop down bar and click Run.
 		- If you get a "Worldspace Editor ID MQP01Home..." error, click "Ignore".
 		- Once the DynDOLOD window appears, click "Advanced".  Then tick all world spaces, click "High" at the top of the window,  tick "Ultra", and untick "Occlusion data" in the options below.  Then click "OK" to start the process.  Wait for DynDOLOD to finish running, it typically takes several minutes.  When the process completes, click "Save & Exit". 
 		- Under "Mesh and Reference rules", 'tree' can be set to Level0/Billboard2/Billboard2 under LOD Level 4/8/16 respectively for slightly improved visuals.  Not recommended for VR due to the moderate performance drop.  
-17.  Navigate to your \DynDOLOD\ folder from Step 9 and move the \DynDOLOD_Output\ folder to C:\ (Your Game Folder)\mods.  Refresh MO2 with "F5" and enable DynDOLOD_Output in the left window pane. Place this mod directly under "TexGen_Output".
-18.  Confirm "xLODGen_Output", "TexGen_Output", and "DynDOLOD_Output" are ticked in the left window pane and ensure DynDOLOD.esp is ticked in the right window pane.
-19.  Navigate to \Enhanced Vanilla Trees SE-Lush Trees\ folder and delete the ESP file (untested with Enderal VR), then navigate to \Enhanced Vanilla Trees SE-Lush Trees\meshes\landscape\trees\ and remove the SRG_ prefix from all filenames (required if not using plugin). You will need to reinstall EVT with its plugin if you ever wish to re-run DynDOLOD.  
+16.  Navigate to your \DynDOLOD\ folder from Step 9 and move the \DynDOLOD_Output\ folder to C:\ (Your Game Folder)\mods.  Refresh MO2 with "F5" and enable DynDOLOD_Output in the left window pane. Place this mod directly under "TexGen_Output".
+17.  Confirm "xLODGen_Output", "TexGen_Output", and "DynDOLOD_Output" are ticked in the left window pane and ensure DynDOLOD.esp is ticked in the right window pane.
+18.  Navigate to \Enhanced Vanilla Trees SE-Lush Trees\ folder and delete the ESP file (untested with Enderal VR), then navigate to \Enhanced Vanilla Trees SE-Lush Trees\meshes\landscape\trees\ and remove the SRG_ prefix from all filenames (required if not using plugin). You will need to reinstall EVT with its plugin if you ever wish to re-run DynDOLOD.  
 		- This step may be unnecessary but avoids potential compatability issues with the EVT plugin.
-20.  Revert the upper right dropdown bar back to "SKSE".
-21.  DynDOLOD is now successfully configured!  You should see FAR more detail in the distance when looking across large open areas of the game! (You may need to re-run this process if you change your load order.)
+19.  Revert the upper right dropdown bar back to "SKSE".
+20.  DynDOLOD is now successfully configured!  You should see FAR more detail in the distance when looking across large open areas of the game! (You may need to re-run this process if you change your load order.)
 
 ### SkyVRaan Configuration 
 SkyVRaan adds shimmering water effects to the game.  SkyVRaan has been pre-configured with Wabbajack but the configuration process has been documented below for reference.  This process should be run immediately before or after xLODGen/TexGen/DynDOLOD (if using xLODGen/TexGen/DynDOLOD). DynDOLOD and SkyVRaan's Synthesis plugin should be placed in your load order in the order that they are generated.
