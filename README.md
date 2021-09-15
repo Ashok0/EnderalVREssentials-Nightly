@@ -655,7 +655,8 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**High Poly Project v4.95**](https://www.nexusmods.com/skyrimspecialedition/mods/12029): An on going process to improve the models of the game with more polygons , UV edits or just replace them all together. SMIM was the inspiration and the lack of similar mods led me to make this.
 - Should be installed with a Custom Install.  Skip "Farmhouse Stone Walls" as these are better replaced by seperate mods. Skip "Whiterun Clutter", "Smelter Coal", "Furniture", "Plants", and "Riften 3D Leaves" as these at a minimum are incompatible with Enderal VR and can cause purple texture glitches.
 
-[**Terrain LOD for Septentrional Landscapes v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/39563): New overhaul for Terrain LOD landscape textures that corresponds with the texture mods you have installed. Generated with xLODGen. Also contains Tree LOD.
+[**Terrain LOD for Septentrional Landscapes v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/39563): New overhaul for Terrain LOD landscape textures that corresponds with the texture mods you have installed..
+- Only used for terrain noise texture.  Remove ALL files except for the \texture\ folder.
 
 [**FusaFusa Project - Fluffy Animals SE v14.2**](https://www.nexusmods.com/skyrimspecialedition/mods/5514?tab=files): Increase Fur Volume of Animals. They become more fluffy.
 
@@ -961,13 +962,12 @@ Note that many DynDOLOD guides on the Web are heavily outdated or are not relev
 3. Install landscape texture mods (Noble + Tamrielic + Septentrional recommended) and tree mods (EVT recommended). 
 	- If using EVT for trees, make sure ESP is enabled as it is used by DynDOLOD 3.0. 
 	- Disable any billboards that are included in tree mods (found in \data\textures\lodgen\).
-4. Install a terrain LOD mod (that corresponds with the lowest texture mod used for terrain) and place it after other Skyrim SE texture mods.  Enable your Terrain LOD .esm plugin and place it at the very top of the plugin list above "Enderal - Forgotten Stories.esm".
+4. Install a terrain LOD mod (that corresponds with the lowest texture mod used for terrain) and place it after other Skyrim SE texture mods.  Only used for terrain noise texture.  Remove ALL files except for the \texture\ folder.
 5. Finalize load order in Mod Organizer 2.
 6. Use xLODGen to generate terrain LOD meshes and textures into a dedicated output folder and then install as a mod.
-7. Optionally remove your Terrain LOD .esm plugin as it is no longer needed after running xLODGen. 
-8. Use TexGen to generate object LOD textures and tree/grass LOD billboards into a dedicated output folder and then install as a mod.
-9. Use DynDOLOD to generate object LOD (includes grass LOD if enabled), tree and optional dynamic LOD into a dedicated output folder and then install as a mod.
-10. (Optional) Remove the Enhanced Vanilla Tree .esp file to avoid potential plugin issues.  Then navigate to \Enhanced Vanilla Trees SE-Lush Trees\meshes\landscape\trees\ and remove the SRG_ prefix from all filenames (required if not using plugin). 
+7. Use TexGen to generate object LOD textures and tree/grass LOD billboards into a dedicated output folder and then install as a mod.
+8. Use DynDOLOD to generate object LOD (includes grass LOD if enabled), tree and optional dynamic LOD into a dedicated output folder and then install as a mod.
+9. (Optional) Remove the Enhanced Vanilla Tree .esp file to avoid potential plugin issues.  Then navigate to \Enhanced Vanilla Trees SE-Lush Trees\meshes\landscape\trees\ and remove the SRG_ prefix from all filenames (required if not using plugin). 
 
 #### xLODGen/TexGen/DynDOLOD Configuration 
 
@@ -980,7 +980,7 @@ Note that many DynDOLOD guides on the Web are heavily outdated or are not relev
 	- [DynDOLOD Resources SE 3.00](https://www.nexusmods.com/skyrimspecialedition/mods/32382?tab=files) (Under "Miscellaneous Files")
 5. Install a terrain LOD mod through Mod Organizer 2 that corresponds with the lowest texture mod for terrain that you have installed.  If using Septentrional Landscapes SE, the [Terrain LOD for Septentrional Landscapes](https://www.nexusmods.com/skyrimspecialedition/mods/39563) mod is recommended.
 	- Place this mod BELOW all other Skyrim SE texture mods in your mod load order in the left window pane.
-	- Move your Terrain LOD .esm plugin ABOVE Enderal - Forgotten Stories.esm in the right window pane and make sure the plugin is enabled.
+	- Only used for terrain noise texture.  Remove ALL files except for the \texture\ folder.
 6. If using [Enhanced Vanilla Trees SE-Lush Trees](https://www.nexusmods.com/skyrimspecialedition/mods/11008?tab=files) (highly recommended), install all default options + Vanilla (i.e., None) + RAT + SFO Snow Pines.  Keep the \DYNDOLOD\ folders as these are used by DynDOLOD 3.0.  Disable any billboards that are included in tree mods (found in \data\textures\lodgen).
 7. Finalize your MO2 load order.
 8. Download [xLODGen](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-81-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/) and extract the contents to a new \xLODGen\ directory that is outside of special OS folders like 'Programs Files' or 'Program Files (x86)', Users, Documents, Desktop, Downloads and also not in SteamApps, game or any mod manager folders.
@@ -992,7 +992,7 @@ Note that many DynDOLOD guides on the Web are heavily outdated or are not relev
 	- Select Add an executable ("+" icon in upper left) > Add from file > Navigate to "DynDOLODx64.exe" in the folder created in Step 6 and select "Open" > Type -tes5vr under "Arguments" and click "Apply".  
 	- Click OK to return to the main Mod Organizer 2 window. 
 11.  Select xLODGenx64 from the upper right drop down bar and click Run.
-		- Tick all world spaces once the xLODGen window appears.  Tick Terrain LOD.  Set "Optimize Unseen" to 500.  Tick "Protect Borders".  Leave Objects LOD, Trees LOD, and Occlusion unticked.  Then click Generate.	
+		- Untick MQP01Home and tick all other world spaces once the xLODGen window appears.  Tick Terrain LOD.  Set "Optimize Unseen" to 500.  Tick "Protect Borders".  Leave Objects LOD, Trees LOD, and Occlusion unticked.  Then click Generate.	
 		- Close the xLODGen window once you see "LOD generation complete".	
 12.  Navigate to C:\xLODGen_Output\ and move this folder to C:\ (Your Game Folder)\mods.  Refresh MO2 with "F5" and enable xLODGen_Output in the left window pane.  Place this mod near the end of your load order.
 13.  Right click the Terrain LOD .esm plugin on the right window pane and click "Open Origin in Explorer".  Optionally delete your Terrain LOD .esm file in Windows Explorer as this file is only needed when running xLODGen. 
