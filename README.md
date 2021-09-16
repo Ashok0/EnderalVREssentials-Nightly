@@ -811,7 +811,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Enderal SE - Seagulls of Skyrim v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/204?tab=files): Compatibility patch for Seagulls of Skyrim which adds them to the world of Vyn.
 
-[**Flying Crows SSE v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/49270?tab=files): Adds flying crows to various locations around Tamriel to create a more nordic atmosphere in your Skyrim.
+[**Flying Crows SSE v1.2**](https://www.nexusmods.com/skyrimspecialedition/mods/49270?tab=files): Adds flying crows to various locations around Tamriel to create a more nordic atmosphere in your Skyrim.
 
 [**Enderal SE - Flying Crows v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/205?tab=files): Compatibility patch for Flying Crows which adds them to the world of Vyn.
 
