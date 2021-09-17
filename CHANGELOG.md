@@ -2,7 +2,7 @@
 Release date: September 1st, 2021
 
 Updated Tools:
-- DynDOLOD Standalone 3.0 Alpha-42
+- DynDOLOD Standalone 3.0 Alpha-43
 
 Updated Mods:
 - DynDOLOD Resources SE v3.00 Alpha-12
