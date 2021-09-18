@@ -1,5 +1,5 @@
 # ENDERAL VR ESSENTIALS (EVRE)
-Latest update: September 1st, 2021 (v1.101)
+Latest update: September 18th, 2021 (v1.101)
 
 ## Table of contents
 * [Preamble](#preamble)
