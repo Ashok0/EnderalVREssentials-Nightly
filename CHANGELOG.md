@@ -1,5 +1,8 @@
 
-Release date: September 1st, 2021
+Release date: September 18th, 2021
+
+New Mods:
+- Magic Improvements for Skyrim VR: Vastly improved dual casting, spell effect size scales based on magicka percentage, and additional options for aiming spells in VR.
 
 Updated Tools:
 - DynDOLOD Standalone 3.0 Alpha-43
@@ -12,4 +15,3 @@ Updated Mods:
 - Embers XD v2.3.3: Improved giant campsite ground shading and added variants to cover more terrain types.  Attempts at further optimization.  Installer improvements.
 - Dwemer Pipework Reworked v4.0: Made many optimizations, added new animated parts to the boilers, some new items.
 - Flying Crows SSE v1.2: Updated to Form44. Fixed Oldrim waterflows, Checked for errors in SSEEdit. LOD's will require DynDolod 3.0 or higher.
-
