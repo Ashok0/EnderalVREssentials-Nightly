@@ -437,6 +437,8 @@ If you are using a language pack, you may need to change the font used by Dear D
 	- vrikslots.ini: visibleSlot11 = 0 
 - Make the following changes to these VRIK INI files to pre-configure MCM settings for Selfie Mode:  
 	- vrikgestures.ini: selfieModeEnabled = 1
+- Make the following changes to these VRIK INI files to pre-configure MCM settings to allow for open hand spell casting:  
+	- vrikgestures.ini: castWhenHandsOpen = 2
 
 [**VRIK Rift-Index-WMR Controller Bindings V2.1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/23416?tab=files): These control bindings are an optional add-on for VRIK to make it easier to use holsters.  The button for shout has been moved to Right A (or the right WMR touchpad), and interact is performed by squeezing the right grip.  Sprinting is now done by squeezing the left grip.  With these "safe" inputs on grips, players do not need to worry about shouting accidentally when grabbing holstered weapons.
 
