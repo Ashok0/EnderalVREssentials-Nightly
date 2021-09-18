@@ -91,6 +91,7 @@ Once you start a new game, you can configure your individual Enderal VR mods thr
 1. Disable "Adjust Held Weapons Position" to fix scoped bow aiming.  (Disabled by default)
 2. Select Body Holsters > Scroll down to Left Shoulder Holster > Untick "Visible".  This prevents your bow from clipping into the edge of your FOV when crouching in real life. (Unticked by default) 
 3. Select Controls > Tick "Selfie Mode" if you want to be able to view and take photos of your character in third person.  You can activate and deactivate the third person view by raising your right hand in the air.  (Disabled by default)
+4. Select Controls > Set "Cast Spells" to "When Hand Closes + Opens" to allow you to cast elemental spells by quickly squeezing your fist and then opening your hands.  (Enabled by default)
 
 * Spell Wheel VR MCM: 
 1. Select Presets > SpellSword + More Pages (Loads preset for equipping spells, weapons, and items from the spell wheel across multiple pages)
@@ -154,7 +155,7 @@ Wabbajack will delete all files that are not part of its modlist when updating! 
 
 [**Flinching for VR Magic can trigger flinching**](https://www.nexusmods.com/skyrimspecialedition/mods/42550?tab=files): A little mod that allows NPCs to flinch when hit by your right fist or melee weapons in either hand.  Flinching animations do not work if you have ranged weapons such as a bow equipped.
 
-[**VRIK**](https://www.nexusmods.com/skyrimspecialedition/mods/23416?tab=posts): VRIK will display the player character's body in SkyrimVR and animate it to match your movements. Weapons can be kept, drawn, and sheathed in up to 14 visible holsters on your body.  Be sure to untick the "Visible" setting for the Left Shoulder Holster in the VRIK MCM.  This prevents your bow from clipping into the edge of your FOV when crouching in real life.
+[**VRIK**](https://www.nexusmods.com/skyrimspecialedition/mods/23416?tab=posts): VRIK will display the player character's body in SkyrimVR and animate it to match your movements. Weapons can be kept, drawn, and sheathed in up to 14 visible holsters on your body.  Spells can be cast by simply opening your hands when using Index controllers or Touch controllers with grips (Kiwi grips recommended).
 
 [**VRIK Rift-Index-WMR Controller Bindings**](https://www.nexusmods.com/skyrimspecialedition/mods/23416?tab=files): These control bindings are an optional add-on for VRIK to make it easier to use holsters.  These bindings are disabled by default but MUST be enabled if you are using Index controllers.
 
