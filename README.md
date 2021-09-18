@@ -91,7 +91,7 @@ Once you start a new game, you can configure your individual Enderal VR mods thr
 1. Disable "Adjust Held Weapons Position" to fix scoped bow aiming.  (Disabled by default)
 2. Select Body Holsters > Scroll down to Left Shoulder Holster > Untick "Visible".  This prevents your bow from clipping into the edge of your FOV when crouching in real life. (Unticked by default) 
 3. Select Controls > Tick "Selfie Mode" if you want to be able to view and take photos of your character in third person.  You can activate and deactivate the third person view by raising your right hand in the air.  (Disabled by default)
-4. Select Controls > Set "Cast Spells" to "When Hand Closes + Opens" to allow you to cast elemental spells by quickly squeezing your fist and then opening your hands.  (Enabled by default)
+4. Select Controls > Set "Cast Spells" to "When Hand Closes + Opens" to allow you to cast elemental spells by quickly squeezing your fist and then opening your hand.  (Enabled by default)
 
 * Spell Wheel VR MCM: 
 1. Select Presets > SpellSword + More Pages (Loads preset for equipping spells, weapons, and items from the spell wheel across multiple pages)
