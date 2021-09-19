@@ -5,7 +5,7 @@ New Mods:
 - Magic Improvements for Skyrim VR: Vastly improved dual casting, spell effect size scales based on magicka percentage, and additional options for aiming spells in VR.
 
 Updated Tools:
-- DynDOLOD Standalone 3.0 Alpha-43
+- DynDOLOD Standalone 3.0 Alpha-44
 
 Updated Mods:
 - VRIK V0.8.1. In-Dev Build 28: INI updated. Spell casting feature set to "When Hand Closes + Opens" to allow casting of elemental spells by quickly squeezing your fist and then opening your hand when using Index controllers or Touch controllers with grips (Kiwi grips recommended).
