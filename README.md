@@ -1001,10 +1001,10 @@ Note that many DynDOLOD guides on the Web are heavily outdated or are not relev
 	- Select Add an executable ("+" icon in upper left) > Add from file > Navigate to "DynDOLODx64.exe" in the folder created in Step 6 and select "Open" > Type -tes5vr under "Arguments" and click "Apply".  
 	- Click OK to return to the main Mod Organizer 2 window. 
 11.  Select DynDOLODx64 from the upper right drop down bar and click Run.  (We are not ready to use DynDOLOD yet but need to run the tool now to check for potential errors in our modlist) 
-	- If you receive an "Injected Worldspace" error for a mod which does not require plugins to work (i.e. texture/mesh mods), delete the .esp files associated with the mod.
-	- If you receive an "Injected Worldspace" error for a mod which requires plugins to function, fix the .esp files associated with the mod by opening the mods plugins in xEdit and deleting all Cell and Worldspace data.
-	- If you receive a "Worldspace Editor ID MQP01 Home is changed to Tamriel" error, you can simply ignore this error. 
-	- Close the DynDOLOD window once it appears.
+		- If you receive an "Injected Worldspace" error for a mod which does not require plugins to work (i.e. texture/mesh mods), delete the .esp files associated with the mod.
+		- If you receive an "Injected Worldspace" error for a mod which requires plugins to function, fix the .esp files associated with the mod by opening the mods plugins in xEdit and deleting all Cell and Worldspace data.
+		- If you receive a "Worldspace Editor ID MQP01 Home is changed to Tamriel" error, you can simply ignore this error. 
+		- Close the DynDOLOD window once it appears.
 12.  Select xLODGenx64 from the upper right drop down bar and click Run.
 		- Untick MQP01Home and tick all other world spaces once the xLODGen window appears.  Tick Terrain LOD.  Set "Optimize Unseen" to 500.  Tick "Protect Borders".  Leave Objects LOD, Trees LOD, and Occlusion unticked.  Then click Generate.	
 		- Close the xLODGen window once you see "LOD generation complete".	
