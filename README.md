@@ -136,7 +136,7 @@ Wabbajack will delete all files that are not part of its modlist when updating! 
 * The loading screen artwork is out of frame.
 * The "Dirt & Blood" mod adds a 'Wash and Rinse' spell to your magic list.  This spell does not work in Enderal VR, you have to rinse dirt and blood off your body by swimming in water or standing in the rain.
 * The talent points in the game are too high to reach in VR.  To use them, install [OVR Advanced Settings](https://github.com/OpenVR-Advanced-Settings/OpenVR-AdvancedSettings) which allows you to change your player height on the fly.  From the in-game Steam menu, select OVR Advanced Settings > Space Offsets -> Y-Axis (up/down). Just lower the value there to "grow" ingame. Note that this fix requires SteamVR and is not compatible with OpenComposite.    
-* &#x1F53A; If using Auriels Holy Bow - REDUX, Blended Roads, Embers HD, Embers XD, Glorious Doors of Skyrim (GDOS) SE, Inferno - Fire Effects Redux, JS Instruments of Skyrim SE, Kanjs - Chaurus Eggs and Staff, Skyrim Particle Patch for ENB, Static Mesh Improvement Mod - SMIM, Unofficial Skyrim Special Edition Patch, or Water for ENB you must make sure you are NOT using any plugins for these mods.  Only meshes and textures may be used.  Delete ALL .esp files associated with these mods before launching the game or running DynDOLOD 3.0. &#x1F53A; 
+* &#x1F53A; If using Auriels Holy Bow - REDUX, Blended Roads, Embers HD, Embers XD, Glorious Doors of Skyrim (GDOS) SE, Inferno - Fire Effects Redux, JS Instruments of Skyrim SE, Kanjs - Chaurus Eggs and Staff, Skyrim Particle Patch for ENB, Snazzy Furniture and Clutter Overhaul SE, Static Mesh Improvement Mod - SMIM, Unofficial Skyrim Special Edition Patch, or Water for ENB you must make sure you are NOT using any plugins for these mods.  Only meshes and textures may be used.  Delete ALL .esp files associated with these mods before launching the game or running DynDOLOD 3.0. &#x1F53A; 
 * &#x1F53A; When using OpenComposite, you cannot have any audio recording devices attached to your PC aside from your VR headset or Dragonborn Speaks Naturally will not work. &#x1F53A; 
 * &#x1F53A; With the exception of texture/mesh mods, mods cannot always be safely removed mid-savegame. &#x1F53A;
 
@@ -558,7 +558,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Inferno - Fire Effects Redux v4.1**](https://www.nexusmods.com/skyrimspecialedition/mods/29316?tab=files): Spiritual successor to the original Ultimate HD Fire Effects mod by rheadude with improved meshes and textures! 
 - Use the following installation options: Ultra > Brighter > Freesia > New > Regular > None > No Patch
-- Delete ESP file.
+- ESP file not supported.  Do not install patches.
 
 [**Embers XD v2.3.3**](https://www.nexusmods.com/skyrimspecialedition/mods/37085?tab=files): An overhaul of campfires and other fire sources.
 - Use "Inferno Flames" if using "Inferno - Fire Effects Redux".
@@ -591,7 +591,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**DUST x2048 By Ramccoid v6.1**](https://www.nexusmods.com/skyrimspecialedition/mods/38444?tab=files): This mod retextures the ambient dust particles which float in the air and also the falling dust effect in dungeons and such places.
 
 [**Kanjs - Chaurus eggs and staff v2.1**](https://www.nexusmods.com/skyrimspecialedition/mods/46486?tab=files): A Simple Chaurus Egss Meshes and Textures remade ! With an optional Staff!
-- Delete ESP file.
+- ESP file not supported.  Select "No Staff" options which use no plugins.
 
 [**3D Casting FX - Fire and Frost Hand FX Replacer v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/50197?tab=files): Replaces the effect in your hand when holding a fire or frost spell. The vanilla effects are made up of 2D sprites moving in a single plane which is very apparent and quite ugly in VR. These new ones are specifically designed to look good in VR and SE both.
 
@@ -620,7 +620,8 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**WEBS v0.2**](https://www.nexusmods.com/skyrim/mods/33718?tab=files): A complete set of 1k texture replacers for the default webs and cobwebs. 
 
-[**Snazzy Furniture and Clutter Overhaul SE v1.73**](https://www.nexusmods.com/skyrimspecialedition/mods/2414?tab=files): Comprehensive overhaul of furniture and clutter throughout Tamriel, including: - New HD noble chairs, beds, drapery, Imperial Banners, etc. - Several styles of weapon racks, plaques, and display cases - Many new wall art paintings - More...
+[**Snazzy Furniture and Clutter Overhaul SE v1.73**](https://www.nexusmods.com/skyrimspecialedition/mods/2414?tab=files): Comprehensive overhaul of furniture and clutter throughout Tamriel, including: - New HD noble chairs, beds, drapery, Imperial Banners, etc. - Several styles of weapon racks, plaques, and display cases - Many new wall art paintings.
+- ESP file not supported.  Install "Replacer Version" which uses no plugins.
 
 [**Jabber's 2K Archery Targets v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/21726): Retextures the SMIM archery targets with high-quality 2K textures.
 
