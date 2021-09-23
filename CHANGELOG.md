@@ -2,7 +2,8 @@
 Release date: September 18th, 2021
 
 New Mods:
-- Magic Improvements for Skyrim VR: Vastly improved dual casting, spell effect size scales based on magicka percentage, and additional options for aiming spells in VR.
+- Magic Improvements for Skyrim VR v1.0.2: Vastly improved dual casting, spell effect size scales based on magicka percentage, and additional options for aiming spells in VR.
+- Meditation Area Fixes v1.0: Fixes some issues in the meditation area.
 
 Updated Tools:
 - DynDOLOD Standalone 3.0 Alpha-44
