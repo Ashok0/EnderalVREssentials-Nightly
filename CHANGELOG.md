@@ -9,6 +9,7 @@ Updated Tools:
 - DynDOLOD Standalone 3.0 Alpha-44
 
 Updated Mods:
+- Scoped Bows SE v1.3.1: "Cell" and "Worldspace" data removed from ScopedBows.esp with xEdit to resolve issue with Skyrim worldspace data being injected into Enderal.
 - VRIK V0.8.1. In-Dev Build 28: INI updated. Spell casting feature set to "When Hand Closes + Opens" to allow casting of elemental spells by quickly squeezing your fist and then opening your hand when using Index controllers or Touch controllers with grips (Kiwi grips recommended).
 - DynDOLOD Resources SE v3.00 Alpha-12
 - Spell Perk Item Distributor VR v5.0.3: An SKSE plugin that can be used to add spells/leveled spells/perks/items/leveled items/shouts/packages/outfits to every NPC in the game, using config files.
