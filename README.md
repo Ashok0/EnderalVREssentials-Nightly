@@ -459,6 +459,8 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**NavigateVR v1.5**](https://www.nexusmods.com/skyrimspecialedition/mods/47174?tab=files): This mod brings immersive navigation to VR with a functional compass
 - Replace "LHandTamrielSettlements.dds" and "RHandTamrielSettlements.dds" with maps of your choice from the "Maps - SE" or "Anna's Enderal Map" mod to make the default Navigate VR map artwork lore friendly to Enderal.
+- Remove "Map of Skyrim" from the plugin's "Misc. Item" data along with "FormID List".startingitems and set "FormID List".TRC_SolstheimMapMerchant."LNAM - Form ID #0" to 0 using xEdit to remove the broken map from the mod.
+- Rename "Map of Provinces and Isles" to "Map of Enderal" from Weapon."Map of Provinces and Isles".OBND."FULL - Name" in xEdit to give the NavigateVR map a lore friendly name.
 
 [**Splashes of Skyrim - VR v1.2.1**](https://www.nexusmods.com/skyrimspecialedition/mods/47710?tab=files): SKSE plugin that adds projectile based water splashes and ripples, and underwater explosions.
 
