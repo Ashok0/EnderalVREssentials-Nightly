@@ -804,6 +804,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**Enderal SE - True Storms v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/203?tab=files): Compatibility patch for True Storms.
 
 [**Dirt and Blood - Dynamic Visual Effects v2.11**](https://www.nexusmods.com/skyrimspecialedition/mods/38886?tab=files): Your character will accumulate dirt and blood dynamically, which you can clean by swimming or standing in the rain. The effects are mostly visual only and do not affect gameplay. NPCs will also get bloody as a result of battles. Mod is designed to be simple and lightweight.
+- Remove "Wash and Rinse" from the plugin's Spell data using xEdit to remove the broken "Wash and Rinse" spell from the mod.
 
 [**Enderal SE - Dirt and Blood v1.01**](https://www.nexusmods.com/enderalspecialedition/mods/201?tab=files): Compatibility patch for Dirt and Blood.
 
