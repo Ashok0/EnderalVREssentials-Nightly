@@ -13,6 +13,7 @@ Updated Mods:
 - VRIK V0.8.1. In-Dev Build 28: INI updated. Spell casting feature set to "When Hand Closes + Opens" to allow casting of elemental spells by quickly squeezing your fist and then opening your hand when using Index controllers or Touch controllers with grips (Kiwi grips recommended).
 - DynDOLOD Resources SE v3.00 Alpha-12
 - NavigateVR v1.5: Renamed in-game map to "Map of Enderal" and removed broken "Map of Skyrim" map from plugin using xEdit.
+- Sprint Jump VR v1.1: Added BeastModeMultiplier for Werewolf/Vampire Lord modes and KhajitMultiplier for Khajit Race.  Added SpeedBoostMultiplier for increasing speed while jumping. This allows you to go further with sprint jump.  Some code optimizations and fixes.
 - Dirt and Blood - Dynamic Visual Effects v2.11: Removed broken "Wash and Rinse" spell from plugin using xEdit.
 - Spell Perk Item Distributor VR v5.0.3: An SKSE plugin that can be used to add spells/leveled spells/perks/items/leveled items/shouts/packages/outfits to every NPC in the game, using config files.
 - Terrain LOD for Septentrional Landscapes v1.1: All files removed aside from noise texture in \textures\ folder.
