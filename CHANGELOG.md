@@ -3,6 +3,8 @@ Release date: September 18th, 2021
 
 New Mods:
 - Magic Improvements for Skyrim VR v1.0.2: Vastly improved dual casting, spell effect size scales based on magicka percentage, and additional options for aiming spells in VR.
+- 4K Stockade v1.0: 4K, 2K, or 1K retexture of the stockades seen around Skyrim.
+- Fluffworks (Fluffy Animals) v1.0: Enhanced fur on animals using shell texturing.  
 - Meditation Area Fixes v1.0: Fixes some issues in the meditation area.
 
 Updated Tools:
@@ -22,3 +24,6 @@ Updated Mods:
 - Dwemer Pipework Reworked v4.0: Made many optimizations, added new animated parts to the boilers, some new items.
 - Flying Crows SSE v1.2: Updated to Form44. Fixed Oldrim waterflows, Checked for errors in SSEEdit. LOD's will require DynDolod 3.0 or higher.
 - Misc Retexture Project v2.6.1: A small update, added the fox and wolf pelts and also the chicken.
+
+Removed Mods:
+- Stockade Brown Timber 2K v1.1: Redundant with 4K Stockade.
