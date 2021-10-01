@@ -659,7 +659,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Dwemer Pipework Reworked v4.0**](https://www.nexusmods.com/skyrimspecialedition/mods/46507?tab=files): Rework of Dwemer pipes, including Dwemer boilers.
 
-[**Stockade Brown Timber 2K v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/15501?tab=files): A 4k or 2k retexturing of all stockade wood textures. These are found at farms, in forts, and out the front of mines Three options are now available due to popular request: Old Grey, Painted and Brown!
+[**4K Stockade v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/27938?tab=files): 4K, 2K, or 1K retexture of the stockades seen around Skyrim.
 
 [**Nightingale Pride 4K SSE Edition - With Gems v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/22813?tab=files): High Resolution, Lore Friendly Retexture Of Nightingales Bow and Blade. Polished for SSE EDITION.
 
@@ -675,6 +675,8 @@ If you are using a language pack, you may need to change the font used by Dear D
 - Only used for terrain noise texture.  Remove ALL files except for the \textures\ folder.
 
 [**FusaFusa Project - Fluffy Animals SE v14.2**](https://www.nexusmods.com/skyrimspecialedition/mods/5514?tab=files): Increase Fur Volume of Animals. They become more fluffy.
+
+[**Fluffworks Medium v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/56361?tab=files): Enhanced fur on animals using shell texturing.
 
 [**Smaller Insects v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/51551?tab=files): This mod aims to resize the scale of animals in Skyrim to give a better immersive feelig in VR / First person.
 
