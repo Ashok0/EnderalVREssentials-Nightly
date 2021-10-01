@@ -468,7 +468,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Immersive Gathering (Woodchopping and Mining) SE - VR Friendly v1.7**](https://www.nexusmods.com/skyrimspecialedition/mods/29710?tab=files): Chop wood and mine ore for real!
 
-[**Armored Flesh v2.0**](https://www.nexusmods.com/skyrimspecialedition/mods/25365?tab=files): A small mod, offering improved visuals for each of the Alteration school's five armor spells.
+[**Armored Flesh v2.0**]: A small mod, offering improved visuals for each of the Alteration school's five armor spells.
 
 [**Destructible Bottles Extended v1.5**](https://www.nexusmods.com/skyrim/mods/26017?tab=files): Hit the bottle and smash it in pieces! Latest version 1.5 includes also some glazed pottery items such as pots, jugs, plates and bowls.
 - LE mod.  Converted to Form 44 (SE) by opening and resaving ESP file in Creation Kit.
@@ -529,7 +529,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**MRP 2.6 Small Update v2.6.1**](https://www.nexusmods.com/skyrimspecialedition/mods/13578?tab=files): A small update, added the fox and wolf pelts and also the chicken.
 
-[**Rustic Clutter Collection - SE - 2K v1.0**](): This is a collection of my Rustic clutter item retextures. The mod includes RUSTIC DINNERWARE, RUSTIC POTTERY, and RUSTIC SILVERWARE. There are also a few other clutter items like mead bottles, wine bottles, the satchel, knapsack, coin purse, strongbox, safe, prisoner cage, and the dwemer lexicon cubes. 2K and 1K versions available. 
+[**Rustic Clutter Collection - SE - 2K v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/5795?tab=files): This is a collection of my Rustic clutter item retextures. The mod includes RUSTIC DINNERWARE, RUSTIC POTTERY, and RUSTIC SILVERWARE. There are also a few other clutter items like mead bottles, wine bottles, the satchel, knapsack, coin purse, strongbox, safe, prisoner cage, and the dwemer lexicon cubes. 2K and 1K versions available. 
 
 [**Realistic HD Mods Remastered Collection - 2K v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/5795?tab=files): Collection of all Remastered Realistic HD Series Mods for SSE (All in One).  
 
