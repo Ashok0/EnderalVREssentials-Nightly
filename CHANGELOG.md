@@ -24,6 +24,8 @@ Updated Mods:
 - Dwemer Pipework Reworked v4.0: Made many optimizations, added new animated parts to the boilers, some new items.
 - Flying Crows SSE v1.2: Updated to Form44. Fixed Oldrim waterflows, Checked for errors in SSEEdit. LOD's will require DynDolod 3.0 or higher.
 - Misc Retexture Project v2.6.1: A small update, added the fox and wolf pelts and also the chicken.
+- Armored Flesh v2.0: Fixed broken Nexus links.
+
 
 Removed Mods:
 - Stockade Brown Timber 2K v1.1: Redundant with 4K Stockade.
