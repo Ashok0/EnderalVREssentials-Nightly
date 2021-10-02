@@ -1,5 +1,5 @@
 
-Release date: September 18th, 2021
+Release date: October 1st, 2021
 
 New Mods:
 - Magic Improvements for Skyrim VR v1.0.2: Vastly improved dual casting, spell effect size scales based on magicka percentage, and additional options for aiming spells in VR.
