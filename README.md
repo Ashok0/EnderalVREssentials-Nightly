@@ -1,5 +1,5 @@
 # ENDERAL VR ESSENTIALS (EVRE)
-Latest update: October 1st, 2021 (v1.101)
+Latest update: October 2nd, 2021 (v1.102)
 
 ## Table of contents
 * [Preamble](#preamble)
@@ -427,7 +427,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Nemesis Unlimited Behavior Engine v0.84-beta**](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main/releases): An animation framework that enables behavior mods like CGO, SkySA, Ultimate Combat and most FNIS dependent mods to work together.
 
-[**Spell Perk Item Distributor VR v5.0.3**](https://www.nexusmods.com/skyrimspecialedition/mods/36869?tab=files): An SKSE plugin that can be used to add spells/leveled spells/perks/items/leveled items/shouts/packages/outfits to every NPC in the game, using config files.
+[**Spell Perk Item Distributor VR v5.0.4**](https://www.nexusmods.com/skyrimspecialedition/mods/36869?tab=files): An SKSE plugin that can be used to add spells/leveled spells/perks/items/leveled items/shouts/packages/outfits to every NPC in the game, using config files.
 
 [**Ultimate Combat and Creatures Behaviour compatibility for Nemesis v1.12**](https://www.nexusmods.com/skyrimspecialedition/mods/45966?tab=files): This is just a VERY HACKY compatibility patch thing for creature behaviour edits, Nemesis and Ultimate combat, as more and more mods are coming out effecting creature's behaviours it just makes sense to have something like this instead of it being inside multiple mods.
 
@@ -488,7 +488,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**No Stagger Mod v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/16335?tab=files): This mod makes your character unstaggerable. 
 
-[**Sprint Jump VR v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/28354?tab=files): An SKSE plugin to allow Sprint Jumping in SkyrimVR. Increase sprint jump height and distance with a multiplier in the config file.
+[**Sprint Jump VR v1.1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/28354?tab=files): An SKSE plugin to allow Sprint Jumping in SkyrimVR. Increase sprint jump height and distance with a multiplier in the config file.
 
 [**Enhanced Ragdoll Accuracy Main File v1.02**](https://www.nexusmods.com/skyrimspecialedition/mods/45767?tab=files): Makes in-game humanoid corpses much more believable and immersive through meticulous changes in weight, joints, etc.
 
@@ -524,6 +524,10 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**4K SMIM Furniture Improvement v1.2**](https://www.nexusmods.com/skyrimspecialedition/mods/32552?tab=files): A 4K retexture of SMIM furniture textures.
 
 [**4K SMIM Furniture Chest v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/33369?tab=files): A retexture of the SMIM furniture chests, Upperclass, Weathered, Open and Snow. 4K or 2K.
+
+[**Underground - A Dungeon Texture Overhaul v1.2**](https://www.nexusmods.com/skyrimspecialedition/mods/14365?tab=description): An ambitious dungeon retexturing project which starts with caves and Nordic dungeons.
+- Place high on load order so mod is overwritten by other texture mods.
+- Noble Skyrim has vastly superior Dwemer textures versus Underground.  If using Noble Skyrim, it is recommended to place the Underground mod UNDER Noble Skyrim.  Then navigate to \Underground - a dungeon texture overhaul\textures\dungeons\dwemerruins\ and remove ALL files with the exception of dwestonefloor**.*  This will ensure that Noble Skyrim's superior Dwemer Ruins textures will take precedence over Underground.
 
 [**Misc Retexture Project v2.6**](https://www.nexusmods.com/skyrimspecialedition/mods/13578?tab=files): An ongoing project to find and retexture overlooked items throughout Skyrim.
 
@@ -677,6 +681,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**FusaFusa Project - Fluffy Animals SE v14.2**](https://www.nexusmods.com/skyrimspecialedition/mods/5514?tab=files): Increase Fur Volume of Animals. They become more fluffy.
 
 [**Fluffworks Medium v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/56361?tab=files): Enhanced fur on animals using shell texturing.
+- Recommend deleting the optional ESP file.
 
 [**Smaller Insects v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/51551?tab=files): This mod aims to resize the scale of animals in Skyrim to give a better immersive feelig in VR / First person.
 
