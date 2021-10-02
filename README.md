@@ -525,7 +525,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**4K SMIM Furniture Chest v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/33369?tab=files): A retexture of the SMIM furniture chests, Upperclass, Weathered, Open and Snow. 4K or 2K.
 
-[**Underground - A Dungeon Texture Overhaul v1.2**](https://www.nexusmods.com/skyrimspecialedition/mods/14365?tab=description): An ambitious dungeon retexturing project which starts with caves and Nordic dungeons.
+[**Underground - A Dungeon Texture Overhaul v1.2**](https://www.nexusmods.com/skyrimspecialedition/mods/14365?tab=files): An ambitious dungeon retexturing project which starts with caves and Nordic dungeons.
 - Place high on load order so mod is overwritten by other texture mods.
 - Noble Skyrim has vastly superior Dwemer textures versus Underground.  If using Noble Skyrim, it is recommended to place the Underground mod UNDER Noble Skyrim.  Then navigate to \Underground - a dungeon texture overhaul\textures\dungeons\dwemerruins\ and remove ALL files with the exception of dwestonefloor**.*  This will ensure that Noble Skyrim's superior Dwemer Ruins textures will take precedence over Underground.
 
@@ -671,6 +671,13 @@ If you are using a language pack, you may need to change the font used by Dear D
 - Delete ESP file.
 
 [**Advanced Alloys Carbon Fiber Reinforced Dwarven Crossbow v1.0**](https://www.nexusmods.com/skyrim/mods/23646?tab=files): Texture replacer for Dwemer crossbow.
+
+[**1K Farmhouse Fences SE Version 2 v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/38912?tab=files): Two new fences for Skyrim farmhouse wovenfences available in 4k, 2k and 1k.
+
+[**Skyrim Textures Redone - High Hrothgar 2K v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/13621?tab=files): Complete texture overhaul for High Hrothgar, Offers studio quality baked normals and baked ambient occlusion maps with proper specular maps to correctly reflect the environments.
+
+[**The Halls of the Greybeards - A High Hrothgar Retexuring v1.01**](https://www.nexusmods.com/skyrimspecialedition/mods/22672?tab=files): A retexturing of High Hrothgar. There are 4 versions. A standard version with 4k diffuse and 2k normals, 4k diffuse and 4k normals and a dark version with 4k diffuse and 2k normals, 4k diffuse and 4k normals. This mod fixes a ton of texture layout issues within the meshes too.
+- If using "Skyrim Textures Redone - High Hrothgar", remove "hhintbaycol01.dds" and "hhintbaycol01_n.dds" from the following path:  \The Halls of the Greybeards - a High Hrothgar Retexuring\textures\architecture\highhrothgar.  This will allow the STR mod's superior texture to take precedence.  
 
 [**High Poly Project v4.95**](https://www.nexusmods.com/skyrimspecialedition/mods/12029): An on going process to improve the models of the game with more polygons , UV edits or just replace them all together. SMIM was the inspiration and the lack of similar mods led me to make this.
 - Should be installed with a Custom Install.  Skip "Farmhouse Stone Walls" as these are better replaced by seperate mods. Skip "Whiterun Clutter", "Smelter Coal", "Furniture", "Plants", and "Riften 3D Leaves" as these at a minimum are incompatible with Enderal VR and can cause purple texture glitches.
