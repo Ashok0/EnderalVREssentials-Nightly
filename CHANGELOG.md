@@ -8,6 +8,6 @@ New Mods:
 - The Halls of the Greybeards - A High Hrothgar Retexuring v1.01: A retexturing of High Hrothgar. There are 4 versions. A standard version with 4k diffuse and 2k normals, 4k diffuse and 4k normals and a dark version with 4k diffuse and 2k normals, 4k diffuse and 4k normals. This mod fixes a ton of texture layout issues within the meshes too.
 
 Updated Mods:
-- Sprint Jump VR v1.1.1: Mission critical update. Fixes problem where game may crash when loading a saved game.
+- Sprint Jump VR v1.1.1: Mission critical update. Fixes problem with previous version where game may crash when loading a saved game.
 - Spell Perk Item Distributor VR v5.0.4: Tentative fix for VR bug where DLC formIDs failed upon lookup.
 - Fluffworks (Fluffy Animals) v1.0: Removed the optional ESP plugin.
