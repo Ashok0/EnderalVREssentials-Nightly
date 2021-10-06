@@ -1,5 +1,5 @@
 # ENDERAL VR ESSENTIALS (EVRE)
-Latest update: October 2nd, 2021 (v1.102)
+Latest update: October 6th, 2021 (v1.103)
 
 ## Table of contents
 * [Preamble](#preamble)
@@ -393,7 +393,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**EngineFixesVR v1.21**](https://github.com/rollingrock/EngineFixesVR/releases): SKSEVR plugin to fix various issues with the Skyrim Special Edition engine.
 - Open EngineFixesVR.ini and add the following lines: MemoryManager = false, SelectAllocator = 1.
 
-[**VR FPS Stabilizer v1.2.2**](https://www.nexusmods.com/skyrimspecialedition/mods/31392?tab=files): The VR FPS Stabilizer functionality of this mod is not being used with this Enderal VR release.  This mod has been included because it has the ability to automatically setup TAA (Temporal Anti-Aliasing) settings every time Enderal VR is launched.  TAA settings cannot be preconfigured with INI files and must be tweaked using VR FPS Stabilizer.  Default TAA settings will make Enderal VR look extremely blurry.  This can be quickly fixed by simply disabling TAA but this will also break Enderal VR menu artwork.  The best way to handle TAA is to tweak its settings with VR FPS Stabilizer to essentially disable all of its visual effects when enabled.  This allows Enderal VR menu artwork to work properly while keeping the visuals sharp without any blur in-game.  To remove TAA blur, add the following lines to \VR FPS Stabilizer\SKSE\Plugins\VRFpsStabilizer.ini:
+[**VR FPS Stabilizer v1.3.0**](https://www.nexusmods.com/skyrimspecialedition/mods/31392?tab=files): The VR FPS Stabilizer functionality of this mod is not being used with this Enderal VR release.  This mod has been included because it has the ability to automatically setup TAA (Temporal Anti-Aliasing) settings every time Enderal VR is launched.  TAA settings cannot be preconfigured with INI files and must be tweaked using VR FPS Stabilizer.  Default TAA settings will make Enderal VR look extremely blurry.  This can be quickly fixed by simply disabling TAA but this will also break Enderal VR menu artwork.  The best way to handle TAA is to tweak its settings with VR FPS Stabilizer to essentially disable all of its visual effects when enabled.  This allows Enderal VR menu artwork to work properly while keeping the visuals sharp without any blur in-game.  To remove TAA blur, add the following lines to \VR FPS Stabilizer\SKSE\Plugins\VRFpsStabilizer.ini:
 - AutoConfigEnabled=0  
 - GrassChange = 0 
 -        taa sharp 2.285	 
@@ -488,7 +488,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**No Stagger Mod v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/16335?tab=files): This mod makes your character unstaggerable. 
 
-[**Sprint Jump VR v1.1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/28354?tab=files): An SKSE plugin to allow Sprint Jumping in SkyrimVR. Increase sprint jump height and distance with a multiplier in the config file.
+[**Sprint Jump VR v1.1.2**](https://www.nexusmods.com/skyrimspecialedition/mods/28354?tab=files): An SKSE plugin to allow Sprint Jumping in SkyrimVR. Increase sprint jump height and distance with a multiplier in the config file.
 
 [**Enhanced Ragdoll Accuracy Main File v1.02**](https://www.nexusmods.com/skyrimspecialedition/mods/45767?tab=files): Makes in-game humanoid corpses much more believable and immersive through meticulous changes in weight, joints, etc.
 
