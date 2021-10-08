@@ -777,6 +777,8 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Meditation Area Fixes v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/265?tab=files): Fixes some issues in the meditation area.
 
+[**Forgotten Dungeons - Palm Cove v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/272?tab=files): Forgotten Dungeons implements cut content, originally made by SureAI, with updates and fixes to fit seamlessly into the game.
+
 [**Storeable Phasmalist Talismans v1.01**](https://www.nexusmods.com/enderalspecialedition/mods/68?tab=files): Allows you to store away Phasmalist Talismans.
 
 [**Unique Armor Sets Replacer Enderal SE v2.3**](https://www.nexusmods.com/enderalspecialedition/mods/27?tab=files): High-quality and lore friendly replacers for many of Enderal's unique armor sets! Converted with SSE nif optimizer.
