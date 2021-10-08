@@ -817,11 +817,11 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**The Notice Board Redefined for Enderal v1.1**](https://www.nexusmods.com/enderalspecialedition/mods/153?tab=files): Replaces low quality notes on bounty boards with notes from The Notice Board Redefined.
 
-[**Diverse Weather v1.1**](https://www.nexusmods.com/enderalspecialedition/mods/70?tab=files): Diversifies the weather in Enderal and adds a few new ones.
+[**Diverse Weather v1.11**](https://www.nexusmods.com/enderalspecialedition/mods/70?tab=files): Diversifies the weather in Enderal and adds a few new ones.
 
 [**True Storms Special Edition - Thunder Rain and Weather Redone v1.0.2**](https://www.nexusmods.com/skyrimspecialedition/mods/2472?tab=files): True Storms Special Edition is a complete overhaul of the storm systems in Skyrim SE, including new heavy and unique weathers, loads of new intense sound effects, interior sounds, particle effects, new rain, snow, and dust textures, heavy fogs, new weathers for Solstheim including dust storms, and much more!
 
-[**Enderal SE - True Storms v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/203?tab=files): Compatibility patch for True Storms.
+[**Enderal SE - True Storms v1.01**](https://www.nexusmods.com/enderalspecialedition/mods/203?tab=files): Compatibility patch for True Storms.
 
 [**Dirt and Blood - Dynamic Visual Effects v2.11**](https://www.nexusmods.com/skyrimspecialedition/mods/38886?tab=files): Your character will accumulate dirt and blood dynamically, which you can clean by swimming or standing in the rain. The effects are mostly visual only and do not affect gameplay. NPCs will also get bloody as a result of battles. Mod is designed to be simple and lightweight.
 - Remove "Wash and Rinse" from the plugin's Spell data and set FE00682F records to 0 from Quest.Dirty_Quest and Quest.DirtyQuesMCM using xEdit to completely remove the broken "Wash and Rinse" spell from the mod.
