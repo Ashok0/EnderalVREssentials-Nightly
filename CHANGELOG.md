@@ -4,6 +4,9 @@ Release date: October 7th, 2021
 Updated Tools:
 - DynDOLOD Standalone 3.0 Alpha-46: DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD + tree LOD and the new, optional dynamic distant object LOD in a few simple steps.
 
+New Mods:
+- Forgotten Dungeons - Palm Cove v1.0: Forgotten Dungeons implements cut content, originally made by SureAI, with updates and fixes to fit seamlessly into the game.
+
 Updated Mods:
 - DynDOLOD Resources SE v3.00 Alpha-13: DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD + tree LOD and the new, optional dynamic distant object LOD in a few simple steps.
 - Sprint Jump VR v1.1.2: Fixed a bug that caused a momentary pause 1 second after landing from a sprint jump. Fixed a bug that can potentially cause a freeze/ctd, some other optimizations. Fixed a bug that caused super speed after landing from sprint jumping when weapons are sheathed.
