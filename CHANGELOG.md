@@ -6,7 +6,7 @@ Updated Tools:
 
 New Mods:
 - Forgotten Dungeons - Palm Cove v1.0: Forgotten Dungeons implements cut content, originally made by SureAI, with updates and fixes to fit seamlessly into the game.
-- Weather Fixes v1.: Fixes some issues with Enderal weathers which increases compatibility with some weather-related mods. (e.g. R.A.S.S., Storm Lightning)
+- Weather Fixes v1.0: Fixes some issues with Enderal weathers which increases compatibility with some weather-related mods. (e.g. R.A.S.S., Storm Lightning)
 - Intense Sandstorms v1.0: Increases the intensity of sandstorms in the Desert.
 
 Updated Mods:
