@@ -6,6 +6,8 @@ Updated Tools:
 
 New Mods:
 - Forgotten Dungeons - Palm Cove v1.0: Forgotten Dungeons implements cut content, originally made by SureAI, with updates and fixes to fit seamlessly into the game.
+- Weather Fixes v1.: Fixes some issues with Enderal weathers which increases compatibility with some weather-related mods. (e.g. R.A.S.S., Storm Lightning)
+- Intense Sandstorms v1.0: Increases the intensity of sandstorms in the Desert.
 
 Updated Mods:
 - DynDOLOD Resources SE v3.00 Alpha-13: DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD + tree LOD and the new, optional dynamic distant object LOD in a few simple steps.
