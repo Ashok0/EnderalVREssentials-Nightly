@@ -1,5 +1,5 @@
 # ENDERAL VR ESSENTIALS (EVRE)
-Latest update: October 10th, 2021 (v1.103)
+Latest update: October 11th, 2021 (v1.103)
 
 ## Table of contents
 * [Preamble](#preamble)
@@ -453,7 +453,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 	- AllowGrabWithEmptyArrowHand = 1
 	- AllowGrabWithTwoHandedOffhand = 1
 
-[**Spell Wheel VR v1.2.1**](https://www.nexusmods.com/skyrimspecialedition/mods/47630?tab=files): Selection wheel mod for Skyrim VR. It allows you to select spells, weapons, shields, arrows, potions, poisons, food, torch, armors and more without going into a menu very quickly by press of a button or button combinations to spawn the wheel and hold your hand over the item and letting go of the button. It's equipped automatically.
+[**Spell Wheel VR v1.2.3**](https://www.nexusmods.com/skyrimspecialedition/mods/47630?tab=files): Selection wheel mod for Skyrim VR. It allows you to select spells, weapons, shields, arrows, potions, poisons, food, torch, armors and more without going into a menu very quickly by press of a button or button combinations to spawn the wheel and hold your hand over the item and letting go of the button. It's equipped automatically.
 
 [**Magic Improvements for Skyrim VR v1.0.2**](https://www.nexusmods.com/skyrimspecialedition/mods/55751?tab=files): Vastly improved dual casting, spell effect size scales based on magicka percentage, and additional options for aiming spells in VR.
 
@@ -572,7 +572,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 - Use the following installation options: Ultra > Brighter > Freesia > New > Regular > None > No Patch
 - ESP file not supported.  Do not install patches.
 
-[**Embers XD v2.4.0b**](https://www.nexusmods.com/skyrimspecialedition/mods/37085?tab=files): An overhaul of campfires and other fire sources.
+[**Embers XD v2.4.1b**](https://www.nexusmods.com/skyrimspecialedition/mods/37085?tab=files): An overhaul of campfires and other fire sources.
 - Use "Inferno Flames" if using "Inferno - Fire Effects Redux".
 - Install Forges and Lava Craters Add-On.
 - Delete ESP files.
