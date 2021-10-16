@@ -725,8 +725,6 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**R.A.S.S - Rain Ash And Snow Shaders v3.2.2**](https://www.nexusmods.com/skyrimspecialedition/mods/22780?tab=files): "R.A.S.S." adds visual effects to the Player and NPCs during certain conditions.
 
-[**R.A.S.S. Cold Breath for Enderal v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/271?tab=files): Modified the R.A.S.S plugin so the cold breath effect works in Enderal's colder regions.
-
 [**SkyVRaan - Shimmering VR Waters v1.0.1**](https://www.nexusmods.com/skyrimspecialedition/mods/30571?tab=files): Adds a fake reflection effect to Skyrim VR's outdoor water. It breaks up the distant LOD, shows wave movement on the distant water, and gives an illusion of water depth in the distance. Also has improved realism and clarity of near water.
 - Requires patching with Synthesis.
 - During the installation, tick "Rally's Water Foam (4K)" and "Improved Water Normals for Vanilla" and leave all other settings at default.  Do NOT install Rocky Riverbeds due to high performance drop.
