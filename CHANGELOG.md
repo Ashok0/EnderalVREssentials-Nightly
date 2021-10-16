@@ -1,9 +1,6 @@
 
 Release date: October 16th, 2021
 
-Updated Tools:
-- DynDOLOD Standalone 3.0 Alpha-49: DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD + tree LOD and the new, optional dynamic distant object LOD in a few simple steps.
-
 New Mods:
 - Skyland Imperial and Nordic Tents v1.0: Skyland Imperial and Nordic Tents introduces 4k tent textures for Nordic and imperial tents. Skyland tents offers a brand new mesh for the large Nordic fur tent for better visuals.
 - Forgotten Dungeons - Palm Cove v1.0: Forgotten Dungeons implements cut content, originally made by SureAI, with updates and fixes to fit seamlessly into the game.
