@@ -577,7 +577,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 - Install Forges and Lava Craters Add-On.
 - Delete ESP files.
 
-[**Animated Forge Water v0.3.1**](https://www.nexusmods.com/skyrimspecialedition/mods/52322?tab=files): A mesh only animated forge water replacer with refraction. No ESP. Includes patches for Elsopa and Embers.
+[**Animated Forge Water v0.4**](https://www.nexusmods.com/skyrimspecialedition/mods/52322?tab=files): A mesh only animated forge water replacer with refraction. No ESP. Includes patches for Elsopa and Embers.
 - Install "Elsopa and Embers XD" patch. 
 
 [**HLP Night Sky High v2.07**](https://www.nexusmods.com/skyrimspecialedition/mods/8752): HLP Night Sky offers a tasteful, realistic, and lore-friendly replacement of the night sky textures (stars, constellations, and the milky way. 
@@ -679,7 +679,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**The Halls of the Greybeards - A High Hrothgar Retexuring v1.01**](https://www.nexusmods.com/skyrimspecialedition/mods/22672?tab=files): A retexturing of High Hrothgar. There are 4 versions. A standard version with 4k diffuse and 2k normals, 4k diffuse and 4k normals and a dark version with 4k diffuse and 2k normals, 4k diffuse and 4k normals. This mod fixes a ton of texture layout issues within the meshes too.
 - If using "Skyrim Textures Redone - High Hrothgar", remove "hhintbaycol01.dds" and "hhintbaycol01_n.dds" from the following path:  \The Halls of the Greybeards - a High Hrothgar Retexuring\textures\architecture\highhrothgar.  This will allow the STR mod's superior texture to take precedence.  
 
-[**Skyland Imperial and Nordic Tents v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/57002?tab=files): Skyland Imperial and Nordic Tents introduces 4k tent textures for Nordic and imperial tents. Skyland tents offers a brand new mesh for the large Nordic fur tent for better visuals.
+[**Skyland Imperial and Nordic Tents v1.2**](https://www.nexusmods.com/skyrimspecialedition/mods/57002?tab=files): Skyland Imperial and Nordic Tents introduces 4k tent textures for Nordic and imperial tents. Skyland tents offers a brand new mesh for the large Nordic fur tent for better visuals.
 
 [**High Poly Project v4.95**](https://www.nexusmods.com/skyrimspecialedition/mods/12029): An on going process to improve the models of the game with more polygons , UV edits or just replace them all together. SMIM was the inspiration and the lack of similar mods led me to make this.
 - Should be installed with a Custom Install.  Skip "Farmhouse Stone Walls" as these are better replaced by seperate mods. Skip "Whiterun Clutter", "Smelter Coal", "Furniture", "Plants", and "Riften 3D Leaves" as these at a minimum are incompatible with Enderal VR and can cause purple texture glitches.
