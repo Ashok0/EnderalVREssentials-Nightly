@@ -1,5 +1,5 @@
 
-Release date: October 16th, 2021
+Release date: October 17th, 2021
 
 New Mods:
 - Skyland Imperial and Nordic Tents v1.0: Skyland Imperial and Nordic Tents introduces 4k tent textures for Nordic and imperial tents. Skyland tents offers a brand new mesh for the large Nordic fur tent for better visuals.
