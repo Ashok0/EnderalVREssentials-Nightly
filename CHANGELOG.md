@@ -16,7 +16,7 @@ Updated Mods:
 - Sprint Jump VR v1.1.2: Fixed a bug that caused a momentary pause 1 second after landing from a sprint jump. Fixed a bug that can potentially cause a freeze/ctd, some other optimizations. Fixed a bug that caused super speed after landing from sprint jumping when weapons are sheathed.
 - VR FPS Stabilizer v1.3.2: Please see Nexus changelog for updates.  Mod is disabled by default in this Wabbajack release and is only used for its console features to disable TAA FX.
 - Spell Wheel VR v1.2.3: Added support for Drink Eat Sleep Bathe needs mod for Needs wrist bars. It shows Hunger-Thirst-Sleep-Cleanliness states.
-- Animated Forge Water v0.4: Improve animation.
 - Embers XD v2.4.4: Further optimization when using the optimized option.
+- Animated Forge Water v0.4: Improve animation.
 - Diverse Weather v1.11: Reduced volumetric lightning in fog weathers.
 - Enderal SE - True Storms v1.01: Fixed the volumetric lightning with the heavy fog weathers.
