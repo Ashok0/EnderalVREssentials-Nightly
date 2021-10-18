@@ -3,7 +3,7 @@ Release date: October 17th, 2021
 
 Updated Tools: 
 - The Sharper Eye v1.0: MaxDelta setting in INI reverted to defaults.
-- Synthesis v0.20.: A framework and GUI to construct a single Bethesda game patch from many patcher sources. Designed to allow any program to work as a patcher as long as it conforms to the CLI API.
+- Synthesis v0.20.3: A framework and GUI to construct a single Bethesda game patch from many patcher sources. Designed to allow any program to work as a patcher as long as it conforms to the CLI API.
 
 New Mods:
 - Skyland Imperial and Nordic Tents v1.2: Skyland Imperial and Nordic Tents introduces 4k tent textures for Nordic and imperial tents. Skyland tents offers a brand new mesh for the large Nordic fur tent for better visuals.
