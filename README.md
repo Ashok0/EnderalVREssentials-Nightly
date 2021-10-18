@@ -1033,7 +1033,7 @@ Note that many DynDOLOD guides on the Web are heavily outdated or are not relev
 7. Finalize your MO2 load order.
 8. Download [xLODGen](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-81-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/) and extract the contents to a new \xLODGen\ directory that is outside of special OS folders like 'Programs Files' or 'Program Files (x86)', Users, Documents, Desktop, Downloads and also not in SteamApps, game or any mod manager folders.
 9. Download [DynDOLOD 3.00 Alpha-44](https://mega.nz/file/l8Nz0CDD#OEky-ODmW-BIo5xRGlInWdLALWI7CbxQzPz4-2ni4x8) and extract the contents to a new \DynDOLOD\ directory that is outside of special OS folders like 'Programs Files' or 'Program Files (x86)', Users, Documents, Desktop, Downloads and also not in SteamApps, game or any mod manager folders.
-	- &#x1F53A;The newest version of DynDOLOD 3.0 from NexusMods does NOT work with Enderal VR.  Be sure to use Alpha-44 or the tool will fail with an error message.&#x1F53A;
+	- &#x1F53A;The newest version of DynDOLOD 3.0 from NexusMods does NOT work with Enderal VR.  Be sure to use Alpha-44 or the tool will halt with an error message.&#x1F53A;
 10. Launch Mod Organizer 2.
 	- Select Tools > Executables  
 	- Select Add an executable ("+" icon in upper left) > Add from file > Navigate to "xLODGenx64.exe" in the folder created in Step 5 and select "Open" > Type -tes5vr -o:"c:\xLODGen_Output\" under "Arguments" and click "Apply".  
