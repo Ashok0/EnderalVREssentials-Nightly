@@ -19,7 +19,7 @@ Updated Mods:
 - Spell Wheel VR v1.2.3: Added support for Drink Eat Sleep Bathe needs mod for Needs wrist bars. It shows Hunger-Thirst-Sleep-Cleanliness states.
 - Embers XD v2.4.4: Further optimization when using the optimized option.
 - Animated Forge Water v0.4: Improve animation.
-- High Poly Project v5.0: An on going process to improve the models of the game with more polygons , UV edits or just replace them all together. SMIM was the inspiration and the lack of similar mods led me to make this.
+- High Poly Project v5.0: An on going process to improve the models of the game with more polygons, UV edits or just replace them all together. SMIM was the inspiration and the lack of similar mods led me to make this.
 - Satchel Hotfix v1.0: Small hotfix for v5.0 purple satchel.
 - Diverse Weather v1.11: Reduced volumetric lightning in fog weathers.
 - Enderal SE - True Storms v1.01: Fixed the volumetric lightning with the heavy fog weathers.
