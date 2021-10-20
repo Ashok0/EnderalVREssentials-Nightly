@@ -350,7 +350,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**xLODGen Beta 84**](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-80-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/): Tool for generating terrain LOD.
 
-[**DynDOLOD Standalone 3.0 Alpha-51**](https://stepmodifications.org/forum/topic/15606-dyndolod-300-alpha-51/): DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD + tree LOD and the new, optional dynamic distant object LOD in a few simple steps.
+[**DynDOLOD Standalone 3.0 Alpha-51**](https://www.nexusmods.com/skyrimspecialedition/mods/32382?tab=files): DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD + tree LOD and the new, optional dynamic distant object LOD in a few simple steps.
 
 [**Synthesis v0.20.3**](https://github.com/Mutagen-Modding/Synthesis): A framework and GUI to construct a single Bethesda game patch from many patcher sources. Designed to allow any program to work as a patcher as long as it conforms to the CLI API.
 
@@ -1035,7 +1035,7 @@ Note that many DynDOLOD guides on the Web are heavily outdated or are not relev
 6. If using [Enhanced Vanilla Trees SE-Lush Trees](https://www.nexusmods.com/skyrimspecialedition/mods/11008?tab=files) (highly recommended), install all default options + Vanilla (i.e., None) + RAT + SFO Snow Pines.  Keep the \DYNDOLOD\ folders as these are used by DynDOLOD 3.0.  Disable any billboards that are included in tree mods (found in \data\textures\lodgen).
 7. Finalize your MO2 load order.
 8. Download [xLODGen](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-81-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/) and extract the contents to a new \xLODGen\ directory that is outside of special OS folders like 'Programs Files' or 'Program Files (x86)', Users, Documents, Desktop, Downloads and also not in SteamApps, game or any mod manager folders.
-9. Download [DynDOLOD 3.00](https://stepmodifications.org/forum/topic/15606-dyndolod-300-alpha-51/) and extract the contents to a new \DynDOLOD\ directory that is outside of special OS folders like 'Programs Files' or 'Program Files (x86)', Users, Documents, Desktop, Downloads and also not in SteamApps, game or any mod manager folders.
+9. Download [DynDOLOD 3.0](https://www.nexusmods.com/skyrimspecialedition/mods/32382?tab=files) and extract the contents to a new \DynDOLOD\ directory that is outside of special OS folders like 'Programs Files' or 'Program Files (x86)', Users, Documents, Desktop, Downloads and also not in SteamApps, game or any mod manager folders.
 10. Launch Mod Organizer 2.
 	- Select Tools > Executables  
 	- Select Add an executable ("+" icon in upper left) > Add from file > Navigate to "xLODGenx64.exe" in the folder created in Step 5 and select "Open" > Type -tes5vr -o:"c:\xLODGen_Output\" under "Arguments" and click "Apply".  
