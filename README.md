@@ -683,7 +683,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Water in Wells - Mesh-only Animated Wells v0.3**](https://www.nexusmods.com/skyrimspecialedition/mods/57268?tab=files): A mesh-only solution for animated water in wells and sewers. No ESP. 
 
-[**High Poly Project v5.2**](https://www.nexusmods.com/skyrimspecialedition/mods/12029): An on going process to improve the models of the game with more polygons, UV edits or just replace them all together. SMIM was the inspiration and the lack of similar mods led me to make this.
+[**High Poly Project v5.3**](https://www.nexusmods.com/skyrimspecialedition/mods/12029): An on going process to improve the models of the game with more polygons, UV edits or just replace them all together. SMIM was the inspiration and the lack of similar mods led me to make this.
 - Should be installed with a Custom Install.  Skip "Farmhouse Stone Walls" as these are better replaced by seperate mods. 
 - If you experience purple texture glitches, re-install the mod and untick "Whiterun Clutter", "Smelter Coal", "Furniture", "Plants", and "Riften 3D Leaves".  These at a minimum were incompatible with Enderal VR when using HPP v4.95.  Untested with v5.x. 
 
