@@ -577,7 +577,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 - Install Forges and Lava Craters Add-On.
 - Delete ESP files.
 
-[**Animated Forge Water v0.4.1**](https://www.nexusmods.com/skyrimspecialedition/mods/52322?tab=files): A mesh only animated forge water replacer with refraction. No ESP. Includes patches for Elsopa and Embers.
+[**Animated Forge Water v0.4**](https://www.nexusmods.com/skyrimspecialedition/mods/52322?tab=files): A mesh only animated forge water replacer with refraction. No ESP. Includes patches for Elsopa and Embers.
 - Install "Elsopa and Embers XD" patch. 
 
 [**HLP Night Sky High v2.07**](https://www.nexusmods.com/skyrimspecialedition/mods/8752): HLP Night Sky offers a tasteful, realistic, and lore-friendly replacement of the night sky textures (stars, constellations, and the milky way. 
@@ -681,7 +681,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Skyland Imperial and Nordic Tents v1.2**](https://www.nexusmods.com/skyrimspecialedition/mods/57002?tab=files): Skyland Imperial and Nordic Tents introduces 4k tent textures for Nordic and imperial tents. Skyland tents offers a brand new mesh for the large Nordic fur tent for better visuals.
 
-[**Water in Wells - Mesh-only Animated Wells v0.3**](https://www.nexusmods.com/skyrimspecialedition/mods/57268?tab=files): A mesh-only solution for animated water in wells and sewers. No ESP. 
+[**Water in Wells - Mesh-only Animated Wells v0.4.1**](https://www.nexusmods.com/skyrimspecialedition/mods/57268?tab=files): A mesh-only solution for animated water in wells and sewers. No ESP. 
 
 [**High Poly Project v5.3**](https://www.nexusmods.com/skyrimspecialedition/mods/12029): An on going process to improve the models of the game with more polygons, UV edits or just replace them all together. SMIM was the inspiration and the lack of similar mods led me to make this.
 - Should be installed with a Custom Install.  Skip "Farmhouse Stone Walls" as these are better replaced by seperate mods. 
