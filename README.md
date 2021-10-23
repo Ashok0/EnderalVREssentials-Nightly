@@ -577,7 +577,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 - Install Forges and Lava Craters Add-On.
 - Delete ESP files.
 
-[**Animated Forge Water v0.4**](https://www.nexusmods.com/skyrimspecialedition/mods/52322?tab=files): A mesh only animated forge water replacer with refraction. No ESP. Includes patches for Elsopa and Embers.
+[**Animated Forge Water v0.4.1**](https://www.nexusmods.com/skyrimspecialedition/mods/52322?tab=files): A mesh only animated forge water replacer with refraction. No ESP. Includes patches for Elsopa and Embers.
 - Install "Elsopa and Embers XD" patch. 
 
 [**HLP Night Sky High v2.07**](https://www.nexusmods.com/skyrimspecialedition/mods/8752): HLP Night Sky offers a tasteful, realistic, and lore-friendly replacement of the night sky textures (stars, constellations, and the milky way. 
