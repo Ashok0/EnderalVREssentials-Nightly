@@ -7,6 +7,7 @@ Updated Tools:
 - Synthesis v0.20.4: A framework and GUI to construct a single Bethesda game patch from many patcher sources. Designed to allow any program to work as a patcher as long as it conforms to the CLI API.
 
 New Mods:
+- Papyrus Extender - VR - 2.3: SKSE64 plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events.  Required by FEC.
 - Skyland Imperial and Nordic Tents v1.2: Skyland Imperial and Nordic Tents introduces 4k tent textures for Nordic and imperial tents. Skyland tents offers a brand new mesh for the large Nordic fur tent for better visuals.
 - Water in Wells - Mesh-only Animated Wells v0.4.2: A mesh-only solution for animated water in wells and sewers. No ESP. 
 - R.A.S.S Cold Breath for Enderal v1.0: Modified the R.A.S.S plugin so the cold breath effect works in Enderal's colder regions.   
