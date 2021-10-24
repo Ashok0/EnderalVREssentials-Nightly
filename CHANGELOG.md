@@ -8,6 +8,9 @@ Updated Tools:
 
 New Mods:
 - Papyrus Extender - VR - 2.3: SKSE64 plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events.  Required by FEC.
+- Frozen Electrocuted Combustion - v3.2.5: Applies visual effects to NPCs and the player, when killed by air, ash, dragons, drain, fire, frost, fear, lightning, poison, soultrap, steam and sun damage status effects.
+- Frozen Electrocuted Combustion - VR Patch v3.2: For VR users. Install after version 3.2.5.
+- Frozen Electrocuted Combustion - Enderal Fix v1.1: Loading Enderal with this ESP will allow you to use Frozen Electrocuted Combustion. If it still crashes change the load order.
 - Skyland Imperial and Nordic Tents v1.2: Skyland Imperial and Nordic Tents introduces 4k tent textures for Nordic and imperial tents. Skyland tents offers a brand new mesh for the large Nordic fur tent for better visuals.
 - Water in Wells - Mesh-only Animated Wells v0.4.2: A mesh-only solution for animated water in wells and sewers. No ESP. 
 - R.A.S.S Cold Breath for Enderal v1.0: Modified the R.A.S.S plugin so the cold breath effect works in Enderal's colder regions.   
