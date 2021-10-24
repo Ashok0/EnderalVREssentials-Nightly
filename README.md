@@ -12,6 +12,7 @@ Latest update: October 24th, 2021 (v1.103)
 * [Noteworthy mods](#noteworthy-mods)
 * [Scoped bows](#scoped-bows)
 * [Supersampling](#supersampling)
+* [TAA](#taa)
 * [Character Customization](#character-customization)
 * [Game capture](#game-capture)
 * [Language packs](#language-packs)
@@ -321,13 +322,16 @@ You can further customize your character in VR with custom armor mods.  Custom a
 24. Open your inventory, and you can now successfully equip the armor from your armor mod!  
 
 ## Supersampling
-* Supersampling can be done via in-game Supersampling and Contrast Adaptive Sharpening (CAS) via The Sharper Eye mod.  For optimal image fidelity and performance, in-game Supersampling should always disabled.  CAS should always be enabled via The Sharper Eye.  This Wabbajack install is pre-configured to supersample the game using The Sharper Eye.
-* When using The Sharper Eye for supersampling, pressing the HOME key with Enderal VR active on your Windows desktop will open the built-in Reshade UI. Here you can adjust the parameters for CAS, Contrast, Brightness, and Color Saturation.  Default settings should be optimal for VR.
-* In addition to improving visuals with The Sharper Eye, you can continue to supersample Enderal VR through SteamVR, Oculus Tray Tool, or Virtual Desktop.
+* For optimal image fidelity and performance, in-game Supersampling should always disabled.  Supersampling should always be performed using Contrast Adaptive Sharpening (CAS) via The Sharper Eye mod (pre-installed with this Wabbajack release).  To adjust The Sharper Eye values in-game, pressing the HOME key will open the built-in Reshade UI.  Here you can adjust the parameters for Contrast Adaptation, Max Color Delta, Sharpening Intensity, Contrast / Brightness / Color Saturation, and Sharpening Radius.  The END key will toggle the effects on or off, so you can use that to observe the difference the preset makes in the headset.  Default settings should be optimal for VR.  
+* In addition to improving visuals with The Sharper Eye, you can continue to supersample Enderal VR through SteamVR, the Oculus app, or Virtual Desktop.
     * If playing wired with an HTC/Valve/HP headset, increase your SteamVR resolution above 100% to the maximum resolution your GPU can handle.  
-    * If playing wired with an Oculus headset, increase your supersampling as high as your GPU can handle via Oculus Tray Tool.  
-    * If playing wirelessly with Air Link, increase your supersampling as high as your GPU can handle via Oculus Tray Tool.  For optimal Air Link performance, set your Air Link Bitrate to around 50Mbps.  You can further optimize performance by installing [OpenVR FSR](https://github.com/fholger/openvr_fsr) or [OpenComposite](https://gitlab.com/znixian/OpenOVR/) to your Skyrim VR installation folder.
+    * If playing wired with an Oculus headset, increase your Render Resolution as high as your GPU can handle via the Oculus app.  
+    * If playing wirelessly with Air Link, increase your Render Resolution as high as your GPU can handle via the Oculus app.  For optimal Air Link performance, set your Air Link Bitrate to around 50-100Mbps.  You can further optimize performance by installing [OpenComposite](https://gitlab.com/znixian/OpenOVR/) to your Skyrim VR installation folder.
     * If playing wirelessly with Virtual Desktop, lock your SteamVR resolution at 100% and set your Virtual Desktop video settings to Low/Medium/High based on your GPU. For optimal Virtual Desktop performance, set your Streaming settings to 60fps @ 80Mbps bitrate with Sliced Encoding enabled and SSW set to Auto.  You can also experiment with increasing the refresh rate to 90fps and toggling Video Buffering ON and OFF.  You can further optimize performance by installing [OpenVR FSR](https://github.com/fholger/openvr_fsr) to your Skyrim VR installation folder.
+
+# TAA
+* Temporal Antialiasing (TAA) must always be active in Enderal VR or the in-game menu will exhibit visual glitches.  Unfortunately, TAA causes Enderal VR to look extremely blurry in-game.  The best workaround for this problem is to leave TAA enabled while tweaking its settings to make its visual effects completely invisible in-game.  TAA settings cannot be configured via the main Skyrim VR INI files.  They must be setup under the [DataLoaded] section of the following INI file: \mods\VR FPS Stabilizer\SKSE\Plugins\VRFpsStabilizer.ini
+* By default, this Wabbajack release leaves TAA enabled but tweaks the TAA effects to be completely invisible via VR FPS Stabilizer.  This makes Enderal VR look extremely crisp in-game but can also cause foliage flickering/pixelation.  If you wish to leave TAA effects visible, simply disable "VR FPS Stabilizer" in Mod Organizer 2 as this mod is only used to disable TAA blur.
 
 ## Game capture
 * If you want to take screenshots or record footage while in VR using an HTC/Valve/WMR headset, use [OBS Studio](https://obsproject.com) with the [OBS OpenVR Input Plugin v1.5](https://github.com/baffler/OBS-OpenVR-Input-Plugin/releases/tag/v1.5).  This will allow you to capture the game in widescreen at a higher resolution than what can be achieved when capturing the game from the SteamVR mirror window.
