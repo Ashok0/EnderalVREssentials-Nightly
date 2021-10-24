@@ -852,7 +852,8 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**Frozen Electrocuted Combustion - VR Patch v3.2**](https://www.nexusmods.com/skyrimspecialedition/mods/3532?tab=files): For VR users. Install after version 3.2.5.
 
 [**Frozen Electrocuted Combustion - Enderal Fix v1.1**](https://www.nexusmods.com/enderalspecialedition/mods/282?tab=files): Loading Enderal with this ESP will allow you to use Frozen Electrocuted Combustion. If it still crashes change the load order.
-- Required load order:
+
+Required load order:
 * Papyrus Extender - VR - 2.3
 * Frozen Electrocuted Combustion - v3.2.5
 * Frozen Electrocuted Combustion - VR Patch v3.2
