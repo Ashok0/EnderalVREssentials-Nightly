@@ -853,10 +853,10 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Frozen Electrocuted Combustion - Enderal Fix v1.1**](https://www.nexusmods.com/enderalspecialedition/mods/282?tab=files): Loading Enderal with this ESP will allow you to use Frozen Electrocuted Combustion. If it still crashes change the load order.
 - Required load order:
--- Papyrus Extender - VR - 2.3
--- Frozen Electrocuted Combustion - v3.2.5
--- Frozen Electrocuted Combustion - VR Patch v3.2
--- Frozen Electrocuted Combustion - Enderal Fix v1.1
+* Papyrus Extender - VR - 2.3
+* Frozen Electrocuted Combustion - v3.2.5
+* Frozen Electrocuted Combustion - VR Patch v3.2
+* Frozen Electrocuted Combustion - Enderal Fix v1.1
 
 [**Enderal NPC Overhaul - SE version v2.3.1**](https://www.nexusmods.com/enderalspecialedition/mods/150?tab=description): Overhaul of all NPCs in Enderal. Most important NPCs are given unique look (100+), others - KS Hairdos Hair. NO ESP. No requirements.
 
