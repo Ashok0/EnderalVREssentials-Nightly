@@ -846,6 +846,18 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Enderal SE - Dirt and Blood v1.01**](https://www.nexusmods.com/enderalspecialedition/mods/201?tab=files): Compatibility patch for Dirt and Blood.
 
+[**Frozen Electrocuted Combustion - v3.2.5**](https://www.nexusmods.com/skyrimspecialedition/mods/3532?tab=files): Applies visual effects to NPCs and the player, when killed by air, ash, dragons, drain, fire, frost, fear, lightning, poison, soultrap, steam and sun damage status effects.
+- Do not upgrade as v3.2.5 is required for VR.
+
+[**Frozen Electrocuted Combustion - VR Patch v3.2**](https://www.nexusmods.com/skyrimspecialedition/mods/3532?tab=files): For VR users. Install after version 3.2.5.
+
+[**Frozen Electrocuted Combustion - Enderal Fix v1.1**](https://www.nexusmods.com/enderalspecialedition/mods/282?tab=files): Loading Enderal with this ESP will allow you to use Frozen Electrocuted Combustion. If it still crashes change the load order.
+- Required load order:
+-- Papyrus Extender - VR - 2.3
+-- Frozen Electrocuted Combustion - v3.2.5
+-- Frozen Electrocuted Combustion - VR Patch v3.2
+-- Frozen Electrocuted Combustion - Enderal Fix v1.1
+
 [**Enderal NPC Overhaul - SE version v2.3.1**](https://www.nexusmods.com/enderalspecialedition/mods/150?tab=description): Overhaul of all NPCs in Enderal. Most important NPCs are given unique look (100+), others - KS Hairdos Hair. NO ESP. No requirements.
 
 [**Kids of Enderal - SE v1.7**](https://www.nexusmods.com/skyrim/mods/93432?tab=files): Remakes kids in Enderal to look like Skyrim's "The Kids are Alright".
