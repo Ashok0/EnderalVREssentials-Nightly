@@ -1,5 +1,5 @@
 # ENDERAL VR ESSENTIALS (EVRE)
-Latest update: October 21st, 2021 (v1.103)
+Latest update: October 24th, 2021 (v1.103)
 
 ## Table of contents
 * [Preamble](#preamble)
@@ -375,6 +375,8 @@ If you are using a language pack, you may need to change the font used by Dear D
 - Add the following line to SKSE.ini (NPC Overhaul tweak):  iTintTextureResolution=2048
 
 [**Enderal SE Update v2.0.8.2**](https://www.nexusmods.com/enderalspecialedition/mods/1?tab=files): Update for Complete Enderal for Skyrim Special Edition. 
+
+[**Enderal SE Update v2.0.9**](https://eddoursul.win/mods/enderal-se/): Update for Complete Enderal for Skyrim Special Edition. 
 
 [**Enderal SE - Bug Fixes v1.28**](https://www.nexusmods.com/enderalspecialedition/mods/2?tab=files): This mod fixes several issues with the game and also includes some small gameplay/balance fixes.
 
