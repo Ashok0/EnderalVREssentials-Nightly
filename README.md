@@ -758,7 +758,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Delectable Docks SE v1.2**](https://www.nexusmods.com/enderalspecialedition/mods/77?tab=files): Adds many details to the docks and harbors of Enderal focused on improving immersion.
 
-[**Riverville Catacombs SE v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/80?tab=files): Forgotten Dungeons implements cut content, originally made by SureAI, with updates and fixes to fit seamlessly into the game.
+[**Riverville Catacombs SE v1.01**](https://www.nexusmods.com/enderalspecialedition/mods/80?tab=files): Forgotten Dungeons implements cut content, originally made by SureAI, with updates and fixes to fit seamlessly into the game.
 
 [**Enderal SE - Undercity Arena Fix v.1.01**](https://www.nexusmods.com/enderalspecialedition/mods/9?tab=files): Reworks the undercity arena to be less cheeseable, bigger and fixes an issue with shadows.
 
@@ -796,7 +796,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Meditation Area Fixes v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/265?tab=files): Fixes some issues in the meditation area.
 
-[**Forgotten Dungeons - Palm Cove v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/272?tab=files): Forgotten Dungeons implements cut content, originally made by SureAI, with updates and fixes to fit seamlessly into the game.
+[**Forgotten Dungeons - Palm Cove v1.01**](https://www.nexusmods.com/enderalspecialedition/mods/272?tab=files): Forgotten Dungeons implements cut content, originally made by SureAI, with updates and fixes to fit seamlessly into the game.
 
 [**Storeable Phasmalist Talismans v1.01**](https://www.nexusmods.com/enderalspecialedition/mods/68?tab=files): Allows you to store away Phasmalist Talismans.
 
@@ -839,7 +839,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**Weather Fixes v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/278?tab=files): Fixes some issues with Enderal weathers which increases compatibility with some weather-related mods. (e.g. R.A.S.S., Storm Lightning)
 - Load Order Recommendation: Weather Fixes, Diverse Weather, True Storms, Diverse Weather SE - True Storms, Intense Sandstorms.
 
-[**Diverse Weather v1.11**](https://www.nexusmods.com/enderalspecialedition/mods/70?tab=files): Diversifies the weather in Enderal and adds a few new ones.
+[**Diverse Weather v1.12**](https://www.nexusmods.com/enderalspecialedition/mods/70?tab=files): Diversifies the weather in Enderal and adds a few new ones.
 
 [**True Storms Special Edition - Thunder Rain and Weather Redone v1.0.2**](https://www.nexusmods.com/skyrimspecialedition/mods/2472?tab=files): True Storms Special Edition is a complete overhaul of the storm systems in Skyrim SE, including new heavy and unique weathers, loads of new intense sound effects, interior sounds, particle effects, new rain, snow, and dust textures, heavy fogs, new weathers for Solstheim including dust storms, and much more!
 
@@ -897,7 +897,7 @@ Required load order:
 
 [**Enderal - Vatyr v2.22**](https://www.nexusmods.com/enderalspecialedition/mods/41?tab=files): Completely redesigned Vatyr in 4K for Enderal SE and VR.
 
-[**Enderal - Donkey v2.2**](https://www.nexusmods.com/enderalspecialedition/mods/107?tab=files): Enderal replacer. This changes the textures of donkey.nif & donkey_barrel.nif, custom variations on every donk.
+[**Enderal - Donkey v2.3**](https://www.nexusmods.com/enderalspecialedition/mods/107?tab=files): Enderal replacer. This changes the textures of donkey.nif & donkey_barrel.nif, custom variations on every donk.
 
 [**Boneripper Replacer (Clannfear) v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/59?tab=files): Replaces the models Bonerippers with high quality alternatives.
 
