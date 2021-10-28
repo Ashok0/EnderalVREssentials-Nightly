@@ -14,7 +14,7 @@ New Mods:
 - Skyland Imperial and Nordic Tents v1.2: Skyland Imperial and Nordic Tents introduces 4k tent textures for Nordic and imperial tents. Skyland tents offers a brand new mesh for the large Nordic fur tent for better visuals.
 - Water in Wells - Mesh-only Animated Wells v0.4.2: A mesh-only solution for animated water in wells and sewers. No ESP. 
 - R.A.S.S Cold Breath for Enderal v1.0: Modified the R.A.S.S plugin so the cold breath effect works in Enderal's colder regions.   
-- Forgotten Dungeons - Palm Cove v1.0: Forgotten Dungeons implements cut content, originally made by SureAI, with updates and fixes to fit seamlessly into the game.
+- Forgotten Dungeons - Palm Cove v1.01: Forgotten Dungeons implements cut content, originally made by SureAI, with updates and fixes to fit seamlessly into the game.
 - Weather Fixes v1.0: Fixes some issues with Enderal weathers which increases compatibility with some weather-related mods. (e.g. R.A.S.S., Storm Lightning)
 - Intense Sandstorms v1.0: Increases the intensity of sandstorms in the Desert.
 
@@ -28,5 +28,7 @@ Updated Mods:
 - Animated Forge Water v0.4: Improve animation.
 - High Poly Project v5.3: An on going process to improve the models of the game with more polygons, UV edits or just replace them all together. SMIM was the inspiration and the lack of similar mods led me to make this.
 - Satchel Hotfix v1.0: Small hotfix for v5.0 purple satchel.
-- Diverse Weather v1.11: Reduced volumetric lightning in fog weathers.
+- Riverville Catacombs SE v1.01: A small improvement to a transparent wall.
+- Diverse Weather v1.12: Reduced volumetric lightning in fog weathers.
 - Enderal SE - True Storms v1.01: Fixed the volumetric lightning with the heavy fog weathers.
+- Enderal - Donkey v2.3: Enderal replacer. This changes the textures of donkey.nif & donkey_barrel.nif, custom variations on every donk.
