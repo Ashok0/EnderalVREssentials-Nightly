@@ -542,7 +542,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Misc Retexture Project v2.6**](https://www.nexusmods.com/skyrimspecialedition/mods/13578?tab=files): An ongoing project to find and retexture overlooked items throughout Skyrim.
 
-[**MRP 2.6 Small Update v2.6.1**](https://www.nexusmods.com/skyrimspecialedition/mods/13578?tab=files): A small update, added the fox and wolf pelts and also the chicken.
+[**MRP 2.6 Small Update v2.6.2**](https://www.nexusmods.com/skyrimspecialedition/mods/13578?tab=files): A small update, added the fox and wolf pelts and also the chicken.
 
 [**Rustic Clutter Collection - SE - 2K v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/5795?tab=files): This is a collection of my Rustic clutter item retextures. The mod includes RUSTIC DINNERWARE, RUSTIC POTTERY, and RUSTIC SILVERWARE. There are also a few other clutter items like mead bottles, wine bottles, the satchel, knapsack, coin purse, strongbox, safe, prisoner cage, and the dwemer lexicon cubes. 2K and 1K versions available. 
 
