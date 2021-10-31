@@ -1,6 +1,8 @@
 
 Release date: October 30th, 2021
 
+Added support for Frozen Electrocuted Combustion. Disabled by default as this is a very script heavy mod which has not been fully tested with Enderal VR.  To enable FEC, tick "powerofthree's Papyrus Extender", "Frozen Electrocuted Combustion", and "Frozen Electrocuted Combustion - Enderal Fix" in Mod Organizer 2.
+
 Updated Tools: 
 - DynDOLOD Standalone 3.0 Alpha-53: DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD + tree LOD and the new, optional dynamic distant object LOD in a few simple steps.
 - The Sharper Eye v1.0: MaxDelta setting in INI reverted to defaults.
