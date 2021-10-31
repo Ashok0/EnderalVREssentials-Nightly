@@ -80,6 +80,7 @@ Recommended:
 	* Disable "Caliente's Beautiful Bodies Enhancer -CBBE-" if you prefer vanilla bodies.  Pre-configured as Vanilla NeverNude.
 	* Disable "Bijin Skin UNP and CBBE" if you prefer vanilla skin.
 	* Enable "Equippable Tattoo Skins UNP + CBBE" if you wish to apply tattoos/bodypaint to your character (female only).
+	* Disable "VR FPS Stabilizer" to enable TAA effects.  The console features of this mod are used to disable all TAA effects.  This removes TAA blur but creates shimmering foliage.  (TAA must be disabled via "VR FPS Stabilizer" tweaks.  It cannot be disabled in-game as TAA must be active for the menu artwork to display properly.)
 	* Enable "powerofthree's Papyrus Extender", "Frozen Electrocuted Combustion", and "Frozen Electrocuted Combustion - Enderal Fix" to enable FEC.  Not fully tested with Enderal VR.
 	* Enable "Replace spiders with wolfs and bears" if you have arachnophobia!
 16.   (Optional) You can optimize your VR performance by installing either [OpenVR FSR](https://github.com/fholger/openvr_fsr) (Compatible with all headsets) or the 64-bit DLL for [OpenComposite](https://gitlab.com/znixian/OpenOVR/) (Compatible with Oculus headsets only) to your Skyrim VR installation folder.  Backup and overwrite the existing DLL file in your Skyrim VR folder.  
