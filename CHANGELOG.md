@@ -19,6 +19,7 @@ New Mods:
 - Forgotten Dungeons - Palm Cove v1.01: Forgotten Dungeons implements cut content, originally made by SureAI, with updates and fixes to fit seamlessly into the game.
 - Weather Fixes v1.0: Fixes some issues with Enderal weathers which increases compatibility with some weather-related mods. (e.g. R.A.S.S., Storm Lightning)
 - Intense Sandstorms v1.0: Increases the intensity of sandstorms in the Desert.
+- Oorbaya Replacer v1.0: Replaces the models Oorbayas with high quality alternatives.
 
 Updated Mods:
 - Enderal SE Update v2.0.9: Update for Complete Enderal for Skyrim Special Edition. 
