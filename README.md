@@ -918,6 +918,8 @@ Required load order:
 
 [**Frost Troll Replacer v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/121?tab=files): Replaces the model of Frost Trolls with high-quality alternatives.
 
+[**Oorbaya Replacer v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/296?tab=files): Replaces the models Oorbayas with high quality alternatives.
+
 [**Allow Fast Travel v1.3**](https://www.nexusmods.com/enderalspecialedition/mods/42?tab=files): Allows Fast Travel in Enderal.
 - Must be placed near end of load order as any mods that alter worldspace will break fast travel.
 
