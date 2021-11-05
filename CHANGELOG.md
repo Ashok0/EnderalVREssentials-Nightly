@@ -37,4 +37,4 @@ Updated Mods:
 - Riverville Catacombs SE v1.01: A small improvement to a transparent wall.
 - Diverse Weather v1.12: Reduced volumetric lightning in fog weathers.
 - Enderal SE - True Storms v1.01: Fixed the volumetric lightning with the heavy fog weathers.
-- Enderal - Donkey v2.3: Enderal replacer. This changes the textures of donkey.nif & donkey_barrel.nif, custom variations on every donk.
+- Enderal - Donkey v2.4: Enderal replacer. This changes the textures of donkey.nif & donkey_barrel.nif, custom variations on every donk.
