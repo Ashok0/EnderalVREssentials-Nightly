@@ -1,5 +1,5 @@
 
-Release date: October 30th, 2021
+Release date: November 6th, 2021
 
 Added support for Frozen Electrocuted Combustion. Disabled by default as this is a very script heavy mod which has not been fully tested with Enderal VR.  To enable FEC, tick "powerofthree's Papyrus Extender", "Frozen Electrocuted Combustion", and "Frozen Electrocuted Combustion - Enderal Fix" in Mod Organizer 2.  Do not update Frozen Electrocuted Combustion as v3.2.5 + VR Patch v3.2 is the only version of the mod that works with Skyrim VR and Enderal VR.
 
@@ -23,6 +23,7 @@ New Mods:
 
 Updated Mods:
 - Enderal SE Update v2.0.9: Update for Complete Enderal for Skyrim Special Edition. 
+- Enderal VR - Patch v3.0: Fixed pipe smoking: player is no more stuck after smoking.  Increased camera height in akropolis to ease the use of higher perks (triggering the lowest perks might require to crouch).  Slight improvements in mq03, scene 3.  Removed the dialoguemenu.swf check introduced in enderal se 2.09 (modification of _00e_questfunctions).
 - SkyUI v1.0: Newly picked up items are now highlighted.  Bug fixes.
 - DynDOLOD Resources SE v3.00 Alpha-15: DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD + tree LOD and the new, optional dynamic distant object LOD in a few simple steps.
 - HIGGS VR v1.4.3: Hand/weapon collision, realistic object grabbing, and gravity gloves-style mechanics for Skyrim VR.
