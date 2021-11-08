@@ -121,7 +121,7 @@ Wabbajack will delete all files that are not part of its modlist when updating! 
 
 ## Known issues
 * Your headset and controllers must be active before launching the game or it will not start.
-* Cutscenes do not work.  Audio always plays against the SteamVR backdrop.  This is a very minor issue as there are only 3 cutscenes in the entire game.  These can be easily viewed on YouTube and two of the videos are introduction videos which play at the beginning of the game.
+* Cutscenes do not work.  Audio always plays against the SteamVR backdrop or hourglass logo (when using Open Composite). This is a very minor issue as there are only 3 cutscenes in the entire game.  These can be easily viewed on YouTube and two of the videos are introduction videos which play at the beginning of the game.
 * You have no avatar during the tutorial.  This is normal as you do not get an avatar until completing the character creation wizard.
 * There are some clipping issues with the character creation wizard on the ship.  You may need to step through the wall of the ship or peer above the ship ceiling to view the full menu.
 * &#x1F53A; Do not press any triggers during conversations with NPCs.  There is a nasty bug where interrupting dialogue may prevent you from finishing key conversations and will soft lock your game.  The only way to continue is to reload an old save game. &#x1F53A; 
