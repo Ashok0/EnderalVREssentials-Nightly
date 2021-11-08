@@ -867,6 +867,8 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 Required load order:
 * Papyrus Extender - VR - 4.3
+* R.A.S.S - Rain Ash And Snow Shaders v3.2.2
+* R.A.S.S Cold Breath for Enderal v1.0
 * Frozen Electrocuted Combustion - v3.2.5
 * Frozen Electrocuted Combustion - VR Patch v3.2
 * Frozen Electrocuted Combustion - Enderal Fix v1.1
