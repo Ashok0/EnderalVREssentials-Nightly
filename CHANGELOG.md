@@ -6,7 +6,7 @@ Added support for Frozen Electrocuted Combustion. Disabled by default as this is
 Updated Tools: 
 - DynDOLOD Standalone 3.0 Alpha-53: DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD + tree LOD and the new, optional dynamic distant object LOD in a few simple steps.
 - The Sharper Eye v1.0: MaxDelta setting in INI reverted to defaults.
-- Synthesis v0.20.4: A framework and GUI to construct a single Bethesda game patch from many patcher sources. Designed to allow any program to work as a patcher as long as it conforms to the CLI API.
+- Synthesis v0.20.5: A framework and GUI to construct a single Bethesda game patch from many patcher sources. Designed to allow any program to work as a patcher as long as it conforms to the CLI API.
 
 New Mods:
 - Papyrus Extender - VR - 4.3: SKSE64 plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events.  Required by FEC.
