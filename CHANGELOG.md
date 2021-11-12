@@ -4,9 +4,11 @@ Release date: November 6th, 2021
 Added support for Frozen Electrocuted Combustion. Disabled by default as this is a very script heavy mod which has not been fully tested with Enderal VR.  To enable FEC, tick "powerofthree's Papyrus Extender", "Frozen Electrocuted Combustion", and "Frozen Electrocuted Combustion - Enderal Fix" in Mod Organizer 2.  Do not update Frozen Electrocuted Combustion as v3.2.5 + VR Patch v3.2 is the only version of the mod that works with Skyrim VR and Enderal VR.
 
 Updated Tools: 
+- xLODGen Beta 85: Tool for generating terrain LOD.
 - DynDOLOD Standalone 3.0 Alpha-53: DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD + tree LOD and the new, optional dynamic distant object LOD in a few simple steps.
 - The Sharper Eye v1.0: MaxDelta setting in INI reverted to defaults.
-- Synthesis v0.20.5: A framework and GUI to construct a single Bethesda game patch from many patcher sources. Designed to allow any program to work as a patcher as long as it conforms to the CLI API.
+- Synthesis v0.20.6: A framework and GUI to construct a single Bethesda game patch from many patcher sources. Designed to allow any program to work as a patcher as long as it conforms to the CLI API.
+- SSEEdit v4.0.4: SSEEdit is the Skyrim: Special Edition version of xEdit. xEdit is an advanced graphical module viewer/editor and conflict detector.
 
 New Mods:
 - Papyrus Extender - VR - 4.3: SKSE64 plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events.  Required by FEC.
