@@ -12,6 +12,7 @@ Updated Tools:
 
 New Mods:
 - Papyrus Extender - VR - 4.3: SKSE64 plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events.  Required by FEC.
+- ElSopa - HD Grindstone Redone SE 1K v1.0: Grindstone Redone. New Mesh. New Textures. No ESP. Optional Texture Resolutions.
 - Frozen Electrocuted Combustion - v3.2.5: Applies visual effects to NPCs and the player, when killed by air, ash, dragons, drain, fire, frost, fear, lightning, poison, soultrap, steam and sun damage status effects.
 - Frozen Electrocuted Combustion - VR Patch v3.2: For VR users. Install after version 3.2.5.
 - Frozen Electrocuted Combustion - Enderal Fix v1.1: Loading Enderal with this ESP will allow you to use Frozen Electrocuted Combustion. If it still crashes change the load order.
