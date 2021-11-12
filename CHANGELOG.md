@@ -33,7 +33,7 @@ Updated Mods:
 - Spell Wheel VR v1.2.4: SOS armors are now correctly detected and not included in the wheel.  Wrist bars are now enabled by default. 
 - Sprint Jump VR v1.1.2: Fixed a bug that caused a momentary pause 1 second after landing from a sprint jump. Fixed a bug that can potentially cause a freeze/ctd, some other optimizations. Fixed a bug that caused super speed after landing from sprint jumping when weapons are sheathed.
 - VR FPS Stabilizer v1.3.2: Please see Nexus changelog for updates.  Mod is disabled by default in this Wabbajack release and is only used for its console features to disable TAA FX.
-- Embers XD v2.4.4: Further optimization when using the optimized option.
+- Embers XD v2.4.6: Fixed flames and smoke sticking out of the fireplace in specific locations.
 - Animated Forge Water v0.4: Improve animation.
 - MRP 2.6 Small Update v2.6.2: Added the misc sacks, dlc01 torture pole, dlc01 bucket bloody and the ice wraith teeth.
 - High Poly Project v5.3: An on going process to improve the models of the game with more polygons, UV edits or just replace them all together. SMIM was the inspiration and the lack of similar mods led me to make this.
