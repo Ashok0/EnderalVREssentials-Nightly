@@ -579,6 +579,8 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**WiZkiD Parallax Farmhouses 2k No Parallax v1.4**](https://www.nexusmods.com/skyrimspecialedition/mods/39185?tab=files): A complete overhaul of all farmhouses related models with high quality textures. This overhaul includes exteriors, interiors, basement and stonewalls.
 
+[**ElSopa - HD Grindstone Redone SE 1K v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/58149?tab=files): Grindstone Redone. New Mesh. New Textures. No ESP. Optional Texture Resolutions.
+
 [**El Sopa - HD Medieval Anvil SE v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/48825?tab=files): New Model And Textures For The Anvil . The Hammer And Tongs. Performance Friendly. Ultra Immersive. All Resolutions. No ESP.
 - Delete blacksmithnovicetongs01.nif (this mesh causes visual glitches).
 
