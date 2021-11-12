@@ -25,6 +25,7 @@ New Mods:
 
 Updated Mods:
 - Enderal SE Update v2.0.9: Update for Complete Enderal for Skyrim Special Edition. 
+- Enderal SE - Bug Fixes v1.29: This mod fixes several issues with the game and also includes some small gameplay/balance fixes.
 - Enderal VR - Patch v3.0: Fixed pipe smoking: player is no more stuck after smoking.  Increased camera height in akropolis to ease the use of higher perks (triggering the lowest perks might require to crouch).  Slight improvements in mq03, scene 3.  Removed the dialoguemenu.swf check introduced in enderal se 2.09 (modification of _00e_questfunctions).
 - SkyUI v1.0: Newly picked up items are now highlighted.  Bug fixes.
 - DynDOLOD Resources SE v3.00 Alpha-15: DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD + tree LOD and the new, optional dynamic distant object LOD in a few simple steps.
