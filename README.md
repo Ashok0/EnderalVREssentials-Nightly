@@ -766,7 +766,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Riverville Catacombs SE v1.01**](https://www.nexusmods.com/enderalspecialedition/mods/80?tab=files): Forgotten Dungeons implements cut content, originally made by SureAI, with updates and fixes to fit seamlessly into the game.
 
-[**Enderal SE - Undercity Arena Fix v.1.01**](https://www.nexusmods.com/enderalspecialedition/mods/9?tab=files): Reworks the undercity arena to be less cheeseable, bigger and fixes an issue with shadows.
+[**Enderal SE - Undercity Arena Fix v.1.02**](https://www.nexusmods.com/enderalspecialedition/mods/9?tab=files): Reworks the undercity arena to be less cheeseable, bigger and fixes an issue with shadows.
 
 [**Noble Quarter Player Home Redone v1.03**](https://www.nexusmods.com/enderalspecialedition/mods/66?tab=files): Overhauls player home in Nobles Quarter.
 
@@ -794,7 +794,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Riverville Jail SE v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/157?tab=files): Expands upon the Riverville Jail by adding a watchtower, a secret exit and more.
 
-[**Bank of Ark SE v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/158?tab=files): Adds new models for corridors, vault doors/vault door numbers and makes some changes to the interior of the Ark Bank.  
+[**Bank of Ark SE v1.01**](https://www.nexusmods.com/enderalspecialedition/mods/158?tab=files): Adds new models for corridors, vault doors/vault door numbers and makes some changes to the interior of the Ark Bank.  
 
 [**Seaview Lodge SE v1.01**](https://www.nexusmods.com/enderalspecialedition/mods/188?tab=files): Seaview Lodge adds a player home in the scenic area of the sea near Ark.
 
