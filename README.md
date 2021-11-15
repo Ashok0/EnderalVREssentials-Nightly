@@ -762,6 +762,8 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Old Tunnel Pathing Fix v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/143?tab=files): Fixes pathing issues in the Suncoast dungeon "Old Tunnel". (Trolls no longer flee from the player)
 
+[**NPC Pathing Fixes (Suncoast) v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/303?tab=files): Improved the NPC pathing and added new areas that are now path-able in the Sun Coast.
+
 [**EOP SE - Enderal SE Outposts v1.01**](https://www.nexusmods.com/enderalspecialedition/mods/18?tab=files): Adds order outposts, fortifies some camps with additional protection. 
 
 [**Delectable Docks SE v1.2**](https://www.nexusmods.com/enderalspecialedition/mods/77?tab=files): Adds many details to the docks and harbors of Enderal focused on improving immersion.
