@@ -20,6 +20,7 @@ New Mods:
 - Skyland Imperial and Nordic Tents v1.2: Skyland Imperial and Nordic Tents introduces 4k tent textures for Nordic and imperial tents. Skyland tents offers a brand new mesh for the large Nordic fur tent for better visuals.
 - Water in Wells - Mesh-only Animated Wells v0.4.2: A mesh-only solution for animated water in wells and sewers. No ESP. 
 - R.A.S.S Cold Breath for Enderal v1.0: Modified the R.A.S.S plugin so the cold breath effect works in Enderal's colder regions.  Required for Frozen Electrocuted Combustion - VR compatability.    
+- NPC Pathing Fixes (Suncoast) v1.0: Improved the NPC pathing and added new areas that are now path-able in the Sun Coast.
 - Forgotten Dungeons - Palm Cove v1.01: Forgotten Dungeons implements cut content, originally made by SureAI, with updates and fixes to fit seamlessly into the game.
 - Weather Fixes v1.0: Fixes some issues with Enderal weathers which increases compatibility with some weather-related mods. (e.g. R.A.S.S., Storm Lightning)
 - Intense Sandstorms v1.0: Increases the intensity of sandstorms in the Desert.
