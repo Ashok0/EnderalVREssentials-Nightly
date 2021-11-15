@@ -717,6 +717,8 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**Better Dwemer Spider Textures 4096 Pixel Standard v1.1**](https://www.nexusmods.com/skyrim/mods/51270?tab=files): Get your Dwemer Spiders ready for their closeups with these brilliant and astounding new textures, built from the ground up with top-quality Dwarven Ingots and entirely too many Photoshop layers. Guaranteed to improve spider productivity by up to 42 percent.
 - Needs processed by Cathedral Assets Optimizer with the following settings enabled: Process meshes, Full optimization, Always process headparts, Resave meshes. Process textures, necessary optimization, Compress textures, Generate mipmaps.  
 
+[**Males Of Skyrim by zzjay - With Better Male Feet and High Poly Hands - SE v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/37485?tab=files): Skyrim has many many options for naked guys... but this game totally lacks an improved lore friendly and SEAMLESS version of the male body... so here is the copy I use in my game.
+
 [**KS Hairdos SSE v1.8**](https://www.nexusmods.com/skyrimspecialedition/mods/6817?tab=files): KS Hairdos is a hair pack that contains 922 hairstyles. 830 hairstyles are for females, 92 are for males.
 
 [**Caliente's Beautiful Bodies Enhancer - CBBE v1.6.2**](https://www.nexusmods.com/skyrimspecialedition/mods/198?tab=files): A completely customisable female body replacer for TESV: Skyrim.
