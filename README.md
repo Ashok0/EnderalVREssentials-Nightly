@@ -824,7 +824,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Sting of the Blue Islands Replacer v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/86?tab=files): Replaces that Ugly Scimitar with something worthy of betraying the Golden Sickle for.
 
-[**Craftable Bound Weapons v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/195?tab=files): Allows the player to craft and temper fully functional permanent bound weapons and arrows. Can be crafted at any smithy for 2 filled grand soul gems and tempered for 1 grand soul gem at any grindstone. Fully compatible.
+[**Craftable Bound Weapons v1.1**](https://www.nexusmods.com/enderalspecialedition/mods/195?tab=files): Allows the player to craft and temper fully functional permanent bound weapons and arrows. Can be crafted at any smithy for 2 filled grand soul gems and tempered for 1 grand soul gem at any grindstone. Fully compatible.
 
 [**Bowgasm SE - Nicos AIO Vanilla Bow Replacer SE v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/42929?tab=files): Optional file is a non-plug in replacer for nearly all Vanilla bows in game with higher poly models, more realistic shapes, and higher resolution textures.
 
