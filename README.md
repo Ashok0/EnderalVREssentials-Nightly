@@ -1,5 +1,5 @@
 # ENDERAL VR ESSENTIALS (EVRE)
-Latest update: November 11th, 2021 (v1.103)
+Latest update: November 17th, 2021 (v1.103)
 
 ## Table of contents
 * [Preamble](#preamble)
@@ -389,7 +389,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Enderal SE - Bug Fixes v1.29**](https://www.nexusmods.com/enderalspecialedition/mods/2?tab=files): This mod fixes several issues with the game and also includes some small gameplay/balance fixes.
 
-[**SkyUI v1.0**](https://github.com/Odie/skyui-vr): Elegant, PC-friendly interface mod with many advanced features.
+[**SkyUI v1.2.0**](https://github.com/Odie/skyui-vr): Elegant, PC-friendly interface mod with many advanced features.
 
 [**JContainers VR v4.1.13**](https://www.nexusmods.com/skyrimspecialedition/mods/16495?tab=files): Extends Skyrim SE Papyrus scripts (or SKSE/C++ plugins) with JSON based serializable data structures like arrays and maps. Embedded Lua interpreter.
 
