@@ -49,3 +49,4 @@ Updated Mods:
 - Enderal - Donkey v2.4: Enderal replacer. This changes the textures of donkey.nif & donkey_barrel.nif, custom variations on every donk.
 - Enderal SE - Undercity Arena Fix v.1.02: Improved NPC pathing in the arena.  Slightly repositioned Gur Hal Nan so he's further away at the start of the battle.
 - Bank of Ark SE v1.01: Fixed some floating/clipping objects. Some optimization improvements. Removed custom vault doors (they caused crashes for some). Added an optional file that adds the custom vault doors.
+- Craftable Bound Weapons v1.1: Added the mystic versions of each conjurable weapon, requiring double the black soul gems and 75 smithing or conjuration.  Added an unbound dagger and it's mystic variant from the DLC.
