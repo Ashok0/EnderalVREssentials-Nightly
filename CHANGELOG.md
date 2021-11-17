@@ -1,5 +1,5 @@
 
-Release date: November 11th, 2021
+Release date: November 17th, 2021
 
 **Added support for Frozen Electrocuted Combustion. Disabled by default as this is a very script heavy mod which has not been fully tested with Enderal VR.  To enable FEC, tick "powerofthree's Papyrus Extender", "Frozen Electrocuted Combustion", and "Frozen Electrocuted Combustion - Enderal Fix" in Mod Organizer 2.  Do not update Frozen Electrocuted Combustion as v3.2.5 + VR Patch v3.2 is the only version of the mod that works with Skyrim VR and Enderal VR.**
 
@@ -11,6 +11,7 @@ Updated Tools:
 - SSEEdit v4.0.4: SSEEdit is the Skyrim: Special Edition version of xEdit. xEdit is an advanced graphical module viewer/editor and conflict detector.
 
 New Mods:
+- SkyUI v1.2.0: New SEARCH! feature.  Have lots of items in your inventory? Search! Don't scroll!  Broken(?) MCM Options Menu Bug Fix.
 - Papyrus Extender - VR - 4.3: SKSE64 plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events.  Required by FEC.
 - ElSopa - HD Grindstone Redone SE 1K v1.0: Grindstone Redone. New Mesh. New Textures. No ESP. Optional Texture Resolutions.
 - Males Of Skyrim by zzjay - With Better Male Feet and High Poly Hands - SE v1.0: Skyrim has many many options for naked guys... but this game totally lacks an improved lore friendly and SEAMLESS version of the male body... so here is the copy I use in my game.
