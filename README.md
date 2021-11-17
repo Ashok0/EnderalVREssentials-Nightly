@@ -73,7 +73,7 @@ Recommended:
 13. Copy the contents of \Game Folder Files\ to C:\Program Files (x86)\Steam\steamapps\common\SkyrimVR
 14. Launch Mod Organizer 2. 
 15. Configure your mod loadout: 
-	* Disable "Dear Diary VR" if you prefer to use the vanilla SkyUI menu.
+	* Disable "Dear Diary VR" if you prefer to use the vanilla SkyUI menu.  (Dear Diary must be disabled to use SkyUI's new Highlight and Search features) 
 	* Disable "Smaller HUD for VR Larger Text Patch" if you wish to decrease the size of the in-game text.
 	* Enable "VRIK Rift-Index-WMR Controller Bindings" if using the Rift, Valve Index, or WMR headset.
 	* Enable "High Poly Project" for higher polygon objects.  Improves visuals but may cause minor graphical glitches.   
@@ -390,6 +390,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**Enderal SE - Bug Fixes v1.29**](https://www.nexusmods.com/enderalspecialedition/mods/2?tab=files): This mod fixes several issues with the game and also includes some small gameplay/balance fixes.
 
 [**SkyUI v1.2.0**](https://github.com/Odie/skyui-vr): Elegant, PC-friendly interface mod with many advanced features.
+- The new Highlight and Search features do not work if using "Dear Diary".
 
 [**JContainers VR v4.1.13**](https://www.nexusmods.com/skyrimspecialedition/mods/16495?tab=files): Extends Skyrim SE Papyrus scripts (or SKSE/C++ plugins) with JSON based serializable data structures like arrays and maps. Embedded Lua interpreter.
 
