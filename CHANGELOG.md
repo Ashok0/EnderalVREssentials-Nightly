@@ -11,7 +11,6 @@ Updated Tools:
 - SSEEdit v4.0.4: SSEEdit is the Skyrim: Special Edition version of xEdit. xEdit is an advanced graphical module viewer/editor and conflict detector.
 
 New Mods:
-- SkyUI v1.2.0: New SEARCH! feature.  Have lots of items in your inventory? Search! Don't scroll!  Broken(?) MCM Options Menu Bug Fix.
 - Papyrus Extender - VR - 4.3: SKSE64 plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events.  Required by FEC.
 - ElSopa - HD Grindstone Redone SE 1K v1.0: Grindstone Redone. New Mesh. New Textures. No ESP. Optional Texture Resolutions.
 - Males Of Skyrim by zzjay - With Better Male Feet and High Poly Hands - SE v1.0: Skyrim has many many options for naked guys... but this game totally lacks an improved lore friendly and SEAMLESS version of the male body... so here is the copy I use in my game.
@@ -31,7 +30,7 @@ Updated Mods:
 - Enderal SE Update v2.0.9: Update for Complete Enderal for Skyrim Special Edition. 
 - Enderal SE - Bug Fixes v1.29: This mod fixes several issues with the game and also includes some small gameplay/balance fixes.
 - Enderal VR - Patch v3.0: Fixed pipe smoking: player is no more stuck after smoking.  Increased camera height in akropolis to ease the use of higher perks (triggering the lowest perks might require to crouch).  Slight improvements in mq03, scene 3.  Removed the dialoguemenu.swf check introduced in enderal se 2.09 (modification of _00e_questfunctions).
-- SkyUI v1.0: Newly picked up items are now highlighted.  Bug fixes.
+- SkyUI v1.2.0: Newly picked up items are now highlighted.  New SEARCH! feature.  Have lots of items in your inventory? Search! Don't scroll!  Bug Fixes.
 - DynDOLOD Resources SE v3.00 Alpha-15: DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD + tree LOD and the new, optional dynamic distant object LOD in a few simple steps.
 - HIGGS VR v1.4.3: Hand/weapon collision, realistic object grabbing, and gravity gloves-style mechanics for Skyrim VR.
 - Spell Wheel VR v1.2.4: SOS armors are now correctly detected and not included in the wheel.  Wrist bars are now enabled by default. 
