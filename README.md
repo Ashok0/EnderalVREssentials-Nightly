@@ -812,6 +812,8 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Forgotten Dungeons - Palm Cove v1.01**](https://www.nexusmods.com/enderalspecialedition/mods/272?tab=files): Forgotten Dungeons implements cut content, originally made by SureAI, with updates and fixes to fit seamlessly into the game.
 
+[**Dust Pit Revised v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/307?tab=files): Immersive rework of Dust Pit Arena.
+
 [**Storeable Phasmalist Talismans v1.01**](https://www.nexusmods.com/enderalspecialedition/mods/68?tab=files): Allows you to store away Phasmalist Talismans.
 
 [**Unique Armor Sets Replacer Enderal SE v2.3**](https://www.nexusmods.com/enderalspecialedition/mods/27?tab=files): High-quality and lore friendly replacers for many of Enderal's unique armor sets! Converted with SSE nif optimizer.
