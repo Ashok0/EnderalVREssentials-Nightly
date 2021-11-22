@@ -1,5 +1,5 @@
 
-Release date: November 17th, 2021
+Release date: November 22nd, 2021
 
 **Added support for Frozen Electrocuted Combustion. Disabled by default as this is a very script heavy mod which has not been fully tested with Enderal VR.  To enable FEC, tick "powerofthree's Papyrus Extender", "Frozen Electrocuted Combustion", and "Frozen Electrocuted Combustion - Enderal Fix" in Mod Organizer 2.  Do not update Frozen Electrocuted Combustion as v3.2.5 + VR Patch v3.2 is the only version of the mod that works with Skyrim VR and Enderal VR.**
 
@@ -24,6 +24,7 @@ New Mods:
 - R.A.S.S Cold Breath for Enderal v1.0: Modified the R.A.S.S plugin so the cold breath effect works in Enderal's colder regions.  Required for Frozen Electrocuted Combustion - VR compatability.    
 - NPC Pathing Fixes (Suncoast) v1.0: Improved the NPC pathing and added new areas that are now path-able in the Sun Coast.
 - Forgotten Dungeons - Palm Cove v1.01: Forgotten Dungeons implements cut content, originally made by SureAI, with updates and fixes to fit seamlessly into the game.
+- Dust Pit Revised v1.0: Immersive rework of Dust Pit Arena.
 - Weather Fixes v1.0: Fixes some issues with Enderal weathers which increases compatibility with some weather-related mods. (e.g. R.A.S.S., Storm Lightning)
 - Intense Sandstorms v1.0: Increases the intensity of sandstorms in the Desert.
 - Oorbaya Replacer v1.0: Replaces the models Oorbayas with high quality alternatives.
