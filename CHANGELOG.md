@@ -12,6 +12,8 @@ Updated Tools:
 
 New Mods:
 - Papyrus Extender - VR - 4.3: SKSE64 plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events.  Required by FEC.
+- VR Address Library for SKSEVR v0.9.1: VR Address Library database for end users. This is intended as a VR replacement for Address Library for SKSE for mods designed for it. Only download if the mod says this is a requirement. It is currently an alpha. This is not for SSE. This is different from Address Library for SKSE.
+- More Informative Console VR beta v0.4.3: This mod edits the UI to show a great deal of additional information on npcs, items, and other objects when the console is opened, similar to the way MFG console worked for Oldrim.
 - ElSopa - HD Grindstone Redone SE 1K v1.0: Grindstone Redone. New Mesh. New Textures. No ESP. Optional Texture Resolutions.
 - Males Of Skyrim by zzjay - With Better Male Feet and High Poly Hands - SE v1.0: Skyrim has many many options for naked guys... but this game totally lacks an improved lore friendly and SEAMLESS version of the male body... so here is the copy I use in my game.
 - Frozen Electrocuted Combustion - v3.2.5: Applies visual effects to NPCs and the player, when killed by air, ash, dragons, drain, fire, frost, fear, lightning, poison, soultrap, steam and sun damage status effects.
