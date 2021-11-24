@@ -46,7 +46,7 @@ Updated Mods:
 - High Poly Project v5.3: An on going process to improve the models of the game with more polygons, UV edits or just replace them all together. SMIM was the inspiration and the lack of similar mods led me to make this.
 - Satchel Hotfix v1.0: Small hotfix for v5.0 purple satchel.
 - WiZkiD Carriages v1.2: Added burntrubblecart01.nif
-- Storm Lightning for SSE and VR v1.4.11: Separated thunder files in the fomod by No Delay (Immersive) and With Delay (Realistic) choices.  The mod now uses thunder files that are converted to XWM. Apparently WA files can cause CTDs for some people.  A few thunder chance adjustments for ultra realistic preset.
+- Storm Lightning for SSE and VR v1.4.12: Separated thunder files in the fomod by No Delay (Immersive) and With Delay (Realistic) choices.  The mod now uses thunder files that are converted to XWM. Apparently WA files can cause CTDs for some people.  A few thunder chance adjustments for ultra realistic preset.
 - CC's Enhanced Ore Veins SSE Edition v9.0: Redid all from scratch. Remade mined ore meshes in blender. All files are BC7. Iron is no longer red. Fixed cubemap issues. Adjusted mesh EM settings.
 - Riverville Catacombs SE v1.01: A small improvement to a transparent wall.
 - Diverse Weather v1.12: Reduced volumetric lightning in fog weathers.
