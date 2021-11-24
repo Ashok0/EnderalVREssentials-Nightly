@@ -5,7 +5,7 @@ Release date: November 22nd, 2021
 
 Updated Tools: 
 - xLODGen Beta 85: Tool for generating terrain LOD.
-- DynDOLOD Standalone 3.0 Alpha-53: DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD + tree LOD and the new, optional dynamic distant object LOD in a few simple steps.
+- DynDOLOD Standalone 3.0 Alpha-55: DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD + tree LOD and the new, optional dynamic distant object LOD in a few simple steps.
 - The Sharper Eye v1.0: MaxDelta setting in INI reverted to defaults.
 - Synthesis v0.20.6: A framework and GUI to construct a single Bethesda game patch from many patcher sources. Designed to allow any program to work as a patcher as long as it conforms to the CLI API.
 - SSEEdit v4.0.4: SSEEdit is the Skyrim: Special Edition version of xEdit. xEdit is an advanced graphical module viewer/editor and conflict detector.
@@ -34,7 +34,7 @@ Updated Mods:
 - Enderal SE - Bug Fixes v1.29: This mod fixes several issues with the game and also includes some small gameplay/balance fixes.
 - Enderal VR - Patch v3.0: Fixed pipe smoking: player is no more stuck after smoking.  Increased camera height in akropolis to ease the use of higher perks (triggering the lowest perks might require to crouch).  Slight improvements in mq03, scene 3.  Removed the dialoguemenu.swf check introduced in enderal se 2.09 (modification of _00e_questfunctions).
 - SkyUI v1.2.0: Newly picked up items are now highlighted.  New SEARCH! feature.  Have lots of items in your inventory? Search! Don't scroll!  Bug Fixes. (The new Highlight and Search features do not work if using "Dear Diary")
-- DynDOLOD Resources SE v3.00 Alpha-15: DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD + tree LOD and the new, optional dynamic distant object LOD in a few simple steps.
+- DynDOLOD Resources SE v3.00 Alpha-16: DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD + tree LOD and the new, optional dynamic distant object LOD in a few simple steps.
 - Flinching for VR Magic can trigger flinching v1.4: A little mod that allows the player and NPCs to flinch when hit.
 - HIGGS VR v1.4.3: Hand/weapon collision, realistic object grabbing, and gravity gloves-style mechanics for Skyrim VR.
 - Spell Wheel VR v1.2.4: SOS armors are now correctly detected and not included in the wheel.  Wrist bars are now enabled by default. 
