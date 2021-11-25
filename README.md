@@ -419,7 +419,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**Papyrus Extender - VR - 4.3**](https://www.nexusmods.com/skyrimspecialedition/mods/22854?tab=files): SKSE64 plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events.  
 - Required by FEC.
 
-[**VR Address Library for SKSEVR v0.9.1**](https://www.nexusmods.com/skyrimspecialedition/mods/58101?tab=files): VR Address Library database for end users. This is intended as a VR replacement for Address Library for SKSE for mods designed for it. Only download if the mod says this is a requirement. It is currently an alpha. This is not for SSE. This is different from Address Library for SKSE.
+[**VR Address Library for SKSEVR v0.12**](https://www.nexusmods.com/skyrimspecialedition/mods/58101?tab=files): VR Address Library database for end users. This is intended as a VR replacement for Address Library for SKSE for mods designed for it. Only download if the mod says this is a requirement. It is currently an alpha. This is not for SSE. This is different from Address Library for SKSE.
 
 [**DynDOLOD Resources SE v3.00 Alpha-16**](https://www.nexusmods.com/skyrimspecialedition/mods/52897?tab=files): DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD + tree LOD and the new, optional dynamic distant object LOD in a few simple steps.
 
@@ -463,7 +463,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**VRIK Rift-Index-WMR Controller Bindings V2.1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/23416?tab=files): These control bindings are an optional add-on for VRIK to make it easier to use holsters.  The button for shout has been moved to Right A (or the right WMR touchpad), and interact is performed by squeezing the right grip.  Sprinting is now done by squeezing the left grip.  With these "safe" inputs on grips, players do not need to worry about shouting accidentally when grabbing holstered weapons.
 
-[**HIGGS VR v1.4.3**](https://www.nexusmods.com/skyrimspecialedition/mods/43930?tab=files): Hand/weapon collision, realistic object grabbing, and gravity gloves-style mechanics for Skyrim VR.
+[**HIGGS VR v1.4.4**](https://www.nexusmods.com/skyrimspecialedition/mods/43930?tab=files): Hand/weapon collision, realistic object grabbing, and gravity gloves-style mechanics for Skyrim VR.
 - Remove any [HAVOK] settings from your Skyrim INI files as these settings are no longer necessary with HIGGS VR v1.2+.
 - Make the following changes to higgs_vr.ini to make all held objects use velocity-based movement (recommended):
 	- ForcePhysicsGrab = 1
