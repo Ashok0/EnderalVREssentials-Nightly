@@ -857,7 +857,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**True Storms Special Edition - Thunder Rain and Weather Redone v1.0.2**](https://www.nexusmods.com/skyrimspecialedition/mods/2472?tab=files): True Storms Special Edition is a complete overhaul of the storm systems in Skyrim SE, including new heavy and unique weathers, loads of new intense sound effects, interior sounds, particle effects, new rain, snow, and dust textures, heavy fogs, new weathers for Solstheim including dust storms, and much more!
 
-[**Enderal SE - True Storms v1.01**](https://www.nexusmods.com/enderalspecialedition/mods/203?tab=files): Compatibility patch for True Storms.
+[**Enderal SE - True Storms v1.02**](https://www.nexusmods.com/enderalspecialedition/mods/203?tab=files): Compatibility patch for True Storms.
 
 [**Intense Sandstorms v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/279?tab=files): Increases the intensity of sandstorms in the Desert.
 
