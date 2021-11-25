@@ -12,7 +12,7 @@ Updated Tools:
 
 New Mods:
 - Papyrus Extender - VR - 4.3: SKSE64 plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events.  Required by FEC.
-- VR Address Library for SKSEVR v0.9.1: VR Address Library database for end users. This is intended as a VR replacement for Address Library for SKSE for mods designed for it. Only download if the mod says this is a requirement. It is currently an alpha. This is not for SSE. This is different from Address Library for SKSE.
+- VR Address Library for SKSEVR v0.12.0: VR Address Library database for end users. This is intended as a VR replacement for Address Library for SKSE for mods designed for it. Only download if the mod says this is a requirement. It is currently an alpha. This is not for SSE. This is different from Address Library for SKSE.
 - More Informative Console VR beta v0.4.3: This mod edits the UI to show a great deal of additional information on npcs, items, and other objects when the console is opened, similar to the way MFG console worked for Oldrim.
 - ElSopa - HD Grindstone Redone SE 1K v1.0: Grindstone Redone. New Mesh. New Textures. No ESP. Optional Texture Resolutions.
 - Males Of Skyrim by zzjay - With Better Male Feet and High Poly Hands - SE v1.0: Skyrim has many many options for naked guys... but this game totally lacks an improved lore friendly and SEAMLESS version of the male body... so here is the copy I use in my game.
@@ -20,7 +20,7 @@ New Mods:
 - Frozen Electrocuted Combustion - VR Patch v3.2: For VR users. Install after version 3.2.5.
 - Frozen Electrocuted Combustion - Enderal Fix v1.1: Loading Enderal with this ESP will allow you to use Frozen Electrocuted Combustion. If it still crashes change the load order.
 - Skyland Imperial and Nordic Tents v1.2: Skyland Imperial and Nordic Tents introduces 4k tent textures for Nordic and imperial tents. Skyland tents offers a brand new mesh for the large Nordic fur tent for better visuals.
-- Water in Wells - Mesh-only Animated Wells v0.4.2: A mesh-only solution for animated water in wells and sewers. No ESP. 
+- Water in Wells - Mesh-only Animated Wells v0.5: A mesh-only solution for animated water in wells and sewers. No ESP. 
 - R.A.S.S Cold Breath for Enderal v1.0: Modified the R.A.S.S plugin so the cold breath effect works in Enderal's colder regions.  Required for Frozen Electrocuted Combustion - VR compatability.    
 - NPC Pathing Fixes (Suncoast) v1.0: Improved the NPC pathing and added new areas that are now path-able in the Sun Coast.
 - Forgotten Dungeons - Palm Cove v1.01: Forgotten Dungeons implements cut content, originally made by SureAI, with updates and fixes to fit seamlessly into the game.
@@ -36,7 +36,7 @@ Updated Mods:
 - SkyUI v1.2.0: Newly picked up items are now highlighted.  New SEARCH! feature.  Have lots of items in your inventory? Search! Don't scroll!  Bug Fixes. (The new Highlight and Search features do not work if using "Dear Diary")
 - DynDOLOD Resources SE v3.00 Alpha-16: DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD + tree LOD and the new, optional dynamic distant object LOD in a few simple steps.
 - Flinching for VR Magic can trigger flinching v1.4: A little mod that allows the player and NPCs to flinch when hit.
-- HIGGS VR v1.4.3: Hand/weapon collision, realistic object grabbing, and gravity gloves-style mechanics for Skyrim VR.
+- HIGGS VR v1.4.4: Hand/weapon collision, realistic object grabbing, and gravity gloves-style mechanics for Skyrim VR.
 - Spell Wheel VR v1.2.4: SOS armors are now correctly detected and not included in the wheel.  Wrist bars are now enabled by default. 
 - Sprint Jump VR v1.1.2: Fixed a bug that caused a momentary pause 1 second after landing from a sprint jump. Fixed a bug that can potentially cause a freeze/ctd, some other optimizations. Fixed a bug that caused super speed after landing from sprint jumping when weapons are sheathed.
 - VR FPS Stabilizer v1.3.2: Please see Nexus changelog for updates.  Mod is disabled by default in this Wabbajack release and is only used for its console features to disable TAA FX.
