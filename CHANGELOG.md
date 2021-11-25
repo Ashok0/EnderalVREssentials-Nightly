@@ -50,7 +50,7 @@ Updated Mods:
 - CC's Enhanced Ore Veins SSE Edition v9.0: Redid all from scratch. Remade mined ore meshes in blender. All files are BC7. Iron is no longer red. Fixed cubemap issues. Adjusted mesh EM settings.
 - Riverville Catacombs SE v1.01: A small improvement to a transparent wall.
 - Diverse Weather v1.12: Reduced volumetric lightning in fog weathers.
-- Enderal SE - True Storms v1.01: Fixed the volumetric lightning with the heavy fog weathers.
+- Enderal SE - True Storms v1.02: Fixed the volumetric lightning with the heavy fog weathers.
 - Enderal - Donkey v2.4: Enderal replacer. This changes the textures of donkey.nif & donkey_barrel.nif, custom variations on every donk.
 - Enderal SE - Undercity Arena Fix v.1.02: Improved NPC pathing in the arena.  Slightly repositioned Gur Hal Nan so he's further away at the start of the battle.
 - Bank of Ark SE v1.01: Fixed some floating/clipping objects. Some optimization improvements. Removed custom vault doors (they caused crashes for some). Added an optional file that adds the custom vault doors.
