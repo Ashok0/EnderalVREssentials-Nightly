@@ -36,6 +36,7 @@ Updated Mods:
 - SkyUI v1.2.0: Newly picked up items are now highlighted.  New SEARCH! feature.  Have lots of items in your inventory? Search! Don't scroll!  Bug Fixes. (The new Highlight and Search features do not work if using "Dear Diary")
 - DynDOLOD Resources SE v3.00 Alpha-16: DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD + tree LOD and the new, optional dynamic distant object LOD in a few simple steps.
 - moreHUD VR v1.0.5: Fixes a rare random CTD due to a bad hook.
+- LocationalDamageSKSE VR v0.7.2: Fix issue with missing impact VFX & improve stability. Big thanks to FlyingParticle for finding the issue!
 - Flinching for VR Magic can trigger flinching v1.4: A little mod that allows the player and NPCs to flinch when hit.
 - HIGGS VR v1.4.4: Hand/weapon collision, realistic object grabbing, and gravity gloves-style mechanics for Skyrim VR.
 - Spell Wheel VR v1.2.4: SOS armors are now correctly detected and not included in the wheel.  Wrist bars are now enabled by default. 
