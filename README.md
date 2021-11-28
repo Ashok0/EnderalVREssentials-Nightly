@@ -874,7 +874,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 - Open plugin in xEdit and under Global.po3_GlobalRandomChanceSunValue, set "FLT - Value" to 0.000000 (Prevents all bodies from spontanteously combusting all the time on death)
 - Open plugin in xEdit and remove ALL entries under "Quest" aside from po3_MCM. (Prevents CTD when returning to the main menu)
 
-[**Frozen Electrocuted Combustion - VR Patch v3.2**](https://www.nexusmods.com/skyrimspecialedition/mods/3532?tab=files): For VR users. Install after version 3.2.5.
+[**Frozen Electrocuted Combustion VR v4.9.6**](https://www.nexusmods.com/skyrimspecialedition/mods/59118?tab=files): Applies visual effects to NPCs and the player, when killed by air, ash, dragons, drain, fire, frost, fear, lightning, poison, soultrap, steam and sun damage status effects. VR version that requires original FEC to run.
 
 [**Frozen Electrocuted Combustion - Enderal Fix v1.1**](https://www.nexusmods.com/enderalspecialedition/mods/282?tab=files): Loading Enderal with this ESP will allow you to use Frozen Electrocuted Combustion. If it still crashes change the load order.
 
