@@ -869,7 +869,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Enderal SE - Dirt and Blood v1.01**](https://www.nexusmods.com/enderalspecialedition/mods/201?tab=files): Compatibility patch for Dirt and Blood.
 
-[**Frozen Electrocuted Combustion - v3.2.5**](https://www.nexusmods.com/skyrimspecialedition/mods/3532?tab=files): Applies visual effects to NPCs and the player, when killed by air, ash, dragons, drain, fire, frost, fear, lightning, poison, soultrap, steam and sun damage status effects.
+[**Frozen Electrocuted Combustion - v4.9.6**](https://www.nexusmods.com/skyrimspecialedition/mods/3532?tab=files): Applies visual effects to NPCs and the player, when killed by air, ash, dragons, drain, fire, frost, fear, lightning, poison, soultrap, steam and sun damage status effects.
 - Do not upgrade as v3.2.5 is required for VR.
 - Open plugin in xEdit and under Global.po3_GlobalRandomChanceSunValue, set "FLT - Value" to 0.000000 (Prevents all bodies from spontanteously combusting all the time on death)
 - Open plugin in xEdit and remove ALL entries under "Quest" aside from po3_MCM. (Prevents CTD when returning to the main menu)
