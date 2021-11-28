@@ -17,7 +17,7 @@ New Mods:
 - More Informative Console VR beta v0.4.3: This mod edits the UI to show a great deal of additional information on npcs, items, and other objects when the console is opened, similar to the way MFG console worked for Oldrim.
 - ElSopa - HD Grindstone Redone SE 1K v1.0: Grindstone Redone. New Mesh. New Textures. No ESP. Optional Texture Resolutions.
 - Males Of Skyrim by zzjay - With Better Male Feet and High Poly Hands - SE v1.0: Skyrim has many many options for naked guys... but this game totally lacks an improved lore friendly and SEAMLESS version of the male body... so here is the copy I use in my game.
-- Frozen Electrocuted Combustion - v3.2.5: Applies visual effects to NPCs and the player, when killed by air, ash, dragons, drain, fire, frost, fear, lightning, poison, soultrap, steam and sun damage status effects.
+- Frozen Electrocuted Combustion - v4.9.6: Applies visual effects to NPCs and the player, when killed by air, ash, dragons, drain, fire, frost, fear, lightning, poison, soultrap, steam and sun damage status effects.
 - Frozen Electrocuted Combustion - VR Patch v3.2: For VR users. Install after version 3.2.5.
 - Frozen Electrocuted Combustion - Enderal Fix v1.1: Loading Enderal with this ESP will allow you to use Frozen Electrocuted Combustion. If it still crashes change the load order.
 - Skyland Imperial and Nordic Tents v1.2: Skyland Imperial and Nordic Tents introduces 4k tent textures for Nordic and imperial tents. Skyland tents offers a brand new mesh for the large Nordic fur tent for better visuals.
