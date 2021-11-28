@@ -20,7 +20,7 @@ New Mods:
 - Frozen Electrocuted Combustion - VR Patch v3.2: For VR users. Install after version 3.2.5.
 - Frozen Electrocuted Combustion - Enderal Fix v1.1: Loading Enderal with this ESP will allow you to use Frozen Electrocuted Combustion. If it still crashes change the load order.
 - Skyland Imperial and Nordic Tents v1.2: Skyland Imperial and Nordic Tents introduces 4k tent textures for Nordic and imperial tents. Skyland tents offers a brand new mesh for the large Nordic fur tent for better visuals.
-- Water in Wells - Mesh-only Animated Wells v0.5: A mesh-only solution for animated water in wells and sewers. No ESP. 
+- Water in Wells - Mesh-only Animated Wells v0.5.1: A mesh-only solution for animated water in wells and sewers. No ESP. 
 - R.A.S.S Cold Breath for Enderal v1.0: Modified the R.A.S.S plugin so the cold breath effect works in Enderal's colder regions.  Required for Frozen Electrocuted Combustion - VR compatability.    
 - NPC Pathing Fixes (Suncoast) v1.0: Improved the NPC pathing and added new areas that are now path-able in the Sun Coast.
 - Forgotten Dungeons - Palm Cove v1.01: Forgotten Dungeons implements cut content, originally made by SureAI, with updates and fixes to fit seamlessly into the game.
