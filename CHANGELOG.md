@@ -5,7 +5,7 @@ Release date: November 30th, 2021
 
 Updated Tools: 
 - xLODGen Beta 85: Tool for generating terrain LOD.
-- DynDOLOD Standalone 3.0 Alpha-55: DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD + tree LOD and the new, optional dynamic distant object LOD in a few simple steps.
+- DynDOLOD Standalone 3.0 Alpha-56: DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD + tree LOD and the new, optional dynamic distant object LOD in a few simple steps.
 - The Sharper Eye v1.0: MaxDelta setting in INI reverted to defaults.
 - Synthesis v0.20.6: A framework and GUI to construct a single Bethesda game patch from many patcher sources. Designed to allow any program to work as a patcher as long as it conforms to the CLI API.
 - SSEEdit v4.0.4: SSEEdit is the Skyrim: Special Edition version of xEdit. xEdit is an advanced graphical module viewer/editor and conflict detector.
