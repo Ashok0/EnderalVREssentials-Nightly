@@ -1,7 +1,7 @@
 
 Release date: November 22nd, 2021
 
-**Added support for Frozen Electrocuted Combustion. Disabled by default as this is a very script heavy mod which has not been fully tested with Enderal VR.  To enable FEC, tick "powerofthree's Papyrus Extender", "Frozen Electrocuted Combustion", and "Frozen Electrocuted Combustion - Enderal Fix" in Mod Organizer 2.  Do not update Frozen Electrocuted Combustion as v3.2.5 + VR Patch v3.2 is the only version of the mod that works with Skyrim VR and Enderal VR.**
+**Added support for Frozen Electrocuted Combustion. FEC is disabled by default.  Do not enable FEC until completing the tutorial mission as the FEC mods will break the character creation wizard.  To enable FEC, tick "Frozen Electrocuted Combustion", "Frozen Electrocuted Combustion VR", and "Frozen Electrocuted Combustion - Enderal Fix" in Mod Organizer 2.**
 
 Updated Tools: 
 - xLODGen Beta 85: Tool for generating terrain LOD.
