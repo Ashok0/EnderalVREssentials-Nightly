@@ -1098,7 +1098,7 @@ Note that many DynDOLOD guides on the Web are heavily outdated or are not relev
 13.  Select TexGenx64 from the upper right drop down bar and click Run.
 		- If you get a "Could not open registry key" error, launch vanilla Skyrim VR one time from Steam.  Then exit Skyrim VR and repeat this step.  (This step can be performed outside of VR.  Simply launching Skyrim VR from your flatscreen and exiting after any Steam VR errors regarding no detected headset is sufficient.)
 		- If you get a "Found stitched object LOD textures" error, click "Ignore".
-		- Tick "HD Trees" and click "Start" once the TexGen window appears.
+		- Tick "HD Trees" and click "Start" once the TexGen window appears.  If you get a "Worldspace Editor ID" error, click "Ignore".
 		- Wait for TexGen to finish running, it typically takes several minutes.  When the process completes, click "Exit TexGen".
 14.  Navigate to your \DynDOLOD\ folder from Step 9 and move the \TexGen_Output\ folder to C:\ (Your Game Folder)\mods.  Refresh MO2 with "F5" and enable TexGen_Output in the left window pane.  Place this mod directly under "xLODGen_Output".
 15.  Select DynDOLODx64 from the upper right drop down bar and click Run.
