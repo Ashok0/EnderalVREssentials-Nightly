@@ -1032,8 +1032,8 @@ Flinching adds flinching animations.  NPCs will react with an animation when att
 6. Select Nemesis Unlimited Behavior Engine from upper right drop down and click RUN
 7. Click OK for both Warning pop-ups
 8. Click "Update Engine"
-9. Tick the "Flinching Animations" option and click "Launch Nemesis Behavior Engine"
-10. Wait for the process to finish and then close the Nemesis Unlimited Behavior Engine.
+9. Tick the "Flinching Animations" option and click "Launch Nemesis Behavior Engine".  If you receive an error message, reboot and repeat this step.
+10. Wait for the process to finish and then close the Nemesis Unlimited Behavior Engine.  
 11. Right click on "Overwrite" and select "Create Mod".  Enter a custom name i.e. Nemesis_Output and click OK.
 12. Tick "Nemesis_Output" in the left window pane. 
 13. Revert the upper right dropdown bar back to "SKSE".
