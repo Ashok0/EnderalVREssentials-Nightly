@@ -947,7 +947,9 @@ Required load order:
 
 [**TexGen_Output**]: LOD textures and billboards patch generated with [**DynDOLOD Standalone 3.0**](https://www.nexusmods.com/skyrimspecialedition/mods/32382?tab=files). 
 
-[**DynDOLOD_Output**]: Object and tree LOD patch generated with [**DynDOLOD Standalone 3.0**](https://www.nexusmods.com/skyrimspecialedition/mods/32382?tab=files). 
+[**DynDOLOD_Output_PERFORMANCE**]: Object and tree LOD patch generated with [**DynDOLOD Standalone 3.0**](https://www.nexusmods.com/skyrimspecialedition/mods/32382?tab=files). 
+
+[**DynDOLOD_Output_QUALITY**]: Object and tree LOD patch generated with [**DynDOLOD Standalone 3.0**](https://www.nexusmods.com/skyrimspecialedition/mods/32382?tab=files). 
 
 [**Synthesis_Output**]: SkyVRaan patch generated with [**Synthesis**](https://github.com/Mutagen-Modding/Synthesis/releases).
 
