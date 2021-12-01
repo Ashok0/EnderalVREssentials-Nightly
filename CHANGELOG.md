@@ -18,7 +18,7 @@ Updated Tools:
 
 New Mods:
 - VR Address Library for SKSEVR v0.12.0: VR Address Library database for end users. This is intended as a VR replacement for Address Library for SKSE for mods designed for it. Only download if the mod says this is a requirement. It is currently an alpha. This is not for SSE. This is different from Address Library for SKSE. Required by FEC.
-- Papyrus Extender SSE - 4.5.2: SKSE64 plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events.  Required by FEC.
+- Papyrus Extender SSE - 4.5.5: SKSE64 plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events.  Required by FEC.
 - Papyrus Extender VR v4.5.5: SKSEVR plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events. This requires the original Papyrus Extender and is built from po3's source. Required by FEC.
 - More Informative Console VR beta v0.4.3: This mod edits the UI to show a great deal of additional information on npcs, items, and other objects when the console is opened, similar to the way MFG console worked for Oldrim.
 - ElSopa - HD Grindstone Redone SE 1K v1.0: Grindstone Redone. New Mesh. New Textures. No ESP. Optional Texture Resolutions.
