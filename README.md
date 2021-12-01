@@ -419,7 +419,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**PapyrusUtil VR - Scripting Utility Functions v3.6b**](https://www.nexusmods.com/skyrimspecialedition/mods/13048?tab=files): An SKSE plugin adding several new scripts with native functions that provide various conveniences related to data storage and other misc functions to the scripter/modder.  DynDOLOD requirement.
 
-[**Papyrus Extender SSE - 4.5.2**](https://www.nexusmods.com/skyrimspecialedition/mods/22854?tab=files): SKSE64 plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events.  
+[**Papyrus Extender SSE - 4.5.5**](https://www.nexusmods.com/skyrimspecialedition/mods/22854?tab=files): SKSE64 plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events.  
 - Required by FEC.
 
 [**Papyrus Extender VR v4.5.5**](https://www.nexusmods.com/skyrimspecialedition/mods/58296?tab=files): SKSEVR plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events. This requires the original Papyrus Extender and is built from po3's source.
