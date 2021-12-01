@@ -5,7 +5,7 @@ Release date: November 30th, 2021
 
 **Added two DynDOLOD mods for selecting LODs optimized for performance versus quality.  Use only one.
 **- For max performance, enable "DynDOLOD_Output_PERFORMANCE" in Mod Organizer 2.  This uses "billboard1" trees at LOD Level 4 for maximum performance. Enabled by default.**
-**- For max quality, enable "DynDOLOD_Output_QUALITY" in Mod Organizer 2. This uses "level0" trees at LOD Level 4 for greatly improved tree LODs. Results in -10fps in large open areas on an RTX 3070. Not recommended for wireless VR. Disabled by default.**
+**- For max quality, enable "DynDOLOD_Output_QUALITY" in Mod Organizer 2. This uses "level0" trees at LOD Level 4 for greatly improved tree LODs. Results in -10fps in large open areas on an RTX 3070. Not recommended for wireless VR. Disabled by default!**
 
 Updated Tools: 
 - xLODGen Beta 85: Tool for generating terrain LOD.
