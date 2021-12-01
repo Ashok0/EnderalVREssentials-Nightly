@@ -1056,7 +1056,7 @@ Note that many DynDOLOD guides on the Web are heavily outdated or are not relev
 1. Install Visual C++ Redistributable for Visual Studio 2015, 2017 and 2019
 2. Install the following prerequisite mods: SKSE VR, PapyrusUtil VR, DynDOLOD Resources SE 3.0
 3. Install landscape texture mods (Noble + Tamrielic + Septentrional recommended) and tree mods (EVT recommended). 
-	- If using EVT for trees, make sure ESP is enabled as it is used by DynDOLOD 3.0.  Remove "DA13PeryiteShrine" from the plugin's "Worldspace" data in xEdit.
+	- If using EVT for trees, make sure ESP is enabled as it is used by DynDOLOD 3.0.  Remove the plugin's "Worldspace" data in xEdit.
 	- Disable any billboards that are included in tree mods (found in \data\textures\lodgen\).
 4. Install a terrain LOD mod (that corresponds with the lowest texture mod used for terrain) and place it after other Skyrim SE texture mods.  Only used for terrain noise texture.  Remove ALL files except for the \textures\ folder.
 5. Finalize load order in Mod Organizer 2.
