@@ -1135,7 +1135,7 @@ SkyVRaan adds shimmering water effects to the game.  SkyVRaan has been pre-confi
 12. Click RUN icon
 13. Wait for the utility to report "Completed" and close Synthesis. 
 	- If you get a "Blocking Error", try the following:
-		-  Try re-running Synthesis.
+		-  Delete any existing Groups and try re-running Synthesis.
 		-  Delete any files from C:\Users\ (Username)\AppData\Local\Temp\Synthesis
 		-  Make sure you are using the latest version of Synthesis from Github [HERE](https://github.com/Mutagen-Modding/Synthesis/releases)
 14. Right click on "Overwrite" and select "Create Mod".  Enter a custom name i.e. Synthesis_Output and click OK.
