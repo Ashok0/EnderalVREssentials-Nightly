@@ -651,7 +651,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**HD Dead Trees and Driftwoods v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/35308?tab=files): Combine "4K Parallax Treebark" and "Spooknik's - Tundra Trees HD" to achieve HD dead trees and driftwoods. Contains original mods port.
 
-[**CC's Enhanced Ore Veins SSE Edition v9.0**](https://www.nexusmods.com/skyrimspecialedition/mods/1306?tab=files): A texture replacement for the ore veins found in mines and around skyrim. This mod also retextures the mined ores and the ingots.
+[**CC's Enhanced Ore Veins SSE Edition v9.0.1**](https://www.nexusmods.com/skyrimspecialedition/mods/1306?tab=files): A texture replacement for the ore veins found in mines and around skyrim. This mod also retextures the mined ores and the ingots.
 
 [**Rustic Alchemy and Enchanting Tables v1.0**](https://www.nexusmods.com/skyrim/mods/62328?tab=files): A rustic overhaul of the alchemy and enchanting tables of Skyrim. The aim was to bring real antiquity to these arcane crafting tables as is fitting of their ancient origin.
 
@@ -1114,7 +1114,7 @@ Note that many DynDOLOD guides on the Web are heavily outdated or are not relev
 16.  Navigate to your \DynDOLOD\ folder from Step 9 and move the \DynDOLOD_Output\ folder to C:\ (Your Game Folder)\mods.  Refresh MO2 with "F5" and enable DynDOLOD_Output in the left window pane. Place this mod directly under "TexGen_Output".
 17.  Confirm "xLODGen_Output", "TexGen_Output", and "DynDOLOD_Output" are ticked in the left window pane and ensure DynDOLOD.esp is ticked in the right window pane.
 18.  Navigate to \Enhanced Vanilla Trees SE-Lush Trees\ folder and delete the ESP file (untested with Enderal VR), then navigate to \Enhanced Vanilla Trees SE-Lush Trees\meshes\landscape\trees\ and remove the SRG_ prefix from all filenames (required if not using plugin). Then press F5 with the right window pane selected to refresh the active plugin list. You will need to reinstall EVT with its plugin if you ever wish to re-run DynDOLOD.  
-		- This step may be unnecessary but avoids potential compatability issues with the EVT plugin.
+		- This step may be unnecessary but frees up a slot in your plugin list and avoids potential compatability issues with the EVT plugin.
 19.  Revert the upper right dropdown bar back to "SKSE".
 20.  DynDOLOD is now successfully configured!  You should see FAR more detail in the distance when looking across large open areas of the game! (You may need to re-run this process if you change your load order.)
 
