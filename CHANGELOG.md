@@ -46,7 +46,7 @@ Updated Mods:
 - LocationalDamageSKSE VR v0.7.2: Fix issue with missing impact VFX & improve stability. Big thanks to FlyingParticle for finding the issue!
 - Flinching for VR Magic can trigger flinching v1.4: A little mod that allows the player and NPCs to flinch when hit.
 - HIGGS VR v1.4.5: Hand/weapon collision, realistic object grabbing, and gravity gloves-style mechanics for Skyrim VR.  Detection of whether a hand is in a position to grab something now works properly when the palm is inside the collision geometry of the object.
-- Spell Wheel VR v1.2.4: SOS armors are now correctly detected and not included in the wheel.  Wrist bars are now enabled by default. 
+- Spell Wheel VR v1.2.5: SOS armors are now correctly detected and not included in the wheel.  Wrist bars are now enabled by default. Added new wrist bar support for RealVirtualMagic (RVM) mod: Brainpower. 
 - Sprint Jump VR v1.1.2: Fixed a bug that caused a momentary pause 1 second after landing from a sprint jump. Fixed a bug that can potentially cause a freeze/ctd, some other optimizations. Fixed a bug that caused super speed after landing from sprint jumping when weapons are sheathed.
 - VR FPS Stabilizer v1.3.2: Please see Nexus changelog for updates.  Mod is disabled by default in this Wabbajack release and is only used for its console features to disable TAA FX.
 - Embers XD v2.4.7: Fixed flames and smoke sticking out of the fireplace in specific locations.
