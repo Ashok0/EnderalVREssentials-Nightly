@@ -26,7 +26,7 @@ New Mods:
 - Frozen Electrocuted Combustion VR v4.9.6: Applies visual effects to NPCs and the player, when killed by air, ash, dragons, drain, fire, frost, fear, lightning, poison, soultrap, steam and sun damage status effects. VR version that requires original FEC to run.
 - Frozen Electrocuted Combustion - Enderal Fix v1.1: Loading Enderal with this ESP will allow you to use Frozen Electrocuted Combustion. If it still crashes change the load order.
 - Skyland Imperial and Nordic Tents v1.2: Skyland Imperial and Nordic Tents introduces 4k tent textures for Nordic and imperial tents. Skyland tents offers a brand new mesh for the large Nordic fur tent for better visuals.
-- Water in Wells - Mesh-only Animated Wells v0.5.1: A mesh-only solution for animated water in wells and sewers. No ESP. 
+- Water in Wells - Mesh-only Animated Wells v0.6: Include SMIM texture for those who don't use SMIM.  Improved normal map on Ravenrock well grate.
 - Clothing Iron - 4K v1.1: Remesh and 4K retexture of the clothing iron.
 - R.A.S.S Cold Breath for Enderal v1.0: Modified the R.A.S.S plugin so the cold breath effect works in Enderal's colder regions.
 - NPC Pathing Fixes (Suncoast) v1.0: Improved the NPC pathing and added new areas that are now path-able in the Sun Coast.
