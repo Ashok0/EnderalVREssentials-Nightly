@@ -1,5 +1,5 @@
 # ENDERAL VR ESSENTIALS (EVRE)
-Latest update: December 5th, 2021 (v1.103)
+Latest update: December 9th, 2021 (v1.104)
 
 ## Table of contents
 * [Preamble](#preamble)
@@ -142,7 +142,6 @@ Wabbajack will delete all files that are not part of its modlist when updating! 
 * By default, your shield is slightly offset from your hand position when equipped.  This can be fixed by enabling "Realistic Shield Grip" from the in-game settings, but when this feature is enabled you cannot walk forward/backward when your shield is raised if you are using Wand-Relative locomotion.
 * The loading screen artwork is out of frame.
 * The talent points in the game are too high to reach in VR.  To use them, install [OVR Advanced Settings](https://github.com/OpenVR-Advanced-Settings/OpenVR-AdvancedSettings) which allows you to change your player height on the fly.  From the in-game Steam menu, select OVR Advanced Settings > Space Offsets -> Y-Axis (up/down). Just lower the value there to "grow" ingame. Note that this fix requires SteamVR and is not compatible with OpenComposite.
-* The "Frozen Electrocuted Combustion - Enderal Fix" mod causes glitches with the character creation wizard.    
 * &#x1F53A; If using Auriels Holy Bow - REDUX, Blended Roads, Embers HD, Embers XD, Glorious Doors of Skyrim (GDOS) SE, Inferno - Fire Effects Redux, JS Instruments of Skyrim SE, Kanjs - Chaurus Eggs and Staff, Skyrim Particle Patch for ENB, Snazzy Furniture and Clutter Overhaul SE, Static Mesh Improvement Mod - SMIM, Unofficial Skyrim Special Edition Patch, or Water for ENB you must make sure you are NOT using any plugins for these mods.  Only meshes and textures may be used.  Delete ALL .esp files associated with these mods before launching the game or running DynDOLOD 3.0. (Incompatible plugins have already been removed with this Wabbajack release.) &#x1F53A; 
 * &#x1F53A; If using Scoped Bows SE, the .esp plugin must be fixed by removing all Cell and Worldspace data in xEdit.  Failure to do so will result in DynDOLOD 3.0 crashing. (This plugin has already been fixed with xEdit with this Wabbajack release.) &#x1F53A; 
 * &#x1F53A; When using OpenComposite, you cannot have any audio recording devices attached to your PC aside from your VR headset or Dragonborn Speaks Naturally will not work. &#x1F53A; 
@@ -877,7 +876,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Frozen Electrocuted Combustion VR v4.9.6**](https://www.nexusmods.com/skyrimspecialedition/mods/59118?tab=files): Applies visual effects to NPCs and the player, when killed by air, ash, dragons, drain, fire, frost, fear, lightning, poison, soultrap, steam and sun damage status effects. VR version that requires original FEC to run.
 
-[**Frozen Electrocuted Combustion - Enderal Fix v1.1**](https://www.nexusmods.com/enderalspecialedition/mods/282?tab=files): Loading Enderal with this ESP will allow you to use Frozen Electrocuted Combustion. If it still crashes change the load order.
+[**Enderal Missing Race Fix (For mods such as FEC) v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/321?tab=files): Adds the missing player race-entries from Skyrim into Enderal(leaving Enderal's overwriting of the other races intact!) for any\all mods that requires their existance, such as FEC.
 
 Required load order:
 * VR Address Library for SKSEVR
@@ -885,7 +884,7 @@ Required load order:
 * Papyrus Extender VR
 * Frozen Electrocuted Combustion
 * Frozen Electrocuted Combustion VR
-* Frozen Electrocuted Combustion - Enderal Fix v1.1
+* Enderal Missing Race Fix (For mods such as FEC) v1.0
 
 [**Enderal NPC Overhaul - SE version v2.3.1**](https://www.nexusmods.com/enderalspecialedition/mods/150?tab=description): Overhaul of all NPCs in Enderal. Most important NPCs are given unique look (100+), others - KS Hairdos Hair. NO ESP. No requirements.
 
