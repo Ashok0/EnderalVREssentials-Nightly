@@ -1,7 +1,4 @@
-Release date: December 9th, 2021
+Release date: December 16th, 2021
 
-New Mods:
-- Enderal Missing Race Fix (For mods such as FEC) v1.0: Adds the missing player race-entries from Skyrim into Enderal (leaving Enderal's overwriting of the other races intact!) for any\all mods that requires their existence, such as Frozen Electrocuted Combustion.
-
-Removed Mods:
-- Frozen Electrocuted Combustion - Enderal Fix v1.1: Does not work properly. Must be replaced with Enderal Missing Race Fix or the character creation wizard will fail to work properly.
+Updated Mods:
+- [**VR Address Library v0.16.0**](https://www.nexusmods.com/skyrimspecialedition/mods/58101?tab=files): Add support for dialoguemovementenabler (5de6061).
