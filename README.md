@@ -899,6 +899,8 @@ Required load order:
 
 [**Amanda v1.4.2**](https://www.nexusmods.com/enderalspecialedition/mods/15?tab=files): Adds female follower to The Drunken Bee tavern in Riverville.
 
+[**A Follower Named Ishan v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/327?tab=files): Adds a custom voiced Qyranian follower at the Drunken Bee in Riverville.
+
 [**Jespar Has Steel SE v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/239?tab=files): Jespar no longer uses toothpicks in battles of life and death.
 
 [**Seagulls of Skyrim v1.4**](https://www.nexusmods.com/skyrimspecialedition/mods/52153?tab=files): This mod adds seagulls along the coasts of Skyrim and Solstheim, with animated models and sounds from Mr. Siika Seagulls for Skyrim SE!
