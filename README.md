@@ -481,6 +481,8 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Magic Improvements for Skyrim VR v1.0.2**](https://www.nexusmods.com/skyrimspecialedition/mods/55751?tab=files): Vastly improved dual casting, spell effect size scales based on magicka percentage, and additional options for aiming spells in VR.
 
+[**Improved Bound Sword and Dagger Collision v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/60064?tab=files): More accurate collision for the bound dagger and sword.
+
 [**NavigateVR v1.5**](https://www.nexusmods.com/skyrimspecialedition/mods/47174?tab=files): This mod brings immersive navigation to VR with a functional compass
 - Replace "LHandTamrielSettlements.dds" and "RHandTamrielSettlements.dds" with maps of your choice from the "Maps - SE" or "Anna's Enderal Map" mod to make the default Navigate VR map artwork lore friendly to Enderal.
 - Remove "Map of Skyrim" and "Map Storage Case" from the plugin's "Misc. Item" data along with "FormID List".startingitems and under Weapon.TRC_WorldMap, Quest.TRC_MapQuest set '110C0BBC' and '1110CC1D' records to 0, and under Quest.TRC_MaintenanceQuest remove the '110C0BBC' and '1110CC1D' records using xEdit to completely remove the broken map from the mod. 
