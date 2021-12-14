@@ -5,6 +5,7 @@ Updated Tools:
 
 New Mods:
 - Crash Logger VR v1.0: Generates crash logs when the game Just Works™. This is a VR port using fudgyduff's MIT source.
+- A Follower Named Ishan v1.0: Adds a custom voiced Qyranian follower at the Drunken Bee in Riverville.
 
 Updated Mods:
 - VR Address Library for SKSEVR v0.17.0: Add support for dialoguemovementenabler (5de6061).  Add rememberlockpick angle offsets (6dcc78b).
