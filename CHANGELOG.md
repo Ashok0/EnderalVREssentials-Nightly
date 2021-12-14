@@ -5,8 +5,10 @@ Updated Tools:
 
 New Mods:
 - Crash Logger VR v1.0: Generates crash logs when the game Just Works™. This is a VR port using fudgyduff's MIT source.
+- Improved Bound Sword and Dagger Collision v1.0: More accurate collision for the bound dagger and sword.
 - A Follower Named Ishan v1.0: Adds a custom voiced Qyranian follower at the Drunken Bee in Riverville.
 
 Updated Mods:
 - VR Address Library for SKSEVR v0.17.0: Add support for dialoguemovementenabler (5de6061).  Add rememberlockpick angle offsets (6dcc78b).
 - Embers XD v2.4.9: An Embers XD style makeover to hanging oil traps. An open smelter with coals inside, particle lights (Forges Add-On). A custom coal pile next to smelter (Forges Add-On).
+- Storm Lightning for SSE and VR v1.4.13: Added support for Anniversary Edition - 1.6.342 version.
