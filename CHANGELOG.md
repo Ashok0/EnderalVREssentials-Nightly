@@ -6,7 +6,7 @@ Updated Tools:
 New Mods:
 - Crash Logger VR v1.0: Generates crash logs when the game Just Works™. This is a VR port using fudgyduff's MIT source.
 - Improved Bound Sword and Dagger Collision v1.0: More accurate collision for the bound dagger and sword.
-- A Follower Named Ishan v1.0: Adds a custom voiced Qyranian follower at the Drunken Bee in Riverville.
+- A Follower Named Ishan v1.1: Adds a custom voiced Qyranian follower at the Drunken Bee in Riverville.
 
 Updated Mods:
 - Enderal SE - Bug Fixes v1.30: Updated for Enderal 2.0.10.
