@@ -901,7 +901,7 @@ Required load order:
 
 [**Amanda v1.4.2**](https://www.nexusmods.com/enderalspecialedition/mods/15?tab=files): Adds female follower to The Drunken Bee tavern in Riverville.
 
-[**A Follower Named Ishan v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/327?tab=files): Adds a custom voiced Qyranian follower at the Drunken Bee in Riverville.
+[**A Follower Named Ishan v1.1**](https://www.nexusmods.com/enderalspecialedition/mods/327?tab=files): Adds a custom voiced Qyranian follower at the Drunken Bee in Riverville.
 
 [**Jespar Has Steel SE v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/239?tab=files): Jespar no longer uses toothpicks in battles of life and death.
 
