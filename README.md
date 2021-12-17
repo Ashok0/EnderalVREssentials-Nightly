@@ -1,5 +1,5 @@
 # ENDERAL VR ESSENTIALS (EVRE)
-Latest update: December 14th, 2021 (v1.105)
+Latest update: December 18th, 2021 (v1.105)
 
 ## Table of contents
 * [Preamble](#preamble)
@@ -52,7 +52,7 @@ Recommended:
 * [Enderal: Forgotten Stories (Special Edition)](https://store.steampowered.com/app/976620/Enderal_Forgotten_Stories_Special_Edition)
 * [Premium NexusMods account](https://www.nexusmods.com/)
 * [Wabbajack](https://www.wabbajack.org/#/)
-* [EVRE_v1.104.wabbajack](https://github.com/Ashok0/EnderalVREssentials/releases/)
+* [EVRE_v1.105.wabbajack](https://github.com/Ashok0/EnderalVREssentials/releases/)
 	
 ## Installation
 1.  Add Enderal SE to your Steam library from [HERE](https://store.steampowered.com/app/976620/Enderal_Forgotten_Stories_Special_Edition/). The game needs to be in your Steam library but does not need to be installed.
@@ -63,8 +63,8 @@ Recommended:
 5.  Download Wabbajack from [HERE](https://www.wabbajack.org/#/) and place "Wabbajack.exe" in a blank folder i.e. C:\Games\Wabbajack 
 6.  Run Wabbajack one time and then exit the program.  
 7.  Create a new folder where you wish to install Enderal VR i.e. C:\Games\Enderal VR
-8.  Download "EVRE_v1.104.wabbajack" from [HERE](https://github.com/Ashok0/EnderalVREssentials/releases/) and place it anywhere outside of your Wabbajack folder.
-9.  Launch Wabbajack by double-clicking "EVRE_v1.104.wabbajack"
+8.  Download "EVRE_v1.105.wabbajack" from [HERE](https://github.com/Ashok0/EnderalVREssentials/releases/) and place it anywhere outside of your Wabbajack folder.
+9.  Launch Wabbajack by double-clicking "EVRE_v1.105.wabbajack"
 10.  Under "Installation Location", select the folder you created above under Step 6 and then click the green "PLAY" icon in the lower right. 
 11.  Wait for Wabbajack to download all the mods and patches required to play Enderal VR.  This could take several hours depending on your Internet connection.
 		* If you receive an error message during this step, a mod has most likely been updated preventing the modlist from installing.  Wait for me to update this Wabbajack modlist and then try again.
