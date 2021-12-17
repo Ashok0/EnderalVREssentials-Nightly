@@ -1,4 +1,4 @@
-Release date: December 14th, 2021
+Release date: December 18th, 2021
 
 Updated Tools:
 - DynDOLOD Standalone 3.0 Alpha-58: DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD + tree LOD and the new, optional dynamic distant object LOD in a few simple steps.
@@ -9,6 +9,7 @@ New Mods:
 - A Follower Named Ishan v1.2: Adds a custom voiced Qyranian follower at the Drunken Bee in Riverville.
 
 Updated Mods:
+- Enderal SE Update v2.0.11: Update for Complete Enderal for Skyrim Special Edition.  See full changelog here: https://eddoursul.win/changelogs/mod/enderal-se/ 
 - Enderal SE - Bug Fixes v1.30: Updated for Enderal 2.0.10.
 - VR Address Library for SKSEVR v0.19.0: Add support for dialoguemovementenabler (5de6061).  Add rememberlockpick angle offsets (6dcc78b). Add support for whosequest and scaleform (5e1a637).
 - Embers XD v2.4.9: An Embers XD style makeover to hanging oil traps. An open smelter with coals inside, particle lights (Forges Add-On). A custom coal pile next to smelter (Forges Add-On).
