@@ -10,7 +10,7 @@ New Mods:
 
 Updated Mods:
 - Enderal SE - Bug Fixes v1.30: Updated for Enderal 2.0.10.
-- VR Address Library for SKSEVR v0.17.0: Add support for dialoguemovementenabler (5de6061).  Add rememberlockpick angle offsets (6dcc78b).
+- VR Address Library for SKSEVR v0.19.0: Add support for dialoguemovementenabler (5de6061).  Add rememberlockpick angle offsets (6dcc78b). Add support for whosequest and scaleform (5e1a637).
 - Embers XD v2.4.9: An Embers XD style makeover to hanging oil traps. An open smelter with coals inside, particle lights (Forges Add-On). A custom coal pile next to smelter (Forges Add-On).
 - HIGGS VR v1.4.6: Another fix for one of Skyrim VR's [collision] bugs! The size of HIGGS's weapon collision is now scaled properly based on your hand size when using VRIK. This means that in general it will be smaller than before, as the default hand size for vrik is 0.85.
 - Storm Lightning for SSE and VR v1.4.13: Added support for Anniversary Edition - 1.6.342 version.
