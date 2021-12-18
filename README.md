@@ -385,6 +385,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**Enderal SE Update v2.0.8.2**](https://www.nexusmods.com/enderalspecialedition/mods/1?tab=files): Update for Complete Enderal for Skyrim Special Edition. 
 
 [**Enderal SE Update v2.0.11**](https://eddoursul.win/mods/enderal-se/): Update for Complete Enderal for Skyrim Special Edition. 
+- Remove "fs_se.dll"
 
 [**Enderal SE - Bug Fixes v1.30**](https://www.nexusmods.com/enderalspecialedition/mods/2?tab=files): This mod fixes several issues with the game and also includes some small gameplay/balance fixes.
 
@@ -398,6 +399,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**SkyrimVRTools v2.3-BETA**](https://www.nexusmods.com/skyrimspecialedition/mods/27782?tab=files): Providing OpenVR input information and control as a service to other Skyrim VR mods.
 
 [**Enderal VR - Patch v3.1**](https://www.nexusmods.com/enderalspecialedition/mods/8?tab=files): Mod for playing Enderal in VR (with the SkyrimVR engine).
+- Remove the following line from "EnderalVRpatch.ini": SLocalSavePath=..\Enderal\Saves\
 
 [**SKSEVR 2.0.12**](https://skse.silverlock.org): A tool used by many Skyrim mods that expands scripting capabilities and adds additional functionality to the game.
 
