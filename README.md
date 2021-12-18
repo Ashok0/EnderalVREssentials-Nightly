@@ -157,6 +157,8 @@ Wabbajack will delete all files that are not part of its modlist when updating! 
 
 [**Smaller HUD for VR Larger Text Patch**]: [Smaller HUD for VR](https://www.nexusmods.com/skyrimspecialedition/mods/30726?tab=files) is a simple mod that reduces the size of the HUD elements and text by about 50% for added immersion.  This mod makes the HUD extremely VR friendly but it also makes text a bit difficult to read.  The Larger Text Patch will increase text size while retaining the smaller HUD elements from the original mod.
 
+[**Path of the Prophet (No Floating Quest Marker) v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/332?tab=files): Removes floating quest markers from the game.  Quest markers are still viewable on the compass.
+
 [**RaceMenu**](https://www.nexusmods.com/skyrimspecialedition/mods/19080?tab=files): A complete overhaul to the character creation menu.  Allows you to customize your avatar and load custom character "presets".  A fun mod if you want to take pictures of your character in VR using the VRIK "Selfie Mode".  The RaceMenu window appears once after the opening mission and can be accessed any time in-game through the console.  Press ~ to access the console.  Enter showracemenu and hit ENTER to bring up the RaceMenu window and then press ~ to exit the console.
 
 [**Flinching for VR Magic can trigger flinching**](https://www.nexusmods.com/skyrimspecialedition/mods/42550?tab=files): A little mod that allows NPCs to flinch when hit by your right fist or melee weapons in either hand.  Flinching animations do not work if you have ranged weapons such as a bow equipped.
