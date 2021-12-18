@@ -4,6 +4,7 @@ Updated Tools:
 - DynDOLOD Standalone 3.0 Alpha-58: DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD + tree LOD and the new, optional dynamic distant object LOD in a few simple steps.
 
 New Mods:
+- Path of the Prophet (No Floating Quest Marker) v1.0: Removes floating quest markers from the game.  Quest markers are still viewable on the compass.
 - Crash Logger VR v1.0: Generates crash logs when the game Just Works™. This is a VR port using fudgyduff's MIT source.
 - Improved Bound Sword and Dagger Collision v1.0: More accurate collision for the bound dagger and sword.
 - A Follower Named Ishan v1.2: Adds a custom voiced Qyranian follower at the Drunken Bee in Riverville.
