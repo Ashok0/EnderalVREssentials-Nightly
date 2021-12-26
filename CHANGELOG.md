@@ -1,4 +1,4 @@
-Release date: December 19th, 2021
+Release date: December 26th, 2021
 
 Updated Tools:
 - Mod Organizer 2 v2.4.3: Improved Skyrim VR support by adding setting to allow Enderal and Enderal SE downloads.
