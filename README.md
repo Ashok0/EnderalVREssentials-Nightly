@@ -1,5 +1,5 @@
 # ENDERAL VR ESSENTIALS (EVRE)
-Latest update: December 26th, 2021 (v1.106)
+Latest update: December 27th, 2021 (v1.107)
 
 ## Table of contents
 * [Preamble](#preamble)
@@ -355,7 +355,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 ## Tools
 
-[**Mod Organizer 2 v2.4.3**](https://www.nexusmods.com/skyrimspecialedition/mods/6194?tab=files): Mod Organizer (MO) is a tool for managing mod collections of arbitrary size. It is specifically designed for people who like to experiment with mods and thus need an easy and reliable way to install and uninstall them.
+[**Mod Organizer 2 v2.4.4**](https://www.nexusmods.com/skyrimspecialedition/mods/6194?tab=files): Mod Organizer (MO) is a tool for managing mod collections of arbitrary size. It is specifically designed for people who like to experiment with mods and thus need an easy and reliable way to install and uninstall them.
 
 [**UI Tweaks v1.0**](https://www.nexusmods.com/skyrim/mods/70774/?tab=files): Theme for Mod Organizer, based on the default style with better and cleaner UI elements.
 
@@ -608,7 +608,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 - Use the following installation options: Ultra > Brighter > Freesia > New > Regular > None > No Patch
 - ESP file not supported.  Do not install patches.
 
-[**Embers XD v2.4.9**](https://www.nexusmods.com/skyrimspecialedition/mods/37085?tab=files): An overhaul of campfires and other fire sources.
+[**Embers XD v2.5.0**](https://www.nexusmods.com/skyrimspecialedition/mods/37085?tab=files): An overhaul of campfires and other fire sources.
 - Use "Inferno Flames" if using "Inferno - Fire Effects Redux".
 - Install Forges and Lava Craters Add-On.
 - Delete ESP files.
