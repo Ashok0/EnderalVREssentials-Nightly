@@ -6,3 +6,4 @@ Updated Tools:
 Updated Mods:
 - Path of the Prophet (No Floating Quest Marker) v1.04: Removes floating quest markers from the game.  Quest markers are still viewable on the compass.
 - Embers XD v2.5.1: Improved Inferno option assets courtesy of agentw. Thanks for your continued efforts.
+- Moddable Iron-Steel Weapons v1.0: This fixes issues with weapon replacer mods that replace iron and steel weapons.
