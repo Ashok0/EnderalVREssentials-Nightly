@@ -720,6 +720,8 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Clothing Iron - 4K v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/53247?tab=files): Remesh and 4K retexture of the clothing iron.
 
+[**TB's Silver Ingot 4K v8.0**](https://www.nexusmods.com/skyrimspecialedition/mods/60841?tab=files): Adds a new cube map, diffuse and normal to the Silver Ingot - Available in 4K and 2K resolutions.
+
 [**TB's Wine 4K Version v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/61131?tab=files): This is a retexture containing no ESPs which comes in 3 Variants - 2K, 4K and 8K and aims to improve upon the default Skyrim textures, thank you very much for considering my mod (Also introduces some transparency into the glass).
 
 [**High Poly Project v5.3**](https://www.nexusmods.com/skyrimspecialedition/mods/12029): An on going process to improve the models of the game with more polygons, UV edits or just replace them all together. SMIM was the inspiration and the lack of similar mods led me to make this.
