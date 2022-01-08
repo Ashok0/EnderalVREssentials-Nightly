@@ -724,6 +724,8 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**TB's Wine 4K Version v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/61131?tab=files): This is a retexture containing no ESPs which comes in 3 Variants - 2K, 4K and 8K and aims to improve upon the default Skyrim textures, thank you very much for considering my mod (Also introduces some transparency into the glass).
 
+[**Dibella Statue v1.01**](https://www.nexusmods.com/skyrimspecialedition/mods/61553?tab=files): Dibella statue replacer.
+
 [**High Poly Project v5.3**](https://www.nexusmods.com/skyrimspecialedition/mods/12029): An on going process to improve the models of the game with more polygons, UV edits or just replace them all together. SMIM was the inspiration and the lack of similar mods led me to make this.
 - Should be installed with a Custom Install.  Skip "Farmhouse Stone Walls" and "Wine Bottles" as these are better replaced by seperate mods.  
 - Delete ESP file.
