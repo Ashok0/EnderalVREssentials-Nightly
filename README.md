@@ -875,6 +875,8 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**The Notice Board Redefined for Enderal v1.1**](https://www.nexusmods.com/enderalspecialedition/mods/153?tab=files): Replaces low quality notes on bounty boards with notes from The Notice Board Redefined.
 
+[**Enderal Distinctive Clothing v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/348?tab=files): Distinctive retextures for clothing.
+
 [**Weather Fixes v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/278?tab=files): Fixes some issues with Enderal weathers which increases compatibility with some weather-related mods. (e.g. R.A.S.S., Storm Lightning)
 - Load Order Recommendation: Weather Fixes, Diverse Weather, True Storms, Diverse Weather SE - True Storms, Intense Sandstorms.
 
