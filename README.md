@@ -392,7 +392,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**Enderal SE Update v2.0.11**](https://eddoursul.win/mods/enderal-se/): Update for Complete Enderal for Skyrim Special Edition. 
 - Remove "fs_se.dll"
 
-[**Enderal SE - Bug Fixes v1.30**](https://www.nexusmods.com/enderalspecialedition/mods/2?tab=files): This mod fixes several issues with the game and also includes some small gameplay/balance fixes.
+[**Enderal SE - Bug Fixes v1.31**](https://www.nexusmods.com/enderalspecialedition/mods/2?tab=files): Removed the apparition script changes, which were slightly outdated. The fixes made by Bug Fixes are no longer needed.
 
 [**SkyUI v1.2.0**](https://github.com/Odie/skyui-vr): Elegant, PC-friendly interface mod with many advanced features.
 - The new Highlight and Search features do not work if using "Dear Diary".
@@ -724,7 +724,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**TB's Wine 4K Version v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/61131?tab=files): This is a retexture containing no ESPs which comes in 3 Variants - 2K, 4K and 8K and aims to improve upon the default Skyrim textures, thank you very much for considering my mod (Also introduces some transparency into the glass).
 
-[**Dibella Statue v1.03**](https://www.nexusmods.com/skyrimspecialedition/mods/61553?tab=files): Dibella statue replacer.
+[**Dibella Statue v1.04**](https://www.nexusmods.com/skyrimspecialedition/mods/61553?tab=files): Dibella statue replacer.
 - Delete ESP file.
 
 [**High Poly Project v5.3**](https://www.nexusmods.com/skyrimspecialedition/mods/12029): An on going process to improve the models of the game with more polygons, UV edits or just replace them all together. SMIM was the inspiration and the lack of similar mods led me to make this.
