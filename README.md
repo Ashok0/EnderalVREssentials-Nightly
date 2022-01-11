@@ -448,7 +448,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Path of the Prophet (No Floating Quest Marker) v1.05**](https://www.nexusmods.com/enderalspecialedition/mods/332?tab=files): Removes floating quest markers from the game.  Quest markers are still viewable on the compass.
 
-[**RaceMenu SE v0.4.16**](https://www.nexusmods.com/skyrimspecialedition/mods/19080?tab=files): Complete overhaul to the character creation menu including new customization features such as multiple RGBA warpaints, body paints, hand paint, and foot paints.
+[**RaceMenu SE v0.4.19**](https://www.nexusmods.com/skyrimspecialedition/mods/19080?tab=files): Complete overhaul to the character creation menu including new customization features such as multiple RGBA warpaints, body paints, hand paint, and foot paints.
 - Remove skee64.dll an skee64.ini
 
 [**RaceMenu VR v0.4.14**](https://www.nexusmods.com/skyrimspecialedition/mods/19080?tab=files): VR patch for RaceMenu.
