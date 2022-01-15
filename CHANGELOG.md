@@ -2,7 +2,7 @@ Release date: December 27th, 2021
 
 Updated Tools:
 - Mod Organizer 2 v2.4.4: Fixed Discord invite. Removed Mass Effect support.
-- DynDOLOD Standalone 3.0 Alpha-60: DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD + tree LOD and the new, optional dynamic distant object LOD in a few simple steps.
+- DynDOLOD Standalone 3.0 Alpha-63: DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD + tree LOD and the new, optional dynamic distant object LOD in a few simple steps.
 
 New Mods:
 - 3D World Fog Map v1.0: Add fog back to the 3D world map!
