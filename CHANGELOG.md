@@ -13,7 +13,7 @@ New Mods:
 - Enderal Distinctive Clothing v1.0: Distinctive retextures for clothing.
 
 Updated Mods:
-- DynDOLOD Resources SE v3.00 Alpha-17: DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD + tree LOD and the new, optional dynamic distant object LOD in a few simple steps.
+- DynDOLOD Resources SE v3.00 Alpha-19: DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD + tree LOD and the new, optional dynamic distant object LOD in a few simple steps.
 - Enderal SE - Bug Fixes v1.31: Removed the apparition script changes, which were slightly outdated. The fixes made by Bug Fixes are no longer needed.
 - Path of the Prophet (No Floating Quest Marker) v1.05: Removes floating quest markers from the game.  Quest markers are still viewable on the compass.
 - Papyrus Extender SSE - 4.5.7): Fix issue where some SE offsets could be incorrectly referenced in AE version, and vice versa.
