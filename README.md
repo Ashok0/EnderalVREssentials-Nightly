@@ -363,7 +363,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**xLODGen Beta 85**](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-80-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/): Tool for generating terrain LOD.
 
-[**DynDOLOD Standalone 3.0 Alpha-63**](https://www.nexusmods.com/skyrimspecialedition/mods/32382?tab=files): DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD + tree LOD and the new, optional dynamic distant object LOD in a few simple steps.
+[**DynDOLOD Standalone 3.0 Alpha-64**](https://www.nexusmods.com/skyrimspecialedition/mods/32382?tab=files): DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD + tree LOD and the new, optional dynamic distant object LOD in a few simple steps.
 
 [**Synthesis v0.21.4**](https://github.com/Mutagen-Modding/Synthesis): A framework and GUI to construct a single Bethesda game patch from many patcher sources. Designed to allow any program to work as a patcher as long as it conforms to the CLI API.
 
@@ -446,7 +446,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Dot Crosshair VR v0.8**](https://www.nexusmods.com/skyrimspecialedition/mods/17764?tab=files): Colors the target crosshairs as red and green and converts them to dots since the default grey target crosshairs are often difficult to see and you can not distinguish them in casting double magic.
 
-[**Path of the Prophet (No Floating Quest Marker) v1.05**](https://www.nexusmods.com/enderalspecialedition/mods/332?tab=files): Removes floating quest markers from the game.  Quest markers are still viewable on the compass.
+[**Path of the Prophet (No Floating Quest Marker) v1.06**](https://www.nexusmods.com/enderalspecialedition/mods/332?tab=files): Removes floating quest markers from the game.  Quest markers are still viewable on the compass.
 
 [**RaceMenu SE v0.4.19**](https://www.nexusmods.com/skyrimspecialedition/mods/19080?tab=files): Complete overhaul to the character creation menu including new customization features such as multiple RGBA warpaints, body paints, hand paint, and foot paints.
 - Remove skee64.dll an skee64.ini
