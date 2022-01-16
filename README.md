@@ -796,6 +796,8 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Delectable Docks SE v1.2**](https://www.nexusmods.com/enderalspecialedition/mods/77?tab=files): Adds many details to the docks and harbors of Enderal focused on improving immersion.
 
+[**Delectable Docks SE - ESP Fix v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/77): SE port of my delectable docks mod.
+
 [**Riverville Catacombs SE v1.01**](https://www.nexusmods.com/enderalspecialedition/mods/80?tab=files): Forgotten Dungeons implements cut content, originally made by SureAI, with updates and fixes to fit seamlessly into the game.
 
 [**Enderal SE - Undercity Arena Fix v.1.02**](https://www.nexusmods.com/enderalspecialedition/mods/9?tab=files): Reworks the undercity arena to be less cheeseable, bigger and fixes an issue with shadows.
