@@ -22,3 +22,4 @@ Updated Mods:
 - High Poly Project v5.3: Removed Wine Bottles as these are redundant with 'TB's Wine 4K'.
 - NavigateVR v1.51: This mod brings immersive navigation to VR with a functional compass.
 - Storm Lightning for SSE and VR v1.4.14: A remake of Minty's Lightning mod as an SKSE plugin. The purpose of this mod is stability and scalability. It can summon up to 50 sheet lightnings and 50 fork lightnings per second and up to 31 cells distance. This results in a more natural and enjoyable storm experience.
+- Delectable Docks SE - ESP Fix v1.0: SE port of my delectable docks mod.
