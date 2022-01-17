@@ -605,8 +605,6 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Real Mountains Rebuilt v1.2**](https://www.nexusmods.com/skyrimspecialedition/mods/3704?tab=files): Retexture that enhance the detail of mountains and rocks.
 
-[**CC's HQ Caves - 2K v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/8448?tab=files): This is a retexture of the Cavewalls and the Cavefloor. All textures handmade using Substance Designer 6.
-
 [**WiZkiD Carriages v1.3**](https://www.nexusmods.com/skyrimspecialedition/mods/39640?tab=files): A complete replacer for all carriages with high quality textures.
 
 [**WiZkiD Parallax Farmhouses 2k No Parallax v1.4**](https://www.nexusmods.com/skyrimspecialedition/mods/39185?tab=files): A complete overhaul of all farmhouses related models with high quality textures. This overhaul includes exteriors, interiors, basement and stonewalls.
@@ -746,6 +744,10 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Terrain LOD for Septentrional Landscapes v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/39563): New overhaul for Terrain LOD landscape textures that corresponds with the texture mods you have installed..
 - Only used for terrain noise texture.  Remove ALL files except for the \textures\ folder.
+
+[**Skyrim Remastered - Caves 4K Parallax v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/38220/?tab=files): A retexture of Skyrim's caves, with a complete overhaul for the ice caves to make them look like actual ice. Offered in 4k, 2k, and 1k texture quality with parallax options.
+
+[**CC's HQ Caves - 2K v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/8448?tab=files): This is a retexture of the Cavewalls and the Cavefloor. All textures handmade using Substance Designer 6.
 
 [**CC's HQ Caves Parallax Textures for Skyrim Remastered - Caves v2.2**](https://www.nexusmods.com/skyrimspecialedition/mods/44877?tab=files): Parallax textures for CC's HQ Caves; requires Skyrim Remastered - Caves and SSE Parallax Shader Fix.
 
