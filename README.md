@@ -747,6 +747,8 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**Terrain LOD for Septentrional Landscapes v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/39563): New overhaul for Terrain LOD landscape textures that corresponds with the texture mods you have installed..
 - Only used for terrain noise texture.  Remove ALL files except for the \textures\ folder.
 
+[**CC's HQ Caves Parallax Textures for Skyrim Remastered - Caves v2.2**](https://www.nexusmods.com/skyrimspecialedition/mods/44877?tab=files): Parallax textures for CC's HQ Caves; requires Skyrim Remastered - Caves and SSE Parallax Shader Fix.
+
 [**FusaFusa Project - Fluffy Animals SE v14.2**](https://www.nexusmods.com/skyrimspecialedition/mods/5514?tab=files): Increase Fur Volume of Animals. They become more fluffy.
 
 [**Fluffworks Medium v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/56361?tab=files): Enhanced fur on animals using shell texturing.
