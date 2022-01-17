@@ -375,7 +375,9 @@ If you are using a language pack, you may need to change the font used by Dear D
 ## Included Mods and Tools (Skyrim VR Installation Folder)
 [**SKSE VR v2.0.12**](https://skse.silverlock.org): A tool used by many Skyrim mods that expands scripting capabilities and adds additional functionality to the game.
 
-[**EngineFixesVR v1.21**](https://github.com/rollingrock/EngineFixesVR/releases): SKSEVR plugin to fix various issues with the Skyrim Special Edition engine.
+[**EngineFixesVR Part 2 v1.22**](https://www.nexusmods.com/skyrimspecialedition/mods/62089?tab=files): SKSEVR plugin to fix various issues with the Skyrim Special Edition engine.
+
+[**d3dcompiler_47.dll**](https://www.nexusmods.com/skyrimspecialedition/mods/31963?tab=files): Install this to your Skyrim Special Edition folder if you don't already have a copy of d3dcompiler_47.dll
 
 [**Binaural 3D Surround Sound for SKYRIM VR v2.3.01**](https://www.nexusmods.com/skyrimspecialedition/mods/26916?tab=files): This mod uses algorithms that can simulate HRTF, allowing for full 3D surround sound with just a normal pair of earphones or headphones. For 1st person use.
 
@@ -408,8 +410,13 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**SKSEVR 2.0.12**](https://skse.silverlock.org): A tool used by many Skyrim mods that expands scripting capabilities and adds additional functionality to the game.
 
-[**EngineFixesVR v1.21**](https://github.com/rollingrock/EngineFixesVR/releases): SKSEVR plugin to fix various issues with the Skyrim Special Edition engine.
+[**EngineFixesVR v1.22a**](https://github.com/rollingrock/EngineFixesVR/releases): SKSEVR plugin to fix various issues with the Skyrim Special Edition engine.
 - Open EngineFixesVR.ini and add the following lines: MemoryManager = false, SelectAllocator = 1.
+
+[**VR Parallax Shader Fix v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/62090?tab=description): Injects fixed parallax shaders into Skyrim VR. Based on original code from aers under MIT.
+- Requires Engine Fixes VR Part 2 in Skyrim folder
+- Requires d3dcompiler_47.dll in Skyrim folder
+- Required Load Order: SKSE, Engine Fixes VR, VR Parallax Shader Fix
 
 [**VR FPS Stabilizer v1.3.2**](https://www.nexusmods.com/skyrimspecialedition/mods/31392?tab=files): The VR FPS Stabilizer functionality of this mod is not being used with this Enderal VR release.  This mod has been included because it has the ability to automatically setup TAA (Temporal Anti-Aliasing) settings every time Enderal VR is launched.  TAA settings cannot be preconfigured with INI files and must be tweaked using VR FPS Stabilizer.  Default TAA settings will make Enderal VR look extremely blurry.  This can be quickly fixed by simply disabling TAA but this will also break Enderal VR menu artwork.  The best way to handle TAA is to tweak its settings with VR FPS Stabilizer to essentially disable all of its visual effects when enabled.  This allows Enderal VR menu artwork to work properly while keeping the visuals sharp without any blur in-game.  To remove TAA blur, add the following lines to \VR FPS Stabilizer\SKSE\Plugins\VRFpsStabilizer.ini:
 - AutoConfigEnabled=0  
@@ -448,6 +455,8 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**Dot Crosshair VR v0.8**](https://www.nexusmods.com/skyrimspecialedition/mods/17764?tab=files): Colors the target crosshairs as red and green and converts them to dots since the default grey target crosshairs are often difficult to see and you can not distinguish them in casting double magic.
 
 [**Path of the Prophet (No Floating Quest Marker) v1.07**](https://www.nexusmods.com/enderalspecialedition/mods/332?tab=files): Removes floating quest markers from the game.  Quest markers are still viewable on the compass.
+
+[**MCM Recorder v1.05**](https://www.nexusmods.com/skyrimspecialedition/mods/61719?tab=files): Configuring MCMs has never been easier!
 
 [**RaceMenu SE v0.4.19**](https://www.nexusmods.com/skyrimspecialedition/mods/19080?tab=files): Complete overhaul to the character creation menu including new customization features such as multiple RGBA warpaints, body paints, hand paint, and foot paints.
 - Remove skee64.dll an skee64.ini
