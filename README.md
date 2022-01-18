@@ -625,7 +625,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**Animated Forge Water v0.5**](https://www.nexusmods.com/skyrimspecialedition/mods/52322?tab=files): A mesh only animated forge water replacer with refraction. No ESP. Includes patches for Elsopa and Embers.
 - Install "Elsopa and Embers XD" patch. 
 
-[**HLP Night Sky High v2.07**](https://www.nexusmods.com/skyrimspecialedition/mods/8752): HLP Night Sky offers a tasteful, realistic, and lore-friendly replacement of the night sky textures (stars, constellations, and the milky way. 
+[**HLP Night Sky High v2.07**](https://www.nexusmods.com/skyrimspecialedition/mods/8752?tab=files): HLP Night Sky offers a tasteful, realistic, and lore-friendly replacement of the night sky textures (stars, constellations, and the milky way. 
 
 [**STO - Stars 4K Only small stars v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/4931?tab=files): Overhauls the stars to 4K from 1K. Adds some big stars but most is small stars you can also chose to have only small stars, Glimmers dynamically when moving around.
 
