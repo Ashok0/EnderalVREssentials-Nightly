@@ -83,7 +83,7 @@ Recommended:
 	* Disable "Bijin Skin UNP and CBBE" if you prefer vanilla skin.
 	* Enable "Equippable Tattoo Skins UNP + CBBE" if you wish to apply tattoos/bodypaint to your character (female only).
 	* Disable "VR FPS Stabilizer" to enable TAA effects.  By default, the console features of this mod are used to disable all TAA effects.  This removes TAA blur but creates shimmering foliage.  (TAA effects must be disabled via "VR FPS Stabilizer" tweaks.  TAA should not be disabled in-game as TAA must be active for the menu artwork to display properly.)
-	* Enable "Replace spiders with wolfs and bears" if you have arachnophobia!
+	* Enable "Replace spiders with wolfs and bears" OR "Arachnophobia - No Spiders and Beetles" if you have arachnophobia!  Choose only one.
 	* Enable "DynDOLOD_Output_PERFORMANCE" OR "DynDOLOD_Output_QUALITY".  Select only one.  The PERFORMANCE version uses "billboard1" trees for LOD4 for optimal performance.  The QUALITY version uses "level0" trees for LOD4.  This will greatly improve tree LODs but results in -10fps in large open areas on an RTX 3070.  The PERFORMANCE version is enabled by default.
 16.   (Optional) You can optimize your VR performance by installing either [OpenVR FSR](https://github.com/fholger/openvr_fsr) (Compatible with all headsets) or the 64-bit DLL for [OpenComposite](https://gitlab.com/znixian/OpenOVR/) (Compatible with Oculus headsets only, highly recommended when using Air Link) to your Skyrim VR installation folder.  Backup and overwrite the existing DLL file in your Skyrim VR folder.  
 		* OpenComposite improves framerates by launching Enderal VR directly through the Oculus runtime and eliminating overhead from Steam VR.
@@ -414,9 +414,11 @@ If you are using a language pack, you may need to change the font used by Dear D
 - Open EngineFixesVR.ini and add the following lines: MemoryManager = false, SelectAllocator = 1.
 
 [**VR Parallax Shader Fix v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/62090?tab=description): Injects fixed parallax shaders into Skyrim VR. Based on original code from aers under MIT.
+
+[**VR Parallax Shader Fix - Experimental v1.0.1**](https://www.nexusmods.com/skyrimspecialedition/mods/62090?tab=files): Injects fixed parallax shaders into Skyrim VR. Based on original code from aers under MIT. 
 - Requires Engine Fixes VR Part 2 in Skyrim folder
 - Requires d3dcompiler_47.dll in Skyrim folder
-- Required Load Order: SKSE, Engine Fixes VR, VR Parallax Shader Fix
+- Required Load Order: SKSE, Engine Fixes VR, VR Parallax Shader Fix, VR Parallax Shader Fix - Experimental
 
 [**VR FPS Stabilizer v1.3.2**](https://www.nexusmods.com/skyrimspecialedition/mods/31392?tab=files): The VR FPS Stabilizer functionality of this mod is not being used with this Enderal VR release.  This mod has been included because it has the ability to automatically setup TAA (Temporal Anti-Aliasing) settings every time Enderal VR is launched.  TAA settings cannot be preconfigured with INI files and must be tweaked using VR FPS Stabilizer.  Default TAA settings will make Enderal VR look extremely blurry.  This can be quickly fixed by simply disabling TAA but this will also break Enderal VR menu artwork.  The best way to handle TAA is to tweak its settings with VR FPS Stabilizer to essentially disable all of its visual effects when enabled.  This allows Enderal VR menu artwork to work properly while keeping the visuals sharp without any blur in-game.  To remove TAA blur, add the following lines to \VR FPS Stabilizer\SKSE\Plugins\VRFpsStabilizer.ini:
 - AutoConfigEnabled=0  
@@ -592,9 +594,6 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**JS Purses and Septims SE v1.2**](https://www.nexusmods.com/skyrimspecialedition/mods/37306?tab=files): A complete re-creation of Septims, Coin Purses and Coin Piles.
 
 [**VR Refit - JS Purses and Septims Resized v1.0.1**](https://www.nexusmods.com/skyrimspecialedition/mods/49850?tab=files): A VR mod for smaller coins, coin purses, and coin piles from JS Purses and Septims. It also patches the invisible coin purse drop sound bug.
-
-[**Enhanced Blood Textures SE (LITE VERSION) v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/2357?tab=files): A blood overhaul mod.
-- The ESP plugin works but was removed for stability reasons.
 
 [**Rally's Candlelight and Magelight Fix SE - VR v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/36594?tab=files): Fix for the Candlelight Spell and Magelight Spell in SE/VR.
 
@@ -898,6 +897,8 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Enderal Distinctive Clothing v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/348?tab=files): Distinctive retextures for clothing.
 
+[**Enhanced Blood Textures Enderal SE v4.0**](https://www.nexusmods.com/enderalspecialedition/mods/360?tab=files): A blood overhaul mod.
+
 [**Weather Fixes v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/278?tab=files): Fixes some issues with Enderal weathers which increases compatibility with some weather-related mods. (e.g. R.A.S.S., Storm Lightning)
 - Load Order Recommendation: Weather Fixes, Diverse Weather, True Storms, Diverse Weather SE - True Storms, Intense Sandstorms.
 
@@ -984,6 +985,8 @@ Required load order:
 - Must be placed near end of load order as any mods that alter worldspace will break fast travel.
 
 [**Replace spiders with wolfs and bears v1.0.1**](https://www.nexusmods.com/enderalspecialedition/mods/31?tab=files): Replaces spiders with wolves and bears.
+
+[**Arachnophobia - No Spiders and Beetles v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/359?tab=files): This mod replaces Spiders with Wolves and Beetles with Bears.
 
 [**SSEEdit_Output**]: Conflict resolution patches generated with [**SSEEdit**](https://www.nexusmods.com/enderalspecialedition/mods/78?tab=files).
 
