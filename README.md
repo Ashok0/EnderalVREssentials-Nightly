@@ -573,6 +573,8 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**4K SMIM Furniture Chest v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/33369?tab=files): A retexture of the SMIM furniture chests, Upperclass, Weathered, Open and Snow. 4K or 2K.
 
+[**Venerable Nordic Temples (2K - 4K)**](https://www.nexusmods.com/skyrimspecialedition/mods/38544?tab=files): A high quality retexture for Nordic temples and ruins, offering high fidelity visuals and a lore friendly, ancient aesthetic.
+
 [**Underground - A Dungeon Texture Overhaul v1.2**](https://www.nexusmods.com/skyrimspecialedition/mods/14365?tab=files): An ambitious dungeon retexturing project which starts with caves and Nordic dungeons.
 - Place high on load order so mod is overwritten by other texture mods.
 - Noble Skyrim has vastly superior Dwemer textures versus Underground.  If using Noble Skyrim, it is recommended to place the Underground mod UNDER Noble Skyrim.  Then navigate to \Underground - a dungeon texture overhaul\textures\dungeons\dwemerruins\ and remove ALL files with the exception of dwestonefloor**.*  This will ensure that Noble Skyrim's superior Dwemer Ruins textures will take precedence over Underground.
