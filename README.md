@@ -695,7 +695,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**ElSopa - High Quality Buckets SE v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/47227?tab=files): High Quality Buckets. New Meshes And Textures. All Resolutions. No ESP.
 
-[**ElSopa - High Quality Buckets SE - HOTFIX v1.2**](https://www.nexusmods.com/skyrimspecialedition/mods/47227?tab=files): High Quality Buckets. New Meshes And Textures. All Resolutions. No ESP.
+[**ElSopa - High Quality Buckets SE - HOTFIX v1.3**](https://www.nexusmods.com/skyrimspecialedition/mods/47227?tab=files): Missing Meshes.
 
 [**Skyrim Posts Replacer v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/29625?tab=files): Replaces most of the posts in skyrim and i made it close to the original as possible because I don't want to completely change the original model.
 
