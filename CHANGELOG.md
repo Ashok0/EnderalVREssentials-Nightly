@@ -4,7 +4,7 @@ Updated Tools:
 - Mod Organizer 2 v2.4.4: Fixed Discord invite. Removed Mass Effect support.
 - EngineFixesVR Part 2 v1.22: SKSEVR plugin to fix various issues with the Skyrim Special Edition engine.
 - d3dcompiler_47.dll: Install this to your Skyrim Special Edition folder if you don't already have a copy of d3dcompiler_47.dll
-- DynDOLOD Standalone 3.0 Alpha-64: DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD + tree LOD and the new, optional dynamic distant object LOD in a few simple steps.
+- DynDOLOD Standalone 3.0 Alpha-65: DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD + tree LOD and the new, optional dynamic distant object LOD in a few simple steps.
 
 New Mods:
 - VR Parallax Shader Fix v1.0: Injects fixed parallax shaders into Skyrim VR. Based on original code from aers under MIT.
