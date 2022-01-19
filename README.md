@@ -435,7 +435,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**PapyrusUtil VR - Scripting Utility Functions v3.6b**](https://www.nexusmods.com/skyrimspecialedition/mods/13048?tab=files): An SKSE plugin adding several new scripts with native functions that provide various conveniences related to data storage and other misc functions to the scripter/modder.  DynDOLOD requirement.
 
-[**Papyrus Extender SSE - 4.5.7**](https://www.nexusmods.com/skyrimspecialedition/mods/22854?tab=files): SKSE64 plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events.  
+[**Papyrus Extender SSE v4.5.7**](https://www.nexusmods.com/skyrimspecialedition/mods/22854?tab=files): SKSE64 plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events.  
 - Required by FEC.
 
 [**Papyrus Extender VR v4.5.5**](https://www.nexusmods.com/skyrimspecialedition/mods/58296?tab=files): SKSEVR plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events. This requires the original Papyrus Extender and is built from po3's source.
@@ -573,7 +573,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**4K SMIM Furniture Chest v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/33369?tab=files): A retexture of the SMIM furniture chests, Upperclass, Weathered, Open and Snow. 4K or 2K.
 
-[**Venerable Nordic Temples (2K - 4K)**](https://www.nexusmods.com/skyrimspecialedition/mods/38544?tab=files): A high quality retexture for Nordic temples and ruins, offering high fidelity visuals and a lore friendly, ancient aesthetic.
+[**Venerable Nordic Temples (2K - 4K) v0.2**](https://www.nexusmods.com/skyrimspecialedition/mods/38544?tab=files): A high quality retexture for Nordic temples and ruins, offering high fidelity visuals and a lore friendly, ancient aesthetic.
 
 [**Underground - A Dungeon Texture Overhaul v1.2**](https://www.nexusmods.com/skyrimspecialedition/mods/14365?tab=files): An ambitious dungeon retexturing project which starts with caves and Nordic dungeons.
 - Place high on load order so mod is overwritten by other texture mods.
