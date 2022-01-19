@@ -863,6 +863,10 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Practical Armor Replacers v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/23?tab=files): Armor and weapons more fitting to the setting of Enderal. Converted to SE!
 
+[**Kolapon's Brand New Armor Sets and Weapons SE v1.1**](https://www.nexusmods.com/enderalspecialedition/mods/364?tab=files): Adds brand new sets of armor and weapons to different locations in Enderal.
+
+[**Unique Amulets and Masks (Ancient and Qalians Last Smile) SE v1.2**](https://www.nexusmods.com/enderalspecialedition/mods/363?tab=files): Gives unique models to some of the rare amulets, the Ancient mask and Qalian's Last Smile.
+
 [**Moddable Iron-Steel Weapons v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/341): This fixes issues with weapon replacer mods that replace iron and steel weapons.
 
 [**Enderal SE - Crossbows v1.07**](https://www.nexusmods.com/enderalspecialedition/mods/4?tab=files): Adds Crossbows to Enderal SE.
