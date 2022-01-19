@@ -15,6 +15,8 @@ New Mods:
 - TB's Silver Ingot 4K v8.0: Adds a new cube map, diffuse and normal to the Silver Ingot - Available in 4K and 2K resolutions.
 - TB's Wine 4K Version v1.1: This is a retexture containing no ESPs which comes in 3 Variants - 2K, 4K and 8K and aims to improve upon the default Skyrim textures, thank you very much for considering my mod (Also introduces some transparency into the glass).
 - Dibella Statue v1.04: Dibella statue replacer.
+- Kolapon's Brand New Armor Sets and Weapons SE v1.1: Adds brand new sets of armor and weapons to different locations in Enderal.
+- Unique Amulets and Masks (Ancient and Qalians Last Smile) SE v1.2: Gives unique models to some of the rare amulets, the Ancient mask and Qalian's Last Smile.
 - Moddable Iron-Steel Weapons v1.0: This fixes issues with weapon replacer mods that replace iron and steel weapons.  Enables compatability for iron weapon mods i.e. "I Want Better Weapons Iron Dark and Dirty SE".
 - Enhanced Blood Textures Enderal SE v4.0: A blood overhaul mod.
 - Enderal Distinctive Clothing v1.0: Distinctive retextures for clothing.
