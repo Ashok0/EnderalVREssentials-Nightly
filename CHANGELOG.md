@@ -48,3 +48,4 @@ Parallax Textures:
 - CC's HQ Caves Parallax Textures for Skyrim Remastered - Caves v2.2: Parallax textures for CC's HQ Caves; requires Skyrim Remastered - Caves and SSE Parallax Shader Fix.
 - Skyrim Textures Redone - High Hrothgar Parallax v2.3: Parallax Meshes and Textures for Skyrim Textures Redone - High Hrothgar and SkyHaven. 
 - 4K Parallax High Hrothgar by Pfuscher - Update1 v1.0: Thanks and props to VoltarDaedra.
+- Boreal Boats Parallax Meshes SE v1.3: Required for Parallax Effect.
