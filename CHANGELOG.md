@@ -45,3 +45,5 @@ Removed mods:
 Parallax Textures:
 - Skyrim Remastered - Caves 4K Parallax v1.0: A retexture of Skyrim's caves, with a complete overhaul for the ice caves to make them look like actual ice. Offered in 4k, 2k, and 1k texture quality with parallax options.
 - CC's HQ Caves Parallax Textures for Skyrim Remastered - Caves v2.2: Parallax textures for CC's HQ Caves; requires Skyrim Remastered - Caves and SSE Parallax Shader Fix.
+- Skyrim Textures Redone - High Hrothgar Parallax v2.3: Parallax Meshes and Textures for Skyrim Textures Redone - High Hrothgar and SkyHaven. 
+- 4K Parallax High Hrothgar by Pfuscher - Update1 v1.0: Thanks and props to VoltarDaedra.
