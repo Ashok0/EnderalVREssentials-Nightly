@@ -29,7 +29,7 @@ Updated Mods:
 - DynDOLOD Resources SE v3.00 Alpha-19: DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD + tree LOD and the new, optional dynamic distant object LOD in a few simple steps.
 - Enderal SE - Bug Fixes v1.31: Removed the apparition script changes, which were slightly outdated. The fixes made by Bug Fixes are no longer needed.
 - Path of the Prophet (No Floating Quest Marker) v1.08: Removes floating quest markers from the game.  Quest markers are still viewable on the compass.
-- Papyrus Extender SSE - v4.5.7: Fix issue where some SE offsets could be incorrectly referenced in AE version, and vice versa.
+- Papyrus Extender SSE v4.5.7: Fix issue where some SE offsets could be incorrectly referenced in AE version, and vice versa.
 - Spell Perk Item Distributor VR v5.2.0: Bug fixes.
 - RaceMenu SE v0.4.19: Complete overhaul to the character creation menu including new customization features such as multiple RGBA warpaints, body paints, hand paint, and foot paints.
 - Embers XD v2.5.1: Improved Inferno option assets courtesy of agentw. Thanks for your continued efforts.
