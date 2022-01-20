@@ -51,4 +51,4 @@ Parallax Textures:
 - 4K Parallax High Hrothgar by Pfuscher - Update1 v1.0: Thanks and props to VoltarDaedra.
 - Boreal Boats Parallax Meshes SE v1.3: Required for Parallax Effect.
 - Pelt by Pfuscher v1.0: High Res Pelt with Parallax.
-- Skyrim 2020 Parallax by Pfuscher - 2K v8.4.2: High Res Textures for cities, dungeons, clutter, armors, landscapes and much more. Going towards 2000 files, way more to come!  This mod has over a thousand hours of work put into it. If you enjoy my work please consider supporting me at Patreon and / or Kofi.
+- Skyrim 2020 Parallax by Pfuscher - 2K v8.4.2: Select textures installed for parallax farmhouses, roads, and trees.
