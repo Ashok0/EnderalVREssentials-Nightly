@@ -18,6 +18,7 @@ New Mods:
 - Dibella Statue v1.04: Dibella statue replacer.
 - Kolapon's Brand New Armor Sets and Weapons SE v1.1: Adds brand new sets of armor and weapons to different locations in Enderal.
 - Unique Amulets and Masks (Ancient and Qalians Last Smile) SE v1.2: Gives unique models to some of the rare amulets, the Ancient mask and Qalian's Last Smile.
+- Unique Amulets and Masks SE Fixes v1.0: Fixes some things related to SE updates.
 - Moddable Iron-Steel Weapons v1.0: This fixes issues with weapon replacer mods that replace iron and steel weapons.  Enables compatability for iron weapon mods i.e. "I Want Better Weapons Iron Dark and Dirty SE".
 - Enhanced Blood Textures Enderal SE v4.0: A blood overhaul mod.
 - Enderal Distinctive Clothing v1.0: Distinctive retextures for clothing.
@@ -31,6 +32,7 @@ Updated Mods:
 - Papyrus Extender SSE v4.5.7: Fix issue where some SE offsets could be incorrectly referenced in AE version, and vice versa.
 - Spell Perk Item Distributor VR v5.2.0: Bug fixes.
 - RaceMenu SE v0.4.19: Complete overhaul to the character creation menu including new customization features such as multiple RGBA warpaints, body paints, hand paint, and foot paints.
+- moreHUD VR v1.0.7: Stability improvements.
 - Embers XD v2.5.1: Improved Inferno option assets courtesy of agentw. Thanks for your continued efforts.
 - Venerable Nordic Temples (2K - 4K) v0.2: A high quality retexture for Nordic temples and ruins, offering high fidelity visuals and a lore friendly, ancient aesthetic.
 - High Poly Project v5.3: Removed Wine Bottles as these are redundant with 'TB's Wine 4K'.
