@@ -52,3 +52,4 @@ Parallax Textures:
 - Boreal Boats Parallax Meshes SE v1.3: Required for Parallax Effect.
 - Pelt by Pfuscher v1.0: High Res Pelt with Parallax.
 - Skyrim 2020 Parallax by Pfuscher - 2K v8.4.2: Select textures installed for parallax farmhouses, roads, and trees.
+- Parallax Mesh Collection v2.02: Patches to add parallax to meshes.
