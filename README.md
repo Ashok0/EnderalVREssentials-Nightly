@@ -758,6 +758,8 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Boreal Boats Parallax Meshes SE v1.3**](https://www.nexusmods.com/skyrimspecialedition/mods/47608?tab=files): Required for Parallax Effect.
 
+[**Pelt by Pfuscher v1.0**](https://www.nexusmods.com/skyrim/mods/65981?tab=files): High Res Pelt with Parallax.
+
 [**FusaFusa Project - Fluffy Animals SE v14.2**](https://www.nexusmods.com/skyrimspecialedition/mods/5514?tab=files): Increase Fur Volume of Animals. They become more fluffy.
 
 [**Fluffworks Medium v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/56361?tab=files): Enhanced fur on animals using shell texturing.
