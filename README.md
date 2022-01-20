@@ -402,7 +402,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**JContainers VR v4.1.13**](https://www.nexusmods.com/skyrimspecialedition/mods/16495?tab=files): Extends Skyrim SE Papyrus scripts (or SKSE/C++ plugins) with JSON based serializable data structures like arrays and maps. Embedded Lua interpreter.
 
-[**moreHUD VR v1.0.5**](https://www.nexusmods.com/skyrimspecialedition/mods/33215?tab=files): Adds more information to the HUD about the currently targeted object. Such as ingredients, weapon effects, potions, read books, v/w, enemy level, etc.
+[**moreHUD VR v1.0.7**](https://www.nexusmods.com/skyrimspecialedition/mods/33215?tab=files): Adds more information to the HUD about the currently targeted object. Such as ingredients, weapon effects, potions, read books, v/w, enemy level, etc.
 
 [**SkyrimVRTools v2.3-BETA**](https://www.nexusmods.com/skyrimspecialedition/mods/27782?tab=files): Providing OpenVR input information and control as a service to other Skyrim VR mods.
 
@@ -876,6 +876,8 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**Kolapon's Brand New Armor Sets and Weapons SE v1.1**](https://www.nexusmods.com/enderalspecialedition/mods/364?tab=files): Adds brand new sets of armor and weapons to different locations in Enderal.
 
 [**Unique Amulets and Masks (Ancient and Qalians Last Smile) SE v1.2**](https://www.nexusmods.com/enderalspecialedition/mods/363?tab=files): Gives unique models to some of the rare amulets, the Ancient mask and Qalian's Last Smile.
+
+[**Unique Amulets and Masks SE Fixes v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/365?tab=files): Fixes some things related to SE updates.
 
 [**Moddable Iron-Steel Weapons v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/341): This fixes issues with weapon replacer mods that replace iron and steel weapons.
 
