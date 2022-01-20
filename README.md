@@ -764,6 +764,11 @@ If you are using a language pack, you may need to change the font used by Dear D
 - Not safe to use complete texture pack with Enderal VR.
 - Currently using ONLY \textures\architecture\farmhouse, \textures\landscape\roads, and \textures\landscape\trees which have been fully tested.
 
+[**Parallax Mesh Collection v2.02**](https://www.nexusmods.com/skyrimspecialedition/mods/2347?tab=files): Patches to add parallax to meshes.
+- Not safe to use complete mesh pack with Enderal VR.
+- Currently using ONLY \meshes\architecture\farmhouse, \meshes\landscape\roads, and \meshes\landscape\trees which have been fully tested.
+- Remove \meshes\architecture\farmhouse\fencewoven*.nif to prevent 'SD's Farmhouse Fences SE' from being overrided.
+
 [**FusaFusa Project - Fluffy Animals SE v14.2**](https://www.nexusmods.com/skyrimspecialedition/mods/5514?tab=files): Increase Fur Volume of Animals. They become more fluffy.
 
 [**Fluffworks Medium v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/56361?tab=files): Enhanced fur on animals using shell texturing.
