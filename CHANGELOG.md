@@ -21,8 +21,7 @@ New Mods:
 - Moddable Iron-Steel Weapons v1.0: This fixes issues with weapon replacer mods that replace iron and steel weapons.  Enables compatability for iron weapon mods i.e. "I Want Better Weapons Iron Dark and Dirty SE".
 - Enhanced Blood Textures Enderal SE v4.0: A blood overhaul mod.
 - Enderal Distinctive Clothing v1.0: Distinctive retextures for clothing.
-- Arachnophobia - No Spiders and Beetles v1.0: This mod replaces Spiders with Wolves and Beetles with Bears.  Disabled by default.  Use this mod to remove spiders and beetles OR 
-'Replace spiders with wolfs and bears' to only remove spiders.
+- Arachnophobia - No Spiders and Beetles v1.0: This mod replaces Spiders with Wolves and Beetles with Bears.  Disabled by default.  Use this mod to remove spiders and beetles OR 'Replace spiders with wolfs and bears' to only remove spiders.
 
 Updated Mods:
 - EngineFixesVR v1.22a: Parallax Fix.
@@ -49,3 +48,4 @@ Parallax Textures:
 - Skyrim Textures Redone - High Hrothgar Parallax v2.3: Parallax Meshes and Textures for Skyrim Textures Redone - High Hrothgar and SkyHaven. 
 - 4K Parallax High Hrothgar by Pfuscher - Update1 v1.0: Thanks and props to VoltarDaedra.
 - Boreal Boats Parallax Meshes SE v1.3: Required for Parallax Effect.
+- Pelt by Pfuscher v1.0: High Res Pelt with Parallax.
