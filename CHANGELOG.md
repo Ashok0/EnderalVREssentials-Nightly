@@ -12,7 +12,7 @@ New Mods:
 - VR Parallax Shader Fix - Experimental v1.0.1: Injects fixed parallax shaders into Skyrim VR. Based on original code from aers under MIT. 
 - Spellsiphon - Complete Edition v5.16: Experience gameplay focused on combos and synergy. Lessen the need for menus or hotkeys through a system where swapping spells and weapons is streamlined and rewarding. Continue the fight at 0 magicka by using new spell types. Enjoy a plethora of new sounds and visual effects. Grow in power by playing skillfully, not just from levels and gear.
 - 3D World Fog Map v1.0: Add fog back to the 3D world map!
-- MCM Recorder v1.05: Configuring MCMs has never been easier!
+- MCM Recorder v1.07: Configuring MCMs has never been easier!
 - TB's Silver Ingot 4K v8.0: Adds a new cube map, diffuse and normal to the Silver Ingot - Available in 4K and 2K resolutions.
 - TB's Wine 4K Version v1.1: This is a retexture containing no ESPs which comes in 3 Variants - 2K, 4K and 8K and aims to improve upon the default Skyrim textures, thank you very much for considering my mod (Also introduces some transparency into the glass).
 - Dibella Statue v1.04: Dibella statue replacer.
@@ -30,6 +30,8 @@ Updated Mods:
 - Enderal SE - Bug Fixes v1.31: Removed the apparition script changes, which were slightly outdated. The fixes made by Bug Fixes are no longer needed.
 - Path of the Prophet (No Floating Quest Marker) v1.08: Removes floating quest markers from the game.  Quest markers are still viewable on the compass.
 - Papyrus Extender SSE v4.5.7: Fix issue where some SE offsets could be incorrectly referenced in AE version, and vice versa.
+- Papyrus Extender VR v4.5.6: SKSEVR plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events. This requires the original Papyrus Extender and is built from po3's source.
+- VR Address Library for SKSEVR v0.22.0: Add support for Wash That Blood Off 2 (1ede586).
 - Spell Perk Item Distributor VR v5.2.0: Bug fixes.
 - RaceMenu SE v0.4.19: Complete overhaul to the character creation menu including new customization features such as multiple RGBA warpaints, body paints, hand paint, and foot paints.
 - moreHUD VR v1.0.7: Stability improvements.
