@@ -22,6 +22,7 @@ New Mods:
 - Moddable Iron-Steel Weapons v1.0: This fixes issues with weapon replacer mods that replace iron and steel weapons.  Enables compatability for iron weapon mods i.e. "I Want Better Weapons Iron Dark and Dirty SE".
 - Enhanced Blood Textures Enderal SE v4.0: A blood overhaul mod.
 - Enderal Distinctive Clothing v1.0: Distinctive retextures for clothing.
+- Enderal Distinctive Jewelry v1.0: Distinctive models and textures for jewelry.
 - Arachnophobia - No Spiders and Beetles v1.0: This mod replaces Spiders with Wolves and Beetles with Bears.  Disabled by default.  Use this mod to remove spiders and beetles OR 'Replace spiders with wolfs and bears' to only remove spiders.
 
 Updated Mods:
