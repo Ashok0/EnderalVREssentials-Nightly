@@ -923,6 +923,8 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Enderal Distinctive Clothing v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/348?tab=files): Distinctive retextures for clothing.
 
+[**Enderal Distinctive Jewelry v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/370?tab=files): Distinctive models and textures for jewelry.
+
 [**Enhanced Blood Textures Enderal SE v4.0**](https://www.nexusmods.com/enderalspecialedition/mods/360?tab=files): A blood overhaul mod.
 
 [**Weather Fixes v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/278?tab=files): Fixes some issues with Enderal weathers which increases compatibility with some weather-related mods. (e.g. R.A.S.S., Storm Lightning)
