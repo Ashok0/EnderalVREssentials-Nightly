@@ -551,7 +551,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Instant Equip v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/44571?tab=files): SKSE plugin that essentially skips weapon drawing and sheathing animations.
 
-[**Immersive Draw Sheathe Sounds v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/44992?tab=files): This improves the Draw/Sheathe sounds for use in VR.
+[**Immersive Draw Sheathe Sounds v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/44992?tab=files): This improves the Draw/Sheathe sounds for use in VR.
 
 [**Strike Obstruction Systems - Combat Blocking Overhaul v1.03**](https://www.nexusmods.com/skyrimspecialedition/mods/53050?tab=files): Blocking can now mitigate damage from blocked Spells, Shouts, Enchants, and Poisons. Timed Blocks can provide greater mitigation, redirect parried spells & arrows, and inflict various debuffs. All features configurable via MCM (Light Plugin).
 
