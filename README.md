@@ -947,6 +947,8 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Frozen Electrocuted Combustion VR v4.9.6**](https://www.nexusmods.com/skyrimspecialedition/mods/59118?tab=files): Applies visual effects to NPCs and the player, when killed by air, ash, dragons, drain, fire, frost, fear, lightning, poison, soultrap, steam and sun damage status effects. VR version that requires original FEC to run.
 
+[**Frozen Electrocuted Combustion VR - Shock Exploded Mesh Fix v4.9.6**](https://www.nexusmods.com/skyrimspecialedition/mods/59118?tab=files): This should fix the purple skin issue for exploded NPCs caused by shock. Will be merged in with the main mod later.
+
 [**Enderal Missing Race Fix (For mods such as FEC) v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/321?tab=files): Adds the missing player race-entries from Skyrim into Enderal (leaving Enderal's overwriting of the other races intact!) for any\all mods that requires their existence, such as FEC.
 
 Required load order:
