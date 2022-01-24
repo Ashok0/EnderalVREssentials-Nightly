@@ -32,7 +32,7 @@ Updated Mods:
 - Path of the Prophet (No Floating Quest Marker) v1.08: Removes floating quest markers from the game.  Quest markers are still viewable on the compass.
 - Papyrus Extender SSE v4.5.7: Fix issue where some SE offsets could be incorrectly referenced in AE version, and vice versa.
 - Papyrus Extender VR v4.5.6: SKSEVR plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events. This requires the original Papyrus Extender and is built from po3's source.
-- VR Address Library for SKSEVR v0.22.0: Add support for Wash That Blood Off 2 (1ede586).
+- VR Address Library for SKSEVR v0.23.0: Add support for Wash That Blood Off 2 (1ede586). Added AnimationMotionRevolution and po3Tweaks 1.5.0.
 - Spell Perk Item Distributor VR v5.2.0: Bug fixes.
 - RaceMenu SE v0.4.19: Complete overhaul to the character creation menu including new customization features such as multiple RGBA warpaints, body paints, hand paint, and foot paints.
 - moreHUD VR v1.0.7: Stability improvements.
