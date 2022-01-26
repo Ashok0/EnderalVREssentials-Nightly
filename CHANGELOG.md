@@ -10,7 +10,7 @@ Updated Tools:
 New Mods:
 - VR Parallax Shader Fix v1.0: Injects fixed parallax shaders into Skyrim VR. Based on original code from aers under MIT.
 - VR Parallax Shader Fix - Experimental v1.0.1: Injects fixed parallax shaders into Skyrim VR. Based on original code from aers under MIT. 
-- Spellsiphon - Complete Edition v5.16: Experience gameplay focused on combos and synergy. Lessen the need for menus or hotkeys through a system where swapping spells and weapons is streamlined and rewarding. Continue the fight at 0 magicka by using new spell types. Enjoy a plethora of new sounds and visual effects. Grow in power by playing skillfully, not just from levels and gear.
+- Spellsiphon - Complete Edition v5.17: Experience gameplay focused on combos and synergy. Lessen the need for menus or hotkeys through a system where swapping spells and weapons is streamlined and rewarding. Continue the fight at 0 magicka by using new spell types. Enjoy a plethora of new sounds and visual effects. Grow in power by playing skillfully, not just from levels and gear.
 - 3D World Fog Map v1.0: Add fog back to the 3D world map!
 - MCM Recorder v1.07: Configuring MCMs has never been easier!
 - TB's Silver Ingot 4K v8.0: Adds a new cube map, diffuse and normal to the Silver Ingot - Available in 4K and 2K resolutions.
