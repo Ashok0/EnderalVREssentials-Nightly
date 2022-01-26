@@ -31,6 +31,7 @@ Updated Mods:
 - Enderal SE - Bug Fixes v1.31: Removed the apparition script changes, which were slightly outdated. The fixes made by Bug Fixes are no longer needed.
 - Path of the Prophet (No Floating Quest Marker) v1.08: Removes floating quest markers from the game.  Quest markers are still viewable on the compass.
 - Immersive Draw Sheathe Sounds v1.1: Corrected folder structure so the mod will actually function.
+- Strike Obstruction Systems - Combat Blocking Overhaul v1.04: Blocking can now mitigate damage from blocked Spells, Shouts, Enchants, and Poisons. Timed Blocks can provide greater mitigation, redirect parried spells & arrows, and inflict various debuffs. All features configurable via MCM (Light Plugin).
 - Papyrus Extender SSE v4.5.7: Fix issue where some SE offsets could be incorrectly referenced in AE version, and vice versa.
 - Papyrus Extender VR v4.5.6: SKSEVR plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events. This requires the original Papyrus Extender and is built from po3's source.
 - VR Address Library for SKSEVR v0.23.0: Add support for Wash That Blood Off 2 (1ede586). Added AnimationMotionRevolution and po3Tweaks 1.5.0.
