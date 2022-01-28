@@ -44,6 +44,7 @@ Updated Mods:
 - NavigateVR v1.51: This mod brings immersive navigation to VR with a functional compass.
 - Storm Lightning for SSE and VR v1.4.14: A remake of Minty's Lightning mod as an SKSE plugin. The purpose of this mod is stability and scalability. It can summon up to 50 sheet lightnings and 50 fork lightnings per second and up to 31 cells distance. This results in a more natural and enjoyable storm experience.
 - Delectable Docks SE - ESP Fix v1.0: SE port of my delectable docks mod.
+- Bank of Ark SE v1.02: Fixed the crashes and integrated the vault doors into the main mod again (huge thanks to "Apoapse" for identifying and fixing this issue).
 - ElSopa - High Quality Buckets SE - HOTFIX v1.3: Missing Meshes.
 - Frozen Electrocuted Combustion VR - Shock Exploded Mesh Fix v4.9.6: This should fix the purple skin issue for exploded NPCs caused by shock. Will be merged in with the main mod later.
 
