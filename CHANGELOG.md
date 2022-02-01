@@ -16,6 +16,7 @@ New Mods:
 - TB's Silver Ingot 4K v8.0: Adds a new cube map, diffuse and normal to the Silver Ingot - Available in 4K and 2K resolutions.
 - TB's Wine 4K Version v1.1: This is a retexture containing no ESPs which comes in 3 Variants - 2K, 4K and 8K and aims to improve upon the default Skyrim textures, thank you very much for considering my mod (Also introduces some transparency into the glass).
 - Dibella Statue v1.04: Dibella statue replacer.
+- Waterspout Fixes v1.0: Fixes some things from the Waterspouts mod.
 - Kolapon's Brand New Armor Sets and Weapons SE v1.1: Adds brand new sets of armor and weapons to different locations in Enderal.
 - Unique Amulets and Masks (Ancient and Qalians Last Smile) SE v1.2: Gives unique models to some of the rare amulets, the Ancient mask and Qalian's Last Smile.
 - Unique Amulets and Masks SE Fixes v1.0: Fixes some things related to SE updates.
@@ -29,7 +30,7 @@ Updated Mods:
 - EngineFixesVR v1.22a: Parallax Fix.
 - DynDOLOD Resources SE v3.00 Alpha-19: DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD + tree LOD and the new, optional dynamic distant object LOD in a few simple steps.
 - Enderal SE - Bug Fixes v1.31: Removed the apparition script changes, which were slightly outdated. The fixes made by Bug Fixes are no longer needed.
-- Path of the Prophet (No Floating Quest Marker) v1.08: Removes floating quest markers from the game.  Quest markers are still viewable on the compass.
+- Path of the Prophet (No Floating Quest Marker) v1.09: Removes floating quest markers from the game.  Quest markers are still viewable on the compass.
 - Immersive Draw Sheathe Sounds v1.1: Corrected folder structure so the mod will actually function.
 - Strike Obstruction Systems - Combat Blocking Overhaul v1.05: Fixed an issue with the implementation of the fCombatHitConeAngle setting.
 - Papyrus Extender SSE v4.5.7: Fix issue where some SE offsets could be incorrectly referenced in AE version, and vice versa.
