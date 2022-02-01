@@ -456,7 +456,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Dot Crosshair VR v0.8**](https://www.nexusmods.com/skyrimspecialedition/mods/17764?tab=files): Colors the target crosshairs as red and green and converts them to dots since the default grey target crosshairs are often difficult to see and you can not distinguish them in casting double magic.
 
-[**Path of the Prophet (No Floating Quest Marker) v1.08**](https://www.nexusmods.com/enderalspecialedition/mods/332?tab=files): Removes floating quest markers from the game.  Quest markers are still viewable on the compass.
+[**Path of the Prophet (No Floating Quest Marker) v1.09**](https://www.nexusmods.com/enderalspecialedition/mods/332?tab=files): Removes floating quest markers from the game.  Quest markers are still viewable on the compass.
 
 [**MCM Recorder v1.07**](https://www.nexusmods.com/skyrimspecialedition/mods/61719?tab=files): Configuring MCMs has never been easier!
 
@@ -908,6 +908,8 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**Maps - SE v1.2**](https://www.nexusmods.com/enderal/mods/49?tab=files): You can now buy maps that will show you the landmarks of the region.
 
 [**Ark Easserspeier - Ark Watersprouts (SE) v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/62?tab=files): Changes the waterspouts in the Foreign Quarter in Ark.
+
+[**Waterspout Fixes v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/374?tab=files): Fixes some things from the Waterspouts mod.
 
 [**Drunken Bee Sign v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/118): Adds a sign to the blank wall on the exterior of the Drunken Bee in Riverville.  
 
