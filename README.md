@@ -678,7 +678,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**WEBS v0.2**](https://www.nexusmods.com/skyrim/mods/33718?tab=files): A complete set of 1k texture replacers for the default webs and cobwebs. 
 
-[**Snazzy Furniture and Clutter Overhaul SE v2.0**](https://www.nexusmods.com/skyrimspecialedition/mods/2414?tab=files): Comprehensive overhaul of furniture and clutter throughout Tamriel, including: - New HD noble chairs, beds, drapery, Imperial Banners, etc. - Several styles of weapon racks, plaques, and display cases - Many new wall art paintings.
+[**Snazzy Furniture and Clutter Overhaul SE v2.1**](https://www.nexusmods.com/skyrimspecialedition/mods/2414?tab=files): Comprehensive overhaul of furniture and clutter throughout Tamriel, including: - New HD noble chairs, beds, drapery, Imperial Banners, etc. - Several styles of weapon racks, plaques, and display cases - Many new wall art paintings.
 - ESP file not supported.  Install "Replacer Version" which uses no plugins.
 
 [**Jabber's 2K Archery Targets v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/21726?tab=files): Retextures the SMIM archery targets with high-quality 2K textures.
