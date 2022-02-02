@@ -42,7 +42,7 @@ Updated Mods:
 - Embers XD v2.5.1: Improved Inferno option assets courtesy of agentw. Thanks for your continued efforts.
 - Venerable Nordic Temples (2K - 4K) v0.2: A high quality retexture for Nordic temples and ruins, offering high fidelity visuals and a lore friendly, ancient aesthetic.
 - High Poly Project v5.3: Removed Wine Bottles as these are redundant with 'TB's Wine 4K'.
-- Snazzy Furniture and Clutter Overhaul SE v2.0: Comprehensive overhaul of furniture and clutter throughout Tamriel, including: - New HD noble chairs, beds, drapery, Imperial Banners, etc. - Several styles of weapon racks, plaques, and display cases - Many new wall art paintings.
+- Snazzy Furniture and Clutter Overhaul SE v2.1: Comprehensive overhaul of furniture and clutter throughout Tamriel, including: - New HD noble chairs, beds, drapery, Imperial Banners, etc. - Several styles of weapon racks, plaques, and display cases - Many new wall art paintings.
 - NavigateVR v1.51: This mod brings immersive navigation to VR with a functional compass.
 - Storm Lightning for SSE and VR v1.4.14: A remake of Minty's Lightning mod as an SKSE plugin. The purpose of this mod is stability and scalability. It can summon up to 50 sheet lightnings and 50 fork lightnings per second and up to 31 cells distance. This results in a more natural and enjoyable storm experience.
 - Delectable Docks SE - ESP Fix v1.0: SE port of my delectable docks mod.
