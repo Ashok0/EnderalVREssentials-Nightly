@@ -35,7 +35,7 @@ Updated Mods:
 - Immersive Draw Sheathe Sounds v1.1: Corrected folder structure so the mod will actually function.
 - Strike Obstruction Systems - Combat Blocking Overhaul v1.05: Fixed an issue with the implementation of the fCombatHitConeAngle setting.
 - Papyrus Extender SSE v4.5.7: Fix issue where some SE offsets could be incorrectly referenced in AE version, and vice versa.
-- Papyrus Extender VR v4.5.6: SKSEVR plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events. This requires the original Papyrus Extender and is built from po3's source.
+- Papyrus Extender VR v4.5.7: Fix slot conversion in GetEquippedArmorInSlot; thanks to Syclonix for identifying the bug and oberag for the fix. Fix issue where some SE offsets could be incorrectly referenced in AE version, and vice versa.
 - VR Address Library for SKSEVR v0.29.0: Add enhanced invisibility (39172a8).
 - Spell Perk Item Distributor VR v5.2.0: Bug fixes.
 - RaceMenu SE v0.4.19: Complete overhaul to the character creation menu including new customization features such as multiple RGBA warpaints, body paints, hand paint, and foot paints.
@@ -50,6 +50,8 @@ Updated Mods:
 - Bank of Ark SE v1.02: Fixed the crashes and integrated the vault doors into the main mod again (huge thanks to "Apoapse" for identifying and fixing this issue).
 - ElSopa - High Quality Buckets SE - HOTFIX v1.3: Missing Meshes.
 - Frozen Electrocuted Combustion VR - Shock Exploded Mesh Fix v4.9.6: This should fix the purple skin issue for exploded NPCs caused by shock. Will be merged in with the main mod later.
+- Fluffworks Medium v1.1f: Added following animals: Reindeer, Skeever, Goat, Fox, Dog, Cow, Black Troll.  Fixed missing textures on elks.  Make bear fur a bit thinner.
+- KS Hairdos SSE v1.9: KS Hairdos is a hair pack that contains 983 hairstyles. 876 hairstyles are for females, 107 are for males.
 
 Removed mods:
 - Enhanced Blood Textures SE (LITE VERSION) v1.1: Redundant with Enhanced Blood Textures Enderal SE.
