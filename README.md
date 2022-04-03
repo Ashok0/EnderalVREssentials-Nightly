@@ -395,7 +395,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**Enderal SE Update v2.0.11**](https://eddoursul.win/mods/enderal-se/): Update for Complete Enderal for Skyrim Special Edition. 
 - Remove "fs_se.dll"
 
-[**Enderal SE - Bug Fixes v1.31**](https://www.nexusmods.com/enderalspecialedition/mods/2?tab=files): Removed the apparition script changes, which were slightly outdated. The fixes made by Bug Fixes are no longer needed.
+[**Enderal SE - Bug Fixes v1.32**](https://www.nexusmods.com/enderalspecialedition/mods/2?tab=files): Removed the apparition script changes, which were slightly outdated. The fixes made by Bug Fixes are no longer needed.
 
 [**SkyUI v1.2.0**](https://github.com/Odie/skyui-vr): Elegant, PC-friendly interface mod with many advanced features.
 - The new Highlight and Search features do not work if using "Dear Diary".
@@ -499,7 +499,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Spell Wheel VR v1.2.5**](https://www.nexusmods.com/skyrimspecialedition/mods/47630?tab=files): Selection wheel mod for Skyrim VR. It allows you to select spells, weapons, shields, arrows, potions, poisons, food, torch, armors and more without going into a menu very quickly by press of a button or button combinations to spawn the wheel and hold your hand over the item and letting go of the button. It's equipped automatically.
 
-[**Spellsiphon - Complete Edition v5.17**](https://www.nexusmods.com/enderalspecialedition/mods/357?tab=files): Experience gameplay focused on combos and synergy. Lessen the need for menus or hotkeys through a system where swapping spells and weapons is streamlined and rewarding. Continue the fight at 0 magicka by using new spell types. Enjoy a plethora of new sounds and visual effects. Grow in power by playing skillfully, not just from levels and gear.
+[**Spellsiphon - Complete Edition v5.17-EA3**](https://www.nexusmods.com/enderalspecialedition/mods/357?tab=files): Experience gameplay focused on combos and synergy. Lessen the need for menus or hotkeys through a system where swapping spells and weapons is streamlined and rewarding. Continue the fight at 0 magicka by using new spell types. Enjoy a plethora of new sounds and visual effects. Grow in power by playing skillfully, not just from levels and gear.
 
 [**Magic Improvements for Skyrim VR v1.0.2**](https://www.nexusmods.com/skyrimspecialedition/mods/55751?tab=files): Vastly improved dual casting, spell effect size scales based on magicka percentage, and additional options for aiming spells in VR.
 
@@ -995,7 +995,7 @@ Required load order:
 
 [**Enderal - Vatyr v2.22**](https://www.nexusmods.com/enderalspecialedition/mods/41?tab=files): Completely redesigned Vatyr in 4K for Enderal SE and VR.
 
-[**Enderal - Donkey v2.4**](https://www.nexusmods.com/enderalspecialedition/mods/107?tab=files): Enderal replacer. This changes the textures of donkey.nif & donkey_barrel.nif, custom variations on every donk.
+[**Enderal - Donkey v2.5**](https://www.nexusmods.com/enderalspecialedition/mods/107?tab=files): Enderal replacer. This changes the textures of donkey.nif & donkey_barrel.nif, custom variations on every donk.
 
 [**Boneripper Replacer (Clannfear) v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/59?tab=files): Replaces the models Bonerippers with high quality alternatives.
 
