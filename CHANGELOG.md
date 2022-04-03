@@ -37,10 +37,10 @@ Updated Mods:
 - Papyrus Extender SSE v4.5.7: Fix issue where some SE offsets could be incorrectly referenced in AE version, and vice versa.
 - Papyrus Extender VR v4.5.7: Fix slot conversion in GetEquippedArmorInSlot; thanks to Syclonix for identifying the bug and oberag for the fix. Fix issue where some SE offsets could be incorrectly referenced in AE version, and vice versa.
 - VR Address Library for SKSEVR v0.29.0: Add enhanced invisibility (39172a8).
-- Spell Perk Item Distributor VR v5.2.0: Bug fixes.
+- Spell Perk Item Distributor VR v5.2.0.3: Fix failure to load due to processing of non-ascii paths for mergemapper.
 - RaceMenu SE v0.4.19: Complete overhaul to the character creation menu including new customization features such as multiple RGBA warpaints, body paints, hand paint, and foot paints.
 - moreHUD VR v1.0.7: Stability improvements.
-- Embers XD v2.5.1: Improved Inferno option assets courtesy of agentw. Thanks for your continued efforts.
+- Embers XD v2.5.6: The blue brazier fire no longer emits orange glow.
 - Venerable Nordic Temples (2K - 4K) v0.2: A high quality retexture for Nordic temples and ruins, offering high fidelity visuals and a lore friendly, ancient aesthetic.
 - High Poly Project v5.3: Removed Wine Bottles as these are redundant with 'TB's Wine 4K'.
 - Snazzy Furniture and Clutter Overhaul SE v2.1.2: Fixed a few records that didn't forward the Persistent flag in the main plugin.
