@@ -429,9 +429,9 @@ If you are using a language pack, you may need to change the font used by Dear D
          taa po 1.0	 
          taa ps 0
 
-[**VR Address Library for SKSEVR v0.24.0**](https://www.nexusmods.com/skyrimspecialedition/mods/58101?tab=files): VR Address Library database for end users. This is intended as a VR replacement for Address Library for SKSE for mods designed for it. Only download if the mod says this is a requirement. It is currently an alpha. This is not for SSE. This is different from Address Library for SKSE.
+[**VR Address Library for SKSEVR v0.29.0**](https://www.nexusmods.com/skyrimspecialedition/mods/58101?tab=files): VR Address Library database for end users. This is intended as a VR replacement for Address Library for SKSE for mods designed for it. Only download if the mod says this is a requirement. It is currently an alpha. This is not for SSE. This is different from Address Library for SKSE.
 
-[**Crash Logger VR v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/59818?tab=files): Generates crash logs when the game Just Works™. This is a VR port using fudgyduff's MIT source.
+[**Crash Logger VR v1.0.0.2**](https://www.nexusmods.com/skyrimspecialedition/mods/59818?tab=files): Generates crash logs when the game Just Works™. This is a VR port using fudgyduff's MIT source.
 
 [**PapyrusUtil VR - Scripting Utility Functions v3.6b**](https://www.nexusmods.com/skyrimspecialedition/mods/13048?tab=files): An SKSE plugin adding several new scripts with native functions that provide various conveniences related to data storage and other misc functions to the scripter/modder.  DynDOLOD requirement.
 
@@ -678,7 +678,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**WEBS v0.2**](https://www.nexusmods.com/skyrim/mods/33718?tab=files): A complete set of 1k texture replacers for the default webs and cobwebs. 
 
-[**Snazzy Furniture and Clutter Overhaul SE v2.1**](https://www.nexusmods.com/skyrimspecialedition/mods/2414?tab=files): Comprehensive overhaul of furniture and clutter throughout Tamriel, including: - New HD noble chairs, beds, drapery, Imperial Banners, etc. - Several styles of weapon racks, plaques, and display cases - Many new wall art paintings.
+[**Snazzy Furniture and Clutter Overhaul SE v2.1.2**](https://www.nexusmods.com/skyrimspecialedition/mods/2414?tab=files): Comprehensive overhaul of furniture and clutter throughout Tamriel, including: - New HD noble chairs, beds, drapery, Imperial Banners, etc. - Several styles of weapon racks, plaques, and display cases - Many new wall art paintings.
 - ESP file not supported.  Install "Replacer Version" which uses no plugins.
 
 [**Jabber's 2K Archery Targets v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/21726?tab=files): Retextures the SMIM archery targets with high-quality 2K textures.
