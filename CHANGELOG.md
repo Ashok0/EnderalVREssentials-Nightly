@@ -27,6 +27,7 @@ New Mods:
 - Arachnophobia - No Spiders and Beetles v1.0: This mod replaces Spiders with Wolves and Beetles with Bears.  Disabled by default.  Use this mod to remove spiders and beetles OR 'Replace spiders with wolfs and bears' to only remove spiders.
 
 Updated Mods:
+- Enderal VR v3.2: Fixed quest Two souls part 5 cqc05: Romance with Calia. Some animation issues and Calia not responding (oh my). Moved some funitures (chairs) in MQP01House to make pathfinding easier for the player in VR. Fixed one Ending : slight modification of scene 2 MQ18a to fix potential player bugs (animations).
 - Enderal SE - Bug Fixes v1.32: Fixed an issue with Dreameater sneak damage calculation.
 - Crash Logger v1.0.0.2: Fix printing of installed plugins.
 - EngineFixesVR v1.22a: Parallax Fix.
@@ -54,6 +55,18 @@ Updated Mods:
 - Fluffworks Medium v1.1f: Added following animals: Reindeer, Skeever, Goat, Fox, Dog, Cow, Black Troll.  Fixed missing textures on elks.  Make bear fur a bit thinner.
 - KS Hairdos SSE v1.9: KS Hairdos is a hair pack that contains 983 hairstyles. 876 hairstyles are for females, 107 are for males.
 - Enderal - Donkey v2.5: Eye fixes for each of the creatures. + DHO - (0 specular + 1% transparency) for hawks. No more shiny hair as well added realistic transparency. Sun shines on the correct side of the hawk now!
+- EAM SE - Enderal Apothecarii Monastery v1.05: Fixed a crash when entering the Dormitory (thanks to Apoapse).
+- Wellwatch Manor SE v1.01: A small update with some things cleaned up, this is mostly to provide future compatibility (thanks to Apoapse).
+- Seaview Lodge SE v1.02: A small update with some things cleaned up, this is mostly to provide future compatibility (thanks to Apoapse).
+- Bank of Ark SE v1.03: A small update with some things cleaned up, this is mostly to provide future compatibility (thanks to Apoapse).
+- Frostville SE v1.03: A small update with some things cleaned up, this is mostly to provide future compatibility (thanks to Apoapse).  Some navmesh (pathfinding) fixes.
+- EOP SE - Enderal SE Outposts v1.02: A small update with some things cleaned up, this is mostly to provide future compatibility (thanks to Apoapse).
+- Myths and Legends VI - The Forgotten One v1.02: A small update with some things cleaned up, this is mostly to provide future compatibility (thanks to Apoapse).
+- Forgotten Dungeons - Palm Cove v1.02:  A small update with some things cleaned up, this is mostly to provide future compatibility (thanks to Apoapse).
+- Thalgard Monastery v1.01: A small update with some things cleaned up, this is mostly to provide future compatibility (thanks to Apoapse).
+- Forgotten Dungeons - Abandoned Excavation Site v1.01: A small update with some things cleaned up, this is mostly to provide future compatibility (thanks to Apoapse).
+- Riverville Catacombs SE v1.02: A small update with some things cleaned up, this is mostly to provide future compatibility (thanks to Apoapse).
+- 
 
 Removed mods:
 - Enhanced Blood Textures SE (LITE VERSION) v1.1: Redundant with Enhanced Blood Textures Enderal SE.
