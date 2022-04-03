@@ -27,6 +27,7 @@ New Mods:
 - Arachnophobia - No Spiders and Beetles v1.0: This mod replaces Spiders with Wolves and Beetles with Bears.  Disabled by default.  Use this mod to remove spiders and beetles OR 'Replace spiders with wolfs and bears' to only remove spiders.
 
 Updated Mods:
+- Crash Logger v1.0.0.2: Fix printing of installed plugins.
 - EngineFixesVR v1.22a: Parallax Fix.
 - DynDOLOD Resources SE v3.00 Alpha-19: DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD + tree LOD and the new, optional dynamic distant object LOD in a few simple steps.
 - Enderal SE - Bug Fixes v1.31: Removed the apparition script changes, which were slightly outdated. The fixes made by Bug Fixes are no longer needed.
@@ -35,14 +36,14 @@ Updated Mods:
 - Strike Obstruction Systems - Combat Blocking Overhaul v1.05: Fixed an issue with the implementation of the fCombatHitConeAngle setting.
 - Papyrus Extender SSE v4.5.7: Fix issue where some SE offsets could be incorrectly referenced in AE version, and vice versa.
 - Papyrus Extender VR v4.5.6: SKSEVR plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events. This requires the original Papyrus Extender and is built from po3's source.
-- VR Address Library for SKSEVR v0.23.0: Add support for Wash That Blood Off 2 (1ede586). Added AnimationMotionRevolution and po3Tweaks 1.5.0.  Add latest po3 commonlib/dev addresses (2a82091).
+- VR Address Library for SKSEVR v0.29.0: Add enhanced invisibility (39172a8).
 - Spell Perk Item Distributor VR v5.2.0: Bug fixes.
 - RaceMenu SE v0.4.19: Complete overhaul to the character creation menu including new customization features such as multiple RGBA warpaints, body paints, hand paint, and foot paints.
 - moreHUD VR v1.0.7: Stability improvements.
 - Embers XD v2.5.1: Improved Inferno option assets courtesy of agentw. Thanks for your continued efforts.
 - Venerable Nordic Temples (2K - 4K) v0.2: A high quality retexture for Nordic temples and ruins, offering high fidelity visuals and a lore friendly, ancient aesthetic.
 - High Poly Project v5.3: Removed Wine Bottles as these are redundant with 'TB's Wine 4K'.
-- Snazzy Furniture and Clutter Overhaul SE v2.1: Comprehensive overhaul of furniture and clutter throughout Tamriel, including: - New HD noble chairs, beds, drapery, Imperial Banners, etc. - Several styles of weapon racks, plaques, and display cases - Many new wall art paintings.
+- Snazzy Furniture and Clutter Overhaul SE v2.1.2: Fixed a few records that didn't forward the Persistent flag in the main plugin.
 - NavigateVR v1.51: This mod brings immersive navigation to VR with a functional compass.
 - Storm Lightning for SSE and VR v1.4.14: A remake of Minty's Lightning mod as an SKSE plugin. The purpose of this mod is stability and scalability. It can summon up to 50 sheet lightnings and 50 fork lightnings per second and up to 31 cells distance. This results in a more natural and enjoyable storm experience.
 - Delectable Docks SE - ESP Fix v1.0: SE port of my delectable docks mod.
