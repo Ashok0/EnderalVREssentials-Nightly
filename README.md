@@ -438,7 +438,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**Papyrus Extender SSE v4.5.7**](https://www.nexusmods.com/skyrimspecialedition/mods/22854?tab=files): SKSE64 plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events.  
 - Required by FEC.
 
-[**Papyrus Extender VR v4.5.6**](https://www.nexusmods.com/skyrimspecialedition/mods/58296?tab=files): SKSEVR plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events. This requires the original Papyrus Extender and is built from po3's source.
+[**Papyrus Extender VR v4.5.7**](https://www.nexusmods.com/skyrimspecialedition/mods/58296?tab=files): SKSEVR plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events. This requires the original Papyrus Extender and is built from po3's source.
 - Required by FEC.
 
 [**DynDOLOD Resources SE v3.00 Alpha-19**](https://www.nexusmods.com/skyrimspecialedition/mods/52897?tab=files): DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD + tree LOD and the new, optional dynamic distant object LOD in a few simple steps.
@@ -772,7 +772,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**FusaFusa Project - Fluffy Animals SE v14.2**](https://www.nexusmods.com/skyrimspecialedition/mods/5514?tab=files): Increase Fur Volume of Animals. They become more fluffy.
 
-[**Fluffworks Medium v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/56361?tab=files): Enhanced fur on animals using shell texturing.
+[**Fluffworks Medium v1.1f**](https://www.nexusmods.com/skyrimspecialedition/mods/56361?tab=files): Enhanced fur on animals using shell texturing.
 - Recommend deleting the optional ESP file.
 
 [**Smaller Insects v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/51551?tab=files): This mod aims to resize the scale of animals in Skyrim to give a better immersive feelig in VR / First person.
@@ -780,7 +780,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**Better Dwemer Spider Textures 4096 Pixel Standard v1.1**](https://www.nexusmods.com/skyrim/mods/51270?tab=files): Get your Dwemer Spiders ready for their closeups with these brilliant and astounding new textures, built from the ground up with top-quality Dwarven Ingots and entirely too many Photoshop layers. Guaranteed to improve spider productivity by up to 42 percent.
 - Needs processed by Cathedral Assets Optimizer with the following settings enabled: Process meshes, Full optimization, Always process headparts, Resave meshes. Process textures, necessary optimization, Compress textures, Generate mipmaps.  
 
-[**KS Hairdos SSE v1.8**](https://www.nexusmods.com/skyrimspecialedition/mods/6817?tab=files): KS Hairdos is a hair pack that contains 922 hairstyles. 830 hairstyles are for females, 92 are for males.
+[**KS Hairdos SSE v1.9**](https://www.nexusmods.com/skyrimspecialedition/mods/6817?tab=files): KS Hairdos is a hair pack that contains 922 hairstyles. 830 hairstyles are for females, 92 are for males.
 
 [**Caliente's Beautiful Bodies Enhancer - CBBE v1.6.2**](https://www.nexusmods.com/skyrimspecialedition/mods/198?tab=files): A completely customisable female body replacer for TESV: Skyrim.
 
