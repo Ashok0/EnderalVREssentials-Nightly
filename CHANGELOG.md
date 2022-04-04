@@ -22,6 +22,8 @@ New Mods:
 - Unique Amulets and Masks SE Fixes v1.0: Fixes some things related to SE updates.
 - Moddable Iron-Steel Weapons v1.0: This fixes issues with weapon replacer mods that replace iron and steel weapons.  Enables compatability for iron weapon mods i.e. "I Want Better Weapons Iron Dark and Dirty SE".
 - Enhanced Blood Textures Enderal SE v4.0: A blood overhaul mod.
+- NPC Pathing Fixes (Heartland) v1.0: Improved the NPC pathing in the Heartland.
+- NPC Pathing Fixes (Whisperwood) v1.0: Improved the NPC pathing in the Whisperwood.
 - Yero's Cave Full v1.1: Enhances Yero's cave by adding an unique boss and exchanges the way of how soul gems are filled.
 - Fire of the Mountain SE v1.0: This is the translation of a very nice quest mod. I've either enhanced it a bit as there were some slight issues.
 - Enderal Distinctive Clothing v1.0: Distinctive retextures for clothing.
