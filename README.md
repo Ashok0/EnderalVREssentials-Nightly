@@ -819,6 +819,10 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Myths and Legends VI - The Forgotten One v1.02**](https://www.nexusmods.com/enderalspecialedition/mods/25?tab=files): Adds a new Myths and Legends book, a new dungeon, and a completely new creature with unique mechanics.
 
+[**Yero's Cave Full v1.1**](https://www.nexusmods.com/enderalspecialedition/mods/376?tab=files): Enhances Yero's cave by adding an unique boss and exchanges the way of how soul gems are filled.
+
+[**Fire of the Mountain SE v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/377?tab=files): This is the translation of a very nice quest mod. I've either enhanced it a bit as there were some slight issues.
+
 [**Playable Half Starling Race v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/100?tab=files): Adds Half Starlings as a playable race.
 
 [**Starlings Leveled v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/132?tab=files): Adjusts the Starlings to level with the player.
@@ -925,7 +929,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Enderal Distinctive Clothing v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/348?tab=files): Distinctive retextures for clothing.
 
-[**Enderal Distinctive Jewelry v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/370?tab=files): Distinctive models and textures for jewelry.
+[**Enderal Distinctive Jewelry v1.5**](https://www.nexusmods.com/enderalspecialedition/mods/370?tab=files): Distinctive models and textures for jewelry.
 
 [**Enhanced Blood Textures Enderal SE v4.0**](https://www.nexusmods.com/enderalspecialedition/mods/360?tab=files): A blood overhaul mod.
 
@@ -1012,6 +1016,10 @@ Required load order:
 [**Frost Troll Replacer v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/121?tab=files): Replaces the model of Frost Trolls with high-quality alternatives.
 
 [**Oorbaya Replacer v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/296?tab=files): Replaces the models Oorbayas with high quality alternatives.
+
+[**Savage Wolves and Feral Foxes v1.3**](https://www.nexusmods.com/skyrimspecialedition/mods/21075?tab=files): This mod transforms your mangy vanilla wolves into savagely realistic wolves by replacing the vanilla skeleton with a custom skeleton. Guaranteed to boost your immersion 101%.
+
+[**Enderal SE - Savage Wolves and Feral Foxes v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/383?tab=files): Compatibility patch for Savage Wolves and Feral Foxes.
 
 [**Allow Fast Travel v1.3**](https://www.nexusmods.com/enderalspecialedition/mods/42?tab=files): Allows Fast Travel in Enderal.
 - Must be placed near end of load order as any mods that alter worldspace will break fast travel.
