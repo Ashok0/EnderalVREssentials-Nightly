@@ -831,6 +831,10 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**NPC Pathing Fixes (Suncoast) v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/303?tab=files): Improved the NPC pathing and added new areas that are now path-able in the Sun Coast.
 
+[**NPC Pathing Fixes (Heartland) v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/379?tab=files): Improved the NPC pathing in the Heartland.
+
+[**NPC Pathing Fixes (Whisperwood) v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/380?tab=files): Improved the NPC pathing in the Whisperwood.
+
 [**EOP SE - Enderal SE Outposts v1.02**](https://www.nexusmods.com/enderalspecialedition/mods/18?tab=files): Adds order outposts, fortifies some camps with additional protection. 
 
 [**Delectable Docks SE v1.2**](https://www.nexusmods.com/enderalspecialedition/mods/77?tab=files): Adds many details to the docks and harbors of Enderal focused on improving immersion.
