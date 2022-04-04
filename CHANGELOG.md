@@ -22,8 +22,12 @@ New Mods:
 - Unique Amulets and Masks SE Fixes v1.0: Fixes some things related to SE updates.
 - Moddable Iron-Steel Weapons v1.0: This fixes issues with weapon replacer mods that replace iron and steel weapons.  Enables compatability for iron weapon mods i.e. "I Want Better Weapons Iron Dark and Dirty SE".
 - Enhanced Blood Textures Enderal SE v4.0: A blood overhaul mod.
+- Yero's Cave Full v1.1: Enhances Yero's cave by adding an unique boss and exchanges the way of how soul gems are filled.
+- Fire of the Mountain SE v1.0: This is the translation of a very nice quest mod. I've either enhanced it a bit as there were some slight issues.
 - Enderal Distinctive Clothing v1.0: Distinctive retextures for clothing.
 - Enderal Distinctive Jewelry v1.0: Distinctive models and textures for jewelry.
+- Savage Wolves and Feral Foxes v1.3: This mod transforms your mangy vanilla wolves into savagely realistic wolves by replacing the vanilla skeleton with a custom skeleton. Guaranteed to boost your immersion 101%.
+- Enderal SE - Savage Wolves and Feral Foxes v1.0: Compatibility patch for Savage Wolves and Feral Foxes.
 - Arachnophobia - No Spiders and Beetles v1.0: This mod replaces Spiders with Wolves and Beetles with Bears.  Disabled by default.  Use this mod to remove spiders and beetles OR 'Replace spiders with wolfs and bears' to only remove spiders.
 
 Updated Mods:
@@ -66,7 +70,7 @@ Updated Mods:
 - Thalgard Monastery v1.01: A small update with some things cleaned up, this is mostly to provide future compatibility (thanks to Apoapse).
 - Forgotten Dungeons - Abandoned Excavation Site v1.01: A small update with some things cleaned up, this is mostly to provide future compatibility (thanks to Apoapse).
 - Riverville Catacombs SE v1.02: A small update with some things cleaned up, this is mostly to provide future compatibility (thanks to Apoapse).
-- 
+- Enderal Distinctive Jewelry v1.5: Necklaces now use models from DovahBling Jewelry. Thanks testiger2 for the permission!
 
 Removed mods:
 - Enhanced Blood Textures SE (LITE VERSION) v1.1: Redundant with Enhanced Blood Textures Enderal SE.
