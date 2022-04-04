@@ -1021,6 +1021,13 @@ Required load order:
 
 [**Enderal SE - Savage Wolves and Feral Foxes v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/383?tab=files): Compatibility patch for Savage Wolves and Feral Foxes.
 
+[**Arvak Replace SE v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/24929?tab=files): Arvak Replace.
+- Delete ESP file.
+
+[**Shadow of Transcience Mount Fix v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/381?tab=files): Replaces the original model with a new one which fixes a lot of issues.
+
+[**Shadow of Transcience Mount Fix Replacer v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/382?tab=files): Replaces the model of Shadow of Transciense if the Mount Fix is used.
+
 [**Allow Fast Travel v1.3**](https://www.nexusmods.com/enderalspecialedition/mods/42?tab=files): Allows Fast Travel in Enderal.
 - Must be placed near end of load order as any mods that alter worldspace will break fast travel.
 
