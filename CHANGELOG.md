@@ -28,6 +28,9 @@ New Mods:
 - Enderal Distinctive Jewelry v1.0: Distinctive models and textures for jewelry.
 - Savage Wolves and Feral Foxes v1.3: This mod transforms your mangy vanilla wolves into savagely realistic wolves by replacing the vanilla skeleton with a custom skeleton. Guaranteed to boost your immersion 101%.
 - Enderal SE - Savage Wolves and Feral Foxes v1.0: Compatibility patch for Savage Wolves and Feral Foxes.
+- Arvak Replace SE v1.0: Arvak Replace.
+- Shadow of Transcience Mount Fix v1.0: Replaces the original model with a new one which fixes a lot of issues.
+- Shadow of Transcience Mount Fix Replacer v1.0: Replaces the model of Shadow of Transciense if the Mount Fix is used.
 - Arachnophobia - No Spiders and Beetles v1.0: This mod replaces Spiders with Wolves and Beetles with Bears.  Disabled by default.  Use this mod to remove spiders and beetles OR 'Replace spiders with wolfs and bears' to only remove spiders.
 
 Updated Mods:
