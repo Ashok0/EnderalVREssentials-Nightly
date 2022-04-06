@@ -6,6 +6,7 @@ Updated Tools:
 - d3dcompiler_47.dll: Install this to your Skyrim Special Edition folder if you don't already have a copy of d3dcompiler_47.dll
 - DynDOLOD Standalone 3.0 Alpha-87: DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD + tree LOD and the new, optional dynamic distant object LOD in a few simple steps.
 - xLODGen Beta 93: Tool for generating terrain LOD.
+- Synthesis v0.22.1: A framework and GUI to construct a single Bethesda game patch from many patcher sources. Designed to allow any program to work as a patcher as long as it conforms to the CLI API.
 
 New Mods:
 - VR Parallax Shader Fix v1.0: Injects fixed parallax shaders into Skyrim VR. Based on original code from aers under MIT.
