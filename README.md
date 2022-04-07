@@ -487,6 +487,8 @@ If you are using a language pack, you may need to change the font used by Dear D
 - Make the following changes to these VRIK INI files to pre-configure MCM settings to allow for open hand spell casting:  
 	- vrikgestures.ini: castWhenHandsOpen = 2
 
+[**Arctal's VRIK Tweaks v1.2**](https://www.nexusmods.com/skyrimspecialedition/mods/63663?tab=files): Fixes some pet peeves of mine with the VRIK mod. Currently including gesture system improvements, changes to ragdolling during knockback/death and a near-clip-distance bug fix.
+
 [**VRIK Rift-Index-WMR Controller Bindings V2.1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/23416?tab=files): These control bindings are an optional add-on for VRIK to make it easier to use holsters.  The button for shout has been moved to Right A (or the right WMR touchpad), and interact is performed by squeezing the right grip.  Sprinting is now done by squeezing the left grip.  With these "safe" inputs on grips, players do not need to worry about shouting accidentally when grabbing holstered weapons.
 
 [**HIGGS VR v1.4.6**](https://www.nexusmods.com/skyrimspecialedition/mods/43930?tab=files): Hand/weapon collision, realistic object grabbing, and gravity gloves-style mechanics for Skyrim VR.
@@ -619,7 +621,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 - Use the following installation options: Ultra > Brighter > Freesia > New > Regular > None > No Patch
 - ESP file not supported.  Do not install patches.
 
-[**Embers XD v2.5.6**](https://www.nexusmods.com/skyrimspecialedition/mods/37085?tab=files): An overhaul of campfires and other fire sources.
+[**Embers XD v2.5.7**](https://www.nexusmods.com/skyrimspecialedition/mods/37085?tab=files): An overhaul of campfires and other fire sources.
 - Use "Inferno Flames" if using "Inferno - Fire Effects Redux".
 - Install Forges and Lava Craters Add-On.
 - Delete ESP files.
@@ -834,6 +836,8 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**NPC Pathing Fixes (Heartland) v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/379?tab=files): Improved the NPC pathing in the Heartland.
 
 [**NPC Pathing Fixes (Whisperwood) v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/380?tab=files): Improved the NPC pathing in the Whisperwood.
+
+[**Suncoast Enemy Placement Redone v1.01**](https://www.nexusmods.com/enderalspecialedition/mods/387?tab=files): Removes encounters, removes enemies from encounters, and moves enemies around.
 
 [**EOP SE - Enderal SE Outposts v1.02**](https://www.nexusmods.com/enderalspecialedition/mods/18?tab=files): Adds order outposts, fortifies some camps with additional protection. 
 
