@@ -737,6 +737,8 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**TB's Wine 4K Version v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/61131?tab=files): This is a retexture containing no ESPs which comes in 3 Variants - 2K, 4K and 8K and aims to improve upon the default Skyrim textures, thank you very much for considering my mod (Also introduces some transparency into the glass).
 
+[**TB's Better Plaster - 4K v1.3**](https://www.nexusmods.com/skyrimspecialedition/mods/64261?tab=files): Plaster is plastered all around Skyrim so I decided to improve it (in 4K).
+
 [**Dibella Statue v1.04**](https://www.nexusmods.com/skyrimspecialedition/mods/61553?tab=files): Dibella statue replacer.
 - Delete ESP file.
 
