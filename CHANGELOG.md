@@ -12,6 +12,7 @@ Updated Tools:
 New Mods:
 - VR Parallax Shader Fix v1.0: Injects fixed parallax shaders into Skyrim VR. Based on original code from aers under MIT.
 - VR Parallax Shader Fix - Experimental v1.0.1: Injects fixed parallax shaders into Skyrim VR. Based on original code from aers under MIT. 
+- Arctal's VRIK Tweaks v1.2: Fixes some pet peeves of mine with the VRIK mod. Currently including gesture system improvements, changes to ragdolling during knockback/death and a near-clip-distance bug fix.
 - Spellsiphon - Complete Edition v5.17-EA3: Experience gameplay focused on combos and synergy. Lessen the need for menus or hotkeys through a system where swapping spells and weapons is streamlined and rewarding. Continue the fight at 0 magicka by using new spell types. Enjoy a plethora of new sounds and visual effects. Grow in power by playing skillfully, not just from levels and gear.
 - 3D World Fog Map v1.0: Add fog back to the 3D world map!
 - MCM Recorder v1.07: Configuring MCMs has never been easier!
@@ -26,6 +27,7 @@ New Mods:
 - Enhanced Blood Textures Enderal SE v4.0: A blood overhaul mod.
 - NPC Pathing Fixes (Heartland) v1.0: Improved the NPC pathing in the Heartland.
 - NPC Pathing Fixes (Whisperwood) v1.0: Improved the NPC pathing in the Whisperwood.
+- Suncoast Enemy Placement Redone v1.01: Removes encounters, removes enemies from encounters, and moves enemies around.
 - Yero's Cave Full v1.1: Enhances Yero's cave by adding an unique boss and exchanges the way of how soul gems are filled.
 - Fire of the Mountain SE v1.0: This is the translation of a very nice quest mod. I've either enhanced it a bit as there were some slight issues.
 - Enderal Distinctive Clothing v1.0: Distinctive retextures for clothing.
@@ -53,7 +55,7 @@ Updated Mods:
 - Spell Perk Item Distributor VR v5.2.0.3: Fix failure to load due to processing of non-ascii paths for mergemapper.
 - RaceMenu SE v0.4.19: Complete overhaul to the character creation menu including new customization features such as multiple RGBA warpaints, body paints, hand paint, and foot paints.
 - moreHUD VR v1.0.7: Stability improvements.
-- Embers XD v2.5.6: The blue brazier fire no longer emits orange glow.
+- Embers XD v2.5.7: Added Midden magic pillar makeover for WeldingManDE.
 - Venerable Nordic Temples (2K - 4K) v0.2: A high quality retexture for Nordic temples and ruins, offering high fidelity visuals and a lore friendly, ancient aesthetic.
 - High Poly Project v5.3: Removed Wine Bottles as these are redundant with 'TB's Wine 4K'.
 - Snazzy Furniture and Clutter Overhaul SE v2.1.2: Fixed a few records that didn't forward the Persistent flag in the main plugin.
