@@ -762,7 +762,9 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Pelt by Pfuscher v1.0**](https://www.nexusmods.com/skyrim/mods/65981?tab=files): High Res Pelt with Parallax.
 
-[**Skyrim 2020 Parallax by Pfuscher - 2K v8.4.2**](https://www.nexusmods.com/skyrimspecialedition/mods/2347?tab=files): High Res Textures for cities, dungeons, clutter, armors, landscapes and much more. Going towards 2000 files, way more to come!  This mod has over a thousand hours of work put into it. If you enjoy my work please consider supporting me at Patreon and / or Kofi.
+[**High Poly Mudcrab N Retexture v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/62967?tab=files): Pfuscher's High Poly Mudcrabs N Retexture.
+
+[**Skyrim 2020 Parallax by Pfuscher - 2K v8.8**](https://www.nexusmods.com/skyrimspecialedition/mods/2347?tab=files): High Res Textures for cities, dungeons, clutter, armors, landscapes and much more. Going towards 2000 files, way more to come!  This mod has over a thousand hours of work put into it. If you enjoy my work please consider supporting me at Patreon and / or Kofi.
 - Not safe to use complete texture pack with Enderal VR.
 - Currently using ONLY \textures\architecture\farmhouse, \textures\landscape\roads, and \textures\landscape\trees which have been fully tested.
 
