@@ -18,6 +18,7 @@ New Mods:
 - MCM Recorder v1.07: Configuring MCMs has never been easier!
 - TB's Silver Ingot 4K v8.0: Adds a new cube map, diffuse and normal to the Silver Ingot - Available in 4K and 2K resolutions.
 - TB's Wine 4K Version v1.1: This is a retexture containing no ESPs which comes in 3 Variants - 2K, 4K and 8K and aims to improve upon the default Skyrim textures, thank you very much for considering my mod (Also introduces some transparency into the glass).
+- TB's Better Plaster - 4K v1.3: Plaster is plastered all around Skyrim so I decided to improve it (in 4K).
 - Dibella Statue v1.04: Dibella statue replacer.
 - High Poly Mudcrab N Retexture v1.0: Pfuscher's High Poly Mudcrabs N Retexture.
 - Waterspout Fixes v1.0: Fixes some things from the Waterspouts mod.
