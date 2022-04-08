@@ -88,6 +88,7 @@ Updated Mods:
 
 Removed mods:
 - Enhanced Blood Textures SE (LITE VERSION) v1.1: Redundant with Enhanced Blood Textures Enderal SE.
+- Craftable Bound Weapons v1.1: Not needed.
 
 Parallax Textures:
 - Skyrim Remastered - Caves 4K Parallax v1.0: A retexture of Skyrim's caves, with a complete overhaul for the ice caves to make them look like actual ice. Offered in 4k, 2k, and 1k texture quality with parallax options.
