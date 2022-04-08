@@ -1041,6 +1041,8 @@ Required load order:
 
 [**Enderal SE - Savage Wolves and Feral Foxes v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/383?tab=files): Compatibility patch for Savage Wolves and Feral Foxes.
 
+[**Fluffworks - Better Photoreal Foxes v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/65974?tab=files): A makeover for Skyrim's Foxes, Combining Better Foxes & Photoreal Foxes with Fluffworks Shell Texturing on top!
+
 [**Arvak Replace SE v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/24929?tab=files): Arvak Replace.
 - Delete ESP file.
 
