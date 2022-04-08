@@ -528,6 +528,8 @@ If you are using a language pack, you may need to change the font used by Dear D
 - LE mod.  Converted to Form 44 (SE) by opening and resaving ESP file in Creation Kit.
 - Needs processed by Cathedral Assets Optimizer with the following settings enabled: Process meshes, Full optimization, Always process headparts, Resave meshes. Process textures, necessary optimization, Compress textures, Generate mipmaps.  
 
+[**Immersive Decomposing Dead v0.1.5**](https://www.nexusmods.com/skyrimspecialedition/mods/66166?tab=files): This mod makes it so dead bodies (NPCS and animals) decompose until turned into bones (a prosses that might attract rats). Also makes it so the dead are buried fast by npcs in a few towns.
+
 [**Alternative Smashing Glass Sounds v1.0**](https://www.nexusmods.com/skyrim/mods/26017?tab=files): Alternative HQ glass sounds thanks to rolloLG.
 
 [**HapticSkyrimVR - Spellcasting and Enhanced Bow and Melee Feedback SKSE Plugin v1.7.2**](https://www.nexusmods.com/skyrimspecialedition/mods/20364?tab=files): SKSEVR plugin to get spell casting and enhanced bow and melee haptic feedback on VR controllers.
@@ -923,7 +925,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Bowgasm SE - Nicos AIO Vanilla Bow Replacer SE v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/42929?tab=files): Optional file is a non-plug in replacer for nearly all Vanilla bows in game with higher poly models, more realistic shapes, and higher resolution textures.
 
-[**I Want Better Weapons Iron Dark and Dirty SE v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/41276?tab=files): This is a Dark and Dirty version of my IWBW Iron replacer mod because everyone will like different things. :) Reworked all textures, specular maps, and normal maps to provide a more used and rough appearance to the weapons for those that would like it.
+[**Iron Things v1.2**](https://www.nexusmods.com/skyrimspecialedition/mods/26947?tab=files): Replacer meshes and textures for IRON THINGS: iron sword, greatsword, dagger, battleaxe, bow, and shield. Stand-alone is also available for download. Made in 2016 by ClipsyMoon, now on SE for all to enjoy. ;)
 
 [**Maps - SE v1.2**](https://www.nexusmods.com/enderal/mods/49?tab=files): You can now buy maps that will show you the landmarks of the region.
 
@@ -946,6 +948,8 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**Enderal Distinctive Clothing v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/348?tab=files): Distinctive retextures for clothing.
 
 [**Enderal Distinctive Jewelry v1.5**](https://www.nexusmods.com/enderalspecialedition/mods/370?tab=files): Distinctive models and textures for jewelry.
+
+[**Akropolis Stones HD v1.0**]: HD textures for the Akropolis stones.
 
 [**Enhanced Blood Textures Enderal SE v4.0**](https://www.nexusmods.com/enderalspecialedition/mods/360?tab=files): A blood overhaul mod.
 
