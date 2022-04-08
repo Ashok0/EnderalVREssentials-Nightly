@@ -41,6 +41,7 @@ New Mods:
 - Iron Things SE v1.2: Replacer meshes and textures for IRON THINGS: iron sword, greatsword, dagger, battleaxe, bow, and shield. Stand-alone is also available for download. Made in 2016 by ClipsyMoon, now on SE for all to enjoy ;) 
 - Savage Wolves and Feral Foxes v1.3: This mod transforms your mangy vanilla wolves into savagely realistic wolves by replacing the vanilla skeleton with a custom skeleton. Guaranteed to boost your immersion 101%.
 - Enderal SE - Savage Wolves and Feral Foxes v1.0: Compatibility patch for Savage Wolves and Feral Foxes.
+- Fluffworks - Better Photoreal Foxes v1.0: A makeover for Skyrim's Foxes, Combining Better Foxes & Photoreal Foxes with Fluffworks Shell Texturing on top!
 - Arvak Replace SE v1.0: Arvak Replace.
 - Shadow of Transcience Mount Fix v1.0: Replaces the original model with a new one which fixes a lot of issues.
 - Shadow of Transcience Mount Fix Replacer v1.0: Replaces the model of Shadow of Transciense if the Mount Fix is used.
