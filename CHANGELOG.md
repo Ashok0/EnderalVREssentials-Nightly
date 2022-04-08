@@ -36,6 +36,8 @@ New Mods:
 - Fire of the Mountain SE v1.0: This is the translation of a very nice quest mod. I've either enhanced it a bit as there were some slight issues.
 - Enderal Distinctive Clothing v1.0: Distinctive retextures for clothing.
 - Enderal Distinctive Jewelry v1.0: Distinctive models and textures for jewelry.
+- Akropolis Stones HD v1.0: HD textures for the Akropolis stones.
+- Iron Things SE v1.2: Replacer meshes and textures for IRON THINGS: iron sword, greatsword, dagger, battleaxe, bow, and shield. Stand-alone is also available for download. Made in 2016 by ClipsyMoon, now on SE for all to enjoy ;) 
 - Savage Wolves and Feral Foxes v1.3: This mod transforms your mangy vanilla wolves into savagely realistic wolves by replacing the vanilla skeleton with a custom skeleton. Guaranteed to boost your immersion 101%.
 - Enderal SE - Savage Wolves and Feral Foxes v1.0: Compatibility patch for Savage Wolves and Feral Foxes.
 - Arvak Replace SE v1.0: Arvak Replace.
@@ -88,6 +90,7 @@ Updated Mods:
 
 Removed mods:
 - Enhanced Blood Textures SE (LITE VERSION) v1.1: Redundant with Enhanced Blood Textures Enderal SE.
+- I Want Better Weapons Iron Dark and Dirty SE v1.0: Redundant with Iron Things SE.
 - Craftable Bound Weapons v1.1: Not needed.
 
 Parallax Textures:
