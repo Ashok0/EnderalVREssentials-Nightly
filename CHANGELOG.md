@@ -41,6 +41,7 @@ New Mods:
 - Enderal Distinctive Clothing v1.0: Distinctive retextures for clothing.
 - Enderal Distinctive Jewelry v1.0: Distinctive models and textures for jewelry.
 - Akropolis Stones HD v1.0: HD textures for the Akropolis stones.
+- Less Grass 1 - 50% Less: Reduces the density of grass for better visibility.
 - Iron Things SE v1.2: Replacer meshes and textures for IRON THINGS: iron sword, greatsword, dagger, battleaxe, bow, and shield. Stand-alone is also available for download. Made in 2016 by ClipsyMoon, now on SE for all to enjoy ;) 
 - Savage Wolves and Feral Foxes v1.3: This mod transforms your mangy vanilla wolves into savagely realistic wolves by replacing the vanilla skeleton with a custom skeleton. Guaranteed to boost your immersion 101%.
 - Enderal SE - Savage Wolves and Feral Foxes v1.0: Compatibility patch for Savage Wolves and Feral Foxes.
