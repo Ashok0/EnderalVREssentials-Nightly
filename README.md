@@ -936,6 +936,8 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Bowgasm SE - Nicos AIO Vanilla Bow Replacer SE v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/42929?tab=files): Optional file is a non-plug in replacer for nearly all Vanilla bows in game with higher poly models, more realistic shapes, and higher resolution textures.
 
+[**Steel Swords Redone v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/18670/?tab=files): This mod adds new models and textures for the steel sword and steel greatsword.
+
 [**Iron Things v1.2**](https://www.nexusmods.com/skyrimspecialedition/mods/26947?tab=files): Replacer meshes and textures for IRON THINGS: iron sword, greatsword, dagger, battleaxe, bow, and shield. Stand-alone is also available for download. Made in 2016 by ClipsyMoon, now on SE for all to enjoy. ;)
 
 [**Maps - SE v1.2**](https://www.nexusmods.com/enderal/mods/49?tab=files): You can now buy maps that will show you the landmarks of the region.
