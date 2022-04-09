@@ -12,6 +12,9 @@ Updated Tools:
 New Mods:
 - VR Parallax Shader Fix v1.0: Injects fixed parallax shaders into Skyrim VR. Based on original code from aers under MIT.
 - VR Parallax Shader Fix - Experimental v1.0.1: Injects fixed parallax shaders into Skyrim VR. Based on original code from aers under MIT. 
+- Dynamic Animation Replacer for Skyrim VR 1415 v1.1.0a: This mod dynamically replaces the actors' animations depending on various conditions. Supports most actors, including creatures. Actors and animations added by mods are also supported. No ESP file.
+- Animation Motion Revolution VR v1.5: This SKSE plugin removes the mismatch between displacement and custom animations driven by motion data (the infamous ice-skating problem). Welcome to 2021 guys.
+- ADXP Beta v1.2: A framework that bypasses the animation wall, allowing for modern combat in Skyrim.
 - Arctal's VRIK Tweaks v1.2: Fixes some pet peeves of mine with the VRIK mod. Currently including gesture system improvements, changes to ragdolling during knockback/death and a near-clip-distance bug fix.
 - Enchanted Weapons Charge Fix v2.0: Ever wondered why your enchanted weapon not charging when using Soul Siphon perk from Ordinator? Or why Summermyst's enchanted glove not recharging your weapon past the initial value when equipped? It's because there's a bug in Skyrim engine that prevent you from doing so. This mod will fix that and allow weapons to charge to their maximum limit.
 - Wearable Health Bars - Soul Gauge v1.5.2: Jewelry that displays Health, Magicka, Stamina, enchantment charge, or equipped ammo count on your hands. Glows in the dark!
@@ -81,7 +84,6 @@ Updated Mods:
 - Wellwatch Manor SE v1.01: A small update with some things cleaned up, this is mostly to provide future compatibility (thanks to Apoapse).
 - Seaview Lodge SE v1.02: A small update with some things cleaned up, this is mostly to provide future compatibility (thanks to Apoapse).
 - Bank of Ark SE v1.03: A small update with some things cleaned up, this is mostly to provide future compatibility (thanks to Apoapse).
-- Frostville SE v1.03: A small update with some things cleaned up, this is mostly to provide future compatibility (thanks to Apoapse).  Some navmesh (pathfinding) fixes.
 - EOP SE - Enderal SE Outposts v1.02: A small update with some things cleaned up, this is mostly to provide future compatibility (thanks to Apoapse).
 - Myths and Legends VI - The Forgotten One v1.02: A small update with some things cleaned up, this is mostly to provide future compatibility (thanks to Apoapse).
 - Forgotten Dungeons - Palm Cove v1.02:  A small update with some things cleaned up, this is mostly to provide future compatibility (thanks to Apoapse).
