@@ -1,4 +1,4 @@
-Release date: December 27th, 2021
+Release date: April 30, 2022
 
 Updated Tools:
 - Mod Organizer 2 v2.4.4: Fixed Discord invite. Removed Mass Effect support.
