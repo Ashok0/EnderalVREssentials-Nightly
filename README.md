@@ -793,6 +793,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Fluffworks Medium v1.1f**](https://www.nexusmods.com/skyrimspecialedition/mods/56361?tab=files): Enhanced fur on animals using shell texturing.
 - Recommend deleting the optional ESP file.
+- Remove "Horse.nif" as this causes texture problems with select horses.
 
 [**Smaller Insects v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/51551?tab=files): This mod aims to resize the scale of animals in Skyrim to give a better immersive feelig in VR / First person.
 
