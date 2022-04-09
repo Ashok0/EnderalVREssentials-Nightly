@@ -992,11 +992,11 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 Required load order:
 * VR Address Library for SKSEVR
-* powerofthree's Papyrus Extender
+* powerofthree's Papyrus Extender (v4.5.7 required for VR)
 * Papyrus Extender VR
-* Frozen Electrocuted Combustion
+* Frozen Electrocuted Combustion (v4.9.6 required for VR)
 * Frozen Electrocuted Combustion VR
-* Enderal Missing Race Fix (For mods such as FEC) v1.0
+* Enderal Missing Race Fix (For mods such as FEC) 
 
 [**Enderal NPC Overhaul - SE version v2.3.1**](https://www.nexusmods.com/enderalspecialedition/mods/150?tab=description): Overhaul of all NPCs in Enderal. Most important NPCs are given unique look (100+), others - KS Hairdos Hair. NO ESP. No requirements.
 
