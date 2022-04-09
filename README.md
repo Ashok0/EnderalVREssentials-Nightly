@@ -811,6 +811,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**Deadly Spell Impacts v1.7**](https://www.nexusmods.com/skyrimspecialedition/mods/12939?tab=files): Fire, lightning, frost, and spit (Spider/Chaurus) spell impacts now have their own unique textures. This mod also increases the variation in impact size, increases the size of dragon breath impacts, and adds melted snow impacts for fire and lightning spells.
 
 [**Visual Animated Enchants v0.2**](https://www.nexusmods.com/skyrimspecialedition/mods/7037?tab=files): A replacer for the visual and animation of the enchantments on weapons to make them more magical and immersive.  
+- Remove "Cell" data in xEdit.
 
 [**Qwinn's Refined Visual Animated Enchants v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/24665?tab=files): With L3stat's kind permission, a refinement and fix for various issues with Visual Animated Enchants.
 
