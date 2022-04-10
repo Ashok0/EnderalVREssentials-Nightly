@@ -173,6 +173,8 @@ Wabbajack will delete all files that are not part of its modlist when updating! 
 
 [**HIGGS VR**](https://www.nexusmods.com/skyrimspecialedition/mods/43930?tab=files): Hand collision, physics object grabbing, and gravity gloves-style mechanics for Skyrim VR.
 
+[**PLANCK - Physical Animation and Character Kinetics v0.2**](https://www.nexusmods.com/skyrimspecialedition/mods/66025?tab=files): Physically-driven animation in Skyrim. Characters interact with physics and can be grabbed, melee hit detection is physically accurate, and much more.
+
 [**Spell Wheel VR**](https://www.nexusmods.com/skyrimspecialedition/mods/47630?tab=files): Selection wheel mod for Skyrim VR. It allows you to select spells, weapons, shields, arrows, potions, poisons, food, torch, armors and more without going into a menu very quickly by press of a button or button combinations to spawn the wheel and hold your hand over the item and letting go of the button. It's equipped automatically.  Be sure to set the "Slow Time Scale" to 5 in the Spell Wheel VR MCM if you want a nice slow motion effect when selecting items from the spell wheel.  Set "Presets" to Spellsword in the Spell Wheel VR MCM to make spells and weapons selectable from the spell wheel.
 
 [**Magic Improvements for Skyrim VR**](https://www.nexusmods.com/skyrimspecialedition/mods/55751?tab=files): Vastly improved dual casting, spell effect size scales based on magicka percentage, and additional options for aiming spells in VR.
@@ -741,7 +743,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**The Halls of the Greybeards - A High Hrothgar Retexuring v1.01**](https://www.nexusmods.com/skyrimspecialedition/mods/22672?tab=files): A retexturing of High Hrothgar. There are 4 versions. A standard version with 4k diffuse and 2k normals, 4k diffuse and 4k normals and a dark version with 4k diffuse and 2k normals, 4k diffuse and 4k normals. This mod fixes a ton of texture layout issues within the meshes too.
 - If using "Skyrim Textures Redone - High Hrothgar", remove "hhintbaycol01.dds" and "hhintbaycol01_n.dds" from the following path:  \The Halls of the Greybeards - a High Hrothgar Retexuring\textures\architecture\highhrothgar.  This will allow the STR mod's superior texture to take precedence.  
 
-[**Skyland Imperial and Nordic Tents v1.2**](https://www.nexusmods.com/skyrimspecialedition/mods/57002?tab=files): Skyland Imperial and Nordic Tents introduces 4k tent textures for Nordic and imperial tents. Skyland tents offers a brand new mesh for the large Nordic fur tent for better visuals.
+[**Skyland Imperial and Nordic Tents v1.5**](https://www.nexusmods.com/skyrimspecialedition/mods/57002?tab=files): Skyland Imperial and Nordic Tents introduces 4k tent textures for Nordic and imperial tents. Skyland tents offers a brand new mesh for the large Nordic fur tent for better visuals.
 
 [**Water in Wells - Mesh-only Animated Wells v0.6**](https://www.nexusmods.com/skyrimspecialedition/mods/57268?tab=files): A mesh-only solution for animated water in wells and sewers. No ESP. 
 
