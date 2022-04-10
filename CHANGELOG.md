@@ -10,6 +10,7 @@ Updated Tools:
 - LOOT v0.18.2: LOOT is a plugin load order optimisation tool for Skyrim VR.  It is designed to assist mod users in avoiding detrimental conflicts, by automatically calculating a load order that satisfies all plugin dependencies and maximises each plugin's impact on the user's game.
 
 New Mods:
+- PLANCK - Physical Animation and Character Kinetics v0.2: Physically-driven animation in Skyrim. Characters interact with physics and can be grabbed, melee hit detection is physically accurate, and much more.
 - VR Parallax Shader Fix v1.0: Injects fixed parallax shaders into Skyrim VR. Based on original code from aers under MIT.
 - VR Parallax Shader Fix - Experimental v1.0.1: Injects fixed parallax shaders into Skyrim VR. Based on original code from aers under MIT. 
 - Dynamic Animation Replacer for Skyrim VR 1415 v1.1.0a: This mod dynamically replaces the actors' animations depending on various conditions. Supports most actors, including creatures. Actors and animations added by mods are also supported. No ESP file.
@@ -22,6 +23,7 @@ New Mods:
 - Spellsiphon - Complete Edition v5.17-EA3: Experience gameplay focused on combos and synergy. Lessen the need for menus or hotkeys through a system where swapping spells and weapons is streamlined and rewarding. Continue the fight at 0 magicka by using new spell types. Enjoy a plethora of new sounds and visual effects. Grow in power by playing skillfully, not just from levels and gear.
 - 3D World Fog Map v1.0: Add fog back to the 3D world map!
 - MCM Recorder v1.07: Configuring MCMs has never been easier!
+- Skyland Imperial and Nordic Tents v1.5: Skyland Imperial and Nordic Tents introduces 4k tent textures for Nordic and imperial tents. Skyland tents offers a brand new mesh for the large Nordic fur tent for better visuals.
 - TB's Silver Ingot 4K v8.0: Adds a new cube map, diffuse and normal to the Silver Ingot - Available in 4K and 2K resolutions.
 - TB's Wine 4K Version v1.1: This is a retexture containing no ESPs which comes in 3 Variants - 2K, 4K and 8K and aims to improve upon the default Skyrim textures, thank you very much for considering my mod (Also introduces some transparency into the glass).
 - TB's Better Plaster - 4K v1.3: Plaster is plastered all around Skyrim so I decided to improve it (in 4K).
