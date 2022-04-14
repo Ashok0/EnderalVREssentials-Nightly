@@ -930,6 +930,8 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Moddable Iron-Steel Weapons v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/341): This fixes issues with weapon replacer mods that replace iron and steel weapons.
 
+[**Moddable Iron Armor v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/392?tab=files): This fixes issues with armor replacer mods not replacing iron armor.
+
 [**Enderal SE - Crossbows v1.07**](https://www.nexusmods.com/enderalspecialedition/mods/4?tab=files): Adds Crossbows to Enderal SE.
 
 [**Unique Enderal Uniques SE v2.0**](https://www.nexusmods.com/enderalspecialedition/mods/38?tab=files): Enderal SE conversion of Unique Enderal Uniques using SSE nif optimizer.
