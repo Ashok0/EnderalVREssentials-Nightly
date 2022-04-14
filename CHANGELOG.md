@@ -29,6 +29,7 @@ New Mods:
 - TB's Better Plaster - 4K v1.3: Plaster is plastered all around Skyrim so I decided to improve it (in 4K).
 - Dibella Statue v1.04: Dibella statue replacer.
 - High Poly Mudcrab N Retexture v1.0: Pfuscher's High Poly Mudcrabs N Retexture.
+- Cork Retexture v1.0: Cork retexture. 4x the size of vanilla's.
 - Waterspout Fixes v1.0: Fixes some things from the Waterspouts mod.
 - Kolapon's Brand New Armor Sets and Weapons SE v1.1: Adds brand new sets of armor and weapons to different locations in Enderal.
 - Unique Amulets and Masks (Ancient and Qalians Last Smile) SE v1.2: Gives unique models to some of the rare amulets, the Ancient mask and Qalian's Last Smile.
