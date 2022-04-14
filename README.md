@@ -755,6 +755,8 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**TB's Better Plaster - 4K v1.3**](https://www.nexusmods.com/skyrimspecialedition/mods/64261?tab=files): Plaster is plastered all around Skyrim so I decided to improve it (in 4K).
 
+[**Cork Retexture v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/41903?tab=files): Cork retexture. 4x the size of vanilla's.
+
 [**High Poly Mudcrab N Retexture v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/62967?tab=files): Pfuscher's High Poly Mudcrabs N Retexture.
 
 [**Dibella Statue v1.04**](https://www.nexusmods.com/skyrimspecialedition/mods/61553?tab=files): Dibella statue replacer.
