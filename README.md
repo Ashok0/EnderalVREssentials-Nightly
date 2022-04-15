@@ -976,9 +976,9 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Conduit - Enderal Adaption Patch v2.3-EA1**](https://www.nexusmods.com/skyrimspecialedition/mods/58023?tab=files): This is an experimental rebalance (read: heavy nerf) of the mod for Enderal. If you feel Conduit is overtuned for normal Skyrim, you can use this patch there as well, it doesnt require Enderal. ESL-flagged.
 
-[**Less Grass 1 - 50% Less**](https://www.nexusmods.com/enderalspecialedition/mods/69?tab=files): Reduces the density of grass for better visibility.
-
 [**Enhanced Blood Textures Enderal SE v4.0**](https://www.nexusmods.com/enderalspecialedition/mods/360?tab=files): A blood overhaul mod.
+
+[**Less Grass 1 - 50% Less**](https://www.nexusmods.com/enderalspecialedition/mods/69?tab=files): Reduces the density of grass for better visibility.
 
 [**Weather Fixes v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/278?tab=files): Fixes some issues with Enderal weathers which increases compatibility with some weather-related mods. (e.g. R.A.S.S., Storm Lightning)
 - Load Order Recommendation: Weather Fixes, Diverse Weather, True Storms, Diverse Weather SE - True Storms, Intense Sandstorms.
