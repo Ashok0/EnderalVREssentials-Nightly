@@ -844,8 +844,6 @@ If you are using a language pack, you may need to change the font used by Dear D
 - Requires patching with Synthesis.
 - During the installation, tick "Rally's Water Foam (4K)" and "Improved Water Normals for Vanilla" and leave all other settings at default.  Do NOT install Rocky Riverbeds due to high performance drop.
 
-[**Somnium Music Edits v1.0**]: New music for the main menu.
-
 [**3D World Fog Map v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/340?tab=files): Add fog back to the 3D world map!
 
 [**Myths and Legends VI - The Forgotten One v1.02**](https://www.nexusmods.com/enderalspecialedition/mods/25?tab=files): Adds a new Myths and Legends book, a new dungeon, and a completely new creature with unique mechanics.
