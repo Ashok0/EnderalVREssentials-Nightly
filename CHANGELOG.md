@@ -10,13 +10,13 @@ Updated Tools:
 - LOOT v0.18.2: LOOT is a plugin load order optimisation tool for Skyrim VR.  It is designed to assist mod users in avoiding detrimental conflicts, by automatically calculating a load order that satisfies all plugin dependencies and maximises each plugin's impact on the user's game.
 
 New Mods:
-- PLANCK - Physical Animation and Character Kinetics v0.2.3: Physically-driven animation in Skyrim. Characters interact with physics and can be grabbed, melee hit detection is physically accurate, and much more.
+- PLANCK - Physical Animation and Character Kinetics v0.2.4: Physically-driven animation in Skyrim. Characters interact with physics and can be grabbed, melee hit detection is physically accurate, and much more.
 - VR Parallax Shader Fix v1.0: Injects fixed parallax shaders into Skyrim VR. Based on original code from aers under MIT.
 - VR Parallax Shader Fix - Experimental v1.0.1: Injects fixed parallax shaders into Skyrim VR. Based on original code from aers under MIT. 
 - Dynamic Animation Replacer for Skyrim VR 1415 v1.1.0a: This mod dynamically replaces the actors' animations depending on various conditions. Supports most actors, including creatures. Actors and animations added by mods are also supported. No ESP file.
 - Animation Motion Revolution VR v1.5: This SKSE plugin removes the mismatch between displacement and custom animations driven by motion data (the infamous ice-skating problem). Welcome to 2021 guys.
 - ADXP Beta v1.2: A framework that bypasses the animation wall, allowing for modern combat in Skyrim.
-- Arctal's VRIK Tweaks v1.2: Fixes some pet peeves of mine with the VRIK mod. Currently including gesture system improvements, changes to ragdolling during knockback/death and a near-clip-distance bug fix.
+- Arctal's VRIK Tweaks v1.3: Fixes some pet peeves of mine with the VRIK mod. Currently including gesture system improvements, changes to ragdolling during knockback/death and a near-clip-distance bug fix.
 - Enchanted Weapons Charge Fix v1.1: Ever wondered why your enchanted weapon not charging when using Soul Siphon perk from Ordinator? Or why Summermyst's enchanted glove not recharging your weapon past the initial value when equipped? It's because there's a bug in Skyrim engine that prevent you from doing so. This mod will fix that and allow weapons to charge to their maximum limit.
 - Wearable Health Bars - Soul Gauge v1.5.3: Jewelry that displays Health, Magicka, Stamina, enchantment charge, or equipped ammo count on your hands. Glows in the dark!
 - Immersive Decomposing Dead v0.1.5: This mod makes it so dead bodies (NPCS and animals) decompose until turned into bones (a prosses that might attract rats). Also makes it so the dead are buried fast by npcs in a few towns.
@@ -62,7 +62,7 @@ New Mods:
 Updated Mods:
 - Enderal VR v3.2: Fixed quest Two souls part 5 cqc05: Romance with Calia. Some animation issues and Calia not responding (oh my). Moved some funitures (chairs) in MQP01House to make pathfinding easier for the player in VR. Fixed one Ending : slight modification of scene 2 MQ18a to fix potential player bugs (animations).
 - Enderal SE - Bug Fixes v1.32: Fixed an issue with Dreameater sneak damage calculation.
-- HIGGS - Enhanced VR Interaction v1.5: Hand/weapon collision, weapon two-handing, realistic object grabbing, and gravity gloves-style mechanics for Skyrim VR.
+- HIGGS - Enhanced VR Interaction v1.5.1: Hand/weapon collision, weapon two-handing, realistic object grabbing, and gravity gloves-style mechanics for Skyrim VR.
 - Crash Logger v1.0.0.2: Fix printing of installed plugins.
 - EngineFixesVR v1.22a: Parallax Fix.
 - DynDOLOD Resources SE v3.00 Alpha-24: DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD + tree LOD and the new, optional dynamic distant object LOD in a few simple steps.
