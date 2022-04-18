@@ -86,7 +86,8 @@ Updated Mods:
 - Delectable Docks SE - ESP Fix v1.0: SE port of my delectable docks mod.
 - Bank of Ark SE v1.02: Fixed the crashes and integrated the vault doors into the main mod again (huge thanks to "Apoapse" for identifying and fixing this issue).
 - ElSopa - High Quality Buckets SE - HOTFIX v1.3: Missing Meshes.
-- Frozen Electrocuted Combustion VR - Shock Exploded Mesh Fix v4.9.6: This should fix the purple skin issue for exploded NPCs caused by shock. Will be merged in with the main mod later.
+- Frozen Electrocuted Combustion v5.0.1: Applies visual effects to NPCs and the player, when killed by magic status effects.
+- Frozen Electrocuted Combustion VR v5.0.0.1: Applies visual effects to NPCs and the player, when killed by air, ash, dragons, drain, fire, frost, fear, lightning, poison, soultrap, steam and sun damage status effects. VR version that requires original FEC to run.
 - Fluffworks Medium v1.1f: Added following animals: Reindeer, Skeever, Goat, Fox, Dog, Cow, Black Troll.  Fixed missing textures on elks.  Make bear fur a bit thinner.
 - KS Hairdos SSE v1.9: KS Hairdos is a hair pack that contains 983 hairstyles. 876 hairstyles are for females, 107 are for males.
 - Enderal - Donkey v2.5: Eye fixes for each of the creatures. + DHO - (0 specular + 1% transparency) for hawks. No more shiny hair as well added realistic transparency. Sun shines on the correct side of the hawk now!
