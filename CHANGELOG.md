@@ -63,17 +63,17 @@ New Mods:
 Updated Mods:
 - Enderal VR v3.2: Fixed quest Two souls part 5 cqc05: Romance with Calia. Some animation issues and Calia not responding (oh my). Moved some funitures (chairs) in MQP01House to make pathfinding easier for the player in VR. Fixed one Ending : slight modification of scene 2 MQ18a to fix potential player bugs (animations).
 - Enderal SE - Bug Fixes v1.32: Fixed an issue with Dreameater sneak damage calculation.
-- HIGGS - Enhanced VR Interaction v1.5.1: Hand/weapon collision, weapon two-handing, realistic object grabbing, and gravity gloves-style mechanics for Skyrim VR.
-- Crash Logger v1.0.0.2: Fix printing of installed plugins.
+- HIGGS - Enhanced VR Interaction v1.5.2: Hand/weapon collision, weapon two-handing, realistic object grabbing, and gravity gloves-style mechanics for Skyrim VR.
+- Crash Logger v1.0.0.3: Provide more info on TESForm and NiAVObject (names/editor IDs).
 - EngineFixesVR v1.22a: Parallax Fix.
 - DynDOLOD Resources SE v3.00 Alpha-24: DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD + tree LOD and the new, optional dynamic distant object LOD in a few simple steps.
 - Enderal SE - Bug Fixes v1.31: Removed the apparition script changes, which were slightly outdated. The fixes made by Bug Fixes are no longer needed.
 - No Floating Quest Marker v1.0: Removes floating quest markers from the game.  Quest markers are still viewable on the compass.
 - Immersive Draw Sheathe Sounds v1.1: Corrected folder structure so the mod will actually function.
 - Strike Obstruction Systems - Combat Blocking Overhaul v1.05: Fixed an issue with the implementation of the fCombatHitConeAngle setting.
-- Papyrus Extender SSE v4.5.7: Fix issue where some SE offsets could be incorrectly referenced in AE version, and vice versa.
-- Papyrus Extender VR v4.5.7: Fix slot conversion in GetEquippedArmorInSlot; thanks to Syclonix for identifying the bug and oberag for the fix. Fix issue where some SE offsets could be incorrectly referenced in AE version, and vice versa.
-- VR Address Library for SKSEVR v0.29.0: Add enhanced invisibility (39172a8).
+- Papyrus Extender SSE v5.0.3: Fixed some missing flag resets in SetLightType.
+- Papyrus Extender VR v5.0.3.1: SKSEVR plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events. This requires the original Papyrus Extender and is built from po3's source.
+- VR Address Library for SKSEVR v0.30.0: Add latest commonlib, po3 addresses (02026b1)
 - Spell Perk Item Distributor VR v5.2.0.3: Fix failure to load due to processing of non-ascii paths for mergemapper.
 - RaceMenu SE v0.4.19: Complete overhaul to the character creation menu including new customization features such as multiple RGBA warpaints, body paints, hand paint, and foot paints.
 - moreHUD VR v1.0.7: Stability improvements.
