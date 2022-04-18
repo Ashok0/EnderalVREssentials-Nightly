@@ -957,7 +957,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Drunken Bee Sign v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/118): Adds a sign to the blank wall on the exterior of the Drunken Bee in Riverville.  
 
-[**Enderal VR Main Menu Logo v1.0**](): Adds the Enderal logo to the VR playroom main menu screen.
+[**Enderal VR Main Menu Logo v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/397?tab=files): Enderal logo for the Enderal VR Main Menu.
 
 [**Static Mushrooms  - High Poly SE v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/129?tab=files): Many animated/interactive/static mushrooms across Enderal are high poly now.
  
