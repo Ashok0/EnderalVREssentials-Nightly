@@ -496,7 +496,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 - Make the following changes to these VRIK INI files to pre-configure MCM settings to allow for open hand spell casting:  
 	- vrikgestures.ini: castWhenHandsOpen = 2
 
-[**Arctal's VRIK Tweaks v1.3**](https://www.nexusmods.com/skyrimspecialedition/mods/63663?tab=files): Fixes some pet peeves of mine with the VRIK mod. Currently including gesture system improvements, changes to ragdolling during knockback/death and a near-clip-distance bug fix.
+[**Arctal's VRIK Tweaks v1.4**](https://www.nexusmods.com/skyrimspecialedition/mods/63663?tab=files): Fixes some pet peeves of mine with the VRIK mod. Currently including gesture system improvements, changes to ragdolling during knockback/death and a near-clip-distance bug fix.
 
 [**VRIK Rift-Index-WMR Controller Bindings V2.1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/23416?tab=files): These control bindings are an optional add-on for VRIK to make it easier to use holsters.  The button for shout has been moved to Right A (or the right WMR touchpad), and interact is performed by squeezing the right grip.  Sprinting is now done by squeezing the left grip.  With these "safe" inputs on grips, players do not need to worry about shouting accidentally when grabbing holstered weapons.
 
@@ -964,6 +964,8 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**Cannons 2K v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/63?tab=files): Replaces the cannons and cannonballs with new 2K textures.
 
 [**Enderal Upscale Project v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/126?tab=files): Vanilla Enderal textures upscaled 4x up to 4096px BC compressed. Normal/Specular maps generated from result, same resolution.
+
+[**Enderal Texture Workshop v1.5**](https://www.nexusmods.com/enderal/mods/275?tab=files): Vanilla-friendly retexture for various assets in Enderal.
 
 [**The Notice Board Redefined for Enderal v1.1**](https://www.nexusmods.com/enderalspecialedition/mods/153?tab=files): Replaces low quality notes on bounty boards with notes from The Notice Board Redefined.
 
