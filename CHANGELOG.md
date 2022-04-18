@@ -38,6 +38,7 @@ New Mods:
 - Moddable Iron-Steel Weapons v1.0: This fixes issues with weapon replacer mods that replace iron and steel weapons.  Enables compatability for iron weapon mods.
 - Moddable Iron Armor v1.0: This fixes issues with armor replacer mods not replacing iron armor.
 - Enhanced Blood Textures Enderal SE v4.0: A blood overhaul mod.
+- Enderal VR Main Menu Logo v1.0: Adds the Enderal logo to the VR playroom main menu screen.
 - NPC Pathing Fixes (Heartland) v1.0: Improved the NPC pathing in the Heartland.
 - NPC Pathing Fixes (Whisperwood) v1.0: Improved the NPC pathing in the Whisperwood.
 - Suncoast Enemy Placement Redone v1.01: Removes encounters, removes enemies from encounters, and moves enemies around.
