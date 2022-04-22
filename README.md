@@ -518,7 +518,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Wearable Health Bars - Soul Gauge v1.5.3**](https://www.nexusmods.com/skyrimspecialedition/mods/65737?tab=files): Jewelry that displays Health, Magicka, Stamina, enchantment charge, or equipped ammo count on your hands. Glows in the dark!
 
-[**Spellsiphon - Complete Edition v5.17-EA3**](https://www.nexusmods.com/enderalspecialedition/mods/357?tab=files): Experience gameplay focused on combos and synergy. Lessen the need for menus or hotkeys through a system where swapping spells and weapons is streamlined and rewarding. Continue the fight at 0 magicka by using new spell types. Enjoy a plethora of new sounds and visual effects. Grow in power by playing skillfully, not just from levels and gear.
+[**Spellsiphon - Complete Edition v5.17-EA4**](https://www.nexusmods.com/enderalspecialedition/mods/357?tab=files): Experience gameplay focused on combos and synergy. Lessen the need for menus or hotkeys through a system where swapping spells and weapons is streamlined and rewarding. Continue the fight at 0 magicka by using new spell types. Enjoy a plethora of new sounds and visual effects. Grow in power by playing skillfully, not just from levels and gear.
 
 [**Magic Improvements for Skyrim VR v1.0.2**](https://www.nexusmods.com/skyrimspecialedition/mods/55751?tab=files): Vastly improved dual casting, spell effect size scales based on magicka percentage, and additional options for aiming spells in VR.
 
@@ -733,7 +733,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Dwemer Pipework Reworked v4.0**](https://www.nexusmods.com/skyrimspecialedition/mods/46507?tab=files): Rework of Dwemer pipes, including Dwemer boilers.
 
-[**4K Stockade v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/27938?tab=files): 4K, 2K, or 1K retexture of the stockades seen around Skyrim.
+[**Stockade Old Grey Timber 4k New-1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/15501?tab=files): A 4k or 2k retexturing of all stockade wood textures. These are found at farms, in forts, and out the front of mines Three options are now available due to popular request: Old Grey, Painted and Brown!
 
 [**Nightingale Pride 4K SSE Edition - With Gems v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/22813?tab=files): High Resolution, Lore Friendly Retexture Of Nightingales Bow and Blade. Polished for SSE EDITION.
 
