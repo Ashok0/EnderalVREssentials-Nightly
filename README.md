@@ -535,8 +535,6 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Immersive Gathering (Woodchopping and Mining) SE - VR Friendly v1.7**](https://www.nexusmods.com/skyrimspecialedition/mods/29710?tab=files): Chop wood and mine ore for real!
 
-[**Armored Flesh v2.0**]: A small mod, offering improved visuals for each of the Alteration school's five armor spells.
-
 [**Destructible Bottles Extended v1.5**](https://www.nexusmods.com/skyrim/mods/26017?tab=files): Hit the bottle and smash it in pieces! Latest version 1.5 includes also some glazed pottery items such as pots, jugs, plates and bowls.
 - LE mod.  Converted to Form 44 (SE) by opening and resaving ESP file in Creation Kit.
 - Needs processed by Cathedral Assets Optimizer with the following settings enabled: Process meshes, Full optimization, Always process headparts, Resave meshes. Process textures, necessary optimization, Compress textures, Generate mipmaps.  
@@ -580,6 +578,11 @@ If you are using a language pack, you may need to change the font used by Dear D
 - Place above all other texture/mesh mods to avoid SMIM conflicts.
 - Remove \meshes\architecture\farmhouse\farmhousewindmill, \meshes\architecture\solitude\swindmill.nif, and \meshes\architecture\solitude\swindmillrotor.nif to revert windmills back to vanilla which arguably look better in VR.
 - Remove ESP file.
+
+[**High Poly Project v5.3**](https://www.nexusmods.com/skyrimspecialedition/mods/12029?tab=files): An on going process to improve the models of the game with more polygons, UV edits or just replace them all together. SMIM was the inspiration and the lack of similar mods led me to make this.
+- Should be installed with a Custom Install.  Skip "Farmhouse Stone Walls" and "Wine Bottles" as these are better replaced by seperate mods.  
+- Delete ESP file.
+- If you experience purple texture glitches, re-install the mod and untick "Whiterun Clutter", "Smelter Coal", "Furniture", "Plants", and "Riften 3D Leaves".  These at a minimum were incompatible with Enderal VR when using HPP v4.95.  Untested with v5.x. 
 
 [**Noble Skyrim FULL PACK Performance Edition v5.5.0**](https://www.nexusmods.com/skyrimspecialedition/mods/21423?tab=files): Gives all of Skyrim's architecture a complete new look by changing its textures to custom ones. Beside the architecture, several other things, such as landscape, dungeons (ruins, mines, caves etc.), clutter stuff etc. have been re-textured as well, to match the rest of the mod.
 - Recommend placing before other texture packs; Remove "whroughgroundmud.dds".
@@ -765,11 +768,6 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**Dibella Statue v1.04**](https://www.nexusmods.com/skyrimspecialedition/mods/61553?tab=files): Dibella statue replacer.
 - Delete ESP file.
 
-[**High Poly Project v5.3**](https://www.nexusmods.com/skyrimspecialedition/mods/12029?tab=files): An on going process to improve the models of the game with more polygons, UV edits or just replace them all together. SMIM was the inspiration and the lack of similar mods led me to make this.
-- Should be installed with a Custom Install.  Skip "Farmhouse Stone Walls" and "Wine Bottles" as these are better replaced by seperate mods.  
-- Delete ESP file.
-- If you experience purple texture glitches, re-install the mod and untick "Whiterun Clutter", "Smelter Coal", "Furniture", "Plants", and "Riften 3D Leaves".  These at a minimum were incompatible with Enderal VR when using HPP v4.95.  Untested with v5.x. 
-
 [**Terrain LOD for Septentrional Landscapes v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/39563): New overhaul for Terrain LOD landscape textures that corresponds with the texture mods you have installed..
 - Only used for terrain noise texture.  Remove ALL files except for the \textures\ folder.
 
@@ -819,13 +817,6 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**Equipable Female Tattoo UNP CBBE v1.0**]: Mod adds 5 x Equippable Tattoo skins for UUNP or CBBE Options are: Bijin, Leyenda or Fair Skin Complexion.
 
 [**Deadly Spell Impacts v1.7**](https://www.nexusmods.com/skyrimspecialedition/mods/12939?tab=files): Fire, lightning, frost, and spit (Spider/Chaurus) spell impacts now have their own unique textures. This mod also increases the variation in impact size, increases the size of dragon breath impacts, and adds melted snow impacts for fire and lightning spells.
-
-[**Visual Animated Enchants v0.2**](https://www.nexusmods.com/skyrimspecialedition/mods/7037?tab=files): A replacer for the visual and animation of the enchantments on weapons to make them more magical and immersive.  
-- Remove "Cell" data in xEdit.
-
-[**Qwinn's Refined Visual Animated Enchants v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/24665?tab=files): With L3stat's kind permission, a refinement and fix for various issues with Visual Animated Enchants.
-
-[**Adjusted Visual Animated Enchants (No ENB Complex Particle Lights) v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/50382?tab=files): Tweaks the appearance of enchantments from Visual Animated Enchants. Reduces size and brightness to work better when using ENB, alters flame mesh shapes on unique weapons to fit more closely, and adjusts some colours.
 
 [**Dynamically Disable Eye Adaptation and Bloom v1.2.0**](https://www.nexusmods.com/skyrimspecialedition/mods/2135?tab=files): Disables the irritating eye adaptation and object blooming through scripting. Compatible with all image space lighting mods!
 
@@ -1081,6 +1072,15 @@ Required load order:
 [**Shadow of Transcience Mount Fix v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/381?tab=files): Replaces the original model with a new one which fixes a lot of issues.
 
 [**Shadow of Transcience Mount Fix Replacer v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/382?tab=files): Replaces the model of Shadow of Transciense if the Mount Fix is used.
+
+[**Armored Flesh v2.0**]: A small mod, offering improved visuals for each of the Alteration school's five armor spells.
+
+[**Visual Animated Enchants v0.2**](https://www.nexusmods.com/skyrimspecialedition/mods/7037?tab=files): A replacer for the visual and animation of the enchantments on weapons to make them more magical and immersive.  
+- Remove "Cell" data in xEdit.
+
+[**Qwinn's Refined Visual Animated Enchants v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/24665?tab=files): With L3stat's kind permission, a refinement and fix for various issues with Visual Animated Enchants.
+
+[**Adjusted Visual Animated Enchants (No ENB Complex Particle Lights) v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/50382?tab=files): Tweaks the appearance of enchantments from Visual Animated Enchants. Reduces size and brightness to work better when using ENB, alters flame mesh shapes on unique weapons to fit more closely, and adjusts some colours.
 
 [**Allow Fast Travel v1.3**](https://www.nexusmods.com/enderalspecialedition/mods/42?tab=files): Allows Fast Travel in Enderal.
 - Must be placed near end of load order as any mods that alter worldspace will break fast travel.
