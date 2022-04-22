@@ -23,6 +23,7 @@ New Mods:
 - Spellsiphon - Complete Edition v5.17-EA4: Experience gameplay focused on combos and synergy. Lessen the need for menus or hotkeys through a system where swapping spells and weapons is streamlined and rewarding. Continue the fight at 0 magicka by using new spell types. Enjoy a plethora of new sounds and visual effects. Grow in power by playing skillfully, not just from levels and gear.
 - 3D World Fog Map v1.0: Add fog back to the 3D world map!
 - MCM Recorder v1.07: Configuring MCMs has never been easier!
+- Stockade Old Grey Timber 4k New-1.1: A 4k or 2k retexturing of all stockade wood textures. These are found at farms, in forts, and out the front of mines Three options are now available due to popular request: Old Grey, Painted and Brown!
 - Skyland Imperial and Nordic Tents v1.6: Fixed bad texture pathing for large fur Nordic tent.
 - TB's Silver Ingot 4K v8.0: Adds a new cube map, diffuse and normal to the Silver Ingot - Available in 4K and 2K resolutions.
 - TB's Wine 4K Version v1.1: This is a retexture containing no ESPs which comes in 3 Variants - 2K, 4K and 8K and aims to improve upon the default Skyrim textures, thank you very much for considering my mod (Also introduces some transparency into the glass).
@@ -104,6 +105,7 @@ Updated Mods:
 - Enderal Distinctive Jewelry v1.5: Necklaces now use models from DovahBling Jewelry. Thanks testiger2 for the permission!
 
 Removed mods:
+- 4k Stockade: Redundant with Stockade Old Grey Timber 4k.
 - Enhanced Blood Textures SE (LITE VERSION) v1.1: Redundant with Enhanced Blood Textures Enderal SE.
 - I Want Better Weapons Iron Dark and Dirty SE v1.0: Redundant with Iron Things SE.
 - Craftable Bound Weapons v1.1: Not needed.
