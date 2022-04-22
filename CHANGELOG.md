@@ -42,6 +42,7 @@ New Mods:
 - Enderal VR Main Menu Logo v1.0: Adds the Enderal logo to the VR playroom main menu screen.
 - NPC Pathing Fixes (Heartland) v1.0: Improved the NPC pathing in the Heartland.
 - NPC Pathing Fixes (Whisperwood) v1.0: Improved the NPC pathing in the Whisperwood.
+- Pumpkin Fixes v1.0: Fixes some issues related to Pumpkins and related plants. 
 - Suncoast Enemy Placement Redone v1.01: Removes encounters, removes enemies from encounters, and moves enemies around.
 - Yero's Cave Full v1.1: Enhances Yero's cave by adding an unique boss and exchanges the way of how soul gems are filled.
 - Fire of the Mountain SE v1.0: This is the translation of a very nice quest mod. I've either enhanced it a bit as there were some slight issues.
