@@ -921,6 +921,8 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Unique Amulets and Masks SE Fixes v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/365?tab=files): Fixes some things related to SE updates.
 
+[**Pumpkin Fixes v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/399): Fixes some issues related to Pumpkins and related plants. 
+
 [**Moddable Iron-Steel Weapons v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/341): This fixes issues with weapon replacer mods that replace iron and steel weapons.
 
 [**Moddable Iron Armor v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/392?tab=files): This fixes issues with armor replacer mods not replacing iron armor.
