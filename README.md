@@ -1156,7 +1156,7 @@ Recommended game settings are listed below.  Note that the above Wabbajack insta
 10. Enable "Animated trees"
 11. Distance sliders are set to: Item 20%, Actor 20%, Objects 40%, Grass 100% (Skip this step if you adjusted [LOD] values manually in skyrimprefs.ini)
 
-## MCM Settings
+### MCM Settings
 * VRIK MCM 
 1. Disable "Adjust Held Weapons Position" to fix scoped bow aiming. 
 2. Select Body Holsters > Scroll down to Left Shoulder Holster > Untick "Visible".  This prevents your bow from clipping into the edge of your FOV when crouching in real life.
