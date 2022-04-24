@@ -613,7 +613,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**VR Refit - JS Purses and Septims Resized v1.0.1**](https://www.nexusmods.com/skyrimspecialedition/mods/49850?tab=files): A VR mod for smaller coins, coin purses, and coin piles from JS Purses and Septims. It also patches the invisible coin purse drop sound bug.
 
-[**Rally's Candlelight and Magelight Fix SE - VR v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/36594?tab=files): Fix for the Candlelight Spell and Magelight Spell in SE/VR.
+[**Rally's Candlelight and Magelight Fix SE - VR v1.3**](https://www.nexusmods.com/skyrimspecialedition/mods/36594?tab=files): Fix for the Candlelight Spell and Magelight Spell in SE/VR.
 
 [**JS Instruments of Skyrim SE v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/51959?tab=files): A complete remake of the Lute, Flute & Drum. Comes in 2k and 4k versions.
 - Delete ESP file.
