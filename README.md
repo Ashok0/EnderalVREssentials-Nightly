@@ -93,8 +93,7 @@ Recommended:
 ## MCM Settings
 Once you start a new game, you can configure your individual Enderal VR mods through the in-game Mod Configuration Menu (MCM) which is accessible under System > Mod Configuration.  All MCM settings are pre-configured for a good VR experience but following changes are suggested:
 
-* R.A.S.S.
-- Select Options > Raining and set this option to "Off" if you dislike waterdroplet effects on the camera when it is raining.
+* R.A.S.S:  Select Options > Raining and set this option to "Off" if you dislike waterdroplet effects on the camera when it is raining.
 
 ## In-Game Settings
 1. Under System > Settings > VR Performance > Object Fade, set "Object Fade" to 0% to significantly improve performance in large outdoor areas.  This is the most resource intensive setting for Enderal VR. (Set to 40% by default to reduce pop-in effects when walking around).
