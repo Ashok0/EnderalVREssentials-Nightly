@@ -1168,29 +1168,26 @@ Recommended game settings are listed below.  Note that the above Wabbajack insta
 
 ## Nemesis Configuration
 
-### Flinching Animations / ADXP
-Flinching adds flinching animations.  NPCs will react with an animation when attacked with the right fist or melee weapons in either hand.  Flinching has been pre-configured with Wabbajack but the configuration process has been documented below for reference. 
-
+### ADXP
 ADXP is a framework built on SkySA that bypasses the Skyrim animation wall, allowing for modern combat.  It brings chainable power attacks, animated charged attacks, animated transitions and non linear movesets to Skyrim.  While most of these features are inconsequential in VR as you never see the player moving in third person, ADXP is extremely useful in overhauling NPC animations.  With this mod, enemies move slower with more fluid Dark Souls style movements during combat. 
 
-1. In Windows, navigate to "Virus and Threat Protection" > "Manage Settings" and temporarily untick "Real-time protection" or Windows may prevent Nemesis from running properly.  
-2. For Flinching: Install "Spell, Perk, Item Distributor", "Ultimate Combat and Creatures Behaviour compatibility for Nemesis", and "Flinching SSE VR" mods in MO2.  Remove any previously installed FNIS related mods.
-3. For ADXP: Install "VR Address Library for SKSEVR", "Dynamic Animation Replacer for Skyrim VR", "Animation Motion Revolution VR", and "ADXP" (delete MCO.dll) mods.
-4. Download Nemesis Unlimited Behavior Engine from [HERE](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main/releases).
-5. Launch MO2 and install Nemesis Unlimited Behavior Engine as a regular mod.  (This tool must be run from the MO2 virtual file system or Skyrim Data folder)
-6. Select Tools > Executables > Add an executable ("+" icon in upper left) > Add from file > Navigate to "Nemesis Unlimited Behavior Engine.exe" in the \mods\Nemesis\Nemesis_Engine\ subfolder in your MO2 folder and select "Open"
-7. Right click on "Overwrite" in the left window pane and select: Clean Overwrite > OK.  (If applicable, this option may not be available if your overwrite folder is already clean)
-8. Select Nemesis Unlimited Behavior Engine from upper right drop down and click RUN
-9. Click OK for both Warning pop-ups
-10. Click "Update Engine"
-11. For Flinching, tick the "Flinching Animations" option.  For ADXP, tick the "Attack - Distar Experience" option.
-12. Click "Launch Nemesis Behavior Engine". 
-13. Wait for the process to finish and then close the Nemesis Unlimited Behavior Engine.  
-14. Right click on "Overwrite" and select "Create Mod".  Enter a custom name i.e. Nemesis_Output and click OK.
-15. Tick "Nemesis_Output" in the left window pane. 
-16. Revert the upper right dropdown bar back to "SKSE".
-17. Re-enable "Real-time protection" in Windows.
-18. You may need to re-run this process if you change your load order.
+1. In Windows, navigate to "Virus and Threat Protection" > "Manage Settings" and temporarily untick "Real-time protection" or Windows may prevent Nemesis from running properly.
+2. Install "VR Address Library for SKSEVR", "Dynamic Animation Replacer for Skyrim VR", "Animation Motion Revolution VR", and "ADXP" (delete MCO.dll) mods.
+3. Download Nemesis Unlimited Behavior Engine from [HERE](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main/releases).
+4. Launch MO2 and install Nemesis Unlimited Behavior Engine as a regular mod.  (This tool must be run from the MO2 virtual file system or Skyrim Data folder)
+5. Select Tools > Executables > Add an executable ("+" icon in upper left) > Add from file > Navigate to "Nemesis Unlimited Behavior Engine.exe" in the \mods\Nemesis\Nemesis_Engine\ subfolder in your MO2 folder and select "Open"
+6. Right click on "Overwrite" in the left window pane and select: Clean Overwrite > OK.  (If applicable, this option may not be available if your overwrite older is already clean)
+7. Select Nemesis Unlimited Behavior Engine from upper right drop down and click RUN
+8. Click OK for both Warning pop-ups
+9. Click "Update Engine"
+10. Tick the "Attack - Distar Experience" option.
+11. Click "Launch Nemesis Behavior Engine". 
+12. Wait for the process to finish and then close the Nemesis Unlimited Behavior Engine.  
+13. Right click on "Overwrite" and select "Create Mod".  Enter a custom name i.e. Nemesis_Output and click OK.
+14. Tick "Nemesis_Output" in the left window pane. 
+15. Revert the upper right dropdown bar back to "SKSE".
+16. Re-enable "Real-time protection" in Windows.
+17. You may need to re-run this process if you change your load order.
 
 ## DynDOLOD 3 and SkyVRaan Configuration
 
