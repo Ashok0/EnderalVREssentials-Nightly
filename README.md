@@ -482,12 +482,6 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Spell Perk Item Distributor VR v5.2.0.3**](https://www.nexusmods.com/skyrimspecialedition/mods/59121?tab=files): SKSEVR plugin that can be used to add spells/perks/items/shouts/packages/outfits/keywords/factions to every NPC in the game, using config files. This is the VR version built from po3's source.
 
-[**Ultimate Combat and Creatures Behaviour compatibility for Nemesis v1.12**](https://www.nexusmods.com/skyrimspecialedition/mods/45966?tab=files): This is just a VERY HACKY compatibility patch thing for creature behaviour edits, Nemesis and Ultimate combat, as more and more mods are coming out effecting creature's behaviours it just makes sense to have something like this instead of it being inside multiple mods.
-
-- Requires patching with Nemesis.
-
-[**Flinching for VR v1.4**](https://www.nexusmods.com/skyrimspecialedition/mods/42550?tab=files): A little mod that allows the player and NPCs to flinch when hit. This version uses the OnHitFramework for hit detection.
-
 [**VRIK V0.8.1. In-Dev Build 28**](https://www.nexusmods.com/skyrimspecialedition/mods/23416?tab=files): VRIK will display the player character's body in SkyrimVR and animate it to match your movements. Weapons can be kept, drawn, and sheathed in up to 14 visible holsters on your body. An input gesture system allows users to bind actions to gestures on each hand, reducing the need to open menus. An MCM menu allows full configuration of everything.
 - Make the following changes to these VRIK INI files to pre-configure MCM settings with proper behavior for bows:  
 	- vrik.ini: weaponAdjustment = 0
