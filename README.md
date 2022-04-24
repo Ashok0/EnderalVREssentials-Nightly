@@ -91,20 +91,10 @@ Recommended:
 		* You can optionally click "Shortcut" underneath "Run" to create a shortcut for launching Enderal VR directly from the Windows desktop!
 
 ## MCM Settings
-Once you start a new game, you can configure your individual Enderal VR mods through the in-game Mod Configuration Menu (MCM) which is accessible under System > Mod Configuration.  Most MCM settings can be left as default but the following changes are recommended:
-* VRIK MCM 
-1. Disable "Adjust Held Weapons Position" to fix scoped bow aiming.  (Disabled by default)
-2. Select Body Holsters > Scroll down to Left Shoulder Holster > Untick "Visible".  This prevents your bow from clipping into the edge of your FOV when crouching in real life. (Unticked by default) 
-3. Select Controls > Tick "Selfie Mode" if you want to be able to view and take photos of your character in third person.  You can activate and deactivate the third person view by raising your right hand in the air.  (Disabled by default)
-4. Select Controls > Set "Cast Spells" to "When Hand Closes + Opens" to allow you to cast elemental spells by quickly squeezing your fist and then opening your hand.  (Disabled by default)
-
-* Spell Wheel VR MCM: 
-1. Select Presets > SpellSword + More Pages (Loads preset for equipping spells, weapons, and items from the spell wheel across multiple pages)
-2. Select General > Tick "Unequip to Grab with Higgs" (Allows you to grab potions directly from the Spell Wheel menu to your hand for added immersion)
-3. Select Advanced > Set "Slow Time Scale" to 5.  (Enables slow motion when selecting items from the spell wheel)
+Once you start a new game, you can configure your individual Enderal VR mods through the in-game Mod Configuration Menu (MCM) which is accessible under System > Mod Configuration.  All MCM settings are pre-configured for a good VR experience but following changes are suggested:
 
 * R.A.S.S.
-1. Select Options > Raining and set this option to "Off" if you dislike waterdroplet effects on the camera when it is raining.
+- Select Options > Raining and set this option to "Off" if you dislike waterdroplet effects on the camera when it is raining.
 
 ## In-Game Settings
 1. Under System > Settings > VR Performance > Object Fade, set "Object Fade" to 0% to significantly improve performance in large outdoor areas.  This is the most resource intensive setting for Enderal VR. (Set to 40% by default to reduce pop-in effects when walking around).
@@ -1165,6 +1155,16 @@ Recommended game settings are listed below.  Note that the above Wabbajack insta
 9. Enable "Skinned trees"
 10. Enable "Animated trees"
 11. Distance sliders are set to: Item 20%, Actor 20%, Objects 40%, Grass 100% (Skip this step if you adjusted [LOD] values manually in skyrimprefs.ini)
+
+## MCM Settings
+* VRIK MCM 
+1. Disable "Adjust Held Weapons Position" to fix scoped bow aiming. 
+2. Select Body Holsters > Scroll down to Left Shoulder Holster > Untick "Visible".  This prevents your bow from clipping into the edge of your FOV when crouching in real life.
+
+* Spell Wheel VR MCM: 
+1. Select Presets > SpellSword + More Pages (Loads preset for equipping spells, weapons, and items from the spell wheel across multiple pages)
+2. Select General > Tick "Unequip to Grab with Higgs" (Allows you to grab potions directly from the Spell Wheel menu to your hand for added immersion)
+3. Select Advanced > Set "Slow Time Scale" to 5.  (Enables slow motion when selecting items from the spell wheel)
 
 ## Nemesis Configuration
 
