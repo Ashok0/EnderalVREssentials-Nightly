@@ -983,15 +983,12 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Frozen Electrocuted Combustion VR v5.0.0.1**](https://www.nexusmods.com/skyrimspecialedition/mods/59118?tab=files): Applies visual effects to NPCs and the player, when killed by air, ash, dragons, drain, fire, frost, fear, lightning, poison, soultrap, steam and sun damage status effects. VR version that requires original FEC to run.
 
-[**Enderal Missing Race Fix (For mods such as FEC) v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/321?tab=files): Adds the missing player race-entries from Skyrim into Enderal (leaving Enderal's overwriting of the other races intact!) for any\all mods that requires their existence, such as FEC.
-
 Required load order:
 * VR Address Library for SKSEVR
 * powerofthree's Papyrus Extender 
 * Papyrus Extender VR
 * Frozen Electrocuted Combustion 
 * Frozen Electrocuted Combustion VR
-* Enderal Missing Race Fix (For mods such as FEC) 
 
 [**Enderal NPC Overhaul - SE version v2.3.1**](https://www.nexusmods.com/enderalspecialedition/mods/150?tab=description): Overhaul of all NPCs in Enderal. Most important NPCs are given unique look (100+), others - KS Hairdos Hair. NO ESP. No requirements.
 
