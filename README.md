@@ -562,11 +562,6 @@ If you are using a language pack, you may need to change the font used by Dear D
 - Remove \meshes\architecture\farmhouse\farmhousewindmill, \meshes\architecture\solitude\swindmill.nif, and \meshes\architecture\solitude\swindmillrotor.nif to revert windmills back to vanilla which arguably look better in VR.
 - Remove ESP file.
 
-[**High Poly Project v5.3**](https://www.nexusmods.com/skyrimspecialedition/mods/12029?tab=files): An on going process to improve the models of the game with more polygons, UV edits or just replace them all together. SMIM was the inspiration and the lack of similar mods led me to make this.
-- Should be installed with a Custom Install.  Skip "Farmhouse Stone Walls" and "Wine Bottles" as these are better replaced by seperate mods.  
-- Delete ESP file.
-- If you experience purple texture glitches, re-install the mod and untick "Whiterun Clutter", "Smelter Coal", "Furniture", "Plants", and "Riften 3D Leaves".  These at a minimum were incompatible with Enderal VR when using HPP v4.95.  Untested with v5.x. 
-
 [**Noble Skyrim FULL PACK Performance Edition v5.5.0**](https://www.nexusmods.com/skyrimspecialedition/mods/21423?tab=files): Gives all of Skyrim's architecture a complete new look by changing its textures to custom ones. Beside the architecture, several other things, such as landscape, dungeons (ruins, mines, caves etc.), clutter stuff etc. have been re-textured as well, to match the rest of the mod.
 - Recommend placing before other texture packs; Remove "whroughgroundmud.dds".
 
