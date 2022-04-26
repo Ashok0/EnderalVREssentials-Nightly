@@ -61,6 +61,8 @@ New Mods:
 - Shadow of Transcience Mount Fix v1.0: Replaces the original model with a new one which fixes a lot of issues.
 - Shadow of Transcience Mount Fix Replacer v1.0: Replaces the model of Shadow of Transciense if the Mount Fix is used.
 - Arachnophobia - No Spiders and Beetles v1.0: This mod replaces Spiders with Wolves and Beetles with Bears.  Disabled by default.  Use this mod to remove spiders and beetles OR 'Replace spiders with wolfs and bears' to only remove spiders.
+- Kolapon's Undead Creatures Replacer v1.2u: Changes the appearance of some of the creatures so they are unique to Enderal.
+- XP32 Maximum Skeleton Special Extended - XPMSSE v4.8: XP32 Maximum Skeleton Special Extended is the update of XP32 Maximum Skeleton Extended for Skyrim Special Edition.
 
 Updated Mods:
 - Enderal VR v3.2: Fixed quest Two souls part 5 cqc05: Romance with Calia. Some animation issues and Calia not responding (oh my). Moved some funitures (chairs) in MQP01House to make pathfinding easier for the player in VR. Fixed one Ending : slight modification of scene 2 MQ18a to fix potential player bugs (animations).
