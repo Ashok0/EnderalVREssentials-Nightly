@@ -112,6 +112,7 @@ Removed mods:
 - I Want Better Weapons Iron Dark and Dirty SE v1.0: Redundant with Iron Things SE.
 - Craftable Bound Weapons v1.1: Not needed.
 - Ultimate Combat and Creatures Behavior Compatability for Nemesis / Flinching SSE VR: Redundant with PLANCK.
+- Enderal Missing Race Fix (For mods such as FEC) v1.0: No longer needed with FEC v5.
 
 Parallax Textures:
 - Skyrim Remastered - Caves 4K Parallax v1.0: A retexture of Skyrim's caves, with a complete overhaul for the ice caves to make them look like actual ice. Offered in 4k, 2k, and 1k texture quality with parallax options.
