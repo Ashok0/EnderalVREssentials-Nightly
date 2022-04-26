@@ -107,6 +107,7 @@ Updated Mods:
 - Enderal Distinctive Jewelry v1.5: Necklaces now use models from DovahBling Jewelry. Thanks testiger2 for the permission!
 
 Removed mods:
+- High Poly Project v5.3: Redundant with other texture/mesh mods.
 - 4k Stockade: Redundant with Stockade Old Grey Timber 4k.
 - Enhanced Blood Textures SE (LITE VERSION) v1.1: Redundant with Enhanced Blood Textures Enderal SE.
 - I Want Better Weapons Iron Dark and Dirty SE v1.0: Redundant with Iron Things SE.
