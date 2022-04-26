@@ -836,38 +836,44 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Suncoast Enemy Placement Redone v1.01**](https://www.nexusmods.com/enderalspecialedition/mods/387?tab=files): Removes encounters, removes enemies from encounters, and moves enemies around.
 
-[**EOP SE - Enderal SE Outposts v1.02**](https://www.nexusmods.com/enderalspecialedition/mods/18?tab=files): Adds order outposts, fortifies some camps with additional protection. 
-
 [**Delectable Docks SE v1.2**](https://www.nexusmods.com/enderalspecialedition/mods/77?tab=files): Adds many details to the docks and harbors of Enderal focused on improving immersion.
 
 [**Delectable Docks SE - ESP Fix v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/77): SE port of my delectable docks mod.
 
-[**Riverville Catacombs SE v1.02**](https://www.nexusmods.com/enderalspecialedition/mods/80?tab=files): Forgotten Dungeons implements cut content, originally made by SureAI, with updates and fixes to fit seamlessly into the game.
+[**Dust Pit Revised v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/307?tab=files): Immersive rework of Dust Pit Arena.
 
-[**Enderal SE - Undercity Arena Fix v.1.02**](https://www.nexusmods.com/enderalspecialedition/mods/9?tab=files): Reworks the undercity arena to be less cheeseable, bigger and fixes an issue with shadows.
+[**Center of the Earth v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/196?tab=files): Follow Yaronth of Aran's ill-fated expedition to the center of the earth.
+
+[**Undercity Home v1.1**](https://www.nexusmods.com/enderalspecialedition/mods/146?tab=files): A simple place for you to sleep in the Undercity - ported to SE.
+
+[**Beach House v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/145?tab=files): There is an abondoned house at the Sun Coast beach for you to explore and occupy as a player home.
+
+[**White Hearth - Enderal SE v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/137?tab=files): A new player home near Ark (port to SE).
+
+[**Tamira's Enderal Log Cabin SE - Player Home v1.1**](https://www.nexusmods.com/enderalspecialedition/mods/114?tab=files): A small player home near Riverville.
 
 [**Noble Quarter Player Home Redone v1.03**](https://www.nexusmods.com/enderalspecialedition/mods/66?tab=files): Overhauls player home in Nobles Quarter.
 
 [**Patch for Mandragorasprouts' Noble Quarter Player House Redone mod v0.1**](https://www.nexusmods.com/enderalspecialedition/mods/117?tab=files): This mod will fix Display Cases in both Player Homes (Ark Marketplace & Noble Quarter) so they actually work.
 
-[**Forgotten Dungeons - Abandoned Excavation Site v1.01**](https://www.nexusmods.com/enderalspecialedition/mods/110): Forgotten Dungeons implements cut content, originally made by SureAI, with updates and fixes to fit seamlessly into the game.
+[**Meditation Area Fixes v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/265?tab=files): Fixes some issues in the meditation area.
 
-[**Tamira's Enderal Log Cabin SE - Player Home v1.1**](https://www.nexusmods.com/enderalspecialedition/mods/114?tab=files): A small player home near Riverville.
+[**EOP SE - Enderal SE Outposts v1.02**](https://www.nexusmods.com/enderalspecialedition/mods/18?tab=files): Adds order outposts, fortifies some camps with additional protection. 
+
+[**Riverville Catacombs SE v1.02**](https://www.nexusmods.com/enderalspecialedition/mods/80?tab=files): Forgotten Dungeons implements cut content, originally made by SureAI, with updates and fixes to fit seamlessly into the game.
+
+[**Enderal SE - Undercity Arena Fix v.1.02**](https://www.nexusmods.com/enderalspecialedition/mods/9?tab=files): Reworks the undercity arena to be less cheeseable, bigger and fixes an issue with shadows.
+
+[**Forgotten Dungeons - Abandoned Excavation Site v1.01**](https://www.nexusmods.com/enderalspecialedition/mods/110): Forgotten Dungeons implements cut content, originally made by SureAI, with updates and fixes to fit seamlessly into the game.
 
 [**Frostville SE v1.02**](https://www.nexusmods.com/enderalspecialedition/mods/127?tab=files): A small but functional settlement overhaul for the Frostcliff Tavern.
 - Do not update to v1.03.  Incompatible with Enderal VR.
-
-[**White Hearth - Enderal SE v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/137?tab=files): A new player home near Ark (port to SE).
 
 [**Thalgard Monastery v1.01**](https://www.nexusmods.com/enderalspecialedition/mods/133?tab=files): Forgotten Dungeons implements cut content, originally made by SureAI, with updates and fixes to fit seamlessly into the game.
 
 [**EAM SE - Enderal Apothecarii Monastery v1.05**](https://www.nexusmods.com/enderalspecialedition/mods/34?tab=files): Adds the Apothecarii Monastery including: Huge monastery area, over 10 interiors, 2 dungeons and much more.
 
-[**Beach House v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/145?tab=files): There is an abondoned house at the Sun Coast beach for you to explore and occupy as a player home.
-
 [**Golden Mare Mill SE v1.02**](https://www.nexusmods.com/enderalspecialedition/mods/142?tab=files): Golden Mare Mill provides a quaint player home in the scenic area of Riverville which is rewarded for the completion of the quest "Secrets from the Can".
-
-[**Undercity Home v1.1**](https://www.nexusmods.com/enderalspecialedition/mods/146?tab=files): A simple place for you to sleep in the Undercity - ported to SE.
 
 [**Wellwatch Manor SE v1.01**](https://www.nexusmods.com/enderalspecialedition/mods/151?tab=files): Adds a proper outpost to the Wellwatch myrad tower and a purchasable player home.
 
@@ -877,13 +883,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Seaview Lodge SE v1.02**](https://www.nexusmods.com/enderalspecialedition/mods/188?tab=files): Seaview Lodge adds a player home in the scenic area of the sea near Ark.
 
-[**Center of the Earth v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/196?tab=files): Follow Yaronth of Aran's ill-fated expedition to the center of the earth.
-
-[**Meditation Area Fixes v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/265?tab=files): Fixes some issues in the meditation area.
-
 [**Forgotten Dungeons - Palm Cove v1.02**](https://www.nexusmods.com/enderalspecialedition/mods/272?tab=files): Forgotten Dungeons implements cut content, originally made by SureAI, with updates and fixes to fit seamlessly into the game.
-
-[**Dust Pit Revised v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/307?tab=files): Immersive rework of Dust Pit Arena.
 
 [**Storeable Phasmalist Talismans v1.01**](https://www.nexusmods.com/enderalspecialedition/mods/68?tab=files): Allows you to store away Phasmalist Talismans.
 
@@ -913,8 +913,6 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Sting of the Blue Islands Replacer v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/86?tab=files): Replaces that Ugly Scimitar with something worthy of betraying the Golden Sickle for.
 
-[**Craftable Bound Weapons v1.1**](https://www.nexusmods.com/enderalspecialedition/mods/195?tab=files): Allows the player to craft and temper fully functional permanent bound weapons and arrows. Can be crafted at any smithy for 2 filled grand soul gems and tempered for 1 grand soul gem at any grindstone. Fully compatible.
-
 [**Bowgasm SE - Nicos AIO Vanilla Bow Replacer SE v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/42929?tab=files): Optional file is a non-plug in replacer for nearly all Vanilla bows in game with higher poly models, more realistic shapes, and higher resolution textures.
 
 [**Steel Swords Redone v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/18670/?tab=files): This mod adds new models and textures for the steel sword and steel greatsword.
@@ -923,7 +921,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Maps - SE v1.2**](https://www.nexusmods.com/enderal/mods/49?tab=files): You can now buy maps that will show you the landmarks of the region.
 
-[**Ark Easserspeier - Ark Watersprouts (SE) v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/62?tab=files): Changes the waterspouts in the Foreign Quarter in Ark.
+[**Ark Wasserspeier - Ark Watersprouts (SE) v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/62?tab=files): Changes the waterspouts in the Foreign Quarter in Ark.
 
 [**Waterspout Fixes v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/374?tab=files): Fixes some things from the Waterspouts mod.
 
@@ -1050,6 +1048,14 @@ Required load order:
 
 [**Shadow of Transcience Mount Fix Replacer v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/382?tab=files): Replaces the model of Shadow of Transciense if the Mount Fix is used.
 
+[**Kolapon's Undead Creatures Replacer v1.2u**](https://www.nexusmods.com/enderalspecialedition/mods/64?tab=files): Changes the appearance of some of the creatures so they are unique to Enderal.
+
+[**XP32 Maximum Skeleton Special Extended - XPMSSE v4.8**](https://www.nexusmods.com/skyrimspecialedition/mods/1988?tab=files): XP32 Maximum Skeleton Special Extended is the update of XP32 Maximum Skeleton Extended for Skyrim Special Edition.
+
+[**Replace spiders with wolfs and bears v1.0.1**](https://www.nexusmods.com/enderalspecialedition/mods/31?tab=files): Replaces spiders with wolves and bears.
+
+[**Arachnophobia - No Spiders and Beetles v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/359?tab=files): This mod replaces Spiders with Wolves and Beetles with Bears.
+
 [**Armored Flesh v2.0**]: A small mod, offering improved visuals for each of the Alteration school's five armor spells.
 
 [**Visual Animated Enchants v0.2**](https://www.nexusmods.com/skyrimspecialedition/mods/7037?tab=files): A replacer for the visual and animation of the enchantments on weapons to make them more magical and immersive.  
@@ -1061,10 +1067,6 @@ Required load order:
 
 [**Allow Fast Travel v1.3**](https://www.nexusmods.com/enderalspecialedition/mods/42?tab=files): Allows Fast Travel in Enderal.
 - Must be placed near end of load order as any mods that alter worldspace will break fast travel.
-
-[**Replace spiders with wolfs and bears v1.0.1**](https://www.nexusmods.com/enderalspecialedition/mods/31?tab=files): Replaces spiders with wolves and bears.
-
-[**Arachnophobia - No Spiders and Beetles v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/359?tab=files): This mod replaces Spiders with Wolves and Beetles with Bears.
 
 [**SSEEdit_Output**]: Conflict resolution patches generated with [**SSEEdit**](https://www.nexusmods.com/enderalspecialedition/mods/78?tab=files).
 
