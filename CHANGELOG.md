@@ -114,8 +114,6 @@ Removed mods:
 - Craftable Bound Weapons v1.1: Not needed.
 - Ultimate Combat and Creatures Behavior Compatability for Nemesis / Flinching SSE VR: Redundant with PLANCK.
 - Enderal Missing Race Fix (For mods such as FEC) v1.0: No longer needed with FEC v5.
-- Enderal SE - Bears of the North v1.01: Redundant with EGO SE - Bears of the North.
-- Meditation Area Fixes v1.0: Redundant with EGO SE - Meditation Area Fixes.
 
 Parallax Textures:
 - Skyrim Remastered - Caves 4K Parallax v1.0: A retexture of Skyrim's caves, with a complete overhaul for the ice caves to make them look like actual ice. Offered in 4k, 2k, and 1k texture quality with parallax options.
