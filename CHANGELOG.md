@@ -61,8 +61,38 @@ New Mods:
 - Shadow of Transcience Mount Fix v1.0: Replaces the original model with a new one which fixes a lot of issues.
 - Shadow of Transcience Mount Fix Replacer v1.0: Replaces the model of Shadow of Transciense if the Mount Fix is used.
 - Arachnophobia - No Spiders and Beetles v1.0: This mod replaces Spiders with Wolves and Beetles with Bears.  Disabled by default.  Use this mod to remove spiders and beetles OR 'Replace spiders with wolfs and bears' to only remove spiders.
+- Deerstalker Redone v1.01: Renames Mountain Deerstalker and Shadow Deerstalker to Shadow Stalker and adds appropriate loot.
 - Kolapon's Undead Creatures Replacer v1.2u: Changes the appearance of some of the creatures so they are unique to Enderal.
 - XP32 Maximum Skeleton Special Extended - XPMSSE v4.8: XP32 Maximum Skeleton Special Extended is the update of XP32 Maximum Skeleton Extended for Skyrim Special Edition.
+- Enable TAA FX: Re-enables TAA FX with parallax support via VR FPS Stabilizer.
+- Vanilla HUD Size for VR: Overrides UI with larger vanilla sized HUD.
+- EGO SE - Enderal Gameplay Overhaul v1.88: This is a complete overhaul of the gameplay mechanics of Enderal. This includes a ton of balance changes, improvements to the ai, new gameplay mechanics, new weapons/spells/potions and much more. (ENG/GER/RUS)
+- EGO SE - Myths and Legends VI - The Forgotten One v1.01: A balance patch for Enderal SE Gameplay Overhaul. Compatible with all languages.
+- EGO SE - Playable Half Starling Race v1.0.3: Adds Half Starlings as a playable race. (ENDERAL GAMEPLAY OVERHAUL VERSION) Only download one of the files.
+- EGO SE - Thalgard Monastery v1.00: Compatibility patch for Enderal Gameplay Overhaul. (ENG/GER/RUS)
+- EGO SE - EAM SE - Enderal Apothecarii Monastery v1.02: Compatibility patch for Enderal Gameplay Overhaul.
+- EGO SE - Wellwatch Manor SE v1.00: Replaces the Secure Chest with an EGO Secure Chest. (not needed if you use the secure chest optional patch) Load EGO patch after the main file and before the translation file!
+- EGO SE - Riverville Jail SE v1.00: Compatibility patch for Enderal Gameplay Overhaul.
+- EGO SE - Bank of Ark SE v1.00: Compatibility patch for Enderal Gameplay Overhaul.
+- EGO SE - Meditation Area Fixes v1.00: Enderal Gameplay Overhaul Version. Only download one of the files.
+- EGO SE - Unique Amulets and Masks v1.00: Compatibility patch for Enderal Gameplay Overhaul and Unique Amulets and Masks.
+- EGO SE - Moddable Iron Armor v1.00: Enderal Gameplay Overhaul Version. Only download one of the files.
+- EGO SE - Moddable Iron-Steel Weapons v1.01: Enderal Gameplay Overhaul Version. Only download one of the files.
+- EGO SE - Even More Unique Weapons v1.02: Compatibility patch for Enderal Gameplay Overhaul and Even More Unique Weapons. (ENG/GER/RUS)
+- EGO SE - Bears of the North v1.01: Enderal Gameplay Overhaul version. (Only download this or the other)
+- EGO SE - Deerstalker Redone v1.01: Renames Mountain Deerstalker and Shadow Deerstalker to Shadow Stalker and adds appropriate loot.
+- EGO SE - Donkey v1.1.1: Compatibility patch for Enderal Gameplay Overhaul and Enderal - Donkey. (ENG/GER/RUS)
+- EGO SE - Enderal SE - Savage Wolves and Feral Foxes v1.0: Compatibility patch for Savage Wolves and Feral Foxes.
+- EGO SE - Kolapon's Various Creatures Replacer v1.0: Compatibility patch for Enderal Gameplay Overhaul and Kolapon's Various Creatures Replacer.
+- EGO SE - Kolapon's Undead Creatures Replacer v1.0: Compatibility patch for Enderal Gameplay Overhaul and Kolapon's Undead Creatures Replacer.
+- Enderal Armor and Weapon Overhaul v2.0: This mod changes almost every piece of armor and weapon in the game. And some clothes. No more Skyrim flashbacks in Enderal.
+- Enderal Armor and Weapon Overhaul - Replacer v1.14: Apoapse's Accoutrement patch for EAWO.
+- Apoapse's Accoutrement v1.0: Weapons and armor have been totally remodeled, with assets pulled from dozens of excellent Skyrim mods, to match our “Age of Sail” theme. Most outfits have been hand-selected for different NPCs, both generic and unique, to fit the setting.
+- Prime Fixes v2.0: Fixes pauldrons in Apoapse's Accoutrement.
+- Somnium Retextures v1.0: Textures/meshes for Apoapse's Accoutrement.
+- Somnium Music Edits v1.0: New music for main menu.
+- Amanda Vanilla Outfit Override v1.0: Overrides Amanda's outfit with her vanilla Venturer outfit.
+- Nightingale Bow Scoped Override v1.0: Overrides Nightingale with scoped version for VR.
 
 Updated Mods:
 - Enderal VR v3.2: Fixed quest Two souls part 5 cqc05: Romance with Calia. Some animation issues and Calia not responding (oh my). Moved some funitures (chairs) in MQP01House to make pathfinding easier for the player in VR. Fixed one Ending : slight modification of scene 2 MQ18a to fix potential player bugs (animations).
