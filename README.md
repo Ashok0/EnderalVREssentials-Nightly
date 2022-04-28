@@ -793,8 +793,6 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**Bijin Skin - CBBE v1.4**](https://www.nexusmods.com/skyrimspecialedition/mods/20078?tab=files): Skin textures for CBBE and UNP made by rxkx22.
 - Installed with default settings with "4K - Wet" specular maps.
 
-[**Equipable Female Tattoo UNP CBBE v1.0**]: Mod adds 5 x Equippable Tattoo skins for UUNP or CBBE Options are: Bijin, Leyenda or Fair Skin Complexion.
-
 [**Deadly Spell Impacts v1.7**](https://www.nexusmods.com/skyrimspecialedition/mods/12939?tab=files): Fire, lightning, frost, and spit (Spider/Chaurus) spell impacts now have their own unique textures. This mod also increases the variation in impact size, increases the size of dragon breath impacts, and adds melted snow impacts for fire and lightning spells.
 
 [**Visual Animated Enchants v0.2**](https://www.nexusmods.com/skyrimspecialedition/mods/7037?tab=files): A replacer for the visual and animation of the enchantments on weapons to make them more magical and immersive.  
@@ -1039,6 +1037,8 @@ Required load order:
 
 [**Deerstalker (Sabrecat) Replacer v1.01**](https://www.nexusmods.com/enderalspecialedition/mods/122?tab=files): Replaces the Deerstalker (Sabrecat) models with high quality alternatives.
 
+[**Deerstalker Redone v1.01**](https://www.nexusmods.com/enderalspecialedition/mods/122?tab=files): Renames Mountain Deerstalker and Shadow Deerstalker to Shadow Stalker and adds appropriate loot.
+
 [**Frost Troll Replacer v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/121?tab=files): Replaces the model of Frost Trolls with high-quality alternatives.
 
 [**Oorbaya Replacer v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/296?tab=files): Replaces the models Oorbayas with high quality alternatives.
@@ -1060,13 +1060,56 @@ Required load order:
 
 [**XP32 Maximum Skeleton Special Extended - XPMSSE v4.8**](https://www.nexusmods.com/skyrimspecialedition/mods/1988?tab=files): XP32 Maximum Skeleton Special Extended is the update of XP32 Maximum Skeleton Extended for Skyrim Special Edition.
 
+[**Enable TAA FX**](https://www.nexusmods.com/skyrimspecialedition/mods/31392?tab=files): Re-enables TAA FX via VR FPS Stabilizer.  Fix parallax with TAA by adding the following line to \VR FPS Stabilizer\SKSE\Plugins\VRFpsStabilizer.ini:
+- taa hf 0
+
+[**Vanilla HUD Size for VR**]: Overrides UI with larger vanilla sized HUD.
+
 [**VRIK Rift-Index-WMR Controller Bindings V2.1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/23416?tab=files): These control bindings are an optional add-on for VRIK to make it easier to use holsters.  The button for shout has been moved to Right A (or the right WMR touchpad), and interact is performed by squeezing the right grip.  Sprinting is now done by squeezing the left grip.  With these "safe" inputs on grips, players do not need to worry about shouting accidentally when grabbing holstered weapons.
+
+[**Equipable Female Tattoo UNP CBBE v1.0**]: Mod adds 5 x Equippable Tattoo skins for UUNP or CBBE Options are: Bijin, Leyenda or Fair Skin Complexion.
 
 [**Replace spiders with wolfs and bears v1.0.1**](https://www.nexusmods.com/enderalspecialedition/mods/31?tab=files): Replaces spiders with wolves and bears.
 
 [**Arachnophobia - No Spiders and Beetles v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/359?tab=files): This mod replaces Spiders with Wolves and Beetles with Bears.
 
+[**EGO SE - Enderal Gameplay Overhaul v1.88**](https://www.nexusmods.com/enderalspecialedition/mods/3?tab=files): This is a complete overhaul of the gameplay mechanics of Enderal. This includes a ton of balance changes, improvements to the ai, new gameplay mechanics, new weapons/spells/potions and much more. (ENG/GER/RUS)
 
+[**EGO SE - Myths and Legends VI - The Forgotten One v1.01**](https://www.nexusmods.com/enderalspecialedition/mods/25?tab=files): A balance patch for Enderal SE Gameplay Overhaul. Compatible with all languages.
+
+[**EGO SE - Playable Half Starling Race v1.0.3**](https://www.nexusmods.com/enderalspecialedition/mods/100?tab=files): Adds Half Starlings as a playable race. (ENDERAL GAMEPLAY OVERHAUL VERSION) Only download one of the files.
+
+[**EGO SE - Thalgard Monastery v1.00**](): 
+
+[**EGO SE - EAM SE - Enderal Apothecarii Monastery v1.02**](): 
+
+[**EGO SE - Wellwatch Manor SE v1.00**](): 
+
+[**EGO SE - Riverville Jail SE v1.00**](): 
+
+[**EGO SE - Bank of Ark SE v1.00**](): 
+
+[**EGO SE - Meditation Area Fixes v1.00**](): 
+
+[**EGO SE - Unique Amulets and Masks v1.00**](): 
+
+[**EGO SE - Moddable Iron Armor v1.00**](): 
+
+[**EGO SE - Moddable Iron-Steel Weapons v1.01**](): 
+
+[**EGO SE - Even More Unique Weapons v1.02**](): 
+
+[**EGO SE - Bears of the North v1.01**](): 
+
+[**EGO SE - Deerstalker Redone v1.01**](https://www.nexusmods.com/enderalspecialedition/mods/122?tab=files): Renames Mountain Deerstalker and Shadow Deerstalker to Shadow Stalker and adds appropriate loot.
+
+[**EGO SE - Donkey v1.1.1**](): 
+
+[**EGO SE - Enderal SE - Savage Wolves and Feral Foxes v1.0**](): 
+
+[**EGO SE - Kolapon's Various Creatures Replacer v1.0**](): 
+
+[**EGO SE - Kolapon's Undead Creatures Replacer v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/342?tab=files): Compatibility patch for Enderal Gameplay Overhaul and Kolapon's Undead Creatures Replacer.
 
 
 
