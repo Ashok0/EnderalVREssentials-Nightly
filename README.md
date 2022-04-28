@@ -455,17 +455,19 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Dot Crosshair VR v0.8**](https://www.nexusmods.com/skyrimspecialedition/mods/17764?tab=files): Colors the target crosshairs as red and green and converts them to dots since the default grey target crosshairs are often difficult to see and you can not distinguish them in casting double magic.
 
-[**Path of the Prophet (No Floating Quest Marker) v1.09**](https://www.nexusmods.com/enderalspecialedition/mods/332?tab=files): Removes floating quest markers from the game.  Quest markers are still viewable on the compass.
-
-[**MCM Recorder v1.07**](https://www.nexusmods.com/skyrimspecialedition/mods/61719?tab=files): Configuring MCMs has never been easier!
-
 [**RaceMenu SE v0.4.19**](https://www.nexusmods.com/skyrimspecialedition/mods/19080?tab=files): Complete overhaul to the character creation menu including new customization features such as multiple RGBA warpaints, body paints, hand paint, and foot paints.
 - Remove skee64.dll an skee64.ini
 
 [**RaceMenu VR v0.4.14**](https://www.nexusmods.com/skyrimspecialedition/mods/19080?tab=files): VR patch for RaceMenu.
 
 [**Smaller HUD for VR Larger Text Patch**]: An override patch for [Smaller HUD for VR](https://www.nexusmods.com/skyrimspecialedition/mods/30726?tab=files) to increase text size while retaining the smaller HUD elements from the original mod.  Overrides "Smaller HUD for VR" with vanilla skyvr_hmd_info.nif to increase text size.  Rescales Health, Magica, Stamina, and Quest Update Base Instance sprites in vr_hmd_info.swf to shrink HUD elements from vanilla Skyrim back to the smaller sizes used in the original "Smaller HUD for VR" mod.  Shifts Quest Update Base Instance sprite on X-axis to prevent menu clipping.  Patch created with JPEXS Free Flash Decompiler.
-- Place after other Skyrim SE UI mods.
+- Place after other Skyrim SE HUD mods.
+
+[**Path of the Prophet (No Floating Quest Marker) v1.09**](https://www.nexusmods.com/enderalspecialedition/mods/332?tab=files): Removes floating quest markers from the game.  Quest markers are still viewable on the compass.
+
+[**MCM Recorder v1.07**](https://www.nexusmods.com/skyrimspecialedition/mods/61719?tab=files): Configuring MCMs has never been easier!
+- Place JSON scripts in \McmRecorder\Recording_XXX_XXXXXX\ folder 
+- Edit JSON scripts and set "autorun": "true"
 
 [**Nemesis Unlimited Behavior Engine v0.84-beta**](https://www.nexusmods.com/skyrimspecialedition/mods/60033?tab=files): An animation framework that enables behavior mods like CGO, SkySA, Ultimate Combat and most FNIS dependent mods to work together.
 
@@ -482,7 +484,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Arctal's VRIK Tweaks v1.4**](https://www.nexusmods.com/skyrimspecialedition/mods/63663?tab=files): Fixes some pet peeves of mine with the VRIK mod. Currently including gesture system improvements, changes to ragdolling during knockback/death and a near-clip-distance bug fix.
 
-[**VRIK Rift-Index-WMR Controller Bindings V2.1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/23416?tab=files): These control bindings are an optional add-on for VRIK to make it easier to use holsters.  The button for shout has been moved to Right A (or the right WMR touchpad), and interact is performed by squeezing the right grip.  Sprinting is now done by squeezing the left grip.  With these "safe" inputs on grips, players do not need to worry about shouting accidentally when grabbing holstered weapons.
+[**VRIK Neardistance Fix Patch for Build**]: Sets fNearDistance to 13 to fix mountain flickering.
 
 [**HIGGS - Enhanced VR Interaction v1.5.2**](https://www.nexusmods.com/skyrimspecialedition/mods/43930?tab=files): Hand/weapon collision, realistic object grabbing, and gravity gloves-style mechanics for Skyrim VR.
 - Remove any [HAVOK] settings from your Skyrim INI files as these settings are no longer necessary with HIGGS VR v1.2+.
@@ -521,10 +523,9 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**Destructible Bottles Extended v1.5**](https://www.nexusmods.com/skyrim/mods/26017?tab=files): Hit the bottle and smash it in pieces! Latest version 1.5 includes also some glazed pottery items such as pots, jugs, plates and bowls.
 - LE mod.  Converted to Form 44 (SE) by opening and resaving ESP file in Creation Kit.
 - Needs processed by Cathedral Assets Optimizer with the following settings enabled: Process meshes, Full optimization, Always process headparts, Resave meshes. Process textures, necessary optimization, Compress textures, Generate mipmaps.  
+[**Alternative Smashing Glass Sounds v1.0**](https://www.nexusmods.com/skyrim/mods/26017?tab=files): Alternative HQ glass sounds thanks to rolloLG.
 
 [**Immersive Decomposing Dead v0.1.5**](https://www.nexusmods.com/skyrimspecialedition/mods/66166?tab=files): This mod makes it so dead bodies (NPCS and animals) decompose until turned into bones (a prosses that might attract rats). Also makes it so the dead are buried fast by npcs in a few towns.
-
-[**Alternative Smashing Glass Sounds v1.0**](https://www.nexusmods.com/skyrim/mods/26017?tab=files): Alternative HQ glass sounds thanks to rolloLG.
 
 [**HapticSkyrimVR - Spellcasting and Enhanced Bow and Melee Feedback SKSE Plugin v1.7.2**](https://www.nexusmods.com/skyrimspecialedition/mods/20364?tab=files): SKSEVR plugin to get spell casting and enhanced bow and melee haptic feedback on VR controllers.
 
@@ -670,7 +671,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 - Recommend installing with Vanilla (i.e., None), Realistic Aspen Trees, SFO Snowy Pine Trees with all other settings left at default.
 - Keep \DYNDOLOD\ folders.  Used by DynDOLOD 3.
 - Remove the plugin's "Worldspace" data in xEdit.
-- After running DynDOLOD 3... 1) Delete ESP file as plugin is untested with Enderal VR.  2) Navigate to \Enhanced Vanilla Trees SE-Lush Trees\meshes\landscape\trees\ and remove SRG_ prefix from filenames.  Required if not using plugin.
+- After running DynDOLOD 3... 1) Optionally delete ESP file to save a plugin slot.  2) Navigate to \Enhanced Vanilla Trees SE-Lush Trees\meshes\landscape\trees\ and remove SRG_ prefix from filenames.  Required if not using plugin.
 
 [**HD Dead Trees and Driftwoods v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/35308?tab=files): Combine "4K Parallax Treebark" and "Spooknik's - Tundra Trees HD" to achieve HD dead trees and driftwoods. Contains original mods port.
 
@@ -739,9 +740,9 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**TB's Better Plaster - 4K v1.3**](https://www.nexusmods.com/skyrimspecialedition/mods/64261?tab=files): Plaster is plastered all around Skyrim so I decided to improve it (in 4K).
 
-[**Cork Retexture v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/41903?tab=files): Cork retexture. 4x the size of vanilla's.
-
 [**High Poly Mudcrab N Retexture v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/62967?tab=files): Pfuscher's High Poly Mudcrabs N Retexture.
+
+[**Cork Retexture v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/41903?tab=files): Cork retexture. 4x the size of vanilla's.
 
 [**Dibella Statue v1.04**](https://www.nexusmods.com/skyrimspecialedition/mods/61553?tab=files): Dibella statue replacer.
 - Delete ESP file.
@@ -795,6 +796,13 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**Equipable Female Tattoo UNP CBBE v1.0**]: Mod adds 5 x Equippable Tattoo skins for UUNP or CBBE Options are: Bijin, Leyenda or Fair Skin Complexion.
 
 [**Deadly Spell Impacts v1.7**](https://www.nexusmods.com/skyrimspecialedition/mods/12939?tab=files): Fire, lightning, frost, and spit (Spider/Chaurus) spell impacts now have their own unique textures. This mod also increases the variation in impact size, increases the size of dragon breath impacts, and adds melted snow impacts for fire and lightning spells.
+
+[**Visual Animated Enchants v0.2**](https://www.nexusmods.com/skyrimspecialedition/mods/7037?tab=files): A replacer for the visual and animation of the enchantments on weapons to make them more magical and immersive.  
+- Remove "Cell" data in xEdit.
+
+[**Qwinn's Refined Visual Animated Enchants v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/24665?tab=files): With L3stat's kind permission, a refinement and fix for various issues with Visual Animated Enchants.
+
+[**Adjusted Visual Animated Enchants (No ENB Complex Particle Lights) v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/50382?tab=files): Tweaks the appearance of enchantments from Visual Animated Enchants. Reduces size and brightness to work better when using ENB, alters flame mesh shapes on unique weapons to fit more closely, and adjusts some colours.
 
 [**Dynamically Disable Eye Adaptation and Bloom v1.2.0**](https://www.nexusmods.com/skyrimspecialedition/mods/2135?tab=files): Disables the irritating eye adaptation and object blooming through scripting. Compatible with all image space lighting mods!
 
@@ -1052,18 +1060,15 @@ Required load order:
 
 [**XP32 Maximum Skeleton Special Extended - XPMSSE v4.8**](https://www.nexusmods.com/skyrimspecialedition/mods/1988?tab=files): XP32 Maximum Skeleton Special Extended is the update of XP32 Maximum Skeleton Extended for Skyrim Special Edition.
 
+[**VRIK Rift-Index-WMR Controller Bindings V2.1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/23416?tab=files): These control bindings are an optional add-on for VRIK to make it easier to use holsters.  The button for shout has been moved to Right A (or the right WMR touchpad), and interact is performed by squeezing the right grip.  Sprinting is now done by squeezing the left grip.  With these "safe" inputs on grips, players do not need to worry about shouting accidentally when grabbing holstered weapons.
+
 [**Replace spiders with wolfs and bears v1.0.1**](https://www.nexusmods.com/enderalspecialedition/mods/31?tab=files): Replaces spiders with wolves and bears.
 
 [**Arachnophobia - No Spiders and Beetles v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/359?tab=files): This mod replaces Spiders with Wolves and Beetles with Bears.
 
-[**Armored Flesh v2.0**]: A small mod, offering improved visuals for each of the Alteration school's five armor spells.
 
-[**Visual Animated Enchants v0.2**](https://www.nexusmods.com/skyrimspecialedition/mods/7037?tab=files): A replacer for the visual and animation of the enchantments on weapons to make them more magical and immersive.  
-- Remove "Cell" data in xEdit.
 
-[**Qwinn's Refined Visual Animated Enchants v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/24665?tab=files): With L3stat's kind permission, a refinement and fix for various issues with Visual Animated Enchants.
 
-[**Adjusted Visual Animated Enchants (No ENB Complex Particle Lights) v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/50382?tab=files): Tweaks the appearance of enchantments from Visual Animated Enchants. Reduces size and brightness to work better when using ENB, alters flame mesh shapes on unique weapons to fit more closely, and adjusts some colours.
 
 [**Allow Fast Travel v1.3**](https://www.nexusmods.com/enderalspecialedition/mods/42?tab=files): Allows Fast Travel in Enderal.
 - Must be placed near end of load order as any mods that alter worldspace will break fast travel.
