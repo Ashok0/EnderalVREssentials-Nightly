@@ -51,7 +51,7 @@ New Mods:
 - Akropolis Stones HD v1.0: HD textures for the Akropolis stones.
 - Conduit - Short-term Weapon Infusions v2.3: When holding a weapon in one hand and a spell in the other, you are able to temporarily "conduct" the spell through that weapon. Different categories of spells make the weapon do different things. This effect will overlay on top of normal enchants and does include additional weapon FX that will overlay too. It even works on Bound weapons.
 - Conduit - Enderal Adaption Patch v2.3-EA1: This is an experimental rebalance (read: heavy nerf) of the mod for Enderal. If you feel Conduit is overtuned for normal Skyrim, you can use this patch there as well, it doesnt require Enderal. ESL-flagged.
-- Less Grass 1 - 50% Less: Reduces the density of grass for better visibility.
+- Less Grass 1 - 50% Less v1.0: Reduces the density of grass for better visibility.
 - Steel Swords Redone v1.0: This mod adds new models and textures for the steel sword and steel greatsword.
 - Iron Things SE v1.2: Replacer meshes and textures for IRON THINGS: iron sword, greatsword, dagger, battleaxe, bow, and shield. Stand-alone is also available for download. Made in 2016 by ClipsyMoon, now on SE for all to enjoy ;) 
 - Savage Wolves and Feral Foxes v1.3: This mod transforms your mangy vanilla wolves into savagely realistic wolves by replacing the vanilla skeleton with a custom skeleton. Guaranteed to boost your immersion 101%.
