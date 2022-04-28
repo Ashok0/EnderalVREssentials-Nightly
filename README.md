@@ -1079,39 +1079,55 @@ Required load order:
 
 [**EGO SE - Playable Half Starling Race v1.0.3**](https://www.nexusmods.com/enderalspecialedition/mods/100?tab=files): Adds Half Starlings as a playable race. (ENDERAL GAMEPLAY OVERHAUL VERSION) Only download one of the files.
 
-[**EGO SE - Thalgard Monastery v1.00**](): 
+[**EGO SE - Thalgard Monastery v1.00**](https://www.nexusmods.com/enderalspecialedition/mods/133?tab=files): Compatibility patch for Enderal Gameplay Overhaul. (ENG/GER/RUS)
 
-[**EGO SE - EAM SE - Enderal Apothecarii Monastery v1.02**](): 
+[**EGO SE - EAM SE - Enderal Apothecarii Monastery v1.02**](https://www.nexusmods.com/enderalspecialedition/mods/34?tab=files): Compatibility patch for Enderal Gameplay Overhaul.
 
-[**EGO SE - Wellwatch Manor SE v1.00**](): 
+[**EGO SE - Wellwatch Manor SE v1.00**](https://www.nexusmods.com/enderalspecialedition/mods/151?tab=files): Replaces the Secure Chest with an EGO Secure Chest. (not needed if you use the secure chest optional patch) Load EGO patch after the main file and before the translation file!
 
-[**EGO SE - Riverville Jail SE v1.00**](): 
+[**EGO SE - Riverville Jail SE v1.00**](https://www.nexusmods.com/enderalspecialedition/mods/157?tab=files): Compatibility patch for Enderal Gameplay Overhaul.
 
-[**EGO SE - Bank of Ark SE v1.00**](): 
+[**EGO SE - Bank of Ark SE v1.00**](https://www.nexusmods.com/enderalspecialedition/mods/158?tab=files): Compatibility patch for Enderal Gameplay Overhaul.
 
-[**EGO SE - Meditation Area Fixes v1.00**](): 
+[**EGO SE - Meditation Area Fixes v1.00**](https://www.nexusmods.com/enderalspecialedition/mods/265?tab=files): Enderal Gameplay Overhaul Version. Only download one of the files.
 
-[**EGO SE - Unique Amulets and Masks v1.00**](): 
+[**EGO SE - Unique Amulets and Masks v1.00**](https://www.nexusmods.com/enderalspecialedition/mods/366?tab=files): Compatibility patch for Enderal Gameplay Overhaul and Unique Amulets and Masks.
 
-[**EGO SE - Moddable Iron Armor v1.00**](): 
+[**EGO SE - Moddable Iron Armor v1.00**](https://www.nexusmods.com/enderalspecialedition/mods/392?tab=files): Enderal Gameplay Overhaul Version. Only download one of the files.
 
-[**EGO SE - Moddable Iron-Steel Weapons v1.01**](): 
+[**EGO SE - Moddable Iron-Steel Weapons v1.01**](https://www.nexusmods.com/enderalspecialedition/mods/341?tab=files): Enderal Gameplay Overhaul Version. Only download one of the files.
 
-[**EGO SE - Even More Unique Weapons v1.02**](): 
+[**EGO SE - Even More Unique Weapons v1.02**](https://www.nexusmods.com/enderalspecialedition/mods/124?tab=files): Compatibility patch for Enderal Gameplay Overhaul and Even More Unique Weapons. (ENG/GER/RUS)
 
-[**EGO SE - Bears of the North v1.01**](): 
+[**EGO SE - Bears of the North v1.01**](https://www.nexusmods.com/enderalspecialedition/mods/30?tab=files): Enderal Gameplay Overhaul version. (Only download this or the other)
 
 [**EGO SE - Deerstalker Redone v1.01**](https://www.nexusmods.com/enderalspecialedition/mods/122?tab=files): Renames Mountain Deerstalker and Shadow Deerstalker to Shadow Stalker and adds appropriate loot.
 
-[**EGO SE - Donkey v1.1.1**](): 
+[**EGO SE - Donkey v1.1.1**](https://www.nexusmods.com/enderalspecialedition/mods/125?tab=files): Compatibility patch for Enderal Gameplay Overhaul and Enderal - Donkey. (ENG/GER/RUS)
 
-[**EGO SE - Enderal SE - Savage Wolves and Feral Foxes v1.0**](): 
+[**EGO SE - Enderal SE - Savage Wolves and Feral Foxes v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/383?tab=files): Compatibility patch for Savage Wolves and Feral Foxes.
 
-[**EGO SE - Kolapon's Various Creatures Replacer v1.0**](): 
+[**EGO SE - Kolapon's Various Creatures Replacer v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/351?tab=files): Compatibility patch for Enderal Gameplay Overhaul and Kolapon's Various Creatures Replacer.
 
 [**EGO SE - Kolapon's Undead Creatures Replacer v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/342?tab=files): Compatibility patch for Enderal Gameplay Overhaul and Kolapon's Undead Creatures Replacer.
 
+[**Enderal Armor and Weapon Overhaul v2.0**](https://www.scenicroute.games/projects/somnium): This mod changes almost every piece of armor and weapon in the game. And some clothes. No more Skyrim flashbacks in Enderal.
 
+[**Enderal Armor and Weapon Overhaul - Replacer v1.14**](https://www.scenicroute.games/projects/somnium): Apoapse's Accoutrement patch for EAWO.
+
+[**Apoapse's Accoutrement v1.0**](https://www.scenicroute.games/projects/somnium): Weapons and armor have been totally remodeled, with assets pulled from dozens of excellent Skyrim mods, to match our “Age of Sail” theme. Most outfits have been hand-selected for different NPCs, both generic and unique, to fit the setting.
+- Removed Engarde.esp as Master in xEdit. (Replace Engarde.esp with blank ESP, remove errors in plugins, then Clean Masters.)
+
+[**Prime Fixes v2.0**](https://www.scenicroute.games/projects/somnium): Fixes pauldrons in Apoapse's Accoutrement. 
+- Remove all entries in xEdit with the exception of Armor Addon, Armor, and Outfit entries which override Apoapse's Accoutrement.
+
+[**Somnium Retextures v1.0**](https://www.scenicroute.games/projects/somnium): Textures/meshes for Apoapse's Accoutrement.
+
+[**Somnium Music Edits v1.0**](https://www.scenicroute.games/projects/somnium): New music for main menu.
+
+[**Amanda Vanilla Outfit Override v1.0**]: Overrides Amanda's outfit with her vanilla Venturer outfit.
+
+[**Nightingale Bow Scoped Override v1.0**]: Overrides Nightingale with scoped version for VR. 
 
 [**Allow Fast Travel v1.3**](https://www.nexusmods.com/enderalspecialedition/mods/42?tab=files): Allows Fast Travel in Enderal.
 - Must be placed near end of load order as any mods that alter worldspace will break fast travel.
