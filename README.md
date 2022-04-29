@@ -781,6 +781,8 @@ If you are using a language pack, you may need to change the font used by Dear D
 - Recommend deleting the optional ESP file.
 - Remove "Horse.nif" as this causes texture problems with select horses.
 
+[**Fluffworks - Better Photoreal Foxes v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/65974?tab=files): A makeover for Skyrim's Foxes, Combining Better Foxes & Photoreal Foxes with Fluffworks Shell Texturing on top!
+
 [**Smaller Insects v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/51551?tab=files): This mod aims to resize the scale of animals in Skyrim to give a better immersive feelig in VR / First person.
 
 [**Better Dwemer Spider Textures 4096 Pixel Standard v1.1**](https://www.nexusmods.com/skyrim/mods/51270?tab=files): Get your Dwemer Spiders ready for their closeups with these brilliant and astounding new textures, built from the ground up with top-quality Dwarven Ingots and entirely too many Photoshop layers. Guaranteed to improve spider productivity by up to 42 percent.
@@ -932,7 +934,6 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**Waterspout Fixes v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/374?tab=files): Fixes some things from the Waterspouts mod.
 
 [**Drunken Bee Sign v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/118): Adds a sign to the blank wall on the exterior of the Drunken Bee in Riverville.  
-
 [**Enderal VR Main Menu Logo v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/397?tab=files): Enderal logo for the Enderal VR Main Menu.
 
 [**Static Mushrooms  - High Poly SE v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/129?tab=files): Many animated/interactive/static mushrooms across Enderal are high poly now.
@@ -1043,12 +1044,6 @@ Required load order:
 
 [**Oorbaya Replacer v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/296?tab=files): Replaces the models Oorbayas with high quality alternatives.
 
-[**Savage Wolves and Feral Foxes v1.3**](https://www.nexusmods.com/skyrimspecialedition/mods/21075?tab=files): This mod transforms your mangy vanilla wolves into savagely realistic wolves by replacing the vanilla skeleton with a custom skeleton. Guaranteed to boost your immersion 101%.
-
-[**Enderal SE - Savage Wolves and Feral Foxes v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/383?tab=files): Compatibility patch for Savage Wolves and Feral Foxes.
-
-[**Fluffworks - Better Photoreal Foxes v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/65974?tab=files): A makeover for Skyrim's Foxes, Combining Better Foxes & Photoreal Foxes with Fluffworks Shell Texturing on top!
-
 [**Arvak Replace SE v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/24929?tab=files): Arvak Replace.
 - Delete ESP file.
 
@@ -1104,8 +1099,6 @@ Required load order:
 [**EGO SE - Deerstalker Redone v1.01**](https://www.nexusmods.com/enderalspecialedition/mods/122?tab=files): Renames Mountain Deerstalker and Shadow Deerstalker to Shadow Stalker and adds appropriate loot.
 
 [**EGO SE - Donkey v1.1.1**](https://www.nexusmods.com/enderalspecialedition/mods/125?tab=files): Compatibility patch for Enderal Gameplay Overhaul and Enderal - Donkey. (ENG/GER/RUS)
-
-[**EGO SE - Enderal SE - Savage Wolves and Feral Foxes v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/383?tab=files): Compatibility patch for Savage Wolves and Feral Foxes.
 
 [**EGO SE - Kolapon's Various Creatures Replacer v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/351?tab=files): Compatibility patch for Enderal Gameplay Overhaul and Kolapon's Various Creatures Replacer.
 
