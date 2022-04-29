@@ -1069,6 +1069,7 @@ Required load order:
 [**Arachnophobia - No Spiders and Beetles v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/359?tab=files): This mod replaces Spiders with Wolves and Beetles with Bears.
 
 [**EGO SE - Enderal Gameplay Overhaul v1.88**](https://www.nexusmods.com/enderalspecialedition/mods/3?tab=files): This is a complete overhaul of the gameplay mechanics of Enderal. This includes a ton of balance changes, improvements to the ai, new gameplay mechanics, new weapons/spells/potions and much more. (ENG/GER/RUS)
+- If using Creature Replacer, open EGO plugin in xEdit and merge Creature Replacer entries for NPC.Frost Troll, NPC.Momog, NPC.Tunnel Spider Mother, NPC.Grodok, NPC.Kartosh, NPC.Mugmug, NPC.Tunnel Spider, NPC.Frost Troll, NPC.Wood Elemental, NPC.Gnarldalf, NPC.Dragon, NPC.Wood Elemental
 
 [**EGO SE - Myths and Legends VI - The Forgotten One v1.01**](https://www.nexusmods.com/enderalspecialedition/mods/25?tab=files): A balance patch for Enderal SE Gameplay Overhaul. Compatible with all languages.
 
