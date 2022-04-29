@@ -1049,7 +1049,7 @@ Required load order:
 
 [**Shadow of Transcience Mount Fix Replacer v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/382?tab=files): Replaces the model of Shadow of Transciense if the Mount Fix is used.
 
-[**Kolapon's Undead Creatures Replacer v1.2u**](https://www.nexusmods.com/enderalspecialedition/mods/64?tab=files): Changes the appearance of some of the creatures so they are unique to Enderal.
+[**Kolapon's Undead Creatures Replacers v1.2u**](https://www.nexusmods.com/enderalspecialedition/mods/64?tab=files): Changes the appearance of some of the creatures so they are unique to Enderal.
 
 [**Ancestral Spirit Replacer (Variant 2) v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/60?tab=files): Replaces the models Ancestral Spirits with high quality alternatives.
 
@@ -1068,10 +1068,15 @@ Required load order:
 
 [**Arachnophobia - No Spiders and Beetles v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/359?tab=files): This mod replaces Spiders with Wolves and Beetles with Bears.
 
+[**Enderal Armor and Weapon Overhaul v2.0**](https://www.scenicroute.games/projects/somnium): This mod changes almost every piece of armor and weapon in the game. And some clothes. No more Skyrim flashbacks in Enderal.
+
+[**Enderal Armor and Weapon Overhaul - Replacer v1.14**](https://www.scenicroute.games/projects/somnium): Apoapse's Accoutrement patch for EAWO.
+
 [**EGO SE - Enderal Gameplay Overhaul v1.88**](https://www.nexusmods.com/enderalspecialedition/mods/3?tab=files): This is a complete overhaul of the gameplay mechanics of Enderal. This includes a ton of balance changes, improvements to the ai, new gameplay mechanics, new weapons/spells/potions and much more. (ENG/GER/RUS)
-- If using Creature Replacer, open EGO plugin in xEdit and merge Creature Replacer entries for NPC.Frost Troll, NPC.Momog, NPC.Tunnel Spider Mother, NPC.Grodok, NPC.Kartosh, NPC.Mugmug, NPC.Tunnel Spider, NPC.Frost Troll, NPC.Wood Elemental, NPC.Gnarldalf, NPC.Dragon, NPC.Wood Elemental
 
 [**EGO SE - Myths and Legends VI - The Forgotten One v1.01**](https://www.nexusmods.com/enderalspecialedition/mods/25?tab=files): A balance patch for Enderal SE Gameplay Overhaul. Compatible with all languages.
+
+[**EGO - Fire of the Mountain v1.0**](https://www.nexusmods.com/enderal/mods/186?tab=files): Balanced for EGO, some small translation fixes, added EGO enemy perks/abilities to enemies.
 
 [**EGO SE - Playable Half Starling Race v1.0.3**](https://www.nexusmods.com/enderalspecialedition/mods/100?tab=files): Adds Half Starlings as a playable race. (ENDERAL GAMEPLAY OVERHAUL VERSION) Only download one of the files.
 
@@ -1101,13 +1106,15 @@ Required load order:
 
 [**EGO SE - Donkey v1.1.1**](https://www.nexusmods.com/enderalspecialedition/mods/125?tab=files): Compatibility patch for Enderal Gameplay Overhaul and Enderal - Donkey. (ENG/GER/RUS)
 
-[**EGO SE - Kolapon's Various Creatures Replacer v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/351?tab=files): Compatibility patch for Enderal Gameplay Overhaul and Kolapon's Various Creatures Replacer.
-
 [**EGO SE - Kolapon's Undead Creatures Replacer v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/342?tab=files): Compatibility patch for Enderal Gameplay Overhaul and Kolapon's Undead Creatures Replacer.
 
-[**Enderal Armor and Weapon Overhaul v2.0**](https://www.scenicroute.games/projects/somnium): This mod changes almost every piece of armor and weapon in the game. And some clothes. No more Skyrim flashbacks in Enderal.
+[**EGO SE - Kolapon's Various Creatures Replacer v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/351?tab=files): Compatibility patch for Enderal Gameplay Overhaul and Kolapon's Various Creatures Replacer.
 
-[**Enderal Armor and Weapon Overhaul - Replacer v1.14**](https://www.scenicroute.games/projects/somnium): Apoapse's Accoutrement patch for EAWO.
+[**EGO SE - No more Skyrim-looking Creatures EGO Patch v1.1**](https://www.nexusmods.com/enderalspecialedition/mods/181/?tab=files): Patch between for No More Skyrim-looking Creatures and EGO.
+
+[**Enderal - Gameplay Overhaul - EAO Patch v1.0**](https://www.scenicroute.games/projects/somnium): This is a patch for Enderal Gameplay Overhaul and Enderal Armor and Weapons Overhaul.
+
+[**Enderal - Gameplay Overhaul - EWO Patch v1.0**](https://www.scenicroute.games/projects/somnium): This is a patch for Enderal Gameplay Overhaul and Enderal Armor and Weapons Overhaul.
 
 [**Apoapse's Accoutrement v1.0**](https://www.scenicroute.games/projects/somnium): Weapons and armor have been totally remodeled, with assets pulled from dozens of excellent Skyrim mods, to match our “Age of Sail” theme. Most outfits have been hand-selected for different NPCs, both generic and unique, to fit the setting.
 - Removed Engarde.esp as Master in xEdit. (Replace Engarde.esp with blank ESP, remove errors in plugins, then Clean Masters.)
