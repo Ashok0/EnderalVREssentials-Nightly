@@ -64,8 +64,11 @@ New Mods:
 - XP32 Maximum Skeleton Special Extended - XPMSSE v4.8: XP32 Maximum Skeleton Special Extended is the update of XP32 Maximum Skeleton Extended for Skyrim Special Edition.
 - Enable TAA FX: Re-enables TAA FX with parallax support via VR FPS Stabilizer.
 - Vanilla HUD Size for VR: Overrides UI with larger vanilla sized HUD.
+- Enderal Armor and Weapon Overhaul v2.0: This mod changes almost every piece of armor and weapon in the game. And some clothes. No more Skyrim flashbacks in Enderal.
+- Enderal Armor and Weapon Overhaul - Replacer v1.14: Apoapse's Accoutrement patch for EAWO.
 - EGO SE - Enderal Gameplay Overhaul v1.88: This is a complete overhaul of the gameplay mechanics of Enderal. This includes a ton of balance changes, improvements to the ai, new gameplay mechanics, new weapons/spells/potions and much more. (ENG/GER/RUS)
 - EGO SE - Myths and Legends VI - The Forgotten One v1.01: A balance patch for Enderal SE Gameplay Overhaul. Compatible with all languages.
+- EGO - Fire of the Mountain v1.0: Balanced for EGO, some small translation fixes, added EGO enemy perks/abilities to enemies.
 - EGO SE - Playable Half Starling Race v1.0.3: Adds Half Starlings as a playable race. (ENDERAL GAMEPLAY OVERHAUL VERSION) Only download one of the files.
 - EGO SE - Thalgard Monastery v1.00: Compatibility patch for Enderal Gameplay Overhaul. (ENG/GER/RUS)
 - EGO SE - EAM SE - Enderal Apothecarii Monastery v1.02: Compatibility patch for Enderal Gameplay Overhaul.
@@ -80,10 +83,11 @@ New Mods:
 - EGO SE - Bears of the North v1.01: Enderal Gameplay Overhaul version. (Only download this or the other)
 - EGO SE - Deerstalker Redone v1.01: Renames Mountain Deerstalker and Shadow Deerstalker to Shadow Stalker and adds appropriate loot.
 - EGO SE - Donkey v1.1.1: Compatibility patch for Enderal Gameplay Overhaul and Enderal - Donkey. (ENG/GER/RUS)
-- EGO SE - Kolapon's Various Creatures Replacer v1.0: Compatibility patch for Enderal Gameplay Overhaul and Kolapon's Various Creatures Replacer.
 - EGO SE - Kolapon's Undead Creatures Replacer v1.0: Compatibility patch for Enderal Gameplay Overhaul and Kolapon's Undead Creatures Replacer.
-- Enderal Armor and Weapon Overhaul v2.0: This mod changes almost every piece of armor and weapon in the game. And some clothes. No more Skyrim flashbacks in Enderal.
-- Enderal Armor and Weapon Overhaul - Replacer v1.14: Apoapse's Accoutrement patch for EAWO.
+- EGO SE - Kolapon's Various Creatures Replacer v1.0: Compatibility patch for Enderal Gameplay Overhaul and Kolapon's Various Creatures Replacer.
+- EGO SE - No more Skyrim-looking Creatures EGO Patch v1.1: Patch between for No More Skyrim-looking Creatures and EGO.
+- Enderal - Gameplay Overhaul - EAO Patch v1.0: This is a patch for Enderal Gameplay Overhaul and Enderal Armor and Weapons Overhaul.
+- Enderal - Gameplay Overhaul - EWO Patch v1.0: This is a patch for Enderal Gameplay Overhaul and Enderal Armor and Weapons Overhaul.
 - Apoapse's Accoutrement v1.0: Weapons and armor have been totally remodeled, with assets pulled from dozens of excellent Skyrim mods, to match our “Age of Sail” theme. Most outfits have been hand-selected for different NPCs, both generic and unique, to fit the setting.
 - Prime Fixes v2.0: Fixes pauldrons in Apoapse's Accoutrement.
 - Somnium Retextures v1.0: Textures/meshes for Apoapse's Accoutrement.
