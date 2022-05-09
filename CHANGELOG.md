@@ -21,6 +21,7 @@ New Mods:
 - Wearable Health Bars - Soul Gauge v1.5.3: Jewelry that displays Health, Magicka, Stamina, enchantment charge, or equipped ammo count on your hands. Glows in the dark!
 - Immersive Decomposing Dead v0.1.5: This mod makes it so dead bodies (NPCS and animals) decompose until turned into bones (a prosses that might attract rats). Also makes it so the dead are buried fast by npcs in a few towns.
 - Spellsiphon - Complete Edition v5.17-EA4: Experience gameplay focused on combos and synergy. Lessen the need for menus or hotkeys through a system where swapping spells and weapons is streamlined and rewarding. Continue the fight at 0 magicka by using new spell types. Enjoy a plethora of new sounds and visual effects. Grow in power by playing skillfully, not just from levels and gear.
+- VR FPS Stabilizer v1.4.1: Used to disable TAA effects.
 - 3D World Fog Map v1.0: Add fog back to the 3D world map!
 - MCM Recorder v1.07: Configuring MCMs has never been easier!
 - Stockade Old Grey Timber 4k New-1.1: A 4k or 2k retexturing of all stockade wood textures. These are found at farms, in forts, and out the front of mines Three options are now available due to popular request: Old Grey, Painted and Brown!
@@ -112,12 +113,13 @@ Updated Mods:
 - Spell Perk Item Distributor VR v5.2.0.3: Fix failure to load due to processing of non-ascii paths for mergemapper.
 - RaceMenu SE v0.4.19: Complete overhaul to the character creation menu including new customization features such as multiple RGBA warpaints, body paints, hand paint, and foot paints.
 - moreHUD VR v1.0.7: Stability improvements.
-- Embers XD v2.5.7: Added Midden magic pillar makeover for WeldingManDE.
+- Embers XD v2.5.8:  Integrated particle patch effect shader fixes where applicable.
 - Venerable Nordic Temples (2K - 4K) v0.2: A high quality retexture for Nordic temples and ruins, offering high fidelity visuals and a lore friendly, ancient aesthetic.
 - High Poly Project v5.3: Removed Wine Bottles as these are redundant with 'TB's Wine 4K'.
 - Rally's Candlelight and Magelight Fix SE - VR v1.3: Fix for the Candlelight Spell and Magelight Spell in SE/VR.
 - Snazzy Furniture and Clutter Overhaul SE v2.1.2: Fixed a few records that didn't forward the Persistent flag in the main plugin.
 - NavigateVR v1.51: This mod brings immersive navigation to VR with a functional compass.
+- Sprint Jump VR v1.1.3: Removed unnecessary and incorrect fJumpFallHeightMin setting modification which had nothing to do with jump distance apparently.
 - Storm Lightning for SSE and VR v1.4.14: A remake of Minty's Lightning mod as an SKSE plugin. The purpose of this mod is stability and scalability. It can summon up to 50 sheet lightnings and 50 fork lightnings per second and up to 31 cells distance. This results in a more natural and enjoyable storm experience.
 - Delectable Docks SE - ESP Fix v1.0: SE port of my delectable docks mod.
 - Bank of Ark SE v1.02: Fixed the crashes and integrated the vault doors into the main mod again (huge thanks to "Apoapse" for identifying and fixing this issue).
