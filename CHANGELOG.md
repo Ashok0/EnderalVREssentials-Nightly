@@ -4,7 +4,7 @@ Updated Tools:
 - Mod Organizer 2 v2.4.4: Fixed Discord invite. Removed Mass Effect support.
 - EngineFixesVR Part 2 v1.22: SKSEVR plugin to fix various issues with the Skyrim Special Edition engine.
 - d3dcompiler_47.dll: Install this to your Skyrim Special Edition folder if you don't already have a copy of d3dcompiler_47.dll
-- DynDOLOD Standalone 3.0 Alpha-89: DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD + tree LOD and the new, optional dynamic distant object LOD in a few simple steps.
+- DynDOLOD Standalone 3.0 Alpha-90: DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD + tree LOD and the new, optional dynamic distant object LOD in a few simple steps.
 - xLODGen Beta 93: Tool for generating terrain LOD.
 - Synthesis v0.22.1: A framework and GUI to construct a single Bethesda game patch from many patcher sources. Designed to allow any program to work as a patcher as long as it conforms to the CLI API.
 - LOOT v0.18.2: LOOT is a plugin load order optimisation tool for Skyrim VR.  It is designed to assist mod users in avoiding detrimental conflicts, by automatically calculating a load order that satisfies all plugin dependencies and maximises each plugin's impact on the user's game.
@@ -102,7 +102,7 @@ Updated Mods:
 - HIGGS - Enhanced VR Interaction v1.5.2: Hand/weapon collision, weapon two-handing, realistic object grabbing, and gravity gloves-style mechanics for Skyrim VR.
 - Crash Logger v1.0.0.3: Provide more info on TESForm and NiAVObject (names/editor IDs).
 - EngineFixesVR v1.22a: Parallax Fix.
-- DynDOLOD Resources SE v3.00 Alpha-25: DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD + tree LOD and the new, optional dynamic distant object LOD in a few simple steps.
+- DynDOLOD Resources SE v3.00 Alpha-26: DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD + tree LOD and the new, optional dynamic distant object LOD in a few simple steps.
 - Enderal SE - Bug Fixes v1.31: Removed the apparition script changes, which were slightly outdated. The fixes made by Bug Fixes are no longer needed.
 - No Floating Quest Marker v1.0: Removes floating quest markers from the game.  Quest markers are still viewable on the compass.
 - Immersive Draw Sheathe Sounds v1.1: Corrected folder structure so the mod will actually function.
