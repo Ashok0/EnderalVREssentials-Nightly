@@ -354,7 +354,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**xLODGen Beta 93**](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-80-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/): Tool for generating terrain LOD.
 
-[**DynDOLOD Standalone 3.0 Alpha-89**](https://www.nexusmods.com/skyrimspecialedition/mods/32382?tab=files): DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD + tree LOD and the new, optional dynamic distant object LOD in a few simple steps.
+[**DynDOLOD Standalone 3.0 Alpha-90**](https://www.nexusmods.com/skyrimspecialedition/mods/32382?tab=files): DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD + tree LOD and the new, optional dynamic distant object LOD in a few simple steps.
 
 [**Synthesis v0.22.1**](https://github.com/Mutagen-Modding/Synthesis): A framework and GUI to construct a single Bethesda game patch from many patcher sources. Designed to allow any program to work as a patcher as long as it conforms to the CLI API.
 
@@ -440,7 +440,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**Papyrus Extender VR v5.0.3.1**](https://www.nexusmods.com/skyrimspecialedition/mods/58296?tab=files): SKSEVR plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events. This requires the original Papyrus Extender and is built from po3's source.
 - Required by FEC.
 
-[**DynDOLOD Resources SE v3.00 Alpha-25**](https://www.nexusmods.com/skyrimspecialedition/mods/52897?tab=files): DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD + tree LOD and the new, optional dynamic distant object LOD in a few simple steps.
+[**DynDOLOD Resources SE v3.00 Alpha-26**](https://www.nexusmods.com/skyrimspecialedition/mods/52897?tab=files): DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD + tree LOD and the new, optional dynamic distant object LOD in a few simple steps.
 
 [**More Informative Console VR beta v0.4.3**](https://www.nexusmods.com/skyrimspecialedition/mods/19250?tab=files): This mod edits the UI to show a great deal of additional information on npcs, items, and other objects when the console is opened, similar to the way MFG console worked for Oldrim.
 
