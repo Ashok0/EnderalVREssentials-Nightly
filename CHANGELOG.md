@@ -21,7 +21,7 @@ New Mods:
 - Wearable Health Bars - Soul Gauge v1.5.3: Jewelry that displays Health, Magicka, Stamina, enchantment charge, or equipped ammo count on your hands. Glows in the dark!
 - Immersive Decomposing Dead v0.1.5: This mod makes it so dead bodies (NPCS and animals) decompose until turned into bones (a prosses that might attract rats). Also makes it so the dead are buried fast by npcs in a few towns.
 - Spellsiphon - Complete Edition v5.17-EA4: Experience gameplay focused on combos and synergy. Lessen the need for menus or hotkeys through a system where swapping spells and weapons is streamlined and rewarding. Continue the fight at 0 magicka by using new spell types. Enjoy a plethora of new sounds and visual effects. Grow in power by playing skillfully, not just from levels and gear.
-- VR FPS Stabilizer v1.4.1: Used to disable TAA effects.
+- VR FPS Stabilizer v1.4.2: Used to disable TAA effects.
 - 3D World Fog Map v1.0: Add fog back to the 3D world map!
 - MCM Recorder v1.07: Configuring MCMs has never been easier!
 - Stockade Old Grey Timber 4k New-1.1: A 4k or 2k retexturing of all stockade wood textures. These are found at farms, in forts, and out the front of mines Three options are now available due to popular request: Old Grey, Painted and Brown!
@@ -109,11 +109,11 @@ Updated Mods:
 - Strike Obstruction Systems - Combat Blocking Overhaul v1.05: Fixed an issue with the implementation of the fCombatHitConeAngle setting.
 - Papyrus Extender SSE v5.0.3: Fixed some missing flag resets in SetLightType.
 - Papyrus Extender VR v5.0.3.1: SKSEVR plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events. This requires the original Papyrus Extender and is built from po3's source.
-- VR Address Library for SKSEVR v0.31.0: Add latest commonlib, po3 addresses (02026b1)
+- VR Address Library for SKSEVR v0.32.0: Add latest commonlib, po3 addresses (02026b1)
 - Spell Perk Item Distributor VR v5.2.0.3: Fix failure to load due to processing of non-ascii paths for mergemapper.
 - RaceMenu SE v0.4.19: Complete overhaul to the character creation menu including new customization features such as multiple RGBA warpaints, body paints, hand paint, and foot paints.
 - moreHUD VR v1.0.7: Stability improvements.
-- Embers XD v2.5.8:  Integrated particle patch effect shader fixes where applicable.
+- Embers XD v2.5.9:  Added particle lights for forges.
 - Venerable Nordic Temples (2K - 4K) v0.2: A high quality retexture for Nordic temples and ruins, offering high fidelity visuals and a lore friendly, ancient aesthetic.
 - High Poly Project v5.3: Removed Wine Bottles as these are redundant with 'TB's Wine 4K'.
 - Rally's Candlelight and Magelight Fix SE - VR v1.3: Fix for the Candlelight Spell and Magelight Spell in SE/VR.
