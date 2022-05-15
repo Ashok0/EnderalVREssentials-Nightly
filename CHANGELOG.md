@@ -28,7 +28,6 @@ New Mods:
 - Skyland Imperial and Nordic Tents v1.6: Fixed bad texture pathing for large fur Nordic tent.
 - TB's Silver Ingot 4K v8.0: Adds a new cube map, diffuse and normal to the Silver Ingot - Available in 4K and 2K resolutions.
 - TB's Wine 4K Version v1.1: This is a retexture containing no ESPs which comes in 3 Variants - 2K, 4K and 8K and aims to improve upon the default Skyrim textures, thank you very much for considering my mod (Also introduces some transparency into the glass).
-- TB's Better Plaster - 4K v1.3: Plaster is plastered all around Skyrim so I decided to improve it (in 4K).
 - Dibella Statue v1.04: Dibella statue replacer.
 - High Poly Mudcrab N Retexture v1.0: Pfuscher's High Poly Mudcrabs N Retexture.
 - Cork Retexture v1.0: Cork retexture. 4x the size of vanilla's.
@@ -150,6 +149,7 @@ Removed mods:
 - Ultimate Combat and Creatures Behavior Compatability for Nemesis / Flinching SSE VR: Redundant with PLANCK.
 - Enderal Missing Race Fix (For mods such as FEC) v1.0: No longer needed with FEC v5.
 - Armored Flesh v2.0: Incompatible with EGO SE.
+- Enderal Upscale Project v1.0: Redundant with Enderal SE Retexture Project.
 
 Parallax Textures:
 - Skyrim Remastered - Caves 4K Parallax v1.0: A retexture of Skyrim's caves, with a complete overhaul for the ice caves to make them look like actual ice. Offered in 4k, 2k, and 1k texture quality with parallax options.
