@@ -570,8 +570,10 @@ If you are using a language pack, you may need to change the font used by Dear D
 - Recommend placing before other Skyrim texture packs; Remove "whroughgroundmud.dds".
 
 [**Enderal SE Retexture Pack Project - Architecture Medium Quality v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/407?tab=files): A port of my Special Edition texture mod (SNRP) featuring edited textures as well as new to fit the aesthetics of Enderal. Still a work in progress.
+- Remove \meshes\ folder
 
 [**Enderal SE Retexture Pack Project - Dungeons Medium Quality v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/407?tab=files): A port of my Special Edition texture mod (SNRP) featuring edited textures as well as new to fit the aesthetics of Enderal. Still a work in progress.
+- Remove \meshes\ folder
 
 [**Enderal SE Retexture Pack Project - Landscapes Medium Quality v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/407?tab=files): A port of my Special Edition texture mod (SNRP) featuring edited textures as well as new to fit the aesthetics of Enderal. Still a work in progress.
 
