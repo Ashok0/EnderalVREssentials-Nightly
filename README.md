@@ -434,10 +434,10 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**PapyrusUtil VR - Scripting Utility Functions v3.6b**](https://www.nexusmods.com/skyrimspecialedition/mods/13048?tab=files): An SKSE plugin adding several new scripts with native functions that provide various conveniences related to data storage and other misc functions to the scripter/modder.  DynDOLOD requirement.
 
-[**Papyrus Extender SSE v5.0.3**](https://www.nexusmods.com/skyrimspecialedition/mods/22854?tab=files): SKSE64 plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events.  
+[**Papyrus Extender SSE v5.1**](https://www.nexusmods.com/skyrimspecialedition/mods/22854?tab=files): SKSE64 plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events.  
 - Required by FEC.
 
-[**Papyrus Extender VR v5.0.3.1**](https://www.nexusmods.com/skyrimspecialedition/mods/58296?tab=files): SKSEVR plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events. This requires the original Papyrus Extender and is built from po3's source.
+[**Papyrus Extender VR v5.1**](https://www.nexusmods.com/skyrimspecialedition/mods/58296?tab=files): SKSEVR plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events. This requires the original Papyrus Extender and is built from po3's source.
 - Required by FEC.
 
 [**DynDOLOD Resources SE v3.00 Alpha-26**](https://www.nexusmods.com/skyrimspecialedition/mods/52897?tab=files): DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD + tree LOD and the new, optional dynamic distant object LOD in a few simple steps.
@@ -978,10 +978,10 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Enderal SE - Dirt and Blood v1.01**](https://www.nexusmods.com/enderalspecialedition/mods/201?tab=files): Compatibility patch for Dirt and Blood.
 
-[**Frozen Electrocuted Combustion - v5.0.1**](https://www.nexusmods.com/skyrimspecialedition/mods/3532?tab=files): Applies visual effects to NPCs and the player, when killed by magic status effects.
+[**Frozen Electrocuted Combustion - v5.0.5**](https://www.nexusmods.com/skyrimspecialedition/mods/3532?tab=files): Applies visual effects to NPCs and the player, when killed by magic status effects.
 - Remove optional DLL.
 
-[**Frozen Electrocuted Combustion VR v5.0.0.1**](https://www.nexusmods.com/skyrimspecialedition/mods/59118?tab=files): Applies visual effects to NPCs and the player, when killed by air, ash, dragons, drain, fire, frost, fear, lightning, poison, soultrap, steam and sun damage status effects. VR version that requires original FEC to run.
+[**Frozen Electrocuted Combustion VR v5.0.5**](https://www.nexusmods.com/skyrimspecialedition/mods/59118?tab=files): Applies visual effects to NPCs and the player, when killed by air, ash, dragons, drain, fire, frost, fear, lightning, poison, soultrap, steam and sun damage status effects. VR version that requires original FEC to run.
 
 Required load order:
 * VR Address Library for SKSEVR
