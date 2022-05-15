@@ -614,6 +614,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**WiZkiD Carriages v1.3**](https://www.nexusmods.com/skyrimspecialedition/mods/39640?tab=files): A complete replacer for all carriages with high quality textures.
 
 [**WiZkiD Parallax Farmhouses 2k No Parallax v1.4**](https://www.nexusmods.com/skyrimspecialedition/mods/39185?tab=files): A complete overhaul of all farmhouses related models with high quality textures. This overhaul includes exteriors, interiors, basement and stonewalls.
+- If using Enderal SE Retexture Project, recommend removing \meshes\architecture\farmhouse\farmwell01.nif
 
 [**ElSopa - HD Grindstone Redone SE 1K v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/58149?tab=files): Grindstone Redone. New Mesh. New Textures. No ESP. Optional Texture Resolutions.
 
