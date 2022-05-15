@@ -738,8 +738,6 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**TB's Wine 4K Version v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/61131?tab=files): This is a retexture containing no ESPs which comes in 3 Variants - 2K, 4K and 8K and aims to improve upon the default Skyrim textures, thank you very much for considering my mod (Also introduces some transparency into the glass).
 
-[**TB's Better Plaster - 4K v1.3**](https://www.nexusmods.com/skyrimspecialedition/mods/64261?tab=files): Plaster is plastered all around Skyrim so I decided to improve it (in 4K).
-
 [**High Poly Mudcrab N Retexture v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/62967?tab=files): Pfuscher's High Poly Mudcrabs N Retexture.
 
 [**Cork Retexture v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/41903?tab=files): Cork retexture. 4x the size of vanilla's.
@@ -941,8 +939,6 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**Craftsman Tools Replacer v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/28?tab=files): Replaces meshes and textures of the crafting tools seen throughout Enderal.
 
 [**Cannons 2K v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/63?tab=files): Replaces the cannons and cannonballs with new 2K textures.
-
-[**Enderal Upscale Project v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/126?tab=files): Vanilla Enderal textures upscaled 4x up to 4096px BC compressed. Normal/Specular maps generated from result, same resolution.
 
 [**Enderal Texture Workshop v1.5**](https://www.nexusmods.com/enderal/mods/275?tab=files): Vanilla-friendly retexture for various assets in Enderal.
 
