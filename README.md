@@ -663,6 +663,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**Loose Clear refracting icicle and FrostAtronach v1.5**](https://www.nexusmods.com/skyrimspecialedition/mods/2458?tab=files): Realistic looking Icicle and Frost Atronach.
 
 [**Rallys City Roofs 2K - AIO v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/20896?tab=files): This mod retextures the roofs of houses and market stalls in Whiterun, Riften and Solitude.
+- If using Enderal SE Retexture Project, recommend removing wrmarketstallroof01*.*
 
 [**Rally's Mead Barrels v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/49641?tab=files): Replacer for mead barrels and spigots.
 
