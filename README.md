@@ -563,6 +563,8 @@ If you are using a language pack, you may need to change the font used by Dear D
 - Remove \meshes\architecture\farmhouse\farmhousewindmill, \meshes\architecture\solitude\swindmill.nif, and \meshes\architecture\solitude\swindmillrotor.nif to revert windmills back to vanilla which arguably look better in VR.
 - Remove ESP file.
 
+[**Enderal Texture Workshop v1.5**](https://www.nexusmods.com/enderal/mods/275?tab=files): Vanilla-friendly retexture for various assets in Enderal.
+
 [**Noble Skyrim FULL PACK Performance Edition v5.5.0**](https://www.nexusmods.com/skyrimspecialedition/mods/21423?tab=files): Gives all of Skyrim's architecture a complete new look by changing its textures to custom ones. Beside the architecture, several other things, such as landscape, dungeons (ruins, mines, caves etc.), clutter stuff etc. have been re-textured as well, to match the rest of the mod.
 - Recommend placing before other texture packs; Remove "whroughgroundmud.dds".
 
@@ -939,8 +941,6 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**Craftsman Tools Replacer v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/28?tab=files): Replaces meshes and textures of the crafting tools seen throughout Enderal.
 
 [**Cannons 2K v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/63?tab=files): Replaces the cannons and cannonballs with new 2K textures.
-
-[**Enderal Texture Workshop v1.5**](https://www.nexusmods.com/enderal/mods/275?tab=files): Vanilla-friendly retexture for various assets in Enderal.
 
 [**The Notice Board Redefined for Enderal v1.1**](https://www.nexusmods.com/enderalspecialedition/mods/153?tab=files): Replaces low quality notes on bounty boards with notes from The Notice Board Redefined.
 
