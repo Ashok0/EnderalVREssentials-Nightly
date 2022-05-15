@@ -564,9 +564,19 @@ If you are using a language pack, you may need to change the font used by Dear D
 - Remove ESP file.
 
 [**Enderal Texture Workshop v1.5**](https://www.nexusmods.com/enderal/mods/275?tab=files): Vanilla-friendly retexture for various assets in Enderal.
+- Recommend installing before Enderal SE Retexture Pack Project.
 
 [**Noble Skyrim FULL PACK Performance Edition v5.5.0**](https://www.nexusmods.com/skyrimspecialedition/mods/21423?tab=files): Gives all of Skyrim's architecture a complete new look by changing its textures to custom ones. Beside the architecture, several other things, such as landscape, dungeons (ruins, mines, caves etc.), clutter stuff etc. have been re-textured as well, to match the rest of the mod.
-- Recommend placing before other texture packs; Remove "whroughgroundmud.dds".
+- Recommend placing before other Skyrim texture packs; Remove "whroughgroundmud.dds".
+
+[**Enderal SE Retexture Pack Project - Architecture Medium Quality v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/407?tab=files): A port of my Special Edition texture mod (SNRP) featuring edited textures as well as new to fit the aesthetics of Enderal. Still a work in progress.
+
+[**Enderal SE Retexture Pack Project - Dungeons Medium Quality v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/407?tab=files): A port of my Special Edition texture mod (SNRP) featuring edited textures as well as new to fit the aesthetics of Enderal. Still a work in progress.
+
+[**Enderal SE Retexture Pack Project - Landscapes Medium Quality v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/407?tab=files): A port of my Special Edition texture mod (SNRP) featuring edited textures as well as new to fit the aesthetics of Enderal. Still a work in progress.
+
+[**Noble Skyrim Dwemer Ruin Textures Performance Edition v5.5.0**](https://www.nexusmods.com/skyrimspecialedition/mods/21423?tab=files): Gives all of Skyrim's architecture a complete new look by changing its textures to custom ones. Beside the architecture, several other things, such as landscape, dungeons (ruins, mines, caves etc.), clutter stuff etc. have been re-textured as well, to match the rest of the mod.
+- If using Enderal SE Retexture Pack Project, recommend overriding the mod with Noble Dwemer Ruin textures.
 
 [**Tamrielic Textures SE 1 Landscapes 1K v1.4.0**](https://www.nexusmods.com/skyrimspecialedition/mods/32973?tab=files):  A fresh and complete replacement of all Skyrim landscape textures.
 
@@ -614,7 +624,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**WiZkiD Carriages v1.3**](https://www.nexusmods.com/skyrimspecialedition/mods/39640?tab=files): A complete replacer for all carriages with high quality textures.
 
 [**WiZkiD Parallax Farmhouses 2k No Parallax v1.4**](https://www.nexusmods.com/skyrimspecialedition/mods/39185?tab=files): A complete overhaul of all farmhouses related models with high quality textures. This overhaul includes exteriors, interiors, basement and stonewalls.
-- If using Enderal SE Retexture Project, recommend removing \meshes\architecture\farmhouse\farmwell01.nif
+- If using Enderal SE Retexture Pack Project, recommend removing \meshes\architecture\farmhouse\farmwell01.nif
 
 [**ElSopa - HD Grindstone Redone SE 1K v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/58149?tab=files): Grindstone Redone. New Mesh. New Textures. No ESP. Optional Texture Resolutions.
 
@@ -663,7 +673,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**Loose Clear refracting icicle and FrostAtronach v1.5**](https://www.nexusmods.com/skyrimspecialedition/mods/2458?tab=files): Realistic looking Icicle and Frost Atronach.
 
 [**Rallys City Roofs 2K - AIO v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/20896?tab=files): This mod retextures the roofs of houses and market stalls in Whiterun, Riften and Solitude.
-- If using Enderal SE Retexture Project, recommend removing wrmarketstallroof01*.*
+- If using Enderal SE Retexture Pack Project, recommend removing wrmarketstallroof01*.*
 
 [**Rally's Mead Barrels v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/49641?tab=files): Replacer for mead barrels and spigots.
 
