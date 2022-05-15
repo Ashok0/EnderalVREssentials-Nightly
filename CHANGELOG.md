@@ -98,7 +98,7 @@ New Mods:
 - Nightingale Bow Scoped Override v1.0: Overrides Nightingale with scoped version for VR.
 
 Updated Mods:
-- Enderal VR v3.2: Fixed quest Two souls part 5 cqc05: Romance with Calia. Some animation issues and Calia not responding (oh my). Moved some funitures (chairs) in MQP01House to make pathfinding easier for the player in VR. Fixed one Ending : slight modification of scene 2 MQ18a to fix potential player bugs (animations).
+- Enderal VR v3.3: Fixed quest Two souls part 5 cqc05: Romance with Calia. Some animation issues and Calia not responding (oh my). Moved some funitures (chairs) in MQP01House to make pathfinding easier for the player in VR. Fixed one Ending : slight modification of scene 2 MQ18a to fix potential player bugs (animations). Updated the questfunction script given in enderal 2.0.11.  Added a failsafe after the dream (mq10) so that the player can at least retrieve a scale =1.  Fixed a small issue in MQ15 (Companion not entering the vault)
 - Enderal SE - Bug Fixes v1.32: Fixed an issue with Dreameater sneak damage calculation.
 - HIGGS - Enhanced VR Interaction v1.5.2: Hand/weapon collision, weapon two-handing, realistic object grabbing, and gravity gloves-style mechanics for Skyrim VR.
 - Crash Logger v1.0.0.3: Provide more info on TESForm and NiAVObject (names/editor IDs).
@@ -114,7 +114,7 @@ Updated Mods:
 - Spell Perk Item Distributor VR v5.2.0.3: Fix failure to load due to processing of non-ascii paths for mergemapper.
 - RaceMenu SE v0.4.19: Complete overhaul to the character creation menu including new customization features such as multiple RGBA warpaints, body paints, hand paint, and foot paints.
 - moreHUD VR v1.0.7: Stability improvements.
-- Embers XD v2.5.9:  Added particle lights for forges.
+- Embers XD v2.6.0:  Added an option for vanilla-like sticky torch flame. Added Embers XD style purple brazier variant.
 - Venerable Nordic Temples (2K - 4K) v0.2: A high quality retexture for Nordic temples and ruins, offering high fidelity visuals and a lore friendly, ancient aesthetic.
 - High Poly Project v5.3: Removed Wine Bottles as these are redundant with 'TB's Wine 4K'.
 - Rally's Candlelight and Magelight Fix SE - VR v1.3: Fix for the Candlelight Spell and Magelight Spell in SE/VR.
