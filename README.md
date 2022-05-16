@@ -399,7 +399,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**Enderal VR - Patch v3.3**](https://www.nexusmods.com/enderalspecialedition/mods/8?tab=files): Mod for playing Enderal in VR (with the SkyrimVR engine).
 
 [**Enderal VR DynDOLOD Patch**]: Enderal VR ESP Fix for DynDOLOD 3.0 support.
-- Removes all errors from FormID 00071C47 (ResourceObjectSawmill) in EnderalVR.esm
+- Removes all errors from FormID 00071C47 (ResourceObjectSawmill) in SkyrimVR.esm
 
 [**SKSEVR 2.0.12**](https://skse.silverlock.org): A tool used by many Skyrim mods that expands scripting capabilities and adds additional functionality to the game.
 
