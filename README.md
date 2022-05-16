@@ -587,7 +587,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**4K SMIM Whiterun Bench v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/32164?tab=files): Retextures the SMIM bench in Whiterun with darker and dirtier options available.
 
-[**4K SMIM Furniture Improvement v1.2**](https://www.nexusmods.com/skyrimspecialedition/mods/32552?tab=files): A 4K retexture of SMIM furniture textures.
+[**4K SMIM Furniture Improvement v1.3**](https://www.nexusmods.com/skyrimspecialedition/mods/32552?tab=files): A 4K retexture of SMIM furniture textures.
 
 [**4K SMIM Furniture Chest v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/33369?tab=files): A retexture of the SMIM furniture chests, Upperclass, Weathered, Open and Snow. 4K or 2K.
 
