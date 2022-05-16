@@ -1259,9 +1259,10 @@ ADXP is a framework built on SkySA that bypasses the Skyrim animation wall, allo
 12. Wait for the process to finish and then close the Nemesis Unlimited Behavior Engine.  
 13. Right click on "Overwrite" and select "Create Mod".  Enter a custom name i.e. Nemesis_Output and click OK.
 14. Tick "Nemesis_Output" in the left window pane. 
-15. Revert the upper right dropdown bar back to "SKSE".
-16. Re-enable "Real-time protection" in Windows.
-17. You may need to re-run this process if you change your load order.
+15. If using XPMSSE, delete dummy plugin "FNIS.esp".
+16. Revert the upper right dropdown bar back to "SKSE".
+17. Re-enable "Real-time protection" in Windows.
+18. You may need to re-run this process if you change your load order.
 
 ## DynDOLOD 3 and SkyVRaan Configuration
 
