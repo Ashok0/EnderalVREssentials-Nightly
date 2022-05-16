@@ -118,6 +118,7 @@ Updated Mods:
 - Venerable Nordic Temples (2K - 4K) v0.2: A high quality retexture for Nordic temples and ruins, offering high fidelity visuals and a lore friendly, ancient aesthetic.
 - High Poly Project v5.3: Removed Wine Bottles as these are redundant with 'TB's Wine 4K'.
 - Rally's Candlelight and Magelight Fix SE - VR v1.3: Fix for the Candlelight Spell and Magelight Spell in SE/VR.
+- 4K SMIM Furniture Improvement v1.3: A 4K retexture of SMIM furniture textures.
 - Snazzy Furniture and Clutter Overhaul SE v2.1.2: Fixed a few records that didn't forward the Persistent flag in the main plugin.
 - NavigateVR v1.51: This mod brings immersive navigation to VR with a functional compass.
 - Sprint Jump VR v1.1.3: Removed unnecessary and incorrect fJumpFallHeightMin setting modification which had nothing to do with jump distance apparently.
