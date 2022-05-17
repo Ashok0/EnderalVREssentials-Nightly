@@ -773,6 +773,8 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Skyrim Textures Redone - High Hrothgar Parallax v2.4**](https://www.nexusmods.com/skyrimspecialedition/mods/51403?tab=files): Parallax Meshes and Textures for Skyrim Textures Redone - High Hrothgar and SkyHaven. 
 
+[**Skyrim Textures Redone - SkyHaven Parallax v2.4**](https://www.nexusmods.com/skyrimspecialedition/mods/51403?tab=files): Parallax Meshes and Textures for Skyrim Textures Redone - High Hrothgar and SkyHaven. 
+
 [**4K Parallax High Hrothgar by Pfuscher - Update1 v1.0**](https://www.nexusmods.com/skyrim/mods/58938?tab=files): Thanks and props to VoltarDaedra.
 
 [**Boreal Boats Parallax Meshes SE v1.3**](https://www.nexusmods.com/skyrimspecialedition/mods/47608?tab=files): Required for Parallax Effect.
