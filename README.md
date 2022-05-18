@@ -771,7 +771,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**CC's HQ Caves Parallax Textures for Skyrim Remastered - Caves v2.2**](https://www.nexusmods.com/skyrimspecialedition/mods/44877?tab=files): Parallax textures for CC's HQ Caves; requires Skyrim Remastered - Caves and SSE Parallax Shader Fix.
 
-[**Skyrim Textures Redone - High Hrothgar Parallax v2.4**](https://www.nexusmods.com/skyrimspecialedition/mods/51403?tab=files): Parallax Meshes and Textures for Skyrim Textures Redone - High Hrothgar and SkyHaven. 
+[**Skyrim Textures Redone - High Hrothgar Parallax v2.41**](https://www.nexusmods.com/skyrimspecialedition/mods/51403?tab=files): Parallax Meshes and Textures for Skyrim Textures Redone - High Hrothgar and SkyHaven. 
 
 [**Skyrim Textures Redone - SkyHaven Parallax v2.4**](https://www.nexusmods.com/skyrimspecialedition/mods/51403?tab=files): Parallax Meshes and Textures for Skyrim Textures Redone - High Hrothgar and SkyHaven. 
 
