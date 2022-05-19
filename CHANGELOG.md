@@ -113,7 +113,7 @@ Updated Mods:
 - VR Address Library for SKSEVR v0.32.0: Add latest commonlib, po3 addresses (02026b1)
 - Spell Perk Item Distributor VR v5.2.0.3: Fix failure to load due to processing of non-ascii paths for mergemapper.
 - RaceMenu SE v0.4.19: Complete overhaul to the character creation menu including new customization features such as multiple RGBA warpaints, body paints, hand paint, and foot paints.
-- moreHUD VR v1.0.7: Stability improvements.
+- moreHUD VR v1.1.0: Stability improvements.
 - Embers XD v2.6.0:  Added an option for vanilla-like sticky torch flame. Added Embers XD style purple brazier variant.
 - Venerable Nordic Temples (2K - 4K) v0.2: A high quality retexture for Nordic temples and ruins, offering high fidelity visuals and a lore friendly, ancient aesthetic.
 - High Poly Project v5.3: Removed Wine Bottles as these are redundant with 'TB's Wine 4K'.
