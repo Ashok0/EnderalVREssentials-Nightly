@@ -64,7 +64,7 @@ New Mods:
 - Deerstalker Redone v1.01: Renames Mountain Deerstalker and Shadow Deerstalker to Shadow Stalker and adds appropriate loot.
 - Kolapon's Undead Creatures Replacer v1.2u: Changes the appearance of some of the creatures so they are unique to Enderal.
 - XP32 Maximum Skeleton Special Extended - XPMSSE v4.8: XP32 Maximum Skeleton Special Extended is the update of XP32 Maximum Skeleton Extended for Skyrim Special Edition.
-- Enable TAA FX: Re-enables TAA FX with parallax support via VR FPS Stabilizer.
+- Enable TAA FX: Re-enables TAA FX with partial parallax support via VR FPS Stabilizer.
 - Vanilla HUD Size for VR: Overrides UI with larger vanilla sized HUD.
 - Enderal Armor and Weapon Overhaul v2.0: This mod changes almost every piece of armor and weapon in the game. And some clothes. No more Skyrim flashbacks in Enderal.
 - Enderal Armor and Weapon Overhaul - Replacer v1.14: Apoapse's Accoutrement patch for EAWO.
@@ -88,6 +88,7 @@ New Mods:
 - EGO SE - Kolapon's Undead Creatures Replacer v1.0: Compatibility patch for Enderal Gameplay Overhaul and Kolapon's Undead Creatures Replacer.
 - EGO SE - Kolapon's Various Creatures Replacer v1.0: Compatibility patch for Enderal Gameplay Overhaul and Kolapon's Various Creatures Replacer.
 - EGO SE - No more Skyrim-looking Creatures EGO Patch v1.1: Patch between for No More Skyrim-looking Creatures and EGO.
+- Noble Quarter Player Home Fixes (and EGO patch) v1.0: Fixes a small issue with "Enderal - Nobles Quarter Player home redone SE" and ensures compatibility with EGO and other mods.
 - Enderal - Gameplay Overhaul - EAO Patch v1.0: This is a patch for Enderal Gameplay Overhaul and Enderal Armor and Weapons Overhaul.
 - Enderal - Gameplay Overhaul - EWO Patch v1.0: This is a patch for Enderal Gameplay Overhaul and Enderal Armor and Weapons Overhaul.
 - Apoapse's Accoutrement v1.0: Weapons and armor have been totally remodeled, with assets pulled from dozens of excellent Skyrim mods, to match our “Age of Sail” theme. Most outfits have been hand-selected for different NPCs, both generic and unique, to fit the setting.
