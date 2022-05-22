@@ -82,7 +82,7 @@ Recommended:
 	* Disable "Caliente's Beautiful Bodies Enhancer -CBBE-" if you prefer vanilla bodies.  Pre-configured as Vanilla NeverNude.
 	* Disable "Bijin Skin UNP and CBBE" if you prefer vanilla skin.
 	* Enable "Equippable Tattoo Skins UNP + CBBE" if you wish to apply tattoos/bodypaint to your character (female only).
-	* Disable "VR FPS Stabilizer" to enable TAA effects.  By default, the console features of this mod are used to disable all TAA effects.  This removes TAA blur but creates shimmering foliage.  (TAA effects must be disabled via "VR FPS Stabilizer" tweaks.  TAA should not be disabled in-game as TAA must be active for the menu artwork to display properly.)
+	* Enable "TAA FX" to enable TAA effects.  While this does reduce shimmering foliage, it is not recommended to enable TAA as this breaks parallax textures.  (TAA effects must be enabled/disabled via mods.  TAA should not be disabled in-game as TAA must be active for the menu artwork to display properly.)
 	* Enable "Replace spiders with wolfs and bears" OR "Arachnophobia - No Spiders and Beetles" if you have arachnophobia!  Choose only one.
 	* Enable "DynDOLOD_Output_PERFORMANCE" OR "DynDOLOD_Output_QUALITY".  Select only one.  The PERFORMANCE version uses "billboard1" trees for LOD4 for optimal performance.  The QUALITY version uses "level0" trees for LOD4.  This will greatly improve tree LODs but results in -10fps in large open areas on an RTX 3070.  The PERFORMANCE version is enabled by default.
 16.   (Optional) You can optimize your VR performance by installing either [OpenVR FSR](https://github.com/fholger/openvr_fsr) (Compatible with all headsets) or the 64-bit DLL for [OpenComposite](https://gitlab.com/znixian/OpenOVR/) (Compatible with Oculus headsets only, highly recommended when using Air Link) to your Skyrim VR installation folder.  Backup and overwrite the existing DLL file in your Skyrim VR folder.  
@@ -1071,8 +1071,8 @@ Required load order:
 
 [**XP32 Maximum Skeleton Special Extended - XPMSSE v4.8**](https://www.nexusmods.com/skyrimspecialedition/mods/1988?tab=files): XP32 Maximum Skeleton Special Extended is the update of XP32 Maximum Skeleton Extended for Skyrim Special Edition.
 
-[**Enable TAA FX**](https://www.nexusmods.com/skyrimspecialedition/mods/31392?tab=files): Re-enables TAA FX via VR FPS Stabilizer.  Fix parallax with TAA by adding the following line to \VR FPS Stabilizer\SKSE\Plugins\VRFpsStabilizer.ini:
-- taa hf 0
+[**Enable TAA FX**](https://www.nexusmods.com/skyrimspecialedition/mods/31392?tab=files): Re-enables TAA FX via VR FPS Stabilizer.  Partial parallax support (only minor graphical glitches) with TAA by adding the following line to \VR FPS Stabilizer\SKSE\Plugins\VRFpsStabilizer.ini:
+- taa hf 0.5
 
 [**Vanilla HUD Size for VR**]: Overrides UI with larger vanilla sized HUD.
 
