@@ -1146,6 +1146,8 @@ Required load order:
 
 [**Nightingale Bow Scoped Override v1.0**]: Overrides Nightingale with scoped version for VR. 
 
+[**Noble Quarter Player Home Fixes (and EGO patch) v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/409?tab=files): Fixes a small issue with "Enderal - Nobles Quarter Player home redone SE" and ensures compatibility with EGO and other mods.
+
 [**Allow Fast Travel v1.3**](https://www.nexusmods.com/enderalspecialedition/mods/42?tab=files): Allows Fast Travel in Enderal.
 - Must be placed near end of load order as any mods that alter worldspace will break fast travel.
 
