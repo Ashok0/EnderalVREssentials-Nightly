@@ -68,7 +68,7 @@ New Mods:
 - Vanilla HUD Size for VR: Overrides UI with larger vanilla sized HUD.
 - Enderal Armor and Weapon Overhaul v2.0: This mod changes almost every piece of armor and weapon in the game. And some clothes. No more Skyrim flashbacks in Enderal.
 - Enderal Armor and Weapon Overhaul - Replacer v1.14: Apoapse's Accoutrement patch for EAWO.
-- EGO SE - Enderal Gameplay Overhaul v1.88: This is a complete overhaul of the gameplay mechanics of Enderal. This includes a ton of balance changes, improvements to the ai, new gameplay mechanics, new weapons/spells/potions and much more. (ENG/GER/RUS)
+- EGO SE - Enderal Gameplay Overhaul v1.88.1: This is a complete overhaul of the gameplay mechanics of Enderal. This includes a ton of balance changes, improvements to the ai, new gameplay mechanics, new weapons/spells/potions and much more. (ENG/GER/RUS)
 - EGO SE - Myths and Legends VI - The Forgotten One v1.01: A balance patch for Enderal SE Gameplay Overhaul. Compatible with all languages.
 - EGO - Fire of the Mountain v1.0: Balanced for EGO, some small translation fixes, added EGO enemy perks/abilities to enemies.
 - EGO SE - Playable Half Starling Race v1.0.3: Adds Half Starlings as a playable race. (ENDERAL GAMEPLAY OVERHAUL VERSION) Only download one of the files.
