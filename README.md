@@ -422,7 +422,7 @@ If you are using a language pack, you may need to change the font used by Dear D
          taa po 1.0	 
          taa ps 0
 
-[**VR Address Library for SKSEVR v0.32.0**](https://www.nexusmods.com/skyrimspecialedition/mods/58101?tab=files): VR Address Library database for end users. This is intended as a VR replacement for Address Library for SKSE for mods designed for it. Only download if the mod says this is a requirement. It is currently an alpha. This is not for SSE. This is different from Address Library for SKSE.
+[**VR Address Library for SKSEVR v0.33.0**](https://www.nexusmods.com/skyrimspecialedition/mods/58101?tab=files): VR Address Library database for end users. This is intended as a VR replacement for Address Library for SKSE for mods designed for it. Only download if the mod says this is a requirement. It is currently an alpha. This is not for SSE. This is different from Address Library for SKSE.
 
 [**Dynamic Animation Replacer for Skyrim VR 1415 v1.1.0a**](https://www.nexusmods.com/skyrimspecialedition/mods/33746?tab=files): This mod dynamically replaces the actors' animations depending on various conditions. Supports most actors, including creatures. Actors and animations added by mods are also supported. No ESP file.
 
@@ -431,7 +431,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**ADXP Beta v1.2**](https://www.skyrim-guild.com/distar/guidesandnews/mco-guide): A framework that bypasses the animation wall, allowing for modern combat in Skyrim.
 - Delete MCO.dll
 
-[**Crash Logger VR v1.0.0.3**](https://www.nexusmods.com/skyrimspecialedition/mods/59818?tab=files): Generates crash logs when the game Just Works™. This is a VR port using fudgyduff's MIT source.
+[**Crash Logger VR v1.0.0.4**](https://www.nexusmods.com/skyrimspecialedition/mods/59818?tab=files): Generates crash logs when the game Just Works™. This is a VR port using fudgyduff's MIT source.
 
 [**PapyrusUtil VR - Scripting Utility Functions v3.6b**](https://www.nexusmods.com/skyrimspecialedition/mods/13048?tab=files): An SKSE plugin adding several new scripts with native functions that provide various conveniences related to data storage and other misc functions to the scripter/modder.  DynDOLOD requirement.
 
@@ -570,13 +570,13 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**Noble Skyrim FULL PACK Performance Edition v5.5.0**](https://www.nexusmods.com/skyrimspecialedition/mods/21423?tab=files): Gives all of Skyrim's architecture a complete new look by changing its textures to custom ones. Beside the architecture, several other things, such as landscape, dungeons (ruins, mines, caves etc.), clutter stuff etc. have been re-textured as well, to match the rest of the mod.
 - Recommend placing before other Skyrim texture packs; Remove "whroughgroundmud.dds".
 
-[**Enderal SE Retexture Pack Project - Architecture Medium Quality v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/407?tab=files): A port of my Special Edition texture mod (SNRP) featuring edited textures as well as new to fit the aesthetics of Enderal. Still a work in progress.
+[**Enderal SE Retexture Pack Project - Architecture Medium Quality v1.1**](https://www.nexusmods.com/enderalspecialedition/mods/407?tab=files): A port of my Special Edition texture mod (SNRP) featuring edited textures as well as new to fit the aesthetics of Enderal. Still a work in progress.
 - Remove \meshes\ folder
 
-[**Enderal SE Retexture Pack Project - Dungeons Medium Quality v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/407?tab=files): A port of my Special Edition texture mod (SNRP) featuring edited textures as well as new to fit the aesthetics of Enderal. Still a work in progress.
+[**Enderal SE Retexture Pack Project - Dungeons Medium Quality v1.1**](https://www.nexusmods.com/enderalspecialedition/mods/407?tab=files): A port of my Special Edition texture mod (SNRP) featuring edited textures as well as new to fit the aesthetics of Enderal. Still a work in progress.
 - Remove \meshes\ folder
 
-[**Enderal SE Retexture Pack Project - Landscapes Medium Quality v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/407?tab=files): A port of my Special Edition texture mod (SNRP) featuring edited textures as well as new to fit the aesthetics of Enderal. Still a work in progress.
+[**Enderal SE Retexture Pack Project - Landscapes Medium Quality v1.1**](https://www.nexusmods.com/enderalspecialedition/mods/407?tab=files): A port of my Special Edition texture mod (SNRP) featuring edited textures as well as new to fit the aesthetics of Enderal. Still a work in progress.
 
 [**Noble Skyrim Dwemer Ruin Textures Performance Edition v5.5.0**](https://www.nexusmods.com/skyrimspecialedition/mods/21423?tab=files): Gives all of Skyrim's architecture a complete new look by changing its textures to custom ones. Beside the architecture, several other things, such as landscape, dungeons (ruins, mines, caves etc.), clutter stuff etc. have been re-textured as well, to match the rest of the mod.
 - If using Enderal SE Retexture Pack Project, recommend overriding the mod with Noble Dwemer Ruin textures.
