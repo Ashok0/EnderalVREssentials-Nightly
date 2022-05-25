@@ -116,7 +116,7 @@ Updated Mods:
 - More Informative Console VR v1.0.1: This mod edits the UI to show a great deal of additional information on npcs, items, and other objects when the console is opened, similar to the way MFG console worked for Oldrim.
 - RaceMenu SE v0.4.19: Complete overhaul to the character creation menu including new customization features such as multiple RGBA warpaints, body paints, hand paint, and foot paints.
 - moreHUD VR v1.1.0: Stability improvements.
-- Embers XD v2.6.0:  Added an option for vanilla-like sticky torch flame. Added Embers XD style purple brazier variant.
+- Embers XD v2.6.1:  Added an option for vanilla-like sticky torch flame. Added Embers XD style purple brazier variant.
 - Venerable Nordic Temples (2K - 4K) v0.2: A high quality retexture for Nordic temples and ruins, offering high fidelity visuals and a lore friendly, ancient aesthetic.
 - High Poly Project v5.3: Removed Wine Bottles as these are redundant with 'TB's Wine 4K'.
 - Rally's Candlelight and Magelight Fix SE - VR v1.3: Fix for the Candlelight Spell and Magelight Spell in SE/VR.
