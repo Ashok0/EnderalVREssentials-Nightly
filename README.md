@@ -970,9 +970,9 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Akropolis Stones HD v1.0**]: HD textures for the Akropolis stones.
 
-[**Conduit - Short-term Weapon Infusions v2.3**](https://www.nexusmods.com/skyrimspecialedition/mods/58023?tab=files): When holding a weapon in one hand and a spell in the other, you are able to temporarily "conduct" the spell through that weapon. Different categories of spells make the weapon do different things. This effect will overlay on top of normal enchants and does include additional weapon FX that will overlay too. It even works on Bound weapons.
+[**Conduit - Short-term Weapon Infusions v2.4**](https://www.nexusmods.com/skyrimspecialedition/mods/58023?tab=files): When holding a weapon in one hand and a spell in the other, you are able to temporarily "conduct" the spell through that weapon. Different categories of spells make the weapon do different things. This effect will overlay on top of normal enchants and does include additional weapon FX that will overlay too. It even works on Bound weapons.
 
-[**Conduit - Enderal Adaption Patch v2.3-EA1**](https://www.nexusmods.com/skyrimspecialedition/mods/58023?tab=files): This is an experimental rebalance (read: heavy nerf) of the mod for Enderal. If you feel Conduit is overtuned for normal Skyrim, you can use this patch there as well, it doesnt require Enderal. ESL-flagged.
+[**Conduit - Enderal Adaption Patch v2.4-EA1**](https://www.nexusmods.com/skyrimspecialedition/mods/58023?tab=files): This is an experimental rebalance (read: heavy nerf) of the mod for Enderal. If you feel Conduit is overtuned for normal Skyrim, you can use this patch there as well, it doesnt require Enderal. ESL-flagged.
 
 [**Enhanced Blood Textures Enderal SE v4.0**](https://www.nexusmods.com/enderalspecialedition/mods/360?tab=files): A blood overhaul mod.
 
