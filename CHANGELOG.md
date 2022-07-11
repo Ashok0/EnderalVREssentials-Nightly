@@ -146,6 +146,7 @@ Updated Mods:
 - Forgotten Dungeons - Abandoned Excavation Site v1.01: A small update with some things cleaned up, this is mostly to provide future compatibility (thanks to Apoapse).
 - Riverville Catacombs SE v1.02: A small update with some things cleaned up, this is mostly to provide future compatibility (thanks to Apoapse).
 - Enderal Distinctive Jewelry v1.5: Necklaces now use models from DovahBling Jewelry. Thanks testiger2 for the permission!
+- Dirt and Blood - Dynamic Visual Effects v2.22: Your character will accumulate dirt and blood dynamically, which you can clean by swimming or standing in the rain.
 
 Removed mods:
 - High Poly Project v5.3: Redundant with other texture/mesh mods.
