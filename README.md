@@ -835,7 +835,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**R.A.S.S Cold Breath for Enderal v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/271?tab=files): Modified the R.A.S.S plugin so the cold breath effect works in Enderal's colder regions.
 - This plugin appears to have a bug where the Ash FX are constantly active.  To fix this, remove "Visual Effect.RASS_CameraFX_Ash_Visual" and "Effect Shader.RASS_FX_Ash" from the plugin with xEdit.
 
-[**Simplicity of Snow v0.6.4.2**](https://www.nexusmods.com/skyrimspecialedition/mods/56235?tab=files): A light-weight snow mod designed to minimize conflicts. Uses your own snow texture and removes snow from under roofs.
+[**Simplicity of Snow v0.7**](https://www.nexusmods.com/skyrimspecialedition/mods/56235?tab=files): A light-weight snow mod designed to minimize conflicts. Uses your own snow texture and removes snow from under roofs.
 - Remove the plugin's "Static.DirtCliffs03Snow01Snow" data in xEdit.
 
 [**SkyVRaan - Shimmering VR Waters v1.0.1**](https://www.nexusmods.com/skyrimspecialedition/mods/30571?tab=files): Adds a fake reflection effect to Skyrim VR's outdoor water. It breaks up the distant LOD, shows wave movement on the distant water, and gives an illusion of water depth in the distance. Also has improved realism and clarity of near water.
