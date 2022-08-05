@@ -841,7 +841,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**SkyVRaan - Shimmering VR Waters v1.0.1**](https://www.nexusmods.com/skyrimspecialedition/mods/30571?tab=files): Adds a fake reflection effect to Skyrim VR's outdoor water. It breaks up the distant LOD, shows wave movement on the distant water, and gives an illusion of water depth in the distance. Also has improved realism and clarity of near water.
 - Requires patching with Synthesis.
 - During the installation, tick "Rally's Water Foam (4K)" and "Improved Water Normals for Vanilla" and leave all other settings at default.  Do NOT install Rocky Riverbeds due to high performance drop.
-- Recommend replacing 'OutputCube.dds' with 'ewpdefault.dds' (Enhanced Wetness and Puddles mod) for improved water reflections.
+- Recommend replacing 'OutputCube.dds' with 'ewpdefault.dds' from the [Enhanced Wetness and Puddles](https://www.nexusmods.com/skyrimspecialedition/mods/58155?tab=description) mod for improved water reflections.
 
 [**3D World Fog Map v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/340?tab=files): Add fog back to the 3D world map!
 
