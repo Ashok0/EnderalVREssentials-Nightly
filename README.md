@@ -841,6 +841,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**SkyVRaan - Shimmering VR Waters v1.0.1**](https://www.nexusmods.com/skyrimspecialedition/mods/30571?tab=files): Adds a fake reflection effect to Skyrim VR's outdoor water. It breaks up the distant LOD, shows wave movement on the distant water, and gives an illusion of water depth in the distance. Also has improved realism and clarity of near water.
 - Requires patching with Synthesis.
 - During the installation, tick "Rally's Water Foam (4K)" and "Improved Water Normals for Vanilla" and leave all other settings at default.  Do NOT install Rocky Riverbeds due to high performance drop.
+- Recommend replacing 'OutputCube.dds' with 'ewpdefault.dds' (Enhanced Wetness and Puddles mod) for improved water reflections.
 
 [**3D World Fog Map v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/340?tab=files): Add fog back to the 3D world map!
 
@@ -1344,27 +1345,28 @@ Note that many DynDOLOD guides on the Web are heavily outdated or are not relev
 ### SkyVRaan Configuration 
 SkyVRaan adds shimmering water effects to the game.  SkyVRaan has been pre-configured with Wabbajack but the configuration process has been documented below for reference.  This process should be run immediately before or after xLODGen/TexGen/DynDOLOD (if using xLODGen/TexGen/DynDOLOD). DynDOLOD and SkyVRaan's Synthesis plugin should be placed in your load order in the order that they are generated.
 
-1.  Download SkyVRaan from [HERE](https://www.nexusmods.com/skyrimspecialedition/mods/30571?tab=files) and install it through MO2 underneath other grass and water mods.  Tick "Rally's Water Foam (4K)" and "Improved Water Normals for Vanilla" and leave all other settings at default.  Do NOT install Rocky Riverbeds due to high performance drop.
-2. If you have previously used Synthesis, you MUST remove files from older versions by removing the following folder:  C:\Users\ (My Username)\AppData\Local\Temp\Synthesis
-3. Close Mod Organizer 2 if open
-4. Install .NET SDK 5.0 from [HERE](https://dotnet.microsoft.com/download/dotnet/5.0) and remove any previously installed .NET runtimes.  You can confirm .NET SDK 5.0 is properly installed by running the following from your command prompt:  dotnet --info
-5. Download Synthesis from [HERE](https://github.com/Mutagen-Modding/Synthesis/releases/) and extract it to a folder anywhere on your drive called \Synthesis\  
-6. Launch MO2 and select Tools > Executables > Add an executable ("+" icon in upper left) > Add from file > Navigate to "Synthesis.exe" in the folder created in Step 5 and select "Open"
-7. Right click on "Overwrite" in the left window pane and select: Clean Overwrite > OK. (If applicable, this option may not be available if your overwrite folder is already clean)
-8. Select Synthesis from upper right dropdown and click RUN
-9. Select Skyrim VR (if prompted).
-10. Select Git Repository (2nd icon in upper left) 
-11. Search for SkyVRaan and select the "+" icon next to SkyVRaanAutoPatcher and SkyVRaanWeatherPatcher
-12. Click RUN icon
-13. Wait for the utility to report "Completed" and close Synthesis. 
+1. Download SkyVRaan from [HERE](https://www.nexusmods.com/skyrimspecialedition/mods/30571?tab=files) and install it through MO2 underneath other grass and water mods.  Tick "Rally's Water Foam (4K)" and "Improved Water Normals for Vanilla" and leave all other settings at default.  Do NOT install Rocky Riverbeds due to high performance drop.
+2. Recommend replacing 'OutputCube.dds' with 'ewpdefault.dds' from the [Enhanced Wetness and Puddles](https://www.nexusmods.com/skyrimspecialedition/mods/58155?tab=description) mod for improved water reflections.
+3. If you have previously used Synthesis, you MUST remove files from older versions by removing the following folder:  C:\Users\ (My Username)\AppData\Local\Temp\Synthesis
+4. Close Mod Organizer 2 if open
+5. Install .NET SDK 5.0 from [HERE](https://dotnet.microsoft.com/download/dotnet/5.0) and remove any previously installed .NET runtimes.  You can confirm .NET SDK 5.0 is properly installed by running the following from your command prompt:  dotnet --info
+6. Download Synthesis from [HERE](https://github.com/Mutagen-Modding/Synthesis/releases/) and extract it to a folder anywhere on your drive called \Synthesis\  
+7. Launch MO2 and select Tools > Executables > Add an executable ("+" icon in upper left) > Add from file > Navigate to "Synthesis.exe" in the folder created in Step 5 and select "Open"
+8. Right click on "Overwrite" in the left window pane and select: Clean Overwrite > OK. (If applicable, this option may not be available if your overwrite folder is already clean)
+9. Select Synthesis from upper right dropdown and click RUN
+10. Select Skyrim VR (if prompted).
+11. Select Git Repository (2nd icon in upper left) 
+12. Search for SkyVRaan and select the "+" icon next to SkyVRaanAutoPatcher and SkyVRaanWeatherPatcher
+13. Click RUN icon
+14. Wait for the utility to report "Completed" and close Synthesis. 
 	- If you get a "Blocking Error", try the following:
 		-  Delete any existing Groups and try re-running Synthesis.
 		-  Delete any files from C:\Users\ (Username)\AppData\Local\Temp\Synthesis
 		-  Make sure you are using the latest version of Synthesis from Github [HERE](https://github.com/Mutagen-Modding/Synthesis/releases)
-14. Right click on "Overwrite" and select "Create Mod".  Enter a custom name i.e. Synthesis_Output and click OK.
-15. Tick "Synthesis_Output" in the left window pane and make sure "Synthesis.esp" is at the bottom of your Plugin load order and ticked in the right window pane. (Place them directly after "DynDOLOD_Output" and "DynDOLOD.esp" respectively if xLODGen/TexGen/DynDOLOD have already been run.) 
-16. Revert the upper right dropdown bar back to "SKSE".
-17. You may need to re-run this process if you change your load order.
+15. Right click on "Overwrite" and select "Create Mod".  Enter a custom name i.e. Synthesis_Output and click OK.
+16. Tick "Synthesis_Output" in the left window pane and make sure "Synthesis.esp" is at the bottom of your Plugin load order and ticked in the right window pane. (Place them directly after "DynDOLOD_Output" and "DynDOLOD.esp" respectively if xLODGen/TexGen/DynDOLOD have already been run.) 
+17. Revert the upper right dropdown bar back to "SKSE".
+18. You may need to re-run this process if you change your load order.
 
 ### Mod Organizer 2 Settings
 Required Mod Load Order (left side):
