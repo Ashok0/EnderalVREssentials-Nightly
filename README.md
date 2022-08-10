@@ -570,13 +570,15 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**Noble Skyrim FULL PACK Performance Edition v5.5.0**](https://www.nexusmods.com/skyrimspecialedition/mods/21423?tab=files): Gives all of Skyrim's architecture a complete new look by changing its textures to custom ones. Beside the architecture, several other things, such as landscape, dungeons (ruins, mines, caves etc.), clutter stuff etc. have been re-textured as well, to match the rest of the mod.
 - Recommend placing before other Skyrim texture packs; Remove "whroughgroundmud.dds".
 
-[**Enderal SE Retexture Pack Project - Architecture Medium Quality v1.1**](https://www.nexusmods.com/enderalspecialedition/mods/407?tab=files): A port of my Special Edition texture mod (SNRP) featuring edited textures as well as new to fit the aesthetics of Enderal. Still a work in progress.
+[**Enderal SE Retexture Pack Project - Architecture Medium Quality v2.0**](https://www.nexusmods.com/enderalspecialedition/mods/407?tab=files): A port of my Special Edition texture mod (SNRP) featuring edited textures as well as new to fit the aesthetics of Enderal. Still a work in progress.
 - Remove \meshes\ folder
 
-[**Enderal SE Retexture Pack Project - Dungeons Medium Quality v1.1**](https://www.nexusmods.com/enderalspecialedition/mods/407?tab=files): A port of my Special Edition texture mod (SNRP) featuring edited textures as well as new to fit the aesthetics of Enderal. Still a work in progress.
+[**Enderal SE Retexture Pack Project - Dungeons Medium Quality v2.0**](https://www.nexusmods.com/enderalspecialedition/mods/407?tab=files): A port of my Special Edition texture mod (SNRP) featuring edited textures as well as new to fit the aesthetics of Enderal. Still a work in progress.
 - Remove \meshes\ folder
 
-[**Enderal SE Retexture Pack Project - Landscapes Medium Quality v1.1**](https://www.nexusmods.com/enderalspecialedition/mods/407?tab=files): A port of my Special Edition texture mod (SNRP) featuring edited textures as well as new to fit the aesthetics of Enderal. Still a work in progress.
+[**Enderal SE Retexture Pack Project - Landscapes and Trees Medium Quality v2.0**](https://www.nexusmods.com/enderalspecialedition/mods/407?tab=files): A port of my Special Edition texture mod (SNRP) featuring edited textures as well as new to fit the aesthetics of Enderal. Still a work in progress.
+
+[**Enderal SE Retexture Pack Project - Ruins and Misc Medium Quality v2.0**](https://www.nexusmods.com/enderalspecialedition/mods/407?tab=files): A port of my Special Edition texture mod (SNRP) featuring edited textures as well as new to fit the aesthetics of Enderal. Still a work in progress.
 
 [**Noble Skyrim Dwemer Ruin Textures Performance Edition v5.5.0**](https://www.nexusmods.com/skyrimspecialedition/mods/21423?tab=files): Gives all of Skyrim's architecture a complete new look by changing its textures to custom ones. Beside the architecture, several other things, such as landscape, dungeons (ruins, mines, caves etc.), clutter stuff etc. have been re-textured as well, to match the rest of the mod.
 - If using Enderal SE Retexture Pack Project, recommend overriding the mod with Noble Dwemer Ruin textures.
