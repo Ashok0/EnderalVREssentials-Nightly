@@ -15,6 +15,9 @@ New Mods:
 - VR Parallax Shader Fix - Experimental v1.0.1: Injects fixed parallax shaders into Skyrim VR. Based on original code from aers under MIT. 
 - Dynamic Animation Replacer for Skyrim VR 1415 v1.1.0a: This mod dynamically replaces the actors' animations depending on various conditions. Supports most actors, including creatures. Actors and animations added by mods are also supported. No ESP file.
 - Animation Motion Revolution VR v1.5: This SKSE plugin removes the mismatch between displacement and custom animations driven by motion data (the infamous ice-skating problem). Welcome to 2021 guys.
+- Splashes of Storms v1.2: SKSE plugin that adds splashes and ripples when raining.
+- Splashes of Storms VR v1.2: SKSE plugin that adds projectile based water splashes and ripples, and underwater explosions.
+- SMIM Food Resized - All In One v1.0: A size reduction of the SMIM food models for VR and SSE.
 - ADXP Beta v1.2: A framework that bypasses the animation wall, allowing for modern combat in Skyrim.
 - Arctal's VRIK Tweaks v1.4: Fixes some pet peeves of mine with the VRIK mod. Currently including gesture system improvements, changes to ragdolling during knockback/death and a near-clip-distance bug fix.
 - Enderal SE Retexture Pack Project v2.0: A port of my Special Edition texture mod (SNRP) featuring edited textures as well as new to fit the aesthetics of Enderal. Still a work in progress.
