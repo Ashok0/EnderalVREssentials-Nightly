@@ -598,6 +598,8 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**4K SMIM Furniture Chest v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/33369?tab=files): A retexture of the SMIM furniture chests, Upperclass, Weathered, Open and Snow. 4K or 2K.
 
+[**SMIM Food Resized - All In One v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/72797?tab=files): A size reduction of the SMIM food models for VR and SSE.
+
 [**Venerable Nordic Temples (2K - 4K) v0.2**](https://www.nexusmods.com/skyrimspecialedition/mods/38544?tab=files): A high quality retexture for Nordic temples and ruins, offering high fidelity visuals and a lore friendly, ancient aesthetic.
 
 [**Underground - A Dungeon Texture Overhaul v1.2**](https://www.nexusmods.com/skyrimspecialedition/mods/14365?tab=files): An ambitious dungeon retexturing project which starts with caves and Nordic dungeons.
