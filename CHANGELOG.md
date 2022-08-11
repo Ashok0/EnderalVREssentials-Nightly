@@ -111,9 +111,9 @@ Updated Mods:
 - No Floating Quest Marker v1.01: Removes floating quest markers from the game.  Quest markers are still viewable on the compass.
 - Immersive Draw Sheathe Sounds v1.1: Corrected folder structure so the mod will actually function.
 - Strike Obstruction Systems - Combat Blocking Overhaul v1.05: Fixed an issue with the implementation of the fCombatHitConeAngle setting.
-- Papyrus Extender SSE v5.1.1: SKSE64 plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events.
-- Papyrus Extender VR v5.1.1: SKSEVR plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events. This requires the original Papyrus Extender and is built from po3's source.
-- VR Address Library for SKSEVR v0.37: Add latest commonlib, po3 addresses (02026b1)
+- Papyrus Extender SSE v5.2: SKSE64 plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events.
+- Papyrus Extender VR v5.2: SKSEVR plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events. This requires the original Papyrus Extender and is built from po3's source.
+- VR Address Library for SKSEVR v0.38: Add latest commonlib, po3 addresses (02026b1)
 - Spell Perk Item Distributor VR v5.2.0.3: Fix failure to load due to processing of non-ascii paths for mergemapper.
 - More Informative Console VR v1.1.0: This mod edits the UI to show a great deal of additional information on npcs, items, and other objects when the console is opened, similar to the way MFG console worked for Oldrim.
 - Enderal - Vatyr v5.0: Completely redesigned Vatyr in 4K for Enderal SE and VR.
