@@ -1,5 +1,5 @@
 # ENDERAL VR ESSENTIALS (EVRE)
-Latest update: April 30, 2022 (v2.0)
+Latest update: August 30, 2022 (v2.0)
 
 ## Table of contents
 * [Preamble](#preamble)
@@ -516,6 +516,10 @@ If you are using a language pack, you may need to change the font used by Dear D
 - Rename "Map of Provinces and Isles" to "Map of Enderal" from Weapon."Map of Provinces and Isles".OBND."FULL - Name" in xEdit to give the NavigateVR map a lore friendly name.
 
 [**Splashes of Skyrim - VR v1.2.1**](https://www.nexusmods.com/skyrimspecialedition/mods/47710?tab=files): SKSE plugin that adds projectile based water splashes and ripples, and underwater explosions.
+
+[**Splashes of Storms v1.2**](https://www.nexusmods.com/skyrimspecialedition/mods/72115?tab=files): SKSE plugin that adds splashes and ripples when raining.
+
+[**Splashes of Storms VR v1.2**](https://www.nexusmods.com/skyrimspecialedition/mods/73111?tab=files): SKSE plugin that adds projectile based water splashes and ripples, and underwater explosions.
 
 [**DragonbornSpeaksNaturally - Beta v0.21.0-beta**](https://www.nexusmods.com/skyrimspecialedition/mods/16514?tab=files): Adds speech recognition to Skyrim VR or Skyrim SE so you can recite your dialogue lines to select them.
 
