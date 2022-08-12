@@ -487,13 +487,10 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**VRIK Neardistance Fix Patch for Build**]: Sets fNearDistance to 13 to fix mountain flickering.
 
-[**HIGGS - Enhanced VR Interaction v1.5.6**](https://www.nexusmods.com/skyrimspecialedition/mods/43930?tab=files): Hand/weapon collision, realistic object grabbing, and gravity gloves-style mechanics for Skyrim VR.
+[**HIGGS - Enhanced VR Interaction v1.5.7**](https://www.nexusmods.com/skyrimspecialedition/mods/43930?tab=files): Hand/weapon collision, realistic object grabbing, and gravity gloves-style mechanics for Skyrim VR.
 - Remove any [HAVOK] settings from your Skyrim INI files as these settings are no longer necessary with HIGGS VR v1.2+.
 - Make the following changes to higgs_vr.ini to make all held objects use velocity-based movement (recommended):
 	- ForcePhysicsGrab = 1
-- Make the following changes to higgs_vr.ini to grab when you have a bow out but no arrow in your main hand, or to let you grab with your offhand while the main hand holds a two-handed weapon:
-	- AllowGrabWithEmptyArrowHand = 1
-	- AllowGrabWithTwoHandedOffhand = 1
 
 [**PLANCK v0.3.1**](https://www.nexusmods.com/skyrimspecialedition/mods/66025?tab=files): Physically-driven animation in Skyrim. Characters interact with physics and can be grabbed, melee hit detection is physically accurate, and much more.
 
