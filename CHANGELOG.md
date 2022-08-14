@@ -106,6 +106,7 @@ Updated Mods:
 - Enderal VR v3.3: Fixed quest Two souls part 5 cqc05: Romance with Calia. Some animation issues and Calia not responding (oh my). Moved some funitures (chairs) in MQP01House to make pathfinding easier for the player in VR. Fixed one Ending : slight modification of scene 2 MQ18a to fix potential player bugs (animations). Updated the questfunction script given in enderal 2.0.11.  Added a failsafe after the dream (mq10) so that the player can at least retrieve a scale =1.  Fixed a small issue in MQ15 (Companion not entering the vault)
 - Enderal SE - Bug Fixes v1.32: Fixed an issue with Dreameater sneak damage calculation.
 - HIGGS - Enhanced VR Interaction v1.5.7: Hand/weapon collision, weapon two-handing, realistic object grabbing, and gravity gloves-style mechanics for Skyrim VR.
+- Magic Improvements for Skyrim VR v1.1: Vastly improved dual casting, spell effect size scales based on magicka percentage, and additional options for aiming spells in VR.
 - Caliente's Beautiful Bodies Enhancer - CBBE v1.7.1: A completely customisable female body replacer for TESV: Skyrim.
 - Crash Logger v1.0.0.4: Provide more info on TESForm and NiAVObject (names/editor IDs).
 - EngineFixesVR v1.22a: Parallax Fix.
