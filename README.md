@@ -487,7 +487,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**VRIK Neardistance Fix Patch for Build**]: Sets fNearDistance to 13 to fix mountain flickering.
 
-[**HIGGS - Enhanced VR Interaction v1.5.7**](https://www.nexusmods.com/skyrimspecialedition/mods/43930?tab=files): Hand/weapon collision, realistic object grabbing, and gravity gloves-style mechanics for Skyrim VR.
+[**HIGGS - Enhanced VR Interaction v1.5.8**](https://www.nexusmods.com/skyrimspecialedition/mods/43930?tab=files): Hand/weapon collision, realistic object grabbing, and gravity gloves-style mechanics for Skyrim VR.
 - Remove any [HAVOK] settings from your Skyrim INI files as these settings are no longer necessary with HIGGS VR v1.2+.
 - Make the following changes to higgs_vr.ini to make all held objects use velocity-based movement (recommended):
 	- ForcePhysicsGrab = 1
@@ -503,7 +503,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Spellsiphon - Complete Edition v5.22**](https://www.nexusmods.com/enderalspecialedition/mods/357?tab=files): Experience gameplay focused on combos and synergy. Lessen the need for menus or hotkeys through a system where swapping spells and weapons is streamlined and rewarding. Continue the fight at 0 magicka by using new spell types. Enjoy a plethora of new sounds and visual effects. Grow in power by playing skillfully, not just from levels and gear.
 
-[**Magic Improvements for Skyrim VR v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/55751?tab=files): Vastly improved dual casting, spell effect size scales based on magicka percentage, and additional options for aiming spells in VR.
+[**Magic Improvements for Skyrim VR v1.1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/55751?tab=files): Vastly improved dual casting, spell effect size scales based on magicka percentage, and additional options for aiming spells in VR.
 
 [**Improved Bound Sword and Dagger Collision v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/60064?tab=files): More accurate collision for the bound dagger and sword.
 
@@ -977,9 +977,9 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Akropolis Stones HD v1.0**]: HD textures for the Akropolis stones.
 
-[**Conduit - Short-term Weapon Infusions v2.4**](https://www.nexusmods.com/skyrimspecialedition/mods/58023?tab=files): When holding a weapon in one hand and a spell in the other, you are able to temporarily "conduct" the spell through that weapon. Different categories of spells make the weapon do different things. This effect will overlay on top of normal enchants and does include additional weapon FX that will overlay too. It even works on Bound weapons.
+[**Conduit - Short-term Weapon Infusions v2.5**](https://www.nexusmods.com/skyrimspecialedition/mods/58023?tab=files): When holding a weapon in one hand and a spell in the other, you are able to temporarily "conduct" the spell through that weapon. Different categories of spells make the weapon do different things. This effect will overlay on top of normal enchants and does include additional weapon FX that will overlay too. It even works on Bound weapons.
 
-[**Conduit - Enderal Adaption Patch v2.4-EA1**](https://www.nexusmods.com/skyrimspecialedition/mods/58023?tab=files): This is an experimental rebalance (read: heavy nerf) of the mod for Enderal. If you feel Conduit is overtuned for normal Skyrim, you can use this patch there as well, it doesnt require Enderal. ESL-flagged.
+[**Conduit - Enderal Adaption Patch v2.5-EA1**](https://www.nexusmods.com/skyrimspecialedition/mods/58023?tab=files): This is an experimental rebalance (read: heavy nerf) of the mod for Enderal. If you feel Conduit is overtuned for normal Skyrim, you can use this patch there as well, it doesnt require Enderal. ESL-flagged.
 
 [**Enhanced Blood Textures Enderal SE v4.0**](https://www.nexusmods.com/enderalspecialedition/mods/360?tab=files): A blood overhaul mod.
 
