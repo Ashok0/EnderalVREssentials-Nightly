@@ -1076,7 +1076,7 @@ Required load order:
 
 [**Ancestral Spirit Replacer (Variant 2) v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/60?tab=files): Replaces the models Ancestral Spirits with high quality alternatives.
 
-[**XP32 Maximum Skeleton Special Extended - XPMSSE v4.8**](https://www.nexusmods.com/skyrimspecialedition/mods/1988?tab=files): XP32 Maximum Skeleton Special Extended is the update of XP32 Maximum Skeleton Extended for Skyrim Special Edition.
+[**XP32 Maximum Skeleton Special Extended - XPMSSE v4.81**](https://www.nexusmods.com/skyrimspecialedition/mods/1988?tab=files): XP32 Maximum Skeleton Special Extended is the update of XP32 Maximum Skeleton Extended for Skyrim Special Edition.
 
 [**Enable TAA FX**](https://www.nexusmods.com/skyrimspecialedition/mods/31392?tab=files): Re-enables TAA FX via VR FPS Stabilizer.  Partial parallax support (only minor graphical glitches) with TAA by adding the following line to \VR FPS Stabilizer\SKSE\Plugins\VRFpsStabilizer.ini:
 - taa hf 0.5
