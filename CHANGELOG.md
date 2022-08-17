@@ -66,7 +66,7 @@ New Mods:
 - Arachnophobia - No Spiders and Beetles v1.0: This mod replaces Spiders with Wolves and Beetles with Bears.  Disabled by default.  Use this mod to remove spiders and beetles OR 'Replace spiders with wolfs and bears' to only remove spiders.
 - Deerstalker Redone v1.01: Renames Mountain Deerstalker and Shadow Deerstalker to Shadow Stalker and adds appropriate loot.
 - Kolapon's Undead Creatures Replacer v1.2u: Changes the appearance of some of the creatures so they are unique to Enderal.
-- XP32 Maximum Skeleton Special Extended - XPMSSE v4.8: XP32 Maximum Skeleton Special Extended is the update of XP32 Maximum Skeleton Extended for Skyrim Special Edition.
+- XP32 Maximum Skeleton Special Extended - XPMSSE v4.81: XP32 Maximum Skeleton Special Extended is the update of XP32 Maximum Skeleton Extended for Skyrim Special Edition.
 - Enhanced Wetness and Puddles v1.0: This mod improves wet rocks and adds new wet meshes to the coasts and rivers, it adds many decals too to simulate wet looking in many areas.
 - Enable TAA FX: Re-enables TAA FX with partial parallax support via VR FPS Stabilizer.
 - Vanilla HUD Size for VR: Overrides UI with larger vanilla sized HUD.
