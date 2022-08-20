@@ -64,7 +64,7 @@ Recommended:
 5.  Download Wabbajack from [HERE](https://www.wabbajack.org/#/) and place "Wabbajack.exe" in a blank folder i.e. C:\Games\Wabbajack 
 6.  Run Wabbajack one time and then exit the program.  
 7.  Create a new folder where you wish to install Enderal VR i.e. C:\Games\Enderal VR
-8.  Download "EVRE_v2.wabbajack" from [HERE](https://github.com/Ashok0/EnderalVREssentials/releases/) and place it anywhere outside of your Wabbajack folder.
+8.  Download "EVRE_v2.0-RC.wabbajack" from [HERE](https://github.com/Ashok0/EnderalVREssentials/releases/) and place it anywhere outside of your Wabbajack folder.
 9.  Launch Wabbajack by double-clicking "EVRE_v2.wabbajack"
 10.  Under "Installation Location", select the folder you created above under Step 6 and then click the green "PLAY" icon in the lower right. 
 11.  Wait for Wabbajack to download all the mods and patches required to play Enderal VR.  This could take several hours depending on your Internet connection.
@@ -73,7 +73,11 @@ Recommended:
 12. Once Wabbajack is done downloading and configuring Enderal VR, navigate to your game folder from Step 6.
 13. Copy the contents of \Game Folder Files\ to C:\Program Files (x86)\Steam\steamapps\common\SkyrimVR
 14. Launch Mod Organizer 2. 
-15. Configure your mod loadout: 
+15. Select a game profile in the upper left drop down bar.  You can select 3 different options:
+* Enderal VR Essentials: This profile will give you an experience that is similar to the vanilla game. Gameplay mechanics are untouched outside of VR mods.
+* Enderal VR Essentials - Enderal Gameplay Overhaul: This profile completely overhauls the gameplay mechanics of Enderal with Ixion XVII's EGO mods. This includes a ton of balance changes, improvements to the AI, new gameplay mechanics, new weapons/spells/potions and much more.
+* Enderal VR Essentials - Somnium Overhaul: This profile contains all the features from the EGO profile along with an expansive new Enderal mod, "Apoapse’s Apparel", which was created by Scenic Route Games.  Scenic Route Games has hand-replaced every outfit and weapon in the game, as well as the majority of the other assets, to best achieve a more modern view of the Enderal worldspace.  This overhaul also replaces the main menu music with a newly composed theme from Scenic Route Games.
+16. Configure your mod loadout: 
 	* Disable "Dear Diary VR" if you prefer to use the vanilla SkyUI menu.  (Dear Diary must be disabled to use SkyUI's new Highlight and Search features) 
 	* Disable "Smaller HUD for VR Larger Text Patch" if you wish to decrease the size of the in-game text.
 	* Disable "Path of the Prophet (No Floating Quest Marker)" if you wish to play with floating quest markers.
@@ -85,9 +89,9 @@ Recommended:
 	* Enable "TAA FX" to enable TAA effects.  While this does reduce shimmering foliage, it is not recommended to enable TAA as this breaks parallax textures.  (TAA effects must be enabled/disabled via mods.  TAA should not be disabled in-game as TAA must be active for the menu artwork to display properly.)
 	* Enable "Replace spiders with wolfs and bears" OR "Arachnophobia - No Spiders and Beetles" if you have arachnophobia!  Choose only one.
 	* Enable "DynDOLOD_Output_PERFORMANCE" OR "DynDOLOD_Output_QUALITY".  Select only one.  The PERFORMANCE version uses "billboard1" trees for LOD4 for optimal performance.  The QUALITY version uses "level0" trees for LOD4.  This will greatly improve tree LODs but results in -10fps in large open areas on an RTX 3070.  The PERFORMANCE version is enabled by default.
-16.   (Optional) You can optimize your VR performance by installing either [OpenVR FSR](https://github.com/fholger/openvr_fsr) (Compatible with all headsets) or the 64-bit DLL for [OpenComposite](https://gitlab.com/znixian/OpenOVR/) (Compatible with Oculus headsets only, highly recommended when using Air Link) to your Skyrim VR installation folder.  Backup and overwrite the existing DLL file in your Skyrim VR folder.  
+17.   (Optional) You can optimize your VR performance by installing either [OpenVR FSR](https://github.com/fholger/openvr_fsr) (Compatible with all headsets) or the 64-bit DLL for [OpenComposite](https://gitlab.com/znixian/OpenOVR/) (Compatible with Oculus headsets only, highly recommended when using Air Link) to your Skyrim VR installation folder.  Backup and overwrite the existing DLL file in your Skyrim VR folder.  
 		* OpenComposite improves framerates by launching Enderal VR directly through the Oculus runtime and eliminating overhead from Steam VR.
-17.   Make sure "SKSE" is selected in the upper right dropdown bar and click "Run" to launch and play Enderal VR!  
+18.   Make sure "SKSE" is selected in the upper right dropdown bar and click "Run" to launch and play Enderal VR!  
 		* You can optionally click "Shortcut" underneath "Run" to create a shortcut for launching Enderal VR directly from the Windows desktop!
 
 ## MCM Settings
