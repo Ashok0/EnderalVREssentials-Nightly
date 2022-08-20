@@ -1264,7 +1264,7 @@ Recommended game settings are listed below.  Note that the above Wabbajack insta
 ## Nemesis Configuration
 
 ### ADXP
-ADXP is a framework built on SkySA that bypasses the Skyrim animation wall, allowing for modern combat.  It brings chainable power attacks, animated charged attacks, animated transitions and non linear movesets to Skyrim.  While most of these features are inconsequential in VR as you never see the player moving in third person, ADXP is extremely useful in overhauling NPC animations.  With this mod, enemies move slower with more fluid Dark Souls style movements during combat. 
+ADXP is a framework built on SkySA that bypasses the Skyrim animation wall, allowing for modern combat.  It brings chainable power attacks, animated charged attacks, animated transitions and non linear movesets to Skyrim.  While most of these features are inconsequential in VR as you never see the player moving in third person, ADXP is extremely useful in overhauling NPC animations.  With this mod, enemies move slower with more fluid Dark Souls style movements during combat. ADXP has been pre-configured with Wabbajack but the configuration process has been documented below for reference.   
 
 1. In Windows, navigate to "Virus and Threat Protection" > "Manage Settings" and temporarily untick "Real-time protection" or Windows may prevent Nemesis from running properly.
 2. Install "VR Address Library for SKSEVR", "Dynamic Animation Replacer for Skyrim VR", "Animation Motion Revolution VR", and "ADXP" (delete MCO.dll) mods.
@@ -1289,8 +1289,7 @@ ADXP is a framework built on SkySA that bypasses the Skyrim animation wall, allo
 
 ### xLODGen/TexGen/DynDOLOD  
 
-DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim.
-DynDOLOD has been pre-configured with Wabbajack but the configuration process has been documented below for reference. 
+DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim.  DynDOLOD has been pre-configured with Wabbajack but the configuration process has been documented below for reference. 
 
 Note that many DynDOLOD guides on the Web are heavily outdated or are not relevant for patching Enderal VR.  While DynDOLOD is a dynamic patch and thus a bit more complicated to setup versus standard mods, the processs is fairly quick once you understand the general workflow.  The following steps outline everything necessary to setup DynDOLOD with Enderal VR.
 
@@ -1359,7 +1358,7 @@ Note that many DynDOLOD guides on the Web are heavily outdated or are not relev
 20.  DynDOLOD is now successfully configured!  You should see FAR more detail in the distance when looking across large open areas of the game! (You may need to re-run this process if you change your load order.)
 
 ### SkyVRaan Configuration 
-SkyVRaan adds shimmering water effects to the game.  SkyVRaan has been pre-configured with Wabbajack but the configuration process has been documented below for reference.  This process should be run immediately before or after xLODGen/TexGen/DynDOLOD (if using xLODGen/TexGen/DynDOLOD). DynDOLOD and SkyVRaan's Synthesis plugin should be placed in your load order in the order that they are generated.
+SkyVRaan adds shimmering water effects to the game.  This process should be run immediately before or after xLODGen/TexGen/DynDOLOD (if using xLODGen/TexGen/DynDOLOD). DynDOLOD and SkyVRaan's Synthesis plugin should be placed in your load order in the order that they are generated.  SkyVRaan has been pre-configured with Wabbajack but the configuration process has been documented below for reference.  
 
 1. Download SkyVRaan from [HERE](https://www.nexusmods.com/skyrimspecialedition/mods/30571?tab=files) and install it through MO2 underneath other grass and water mods.  Tick "Rally's Water Foam (4K)" and "Improved Water Normals for Vanilla" and leave all other settings at default.  Do NOT install Rocky Riverbeds due to high performance drop.
 2. Recommend replacing 'OutputCube.dds' with 'ewpdefault.dds' from the [Enhanced Wetness and Puddles](https://www.nexusmods.com/skyrimspecialedition/mods/58155?tab=description) mod for improved water reflections.
