@@ -108,7 +108,7 @@ This Wabbajack modlist will be updated regularly with the latest versions of all
 
 Wabbajack will delete all files that are not part of its modlist when updating!  Your downloads folder will not be touched.  If you have installed additional mods not included in the Wabbajack, you will need to re-install them manually if you choose to update your mods via the Wabbajack file.  You can alternatively update your mods manually through Mod Organizer 2.
 
-## Known issues (Major)
+## Known issues (Moderate)
 * Your headset and controllers must be active before launching the game or it will not start.
 * Cutscenes do not work.  Audio always plays against the SteamVR backdrop or hourglass logo (when using Open Composite). This is a very minor issue as there are only 3 cutscenes in the entire game.  These can be easily viewed on YouTube and two of the videos are introduction videos which play at the beginning of the game.
 * You have no avatar during the tutorial.  This is normal as you do not get an avatar until completing the character creation wizard.
