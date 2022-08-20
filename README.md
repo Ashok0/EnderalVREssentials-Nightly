@@ -78,20 +78,17 @@ Recommended:
 * **Enderal VR Essentials - Enderal Gameplay Overhaul**: *This profile completely overhauls the gameplay mechanics of Enderal with Ixion XVII's EGO mods. This includes a ton of balance changes, improvements to the AI, new gameplay mechanics, new weapons/spells/potions and much more.*
 * **Enderal VR Essentials - Somnium Overhaul**: *This profile contains all the features from the EGO profile along with an expansive new Enderal mod, "Apoapse’s Apparel", which was created by Scenic Route Games.  Scenic Route Games has hand-replaced every outfit and weapon in the game, as well as the majority of the other assets, to best achieve a more modern view of the Enderal worldspace.  This overhaul also replaces the main menu music with a newly composed theme from Scenic Route Games.*
 16. Configure your mod loadout: 
-	* Disable "Dear Diary VR" if you prefer to use the vanilla SkyUI menu.  (Dear Diary must be disabled to use SkyUI's new Highlight and Search features) 
-	* Disable "Smaller HUD for VR Larger Text Patch" if you wish to decrease the size of the in-game text.
-	* Disable "Path of the Prophet (No Floating Quest Marker)" if you wish to play with floating quest markers.
-	* Enable "VRIK Rift-Index-WMR Controller Bindings" if using the Rift, Valve Index, or WMR headset.
-	* Enable "High Poly Project" for higher polygon objects.  Improves visuals but may cause minor graphical glitches.   
-	* Disable "Caliente's Beautiful Bodies Enhancer -CBBE-" if you prefer vanilla bodies.  Pre-configured as Vanilla NeverNude.
-	* Disable "Bijin Skin UNP and CBBE" if you prefer vanilla skin.
-	* Enable "Equippable Tattoo Skins UNP + CBBE" if you wish to apply tattoos/bodypaint to your character (female only).
-	* Enable "TAA FX" to enable TAA effects.  While this does reduce shimmering foliage, it is not recommended to enable TAA as this breaks parallax textures.  (TAA effects must be enabled/disabled via mods.  TAA should not be disabled in-game as TAA must be active for the menu artwork to display properly.)
-	* Enable "Replace spiders with wolfs and bears" OR "Arachnophobia - No Spiders and Beetles" if you have arachnophobia!  Choose only one.
-	* Enable "DynDOLOD_Output_PERFORMANCE" OR "DynDOLOD_Output_QUALITY".  Select only one.  The PERFORMANCE version uses "billboard1" trees for LOD4 for optimal performance.  The QUALITY version uses "level0" trees for LOD4.  This will greatly improve tree LODs but results in -10fps in large open areas on an RTX 3070.  The PERFORMANCE version is enabled by default.
+	* Tick "Enable TAA FX" to enable TAA effects.  While this reduces shimmering, it is NOT recommended to enable TAA effects as this breaks parallax textures. 
+		- TAA should not be disabled in-game as TAA must be active for the menu artwork to display properly in VR.
+	* Tick "Vanilla HUD Size for VR" if you wish to increase the size of in-game text.
+	* Tick "VRIK Rift-Index-WMR Controller Bindings" if using a Rift, Valve Index, or WMR headset.	
+	* Tick "Equippable Tattoo Skins UNP + CBBE" if you wish to apply tattoos/bodypaint to your character (female only).	
+	* Tick "Replace spiders with wolfs and bears" OR "Arachnophobia - No Spiders and Beetles" if you have arachnophobia!  Choose only one.
+	* Tick "DynDOLOD_Output_PERFORMANCE" OR "DynDOLOD_Output_QUALITY".  Select only one.  The PERFORMANCE version uses "billboard1" trees for LOD4 for optimal performance.  The QUALITY version uses "level0" trees for LOD4.  This will greatly improve tree LODs but results in -10fps in large open areas on an RTX 3070.  The PERFORMANCE version is enabled by default.
 17.   (Optional) You can optimize your VR performance by installing either [OpenVR FSR](https://github.com/fholger/openvr_fsr) (Compatible with all headsets) or the 64-bit DLL for [OpenComposite](https://gitlab.com/znixian/OpenOVR/) (Compatible with Oculus headsets only, highly recommended when using Air Link) to your Skyrim VR installation folder.  Backup and overwrite the existing DLL file in your Skyrim VR folder.  
 		* OpenComposite improves framerates by launching Enderal VR directly through the Oculus runtime and eliminating overhead from Steam VR.
-18.   Make sure "SKSE" is selected in the upper right dropdown bar and click "Run" to launch and play Enderal VR!  
+18.   (Optional) You can delete the \downloads\ folder in your Mod Organizer 2 folder to remove downloaded mods which are only needed during installation.  This will free up 61GB of hard disk space.
+19.   Make sure "SKSE" is selected in the upper right dropdown bar and click "Run" to launch and play Enderal VR!  
 		* You can optionally click "Shortcut" underneath "Run" to create a shortcut for launching Enderal VR directly from the Windows desktop!
 
 ## MCM Settings
