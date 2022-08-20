@@ -228,7 +228,7 @@ Wabbajack will delete all files that are not part of its modlist when updating! 
 
 
 ## Scoped bows
-* For scoped bow aiming to work, open VRIK MCM and disable "Adjust Held Weapons Position"
+* For scoped bow aiming to work, open VRIK MCM and disable "Adjust Held Weapons Position" (This setting has been pre-configured with this Wabbajack release.)
 * You can add scoped bows to your inventory by pressing "~" with Enderal VR active on your Windows desktop and entering one of the following lines:
 
     * Player.AddItem 1801FE36 1 (Dwarven Sniper)
