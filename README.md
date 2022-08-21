@@ -111,7 +111,7 @@ Wabbajack will delete all files that are not part of its modlist when updating! 
 * You have no avatar during the tutorial.  This is normal as you do not get an avatar until completing the character creation wizard.
 * There are some clipping issues with the character creation wizard on the ship.  You may need to step through the wall of the ship or peer above the ship ceiling to view the full menu.
 * &#x1F53A; Do not press any triggers during conversations with NPCs.  There is a nasty bug where interrupting dialogue may prevent you from finishing key conversations and will soft lock your game.  The only way to continue is to reload an old save game. &#x1F53A; 
-* &#x1F53A; If you get stuck in Duneville and are unable to move, enter the following in the console: player.setscale 1 &#x1F53A;
+* :small_orange_diamond: If you get stuck in Duneville and are unable to move, enter the following in the console: player.setscale 1 :small_orange_diamond:
 * &#x1F53A; After going down the lift at the Aged Man's Manor, you must immediately save/reload your game at the bottom of the elevator or the VRIK mod will break.&#x1F53A;
 * If you get stuck during quests from animations that do not trigger properly, press "~" with the game in focus on your monitor and type player.tai or enableplayercontrols in the console.
 * The werewolf race has issues in Enderal VR so avoid using the lycanthropy tree perk.
