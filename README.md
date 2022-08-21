@@ -66,20 +66,19 @@ Recommended:
 7.  Create a new folder where you wish to install Enderal VR i.e. C:\Games\Enderal VR
 8.  Download "EVREv2.0-RC1.wabbajack" from [HERE](https://github.com/Ashok0/EnderalVREssentials-Nightly/releases) and place it anywhere outside of your Wabbajack folder.
 9.  Launch Wabbajack by double-clicking "EVREv2.0-RC1.wabbajack"
-10.  Under "Installation Location", select the folder you created above under Step 6 and then click the green "PLAY" icon in the lower right. 
+10.  Under "Installation Location", select the folder you created above under Step 7 and then click the green "PLAY" icon in the lower right. 
 11.  Wait for Wabbajack to download all the mods and patches required to play Enderal VR.  This could take several hours depending on your Internet connection.
 		* If you receive an error message during this step, a mod has most likely been updated preventing the modlist from installing.  Wait for me to update this Wabbajack modlist and then try again.
 
-12. Once Wabbajack is done downloading and configuring Enderal VR, navigate to your game folder from Step 6.
+12. Once Wabbajack is done downloading and configuring Enderal VR, navigate to your game folder from Step 7.
 13. Copy the contents of \Game Folder Files\ to C:\Program Files (x86)\Steam\steamapps\common\SkyrimVR
 14. Launch Mod Organizer 2. 
 15. Select a game profile in the upper left drop down bar.  You can select 3 different options:
 * **Enderal VR Essentials**: *This profile will give you an experience that is similar to the vanilla game. Gameplay mechanics are untouched outside of VR mods.*
 * **Enderal VR Essentials - Enderal Gameplay Overhaul**: *This profile completely overhauls the gameplay mechanics of Enderal with Ixion XVII's EGO mods. This includes a ton of balance changes, improvements to the AI, new gameplay mechanics, new weapons/spells/potions and much more.*
 * **Enderal VR Essentials - Somnium Overhaul**: *This profile contains all the features from the EGO profile along with an expansive new Enderal mod, "Apoapse’s Apparel", which was created by Scenic Route Games.  Scenic Route Games has hand-replaced every outfit and weapon in the game, as well as the majority of the other assets, to best achieve a more modern view of the Enderal worldspace.  This overhaul also replaces the main menu music with a newly composed theme from Scenic Route Games.*
-16. Configure your mod loadout: 
-	* Tick "Enable TAA FX" to enable TAA effects.  While this reduces shimmering, it is NOT recommended to enable TAA effects as this breaks parallax textures. 
-		- TAA should not be disabled in-game as TAA must be active for the menu artwork to display properly in VR.
+16. Configure your mod loadout in Mod Organizer 2: 
+	* Tick "*Enable TAA FX*" to enable TAA effects.  While this reduces shimmering, it is NOT recommended to enable TAA effects as this breaks parallax textures. (There is a seperate TAA setting in-game which must always be enabled for menu artwork to display properly in VR.)
 	* Tick "Vanilla HUD Size for VR" if you wish to increase the size of the HUD.
 	* Tick "VRIK Rift-Index-WMR Controller Bindings" if using a Rift, Valve Index, or WMR headset.	
 	* Tick "Equippable Tattoo Skins UNP + CBBE" if you wish to apply tattoos/bodypaint to your character (female only).	
