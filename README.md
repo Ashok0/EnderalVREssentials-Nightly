@@ -602,6 +602,8 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**SMIM Food Resized - All In One v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/72797?tab=files): A size reduction of the SMIM food models for VR and SSE.
 
+[**Silver Objects SMIMed v.3.1**](https://www.nexusmods.com/skyrimspecialedition/mods/70787?tab=files): Improve silver objects 3D models and shaders. Affects silver, Sovngarde, common, and Thieves Guild quest items.
+
 [**Venerable Nordic Temples (2K - 4K) v0.2**](https://www.nexusmods.com/skyrimspecialedition/mods/38544?tab=files): A high quality retexture for Nordic temples and ruins, offering high fidelity visuals and a lore friendly, ancient aesthetic.
 
 [**Underground - A Dungeon Texture Overhaul v1.2**](https://www.nexusmods.com/skyrimspecialedition/mods/14365?tab=files): An ambitious dungeon retexturing project which starts with caves and Nordic dungeons.
@@ -630,8 +632,6 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**JS Instruments of Skyrim SE v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/51959?tab=files): A complete remake of the Lute, Flute & Drum. Comes in 2k and 4k versions.
 - Delete ESP file.
-
-[**Basic Dining Set Replacer 1k v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/30055?tab=files): A mod that replaces the dining set we often see in farmhouses or taverns in skyrim.
 
 [**Real Mountains Rebuilt v1.2**](https://www.nexusmods.com/skyrimspecialedition/mods/3704?tab=files): Retexture that enhance the detail of mountains and rocks.
 
