@@ -15,6 +15,8 @@ New Mods:
 - VR Parallax Shader Fix - Experimental v1.0.1: Injects fixed parallax shaders into Skyrim VR. Based on original code from aers under MIT. 
 - Dynamic Animation Replacer for Skyrim VR 1415 v1.1.0a: This mod dynamically replaces the actors' animations depending on various conditions. Supports most actors, including creatures. Actors and animations added by mods are also supported. No ESP file.
 - Animation Motion Revolution VR v1.5: This SKSE plugin removes the mismatch between displacement and custom animations driven by motion data (the infamous ice-skating problem). Welcome to 2021 guys.
+- VioLens - A Killmove Mod SE v2.3: SkyUI & SKSE64 Required. VioLens - A Killmove Mod gives you in-game control over both Ranged and Melee Killmoves. JContainers SE only required for use of the Profile System.
+- Inpa Sekiro Combat v2.2.3: This is a revolutionary project that overturns the boring Vanilla combat system to Sekiro system.
 - Splashes of Storms v1.2: SKSE plugin that adds splashes and ripples when raining.
 - Splashes of Storms VR v1.2: SKSE plugin that adds projectile based water splashes and ripples, and underwater explosions.
 - SMIM Food Resized - All In One v1.0: A size reduction of the SMIM food models for VR and SSE.
@@ -117,7 +119,6 @@ Updated Mods:
 - Enderal SE - Bug Fixes v1.31: Removed the apparition script changes, which were slightly outdated. The fixes made by Bug Fixes are no longer needed.
 - No Floating Quest Marker v1.01: Removes floating quest markers from the game.  Quest markers are still viewable on the compass.
 - Immersive Draw Sheathe Sounds v1.1: Corrected folder structure so the mod will actually function.
-- Strike Obstruction Systems - Combat Blocking Overhaul v1.05: Fixed an issue with the implementation of the fCombatHitConeAngle setting.
 - Papyrus Extender SSE v5.2: SKSE64 plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events.
 - Papyrus Extender VR v5.2: SKSEVR plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events. This requires the original Papyrus Extender and is built from po3's source.
 - VR Address Library for SKSEVR v0.40: Add latest commonlib, po3 addresses (02026b1)
@@ -167,6 +168,7 @@ Removed mods:
 - Armored Flesh v2.0: Incompatible with EGO SE.
 - Enderal Upscale Project v1.0: Redundant with Enderal SE Retexture Project.
 - Basic Dining Set Replacer v1.0: Redundant with Silver Objects SMIMed.
+- Strike Obstruction Systems v1.05: Redundant with Inpa Sekiro Combat.
 
 Parallax Textures:
 - Skyrim Remastered - Caves 4K Parallax v1.0: A retexture of Skyrim's caves, with a complete overhaul for the ice caves to make them look like actual ice. Offered in 4k, 2k, and 1k texture quality with parallax options.
