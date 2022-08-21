@@ -57,7 +57,7 @@ Recommended:
 	
 ## Installation
 1.  Add Enderal SE to your Steam library from [HERE](https://store.steampowered.com/app/976620/Enderal_Forgotten_Stories_Special_Edition/). The game needs to be in your Steam library but does not need to be installed.
-2.  Install a &#x1F53A; clean copy &#x1F53A; of Skyrim VR from [HERE](https://store.steampowered.com/app/611670/The_Elder_Scrolls_V_Skyrim_VR/).
+2.  Install a clean copy of Skyrim VR from [HERE](https://store.steampowered.com/app/611670/The_Elder_Scrolls_V_Skyrim_VR/).
 	* If you already have a pre-modded Skyrim VR folder and do not wish to uninstall the vanilla game, you can rename your \SkyrimVR\ folder and then redownload a second clean copy of the game from Steam by reverifying the files.  You can then use one copy of the game to continue playing Skyrim VR along with a second copy of the game for playing Enderal VR.
 3.  Run Skyrim VR one time from Steam and then exit the game.
 4.  Login to [Nexusmods.com](https://users.nexusmods.com/auth/sign_in) using a Premium login.
@@ -110,9 +110,9 @@ Wabbajack will delete all files that are not part of its modlist when updating! 
 * Cutscenes do not work.  Audio always plays against the SteamVR backdrop or hourglass logo (when using Open Composite). This is a very minor issue as there are only 3 cutscenes in the entire game.  These can be easily viewed on YouTube and two of the videos are introduction videos which play at the beginning of the game.
 * You have no avatar during the tutorial.  This is normal as you do not get an avatar until completing the character creation wizard.
 * There are some clipping issues with the character creation wizard on the ship.  You may need to step through the wall of the ship or peer above the ship ceiling to view the full menu.
-* &#x1F53A; Do not press any triggers during conversations with NPCs.  There is a nasty bug where interrupting dialogue may prevent you from finishing key conversations and will soft lock your game.  The only way to continue is to reload an old save game. &#x1F53A; 
+* :small_orange_diamond: Do not press any triggers during conversations with NPCs.  There is a nasty bug where interrupting dialogue may prevent you from finishing key conversations and will soft lock your game.  The only way to continue is to reload an old save game. :small_orange_diamond:
 * :small_orange_diamond: If you get stuck in Duneville and are unable to move, enter the following in the console: player.setscale 1 :small_orange_diamond:
-* &#x1F53A; After going down the lift at the Aged Man's Manor, you must immediately save/reload your game at the bottom of the elevator or the VRIK mod will break.&#x1F53A;
+* :small_orange_diamond: After going down the lift at the Aged Man's Manor, you must immediately save/reload your game at the bottom of the elevator or the VRIK mod will break. :small_orange_diamond:
 * If you get stuck during quests from animations that do not trigger properly, press "~" with the game in focus on your monitor and type player.tai or enableplayercontrols in the console.
 * The werewolf race has issues in Enderal VR so avoid using the lycanthropy tree perk.
 
@@ -130,10 +130,10 @@ Wabbajack will delete all files that are not part of its modlist when updating! 
 * Crouching in real life will cause a minor "hitch" in your video as you approach the ground.  This is due to the "Automatic Sneaking" feature which is enabled by default.  If you dislike this effect and don't care about physical sneaking, you can turn this feature off from the in-game settings.
 * By default, your shield is slightly offset from your hand position when equipped.  This can be fixed by enabling "Realistic Shield Grip" from the in-game settings, but when this feature is enabled you cannot walk forward/backward when your shield is raised if you are using Wand-Relative locomotion.
 * The talent points in the game are too high to reach in VR.  To use them, install [OVR Advanced Settings](https://github.com/OpenVR-Advanced-Settings/OpenVR-AdvancedSettings) which allows you to change your player height on the fly.  From the in-game Steam menu, select OVR Advanced Settings > Space Offsets -> Y-Axis (up/down). Just lower the value there to "grow" ingame. Note that this fix requires SteamVR and is not compatible with OpenComposite.
-* &#x1F53A; If using Auriels Holy Bow - REDUX, Blended Roads, Embers HD, Embers XD, Glorious Doors of Skyrim (GDOS) SE, Inferno - Fire Effects Redux, JS Instruments of Skyrim SE, Kanjs - Chaurus Eggs and Staff, Skyrim Particle Patch for ENB, Snazzy Furniture and Clutter Overhaul SE, Static Mesh Improvement Mod - SMIM, Dibella Statue, Unofficial Skyrim Special Edition Patch, or Water for ENB you must make sure you are NOT using any plugins for these mods.  Only meshes and textures may be used.  Delete ALL .esp files associated with these mods before launching the game or running DynDOLOD 3.0. (Incompatible plugins have already been removed with this Wabbajack release.) &#x1F53A; 
-* &#x1F53A; If using Scoped Bows SE, the .esp plugin must be fixed by removing all Cell and Worldspace data in xEdit.  Failure to do so will result in DynDOLOD 3.0 crashing. (This plugin has already been fixed with xEdit with this Wabbajack release.) &#x1F53A; 
-* &#x1F53A; When using OpenComposite, you cannot have any audio recording devices attached to your PC aside from your VR headset or Dragonborn Speaks Naturally will not work. &#x1F53A; 
-* &#x1F53A; With the exception of texture/mesh mods, mods cannot always be safely removed mid-savegame. &#x1F53A;
+* If using Auriels Holy Bow - REDUX, Blended Roads, Embers HD, Embers XD, Glorious Doors of Skyrim (GDOS) SE, Inferno - Fire Effects Redux, JS Instruments of Skyrim SE, Kanjs - Chaurus Eggs and Staff, Skyrim Particle Patch for ENB, Snazzy Furniture and Clutter Overhaul SE, Static Mesh Improvement Mod - SMIM, Dibella Statue, Unofficial Skyrim Special Edition Patch, or Water for ENB you must make sure you are NOT using any plugins for these mods.  Only meshes and textures may be used.  Delete ALL .esp files associated with these mods before launching the game or running DynDOLOD 3.0. (Incompatible plugins have already been removed with this Wabbajack release.) 
+* If newly installed or updated mods contain Tamriel worldspace data, the .esp plugin must be fixed by removing all Cell and Worldspace data for Tamriel in xEdit.  Failure to do so will result in DynDOLOD 3.0 crashing and may cause game breaking bugs. (All plugins have already been fixed with xEdit with this Wabbajack release.) 
+* When using OpenComposite, you cannot have any audio recording devices attached to your PC aside from your VR headset or Dragonborn Speaks Naturally will not work. 
+* With the exception of texture/mesh mods, mods cannot always be safely removed mid-savegame.
 
 
 
