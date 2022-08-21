@@ -197,7 +197,7 @@ Wabbajack will delete all files that are not part of its modlist when updating! 
 
 [**Simple Iron Sights for Sighted Crossbows VR**](https://www.nexusmods.com/skyrimspecialedition/mods/38946?tab=files): Changes the sights included in Sighted Crossbows VR into more of a simplistic, medieval style.  A great mod to use in combination with HIGGS which now allows crossbows to be used as two handed weapons.
 
-[**Strike Obstruction Systems - Combat Blocking Overhaul**](https://www.nexusmods.com/skyrimspecialedition/mods/53050?tab=files): Blocking can now mitigate damage from blocked Spells, Shouts, Enchants, and Poisons. Timed Blocks can provide greater mitigation, redirect parried spells & arrows, and inflict various debuffs. All features configurable via MCM (Light Plugin).  Adds impact FX (sparks) to melee combat.
+[**Inpa Sekiro Combat**](https://www.nexusmods.com/skyrimspecialedition/mods/41428?tab=files): This is a revolutionary project that overturns the boring Vanilla combat system to Sekiro system.  Adds spark FX to melee combat.
 
 [**HLP Night Sky High**](https://www.nexusmods.com/skyrimspecialedition/mods/8752) and [**STO - Stars 4K Only small stars**](https://www.nexusmods.com/skyrimspecialedition/mods/4931?tab=files): These two mods are extremely underrated gems which greatly improve nighttime scenes in VR with realistic lore-friendly night sky textures.  These mods use very small stars which greatly reduces SDE in VR which tends to be a problem with other night sky mods as stars have very high contrast and are drawn very far in the distance.  You can use both of these mods together or you can use one or the other for slightly different effects.  Both night sky mods are enabled by default.  
 
@@ -563,7 +563,11 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Immersive Draw Sheathe Sounds v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/44992?tab=files): This improves the Draw/Sheathe sounds for use in VR.
 
-[**Strike Obstruction Systems - Combat Blocking Overhaul v1.05**](https://www.nexusmods.com/skyrimspecialedition/mods/53050?tab=files): Blocking can now mitigate damage from blocked Spells, Shouts, Enchants, and Poisons. Timed Blocks can provide greater mitigation, redirect parried spells & arrows, and inflict various debuffs. All features configurable via MCM (Light Plugin).
+[**VioLens - A Killmove Mod SE v2.3**](https://www.nexusmods.com/skyrimspecialedition/mods/668?tab=files): SkyUI & SKSE64 Required. VioLens - A Killmove Mod gives you in-game control over both Ranged and Melee Killmoves. JContainers SE only required for use of the Profile System.
+- Disable Killmoves in MCM which does not work well in VR.  Only used as a pre-requisite for Inpa Sekiro Combat.
+
+[**Inpa Sekiro Combat v2.3**](https://www.nexusmods.com/skyrimspecialedition/mods/41428?tab=files): This is a revolutionary project that overturns the boring Vanilla combat system to Sekiro system.  Adds spark FX to melee combat.
+- Only install "Part 2) SEKIRO COMBAT" portion of mod.
 
 [**SMIM v2.08**](https://www.nexusmods.com/skyrimspecialedition/mods/659?tab=files): A massive project to greatly improve the appearance of countless static 3D models in Skyrim. Basically, this is my attempt to make the Skyrim architecture, clutter, furniture, and landscaping much nicer.
 - Place above all other texture/mesh mods to avoid SMIM conflicts.
@@ -1255,6 +1259,12 @@ Recommended game settings are listed below.  Note that the above Wabbajack insta
 1. Select Presets > SpellSword + More Pages (Loads preset for equipping spells, weapons, and items from the spell wheel across multiple pages)
 2. Select General > Tick "Unequip to Grab with Higgs" (Allows you to grab potions directly from the Spell Wheel menu to your hand for added immersion)
 3. Select Advanced > Set "Slow Time Scale" to 5.  (Enables slow motion when selecting items from the spell wheel)
+
+* VioLens - A Killmove Mod SE MCM: 
+1. Disable Killmoves.
+
+* Inpa Sekiro Combat MCM:
+1. Enable mod.
 
 ## Nemesis Configuration
 
