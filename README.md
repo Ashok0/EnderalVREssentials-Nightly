@@ -80,7 +80,7 @@ Recommended:
 16. Configure your mod loadout: 
 	* Tick "Enable TAA FX" to enable TAA effects.  While this reduces shimmering, it is NOT recommended to enable TAA effects as this breaks parallax textures. 
 		- TAA should not be disabled in-game as TAA must be active for the menu artwork to display properly in VR.
-	* Tick "Vanilla HUD Size for VR" if you wish to increase the size of in-game text.
+	* Tick "Vanilla HUD Size for VR" if you wish to increase the size of the HUD.
 	* Tick "VRIK Rift-Index-WMR Controller Bindings" if using a Rift, Valve Index, or WMR headset.	
 	* Tick "Equippable Tattoo Skins UNP + CBBE" if you wish to apply tattoos/bodypaint to your character (female only).	
 	* Tick "Replace spiders with wolfs and bears" OR "Arachnophobia - No Spiders and Beetles" if you have arachnophobia!  Choose only one.
