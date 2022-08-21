@@ -35,6 +35,7 @@ New Mods:
 - Dibella Statue v1.04: Dibella statue replacer.
 - High Poly Mudcrab N Retexture v1.0: Pfuscher's High Poly Mudcrabs N Retexture.
 - Cork Retexture v1.0: Cork retexture. 4x the size of vanilla's.
+- Silver Objects SMIMed v.3.1: Improve silver objects 3D models and shaders. Affects silver, Sovngarde, common, and Thieves Guild quest items. 
 - Waterspout Fixes v1.0: Fixes some things from the Waterspouts mod.
 - Enderal Texture Workshop v1.5: Vanilla-friendly retexture for various assets in Enderal.
 - Kolapon's Brand New Armor Sets and Weapons SE v1.1: Adds brand new sets of armor and weapons to different locations in Enderal.
@@ -165,6 +166,7 @@ Removed mods:
 - Enderal Missing Race Fix (For mods such as FEC) v1.0: No longer needed with FEC v5.
 - Armored Flesh v2.0: Incompatible with EGO SE.
 - Enderal Upscale Project v1.0: Redundant with Enderal SE Retexture Project.
+- Basic Dining Set Replacer v1.0: Redundant with Silver Objects SMIMed.
 
 Parallax Textures:
 - Skyrim Remastered - Caves 4K Parallax v1.0: A retexture of Skyrim's caves, with a complete overhaul for the ice caves to make them look like actual ice. Offered in 4k, 2k, and 1k texture quality with parallax options.
