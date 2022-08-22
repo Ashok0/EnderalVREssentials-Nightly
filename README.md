@@ -591,6 +591,9 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**Enderal SE Retexture Pack Project - Ruins and Misc Medium Quality v2.0**](https://www.nexusmods.com/enderalspecialedition/mods/407?tab=files): A port of my Special Edition texture mod (SNRP) featuring edited textures as well as new to fit the aesthetics of Enderal. Still a work in progress.
 - Remove \meshes\ folder
 
+[**Enderal SE Retexture Pack Project - Ruins and Misc Medium Quality v2.0**](https://www.nexusmods.com/enderalspecialedition/mods/407?tab=files): A port of my Special Edition texture mod (SNRP) featuring edited textures as well as new to fit the aesthetics of Enderal. Still a work in progress.
+- Remove \meshes\ folder
+
 [**Noble Skyrim Dwemer Ruin Textures Performance Edition v5.5.0**](https://www.nexusmods.com/skyrimspecialedition/mods/21423?tab=files): Gives all of Skyrim's architecture a complete new look by changing its textures to custom ones. Beside the architecture, several other things, such as landscape, dungeons (ruins, mines, caves etc.), clutter stuff etc. have been re-textured as well, to match the rest of the mod.
 - If using Enderal SE Retexture Pack Project, recommend overriding the mod with Noble Dwemer Ruin textures.
 
@@ -762,7 +765,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Skyland Imperial and Nordic Tents v1.6**](https://www.nexusmods.com/skyrimspecialedition/mods/57002?tab=files): Skyland Imperial and Nordic Tents introduces 4k tent textures for Nordic and imperial tents. Skyland tents offers a brand new mesh for the large Nordic fur tent for better visuals.
 
-[**Water in Wells - Mesh-only Animated Wells v0.6**](https://www.nexusmods.com/skyrimspecialedition/mods/57268?tab=files): A mesh-only solution for animated water in wells and sewers. No ESP. 
+[**Water in Wells - Mesh-only Animated Wells v0.7**](https://www.nexusmods.com/skyrimspecialedition/mods/57268?tab=files): A mesh-only solution for animated water in wells and sewers. No ESP. 
 
 [**Clothing Iron - 4K v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/53247?tab=files): Remesh and 4K retexture of the clothing iron.
 
