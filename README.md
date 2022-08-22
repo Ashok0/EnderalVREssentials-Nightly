@@ -1091,19 +1091,6 @@ Required load order:
 
 [**XP32 Maximum Skeleton Special Extended - XPMSSE v4.81**](https://www.nexusmods.com/skyrimspecialedition/mods/1988?tab=files): XP32 Maximum Skeleton Special Extended is the update of XP32 Maximum Skeleton Extended for Skyrim Special Edition.
 
-[**Enable TAA FX**](https://www.nexusmods.com/skyrimspecialedition/mods/31392?tab=files): Re-enables TAA FX via VR FPS Stabilizer.  Partial parallax support (only minor graphical glitches) with TAA by adding the following line to \VR FPS Stabilizer\SKSE\Plugins\VRFpsStabilizer.ini:
-- taa hf 0.5
-
-[**Vanilla HUD Size for VR**]: Overrides UI with larger vanilla sized HUD.
-
-[**VRIK Rift-Index-WMR Controller Bindings V2.1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/23416?tab=files): These control bindings are an optional add-on for VRIK to make it easier to use holsters.  The button for shout has been moved to Right A (or the right WMR touchpad), and interact is performed by squeezing the right grip.  Sprinting is now done by squeezing the left grip.  With these "safe" inputs on grips, players do not need to worry about shouting accidentally when grabbing holstered weapons.
-
-[**Equipable Female Tattoo UNP CBBE v1.0**]: Mod adds 5 x Equippable Tattoo skins for UUNP or CBBE Options are: Bijin, Leyenda or Fair Skin Complexion.
-
-[**Replace spiders with wolfs and bears v1.0.1**](https://www.nexusmods.com/enderalspecialedition/mods/31?tab=files): Replaces spiders with wolves and bears.
-
-[**Arachnophobia - No Spiders and Beetles v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/359?tab=files): This mod replaces Spiders with Wolves and Beetles with Bears.
-
 [**Enderal Armor and Weapon Overhaul v2.0**](https://www.scenicroute.games/projects/somnium): This mod changes almost every piece of armor and weapon in the game. And some clothes. No more Skyrim flashbacks in Enderal.
 
 [**Enderal Armor and Weapon Overhaul - Replacer v1.14**](https://www.scenicroute.games/projects/somnium): Apoapse's Accoutrement patch for EAWO.
@@ -1165,6 +1152,21 @@ Required load order:
 [**Amanda Vanilla Outfit Override v1.0**]: Overrides Amanda's outfit with her vanilla Venturer outfit.
 
 [**Nightingale Bow Scoped Override v1.0**]: Overrides Nightingale with scoped version for VR. 
+
+[**Enable TAA FX**](https://www.nexusmods.com/skyrimspecialedition/mods/31392?tab=files): Re-enables TAA FX via VR FPS Stabilizer.  Partial parallax support (only minor graphical glitches) with TAA by adding the following line to \VR FPS Stabilizer\SKSE\Plugins\VRFpsStabilizer.ini:
+- taa hf 0.5
+
+[**Vanilla HUD Size for VR**]: Overrides UI with larger vanilla sized HUD.
+
+[**VRIK Rift-Index-WMR Controller Bindings V2.1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/23416?tab=files): These control bindings are an optional add-on for VRIK to make it easier to use holsters.  The button for shout has been moved to Right A (or the right WMR touchpad), and interact is performed by squeezing the right grip.  Sprinting is now done by squeezing the left grip.  With these "safe" inputs on grips, players do not need to worry about shouting accidentally when grabbing holstered weapons.
+
+[**Equipable Female Tattoo UNP CBBE v1.0**]: Mod adds 5 x Equippable Tattoo skins for UUNP or CBBE Options are: Bijin, Leyenda or Fair Skin Complexion.
+
+[**Replace spiders with wolfs and bears v1.0.1**](https://www.nexusmods.com/enderalspecialedition/mods/31?tab=files): Replaces spiders with wolves and bears.
+
+[**Arachnophobia - No Spiders and Beetles v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/359?tab=files): This mod replaces Spiders with Wolves and Beetles with Bears.
+
+[**Story Mode v1.01**](https://www.nexusmods.com/enderalspecialedition/mods/123?tab=files): Enderal Story Mode includes gameplay tweaks to make the game enjoyable without worrying about micromanaging and difficulty.  Disables EGO when Somnium mods are active.  (eng/ger/rus)
 
 [**Noble Quarter Player Home Fixes (and EGO patch) v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/409?tab=files): Fixes a small issue with "Enderal - Nobles Quarter Player home redone SE" and ensures compatibility with EGO and other mods.
 
