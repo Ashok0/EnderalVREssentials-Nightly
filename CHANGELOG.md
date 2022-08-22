@@ -14,6 +14,7 @@ New Mods:
 - VR Parallax Shader Fix v1.0: Injects fixed parallax shaders into Skyrim VR. Based on original code from aers under MIT.
 - VR Parallax Shader Fix - Experimental v1.0.1: Injects fixed parallax shaders into Skyrim VR. Based on original code from aers under MIT. 
 - Dynamic Animation Replacer for Skyrim VR 1415 v1.1.0a: This mod dynamically replaces the actors' animations depending on various conditions. Supports most actors, including creatures. Actors and animations added by mods are also supported. No ESP file.
+- Clear HUD VR v1.0: Provides an installer that lets you hide certain HUD elements for Skyrim VR based on your personal preference.
 - Animation Motion Revolution VR v1.5: This SKSE plugin removes the mismatch between displacement and custom animations driven by motion data (the infamous ice-skating problem). Welcome to 2021 guys.
 - VioLens - A Killmove Mod SE v2.3: SkyUI & SKSE64 Required. VioLens - A Killmove Mod gives you in-game control over both Ranged and Melee Killmoves. JContainers SE only required for use of the Profile System.
 - Inpa Sekiro Combat v2.2.3: This is a revolutionary project that overturns the boring Vanilla combat system to Sekiro system.
