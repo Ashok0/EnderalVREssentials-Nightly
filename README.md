@@ -520,7 +520,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Splashes of Storms VR v1.2**](https://www.nexusmods.com/skyrimspecialedition/mods/73111?tab=files): SKSE plugin that adds projectile based water splashes and ripples, and underwater explosions.
 
-[**DragonbornSpeaksNaturally - Beta v0.21.0-beta**](https://www.nexusmods.com/skyrimspecialedition/mods/16514?tab=files): Adds speech recognition to Skyrim VR or Skyrim SE so you can recite your dialogue lines to select them.
+[**DragonbornSpeaksNaturally - Beta v0.21.1-beta**](https://www.nexusmods.com/skyrimspecialedition/mods/16514?tab=files): Adds speech recognition to Skyrim VR or Skyrim SE so you can recite your dialogue lines to select them.
 
 [**Immersive Gathering (Woodchopping and Mining) SE - VR Friendly v1.7**](https://www.nexusmods.com/skyrimspecialedition/mods/29710?tab=files): Chop wood and mine ore for real!
 
