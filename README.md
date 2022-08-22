@@ -79,6 +79,7 @@ Recommended:
 * **Enderal VR Essentials - Somnium Overhaul**: *This profile contains all the features from the EGO profile along with an expansive new Enderal mod, "Apoapse’s Apparel", which was created by Scenic Route Games.  Scenic Route Games has hand-replaced every outfit and weapon in the game, as well as the majority of the other assets, to best achieve a more modern view of the Enderal worldspace.  This overhaul also replaces the main menu music with a newly composed theme from Scenic Route Games.*
 16. Configure your mod loadout in Mod Organizer 2: 
 	* Tick "*Enable TAA FX*" to enable TAA effects.  While this reduces shimmering, it is NOT recommended to enable TAA effects as this breaks parallax textures. (There is a seperate TAA setting in-game which must always be enabled for menu artwork to display properly in VR.)
+	* Tick "Clear HUD VR" to hide Health, Magicka, Stamina bars, the Sneak Indicator, and Enchantment Charges.
 	* Tick "*Vanilla HUD Size for VR*" if you wish to increase the size of the HUD.
 	* Tick "*VRIK Rift-Index-WMR Controller Bindings*" if using a Rift, Valve Index, or WMR headset.	
 	* Tick "*Equippable Tattoo Skins UNP + CBBE*" if you wish to apply tattoos/bodypaint to your character (female only).	
@@ -1156,6 +1157,8 @@ Required load order:
 
 [**Enable TAA FX**](https://www.nexusmods.com/skyrimspecialedition/mods/31392?tab=files): Re-enables TAA FX via VR FPS Stabilizer.  Partial parallax support (only minor graphical glitches) with TAA by adding the following line to \VR FPS Stabilizer\SKSE\Plugins\VRFpsStabilizer.ini:
 - taa hf 0.5
+
+[**Clear HUD VR v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/49657?tab=files): Provides an installer that lets you hide certain HUD elements for Skyrim VR based on your personal preference.
 
 [**Vanilla HUD Size for VR**]: Overrides UI with larger vanilla sized HUD.
 
