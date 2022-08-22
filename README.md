@@ -84,7 +84,7 @@ Recommended:
 	* Tick "*Equippable Tattoo Skins UNP + CBBE*" if you wish to apply tattoos/bodypaint to your character (female only).	
 	* Tick "*Replace spiders with wolfs and bears*" OR "*Arachnophobia - No Spiders and Beetles*" if you have arachnophobia!  Choose only one.
 	* Tick "*DynDOLOD_Output_PERFORMANCE*" OR "*DynDOLOD_Output_QUALITY*".  Select only one.  The PERFORMANCE version uses "billboard1" trees for LOD4 for optimal performance.  The QUALITY version uses "level0" trees for LOD4.  This will greatly improve tree LODs but results in -10fps in large open areas on an RTX 3070.  The PERFORMANCE version is enabled by default.
-17.   (Optional) You can optimize your VR performance by installing either [OpenVR FSR](https://github.com/fholger/openvr_fsr) (Compatible with all headsets) or the 64-bit DLL for [OpenComposite](https://gitlab.com/znixian/OpenOVR/) (Compatible with Oculus headsets only, highly recommended when using Air Link) to your Skyrim VR installation folder.  Backup and overwrite the existing DLL file in your Skyrim VR folder.  
+17.   (Optional) You can optimize your VR performance by installing either [VR Performance Toolkit](https://github.com/fholger/vrperfkit) (Compatible with all headsets) and/or the 64-bit DLL for [OpenComposite](https://gitlab.com/znixian/OpenOVR/) (Compatible with Oculus headsets only, highly recommended when using Air Link) to your Skyrim VR installation folder.  Backup and overwrite the existing DLL file in your Skyrim VR folder.  
 		* OpenComposite improves framerates by launching Enderal VR directly through the Oculus runtime and eliminating overhead from Steam VR.
 18.   (Optional) You can delete the \downloads\ folder in your Mod Organizer 2 folder to remove downloaded mods which are only needed during installation.  This will free up 61GB of hard disk space.
 19.   Make sure "SKSE" is selected in the upper right dropdown bar and click "Run" to launch and play Enderal VR!  
@@ -107,7 +107,7 @@ Wabbajack will delete all files that are not part of its modlist when updating! 
 ## Known issues (Moderate)
 * Your headset and controllers must be active before launching the game or it will not start.
 * Cutscenes do not work.  Audio always plays against the SteamVR backdrop or hourglass logo (when using Open Composite). This is a very minor issue as there are only 3 cutscenes in the entire game.  These can be easily viewed on YouTube and two of the videos are introduction videos which play at the beginning of the game.
-* You have no avatar during the tutorial.  This is normal as you do not get an avatar until completing the character creation wizard.
+* You have no body or hands during the tutorial.  This is normal as you do not get an avatar until completing the character creation wizard.
 * There are some clipping issues with the character creation wizard on the ship.  You may need to step through the wall of the ship or peer above the ship ceiling to view the full menu.
 * :small_orange_diamond: Do not press any triggers during conversations with NPCs.  There is a nasty bug where interrupting dialogue may prevent you from finishing key conversations and will soft lock your game.  The only way to continue is to reload an old save game. :small_orange_diamond:
 * :small_orange_diamond: If you get stuck in Duneville and are unable to move, enter the following in the console: player.setscale 1 :small_orange_diamond:
