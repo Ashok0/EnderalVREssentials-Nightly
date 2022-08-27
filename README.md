@@ -30,7 +30,7 @@ This guide describes how to configure Skyrim VR to play the latest version of En
 
 While you can optionally download and configure all the [recommended mods](#Included-Mods-and-Tools-Skyrim-VR-Installation-Folder) manually through Mod Organizer 2, Wabbajack simplifies the process of downloading all the required Skyrim VR mods and patches necessary to play Enderal SE in VR to a single click.  This guide uses a lightweight modlist designed to deliver an optimal VR experience with minimal performance loss.  Most of the included mods are simple texture mods which can be safely disabled at any time if you prefer an even lighter loadout with vanilla textures.  This modlist was optimized for Virtual Desktop and Air Link and should perform extremely well when playing the game wirelessly. 
 
-Special thanks to the Enderal SE modding team and sasa2727 for the VR patch which made this guide possible!
+Special thanks to the Enderal SE modding team, Scenic Route Games, and sasa2727 for the VR patch which made this guide possible!
 
 ## System Requirements
 Minimum:
