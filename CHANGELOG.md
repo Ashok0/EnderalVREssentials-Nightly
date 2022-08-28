@@ -47,7 +47,7 @@ New Mods:
 - Moddable Iron-Steel Weapons v1.0: This fixes issues with weapon replacer mods that replace iron and steel weapons.  Enables compatability for iron weapon mods.
 - Moddable Iron Armor v1.0: This fixes issues with armor replacer mods not replacing iron armor.
 - Enhanced Blood Textures Enderal SE v4.0: A blood overhaul mod.
-- Simplicity of Snow v0.7: A light-weight snow mod designed to minimize conflicts. Uses your own snow texture and removes snow from under roofs.
+- Simplicity of Snow v0.8: A light-weight snow mod designed to minimize conflicts. Uses your own snow texture and removes snow from under roofs.
 - Moons and Stars - Sky Overhaul SKSE v2.0: DLL plugin to fix moons and stars movement and phases.
 - Moons and Stars - Sky Overhaul SKSEVR v2.0: DLL plugin to fix moons and stars movement and phases. VR port using po3's MIT source code.
 - Enderal VR Main Menu Logo v1.0: Adds the Enderal logo to the VR playroom main menu screen.
