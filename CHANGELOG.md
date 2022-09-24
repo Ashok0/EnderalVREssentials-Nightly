@@ -125,8 +125,9 @@ Updated Mods:
 - Papyrus Extender VR v5.2: SKSEVR plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events. This requires the original Papyrus Extender and is built from po3's source.
 - VR Address Library for SKSEVR v0.51: Add latest commonlib, po3 addresses (02026b1)
 - DragonbornSpeaksNaturally - Beta v0.21.1-beta: Adds speech recognition to Skyrim VR or Skyrim SE so you can recite your dialogue lines to select them.
-- Spell Perk Item Distributor VR v5.2.0.3: Fix failure to load due to processing of non-ascii paths for mergemapper.
+- Spell Perk Item Distributor VR v5.2.0.5: Fix failure to load due to processing of non-ascii paths for mergemapper.
 - More Informative Console VR v1.1.0: This mod edits the UI to show a great deal of additional information on npcs, items, and other objects when the console is opened, similar to the way MFG console worked for Oldrim.
+- Dual Wield Block VR v1.7: SKSE plugin to let the player block attacks while dual wielding (two weapons or weapon + spell) or unarmed.
 - Enderal - Vatyr v5.0: Completely redesigned Vatyr in 4K for Enderal SE and VR.
 - RaceMenu SE v0.4.19.11: Complete overhaul to the character creation menu including new customization features such as multiple RGBA warpaints, body paints, hand paint, and foot paints.
 - moreHUD VR v1.1.0: Stability improvements.
@@ -138,7 +139,7 @@ Updated Mods:
 - Snazzy Furniture and Clutter Overhaul SE v2.1.2: Fixed a few records that didn't forward the Persistent flag in the main plugin.
 - NavigateVR v1.51: This mod brings immersive navigation to VR with a functional compass.
 - Sprint Jump VR v1.1.3: Removed unnecessary and incorrect fJumpFallHeightMin setting modification which had nothing to do with jump distance apparently.
-- Storm Lightning for SSE and VR v1.4.14: A remake of Minty's Lightning mod as an SKSE plugin. The purpose of this mod is stability and scalability. It can summon up to 50 sheet lightnings and 50 fork lightnings per second and up to 31 cells distance. This results in a more natural and enjoyable storm experience.
+- Storm Lightning for SSE and VR v1.4.16: A remake of Minty's Lightning mod as an SKSE plugin. The purpose of this mod is stability and scalability. It can summon up to 50 sheet lightnings and 50 fork lightnings per second and up to 31 cells distance. This results in a more natural and enjoyable storm experience.
 - Delectable Docks SE - ESP Fix v1.0: SE port of my delectable docks mod.
 - Bank of Ark SE v1.02: Fixed the crashes and integrated the vault doors into the main mod again (huge thanks to "Apoapse" for identifying and fixing this issue).
 - ElSopa - High Quality Buckets SE - HOTFIX v1.3: Missing Meshes.
