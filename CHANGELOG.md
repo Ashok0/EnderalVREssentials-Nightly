@@ -81,7 +81,7 @@ New Mods:
 - EGO SE - Enderal Gameplay Overhaul v1.89: This is a complete overhaul of the gameplay mechanics of Enderal. This includes a ton of balance changes, improvements to the ai, new gameplay mechanics, new weapons/spells/potions and much more. (ENG/GER/RUS)
 - EGO SE - Myths and Legends VI - The Forgotten One v1.01: A balance patch for Enderal SE Gameplay Overhaul. Compatible with all languages.
 - EGO - Fire of the Mountain v1.0: Balanced for EGO, some small translation fixes, added EGO enemy perks/abilities to enemies.
-- EGO SE - Playable Half Starling Race v1.0.3: Adds Half Starlings as a playable race. (ENDERAL GAMEPLAY OVERHAUL VERSION) Only download one of the files.
+- EGO SE - Playable Half Starling Race v1.01: Adds Half Starlings as a playable race. (ENDERAL GAMEPLAY OVERHAUL VERSION) Only download one of the files.
 - EGO SE - Thalgard Monastery v1.00: Compatibility patch for Enderal Gameplay Overhaul. (ENG/GER/RUS)
 - EGO SE - EAM SE - Enderal Apothecarii Monastery v1.02: Compatibility patch for Enderal Gameplay Overhaul.
 - EGO SE - Wellwatch Manor SE v1.00: Replaces the Secure Chest with an EGO Secure Chest. (not needed if you use the secure chest optional patch) Load EGO patch after the main file and before the translation file!
