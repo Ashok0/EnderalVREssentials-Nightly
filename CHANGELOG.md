@@ -10,7 +10,7 @@ Updated Tools:
 - LOOT v0.18.3: LOOT is a plugin load order optimisation tool for Skyrim VR.  It is designed to assist mod users in avoiding detrimental conflicts, by automatically calculating a load order that satisfies all plugin dependencies and maximises each plugin's impact on the user's game.
 
 New Mods:
-- PLANCK - Physical Animation and Character Kinetics v0.3.1: Physically-driven animation in Skyrim. Characters interact with physics and can be grabbed, melee hit detection is physically accurate, and much more.
+- PLANCK - Physical Animation and Character Kinetics v0.4.3: Physically-driven animation in Skyrim. Characters interact with physics and can be grabbed, melee hit detection is physically accurate, and much more.
 - VR Parallax Shader Fix v1.0: Injects fixed parallax shaders into Skyrim VR. Based on original code from aers under MIT.
 - VR Parallax Shader Fix - Experimental v1.0.1: Injects fixed parallax shaders into Skyrim VR. Based on original code from aers under MIT. 
 - Dynamic Animation Replacer for Skyrim VR 1415 v1.1.0a: This mod dynamically replaces the actors' animations depending on various conditions. Supports most actors, including creatures. Actors and animations added by mods are also supported. No ESP file.
