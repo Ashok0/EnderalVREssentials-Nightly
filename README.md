@@ -388,6 +388,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Enderal SE Update v2.0.11**](https://eddoursul.win/mods/enderal-se/): Update for Complete Enderal for Skyrim Special Edition. 
 - Remove "fs_se.dll"
+- Do not update to Enderal SE v2.0.12 as it is not VR compatible.
 
 [**Enderal SE - Bug Fixes v1.32**](https://www.nexusmods.com/enderalspecialedition/mods/2?tab=files): Removed the apparition script changes, which were slightly outdated. The fixes made by Bug Fixes are no longer needed.
 
