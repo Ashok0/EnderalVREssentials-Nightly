@@ -391,6 +391,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 - Do not update to Enderal SE v2.0.12 as it is not VR compatible.
 
 [**Enderal SE - Bug Fixes v1.32**](https://www.nexusmods.com/enderalspecialedition/mods/2?tab=files): Removed the apparition script changes, which were slightly outdated. The fixes made by Bug Fixes are no longer needed.
+- Do not install 2.0.12 update.
 
 [**SkyUI v1.2.0**](https://github.com/Odie/skyui-vr): Elegant, PC-friendly interface mod with many advanced features.
 - The new Highlight and Search features do not work if using "Dear Diary".
@@ -873,7 +874,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Fire of the Mountain SE v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/377?tab=files): This is the translation of a very nice quest mod. I've either enhanced it a bit as there were some slight issues.
 
-[**Playable Half Starling Race v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/100?tab=files): Adds Half Starlings as a playable race.
+[**Playable Half Starling Race v1.0.1**](https://www.nexusmods.com/enderalspecialedition/mods/100?tab=files): Adds Half Starlings as a playable race.
 
 [**Starlings Leveled v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/132?tab=files): Adjusts the Starlings to level with the player.
 
@@ -1107,7 +1108,7 @@ Required load order:
 
 [**EGO - Fire of the Mountain v1.0**](https://www.nexusmods.com/enderal/mods/186?tab=files): Balanced for EGO, some small translation fixes, added EGO enemy perks/abilities to enemies.
 
-[**EGO SE - Playable Half Starling Race v1.0.3**](https://www.nexusmods.com/enderalspecialedition/mods/100?tab=files): Adds Half Starlings as a playable race. (ENDERAL GAMEPLAY OVERHAUL VERSION) Only download one of the files.
+[**EGO SE - Playable Half Starling Race v1.0.1**](https://www.nexusmods.com/enderalspecialedition/mods/100?tab=files): Adds Half Starlings as a playable race. (ENDERAL GAMEPLAY OVERHAUL VERSION) Only download one of the files.
 
 [**EGO SE - Thalgard Monastery v1.00**](https://www.nexusmods.com/enderalspecialedition/mods/133?tab=files): Compatibility patch for Enderal Gameplay Overhaul. (ENG/GER/RUS)
 
