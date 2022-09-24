@@ -469,7 +469,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**Smaller HUD for VR Larger Text Patch**]: An override patch for [Smaller HUD for VR](https://www.nexusmods.com/skyrimspecialedition/mods/30726?tab=files) to increase text size while retaining the smaller HUD elements from the original mod.  Overrides "Smaller HUD for VR" with vanilla skyvr_hmd_info.nif to increase text size.  Rescales Health, Magica, Stamina, and Quest Update Base Instance sprites in vr_hmd_info.swf to shrink HUD elements from vanilla Skyrim back to the smaller sizes used in the original "Smaller HUD for VR" mod.  Shifts Quest Update Base Instance sprite on X-axis to prevent menu clipping.  Patch created with JPEXS Free Flash Decompiler.
 - Place after other Skyrim SE HUD mods.
 
-[**Path of the Prophet (No Floating Quest Marker) v1.09**](https://www.nexusmods.com/enderalspecialedition/mods/332?tab=files): Removes floating quest markers from the game.  Quest markers are still viewable on the compass.
+[**Path of the Prophet (No Floating Quest Marker) v1.09**](https://www.nexusmods.com/skyrimspecialedition/mods/63279): Removes floating quest markers from the game.  Quest markers are still viewable on the compass.
 
 [**MCM Recorder v1.07**](https://www.nexusmods.com/skyrimspecialedition/mods/61719?tab=files): Configuring MCMs has never been easier!
 - Place JSON scripts in \McmRecorder\Recording_XXX_XXXXXX\ folder 
@@ -937,6 +937,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**Forgotten Dungeons - Palm Cove v1.02**](https://www.nexusmods.com/enderalspecialedition/mods/272?tab=files): Forgotten Dungeons implements cut content, originally made by SureAI, with updates and fixes to fit seamlessly into the game.
 
 [**Storeable Phasmalist Talismans v1.01**](https://www.nexusmods.com/enderalspecialedition/mods/68?tab=files): Allows you to store away Phasmalist Talismans.
+- Do not install 2.0.12 update.
 
 [**Unique Armor Sets Replacer Enderal SE v2.3**](https://www.nexusmods.com/enderalspecialedition/mods/27?tab=files): High-quality and lore friendly replacers for many of Enderal's unique armor sets! Converted with SSE nif optimizer.
 
@@ -1085,6 +1086,7 @@ Required load order:
 - Delete ESP file.
 
 [**Shadow of Transcience Mount Fix v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/381?tab=files): Replaces the original model with a new one which fixes a lot of issues.
+- Do not install 2.0.12 update.
 
 [**Shadow of Transcience Mount Fix Replacer v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/382?tab=files): Replaces the model of Shadow of Transciense if the Mount Fix is used.
 
@@ -1099,6 +1101,7 @@ Required load order:
 [**Enderal Armor and Weapon Overhaul - Replacer v1.14**](https://www.scenicroute.games/projects/somnium): Apoapse's Accoutrement patch for EAWO.
 
 [**EGO SE - Enderal Gameplay Overhaul v1.89**](https://www.nexusmods.com/enderalspecialedition/mods/3?tab=files): This is a complete overhaul of the gameplay mechanics of Enderal. This includes a ton of balance changes, improvements to the ai, new gameplay mechanics, new weapons/spells/potions and much more. (ENG/GER/RUS)
+- Do not install 2.0.12 update.
 
 [**EGO SE - Myths and Legends VI - The Forgotten One v1.01**](https://www.nexusmods.com/enderalspecialedition/mods/25?tab=files): A balance patch for Enderal SE Gameplay Overhaul. Compatible with all languages.
 
@@ -1133,6 +1136,7 @@ Required load order:
 [**EGO SE - Donkey v1.1.1**](https://www.nexusmods.com/enderalspecialedition/mods/125?tab=files): Compatibility patch for Enderal Gameplay Overhaul and Enderal - Donkey. (ENG/GER/RUS)
 
 [**EGO SE - Kolapon's Undead Creatures Replacer v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/342?tab=files): Compatibility patch for Enderal Gameplay Overhaul and Kolapon's Undead Creatures Replacer.
+- Do not install 2.0.12 update.
 
 [**EGO SE - Kolapon's Various Creatures Replacer v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/351?tab=files): Compatibility patch for Enderal Gameplay Overhaul and Kolapon's Various Creatures Replacer.
 
