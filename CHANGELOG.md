@@ -48,7 +48,7 @@ New Mods:
 - Moddable Iron Armor v1.0: This fixes issues with armor replacer mods not replacing iron armor.
 - Enhanced Blood Textures Enderal SE v4.0: A blood overhaul mod.
 - Simplicity of Snow v0.8: A light-weight snow mod designed to minimize conflicts. Uses your own snow texture and removes snow from under roofs.
-- Moons and Stars - Sky Overhaul SKSE v2.0: DLL plugin to fix moons and stars movement and phases.
+- Moons and Stars - Sky Overhaul SKSE v2.0.1: DLL plugin to fix moons and stars movement and phases.
 - Moons and Stars - Sky Overhaul SKSEVR v2.0: DLL plugin to fix moons and stars movement and phases. VR port using po3's MIT source code.
 - Enderal VR Main Menu Logo v1.0: Adds the Enderal logo to the VR playroom main menu screen.
 - NPC Pathing Fixes (Heartland) v1.0: Improved the NPC pathing in the Heartland.
@@ -123,7 +123,7 @@ Updated Mods:
 - Immersive Draw Sheathe Sounds v1.1: Corrected folder structure so the mod will actually function.
 - Papyrus Extender SSE v5.2: SKSE64 plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events.
 - Papyrus Extender VR v5.2: SKSEVR plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events. This requires the original Papyrus Extender and is built from po3's source.
-- VR Address Library for SKSEVR v0.40: Add latest commonlib, po3 addresses (02026b1)
+- VR Address Library for SKSEVR v0.51: Add latest commonlib, po3 addresses (02026b1)
 - DragonbornSpeaksNaturally - Beta v0.21.1-beta: Adds speech recognition to Skyrim VR or Skyrim SE so you can recite your dialogue lines to select them.
 - Spell Perk Item Distributor VR v5.2.0.3: Fix failure to load due to processing of non-ascii paths for mergemapper.
 - More Informative Console VR v1.1.0: This mod edits the UI to show a great deal of additional information on npcs, items, and other objects when the console is opened, similar to the way MFG console worked for Oldrim.
