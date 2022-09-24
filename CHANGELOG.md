@@ -60,7 +60,7 @@ New Mods:
 - Enderal Distinctive Clothing v1.0: Distinctive retextures for clothing.
 - Enderal Distinctive Jewelry v1.0: Distinctive models and textures for jewelry.
 - Akropolis Stones HD v1.0: HD textures for the Akropolis stones.
-- Conduit - Short-term Weapon Infusions v2.5: When holding a weapon in one hand and a spell in the other, you are able to temporarily "conduct" the spell through that weapon. Different categories of spells make the weapon do different things. This effect will overlay on top of normal enchants and does include additional weapon FX that will overlay too. It even works on Bound weapons.
+- Conduit - Short-term Weapon Infusions v2.7: When holding a weapon in one hand and a spell in the other, you are able to temporarily "conduct" the spell through that weapon. Different categories of spells make the weapon do different things. This effect will overlay on top of normal enchants and does include additional weapon FX that will overlay too. It even works on Bound weapons.
 - Conduit - Enderal Adaption Patch v2.5-EA1: This is an experimental rebalance (read: heavy nerf) of the mod for Enderal. If you feel Conduit is overtuned for normal Skyrim, you can use this patch there as well, it doesnt require Enderal. ESL-flagged.
 - Less Grass 1 - 50% Less v1.0: Reduces the density of grass for better visibility.
 - Steel Swords Redone v1.0: This mod adds new models and textures for the steel sword and steel greatsword.
@@ -160,7 +160,8 @@ Updated Mods:
 - Riverville Catacombs SE v1.02: A small update with some things cleaned up, this is mostly to provide future compatibility (thanks to Apoapse).
 - Enderal Distinctive Jewelry v1.5: Necklaces now use models from DovahBling Jewelry. Thanks testiger2 for the permission!
 - Playable Half Starling Race v1.01: Adds Half Starlings as a playable race.
-- Dirt and Blood - Dynamic Visual Effects v2.23: Your character will accumulate dirt and blood dynamically, which you can clean by swimming or standing in the rain.
+- Dirt and Blood - Dynamic Visual Effects v2.24: Your character will accumulate dirt and blood dynamically, which you can clean by swimming or standing in the rain.
+- Inferno - Fire Effects Redux v5.1: Spiritual successor to the original Ultimate HD Fire Effects﻿ mod by rheadude with improved meshes and textures!
 
 Removed mods:
 - High Poly Project v5.3: Redundant with other texture/mesh mods.
