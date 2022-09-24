@@ -657,8 +657,8 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**El Sopa - HD Medieval Anvil SE v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/48825?tab=files): New Model And Textures For The Anvil . The Hammer And Tongs. Performance Friendly. Ultra Immersive. All Resolutions. No ESP.
 - Delete blacksmithnovicetongs01.nif (this mesh causes visual glitches).
 
-[**Inferno - Fire Effects Redux v4.1**](https://www.nexusmods.com/skyrimspecialedition/mods/29316?tab=files): Spiritual successor to the original Ultimate HD Fire Effects mod by rheadude with improved meshes and textures! 
-- Use the following installation options: Ultra > Brighter > Freesia > New > Regular > None > No Patch
+[**Inferno - Fire Effects Redux v5.1**](https://www.nexusmods.com/skyrimspecialedition/mods/29316?tab=files): Spiritual successor to the original Ultimate HD Fire Effects mod by rheadude with improved meshes and textures! 
+- Use the following installation options: No ENB Light > 4x > Brighter > Realistic Hue > 1x > Vanilla > No Plugin.
 - ESP file not supported.  Do not install patches.
 
 [**Embers XD v2.6.1**](https://www.nexusmods.com/skyrimspecialedition/mods/37085?tab=files): An overhaul of campfires and other fire sources.
@@ -995,7 +995,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Akropolis Stones HD v1.0**]: HD textures for the Akropolis stones.
 
-[**Conduit - Short-term Weapon Infusions v2.5**](https://www.nexusmods.com/skyrimspecialedition/mods/58023?tab=files): When holding a weapon in one hand and a spell in the other, you are able to temporarily "conduct" the spell through that weapon. Different categories of spells make the weapon do different things. This effect will overlay on top of normal enchants and does include additional weapon FX that will overlay too. It even works on Bound weapons.
+[**Conduit - Short-term Weapon Infusions v2.7**](https://www.nexusmods.com/skyrimspecialedition/mods/58023?tab=files): When holding a weapon in one hand and a spell in the other, you are able to temporarily "conduct" the spell through that weapon. Different categories of spells make the weapon do different things. This effect will overlay on top of normal enchants and does include additional weapon FX that will overlay too. It even works on Bound weapons.
 
 [**Conduit - Enderal Adaption Patch v2.5-EA1**](https://www.nexusmods.com/skyrimspecialedition/mods/58023?tab=files): This is an experimental rebalance (read: heavy nerf) of the mod for Enderal. If you feel Conduit is overtuned for normal Skyrim, you can use this patch there as well, it doesnt require Enderal. ESL-flagged.
 
@@ -1014,8 +1014,8 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Intense Sandstorms v1.02**](https://www.nexusmods.com/enderalspecialedition/mods/279?tab=files): Increases the intensity of sandstorms in the Desert.
 
-[**Dirt and Blood - Dynamic Visual Effects v2.23**](https://www.nexusmods.com/skyrimspecialedition/mods/38886?tab=files): Your character will accumulate dirt and blood dynamically, which you can clean by swimming or standing in the rain. The effects are mostly visual only and do not affect gameplay. NPCs will also get bloody as a result of battles. Mod is designed to be simple and lightweight.
-- Remove "Wash and Rinse" from the plugin's Spell data and set 6C00082F records to 0 from Quest.Dirty_Quest and Quest.DirtyQuesMCM using xEdit to completely remove the broken "Wash and Rinse" spell from the mod.
+[**Dirt and Blood - Dynamic Visual Effects v2.24**](https://www.nexusmods.com/skyrimspecialedition/mods/38886?tab=files): Your character will accumulate dirt and blood dynamically, which you can clean by swimming or standing in the rain. The effects are mostly visual only and do not affect gameplay. NPCs will also get bloody as a result of battles. Mod is designed to be simple and lightweight.
+- Remove "Wash and Rinse" from the plugin's Spell data and set 6E00082F records to 0 from Quest.Dirty_Quest and Quest.DirtyQuesMCM using xEdit to completely remove the broken "Wash and Rinse" spell from the mod.
 
 [**Enderal SE - Dirt and Blood v1.01**](https://www.nexusmods.com/enderalspecialedition/mods/201?tab=files): Compatibility patch for Dirt and Blood.
 
