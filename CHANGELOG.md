@@ -146,7 +146,7 @@ Updated Mods:
 - Frozen Electrocuted Combustion VR v5.0.5: Applies visual effects to NPCs and the player, when killed by air, ash, dragons, drain, fire, frost, fear, lightning, poison, soultrap, steam and sun damage status effects. VR version that requires original FEC to run.
 - Fluffworks Medium v1.1f: Added following animals: Reindeer, Skeever, Goat, Fox, Dog, Cow, Black Troll.  Fixed missing textures on elks.  Make bear fur a bit thinner.
 - KS Hairdos SSE v1.9: KS Hairdos is a hair pack that contains 983 hairstyles. 876 hairstyles are for females, 107 are for males.
-- Enderal - Donkey v2.5: Eye fixes for each of the creatures. + DHO - (0 specular + 1% transparency) for hawks. No more shiny hair as well added realistic transparency. Sun shines on the correct side of the hawk now!
+- Enderal - Donkey v2.61: Eye fixes for each of the creatures. + DHO - (0 specular + 1% transparency) for hawks. No more shiny hair as well added realistic transparency. Sun shines on the correct side of the hawk now!
 - EAM SE - Enderal Apothecarii Monastery v1.05: Fixed a crash when entering the Dormitory (thanks to Apoapse).
 - Wellwatch Manor SE v1.01: A small update with some things cleaned up, this is mostly to provide future compatibility (thanks to Apoapse).
 - Seaview Lodge SE v1.02: A small update with some things cleaned up, this is mostly to provide future compatibility (thanks to Apoapse).
