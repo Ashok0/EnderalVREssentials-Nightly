@@ -108,6 +108,7 @@ New Mods:
 - Amanda Vanilla Outfit Override v1.0: Overrides Amanda's outfit with her vanilla Venturer outfit.
 - Nightingale Bow Scoped Override v1.0: Overrides Nightingale with scoped version for VR.
 - Story Mode v1.01: Enderal Story Mode includes gameplay tweaks to make the game enjoyable without worrying about micromanaging and difficulty.  Disables EGO when Somnium mods are active.  (eng/ger/rus)
+- Vanilla Cubemaps for Darker Water: Optional cubemaps without reflections for darker nighttime water.
 
 Updated Mods:
 - Enderal VR v3.3: Fixed quest Two souls part 5 cqc05: Romance with Calia. Some animation issues and Calia not responding (oh my). Moved some funitures (chairs) in MQP01House to make pathfinding easier for the player in VR. Fixed one Ending : slight modification of scene 2 MQ18a to fix potential player bugs (animations). Updated the questfunction script given in enderal 2.0.11.  Added a failsafe after the dream (mq10) so that the player can at least retrieve a scale =1.  Fixed a small issue in MQ15 (Companion not entering the vault)
