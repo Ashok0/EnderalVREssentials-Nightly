@@ -174,7 +174,7 @@ Removed mods:
 - Armored Flesh v2.0: Incompatible with EGO SE.
 - Enderal Upscale Project v1.0: Redundant with Enderal SE Retexture Project.
 - Basic Dining Set Replacer v1.0: Redundant with Silver Objects SMIMed.
-- Strike Obstruction Systems v1.05: Redundant with Inpa Sekiro Combat.
+- Strike Obstruction Systems v1.05: Redundant with Blocking and Flash VR.
 
 Parallax Textures:
 - Skyrim Remastered - Caves 4K Parallax v1.0: A retexture of Skyrim's caves, with a complete overhaul for the ice caves to make them look like actual ice. Offered in 4k, 2k, and 1k texture quality with parallax options.
