@@ -16,8 +16,7 @@ New Mods:
 - Dynamic Animation Replacer for Skyrim VR 1415 v1.1.0a: This mod dynamically replaces the actors' animations depending on various conditions. Supports most actors, including creatures. Actors and animations added by mods are also supported. No ESP file.
 - Clear HUD VR v1.0: Provides an installer that lets you hide certain HUD elements for Skyrim VR based on your personal preference.
 - Animation Motion Revolution VR v1.5: This SKSE plugin removes the mismatch between displacement and custom animations driven by motion data (the infamous ice-skating problem). Welcome to 2021 guys.
-- VioLens - A Killmove Mod SE v2.3: SkyUI & SKSE64 Required. VioLens - A Killmove Mod gives you in-game control over both Ranged and Melee Killmoves. JContainers SE only required for use of the Profile System.
-- Inpa Sekiro Combat v2.2.3: This is a revolutionary project that overturns the boring Vanilla combat system to Sekiro system.
+- Blocking and Flash VR - Block Sparks and Impact Sounds v1.0: Block Sparks & Impact Sounds for Skyrim VR without affecting gameplay.
 - Splashes of Storms v1.2: SKSE plugin that adds splashes and ripples when raining.
 - Splashes of Storms VR v1.2: SKSE plugin that adds projectile based water splashes and ripples, and underwater explosions.
 - SMIM Food Resized - All In One v1.0: A size reduction of the SMIM food models for VR and SSE.
