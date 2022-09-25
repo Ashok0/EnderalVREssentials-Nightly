@@ -1179,6 +1179,8 @@ Required load order:
 
 [**Story Mode v1.01**](https://www.nexusmods.com/enderalspecialedition/mods/123?tab=files): Enderal Story Mode includes gameplay tweaks to make the game enjoyable without worrying about micromanaging and difficulty.  Disables EGO when Somnium mods are active.  (eng/ger/rus)
 
+[**Vanilla Cubemaps for Darker Water**](https://www.nexusmods.com/skyrimspecialedition/mods/30571?tab=files): Optional cubemaps without reflections for darker nighttime water.
+
 [**Noble Quarter Player Home Fixes (and EGO patch) v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/409?tab=files): Fixes a small issue with "Enderal - Nobles Quarter Player home redone SE" and ensures compatibility with EGO and other mods.
 
 [**Allow Fast Travel v1.3**](https://www.nexusmods.com/enderalspecialedition/mods/42?tab=files): Allows Fast Travel in Enderal.
