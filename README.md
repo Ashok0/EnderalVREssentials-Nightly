@@ -865,6 +865,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 - Requires patching with Synthesis.
 - During the installation, tick "Rally's Water Foam (4K)" and "Improved Water Normals for Vanilla" and leave all other settings at default.  Do NOT install Rocky Riverbeds due to high performance drop.
 - Recommend replacing 'OutputCube.dds' with 'ewpdefault.dds' from the [Enhanced Wetness and Puddles](https://www.nexusmods.com/skyrimspecialedition/mods/58155?tab=description) mod for improved water reflections.
+- Do not update to the new DLL version of the mod. Enderal VR requires Synthesis patching.
 
 [**3D World Fog Map v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/340?tab=files): Add fog back to the 3D world map!
 
@@ -1103,6 +1104,7 @@ Required load order:
 
 [**EGO SE - Enderal Gameplay Overhaul v1.89**](https://www.nexusmods.com/enderalspecialedition/mods/3?tab=files): This is a complete overhaul of the gameplay mechanics of Enderal. This includes a ton of balance changes, improvements to the ai, new gameplay mechanics, new weapons/spells/potions and much more. (ENG/GER/RUS)
 - Do not install 2.0.12 update.
+- Remove "Game Setting".fAutoAimMaxDegrees, "Game Setting".fAutoAimMaxDistance, and "Game Setting".fAutoAimScreenPercentage in xEdit to fix targeting reticules for VR.
 
 [**EGO SE - Myths and Legends VI - The Forgotten One v1.01**](https://www.nexusmods.com/enderalspecialedition/mods/25?tab=files): A balance patch for Enderal SE Gameplay Overhaul. Compatible with all languages.
 
