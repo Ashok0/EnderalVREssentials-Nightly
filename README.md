@@ -568,11 +568,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Immersive Draw Sheathe Sounds v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/44992?tab=files): This improves the Draw/Sheathe sounds for use in VR.
 
-[**VioLens - A Killmove Mod SE v2.3**](https://www.nexusmods.com/skyrimspecialedition/mods/668?tab=files): SkyUI & SKSE64 Required. VioLens - A Killmove Mod gives you in-game control over both Ranged and Melee Killmoves. JContainers SE only required for use of the Profile System.
-- Disable Killmoves in MCM which does not work well in VR.  Only used as a pre-requisite for Inpa Sekiro Combat.
-
-[**Inpa Sekiro Combat v2.3**](https://www.nexusmods.com/skyrimspecialedition/mods/41428?tab=files): This is a revolutionary project that overturns the boring Vanilla combat system to Sekiro system.  Adds spark FX to melee combat.
-- Only install "Part 2) SEKIRO COMBAT" portion of mod.
+[**Blocking and Flash VR - Block Sparks and Impact Sounds v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/74463): Block Sparks & Impact Sounds for Skyrim VR without affecting gameplay.
 
 [**SMIM v2.08**](https://www.nexusmods.com/skyrimspecialedition/mods/659?tab=files): A massive project to greatly improve the appearance of countless static 3D models in Skyrim. Basically, this is my attempt to make the Skyrim architecture, clutter, furniture, and landscaping much nicer.
 - Place above all other texture/mesh mods to avoid SMIM conflicts.
@@ -1171,6 +1167,8 @@ Required load order:
 
 [**VRIK Rift-Index-WMR Controller Bindings V2.1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/23416?tab=files): These control bindings are an optional add-on for VRIK to make it easier to use holsters.  The button for shout has been moved to Right A (or the right WMR touchpad), and interact is performed by squeezing the right grip.  Sprinting is now done by squeezing the left grip.  With these "safe" inputs on grips, players do not need to worry about shouting accidentally when grabbing holstered weapons.
 
+[**Vanilla Cubemaps for Darker Water**](https://www.nexusmods.com/skyrimspecialedition/mods/30571?tab=files): Optional cubemaps without reflections for darker nighttime water.
+
 [**Equipable Female Tattoo UNP CBBE v1.0**]: Mod adds 5 x Equippable Tattoo skins for UUNP or CBBE Options are: Bijin, Leyenda or Fair Skin Complexion.
 
 [**Replace spiders with wolfs and bears v1.0.1**](https://www.nexusmods.com/enderalspecialedition/mods/31?tab=files): Replaces spiders with wolves and bears.
@@ -1178,8 +1176,6 @@ Required load order:
 [**Arachnophobia - No Spiders and Beetles v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/359?tab=files): This mod replaces Spiders with Wolves and Beetles with Bears.
 
 [**Story Mode v1.01**](https://www.nexusmods.com/enderalspecialedition/mods/123?tab=files): Enderal Story Mode includes gameplay tweaks to make the game enjoyable without worrying about micromanaging and difficulty.  Disables EGO when Somnium mods are active.  (eng/ger/rus)
-
-[**Vanilla Cubemaps for Darker Water**](https://www.nexusmods.com/skyrimspecialedition/mods/30571?tab=files): Optional cubemaps without reflections for darker nighttime water.
 
 [**Noble Quarter Player Home Fixes (and EGO patch) v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/409?tab=files): Fixes a small issue with "Enderal - Nobles Quarter Player home redone SE" and ensures compatibility with EGO and other mods.
 
