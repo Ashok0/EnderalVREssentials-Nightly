@@ -432,7 +432,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Dynamic Animation Replacer for Skyrim VR 1415 v1.1.0a**](https://www.nexusmods.com/skyrimspecialedition/mods/33746?tab=files): This mod dynamically replaces the actors' animations depending on various conditions. Supports most actors, including creatures. Actors and animations added by mods are also supported. No ESP file.
 
-[**Animation Motion Revolution VR v1.5**](https://www.nexusmods.com/skyrimspecialedition/mods/50258?tab=files): This SKSE plugin removes the mismatch between displacement and custom animations driven by motion data (the infamous ice-skating problem). Welcome to 2021 guys.
+[**Animation Motion Revolution VR v1.5.3**](https://www.nexusmods.com/skyrimspecialedition/mods/50258?tab=files): This SKSE plugin removes the mismatch between displacement and custom animations driven by motion data (the infamous ice-skating problem). Welcome to 2021 guys.
 
 [**ADXP Beta v1.2**](https://www.skyrim-guild.com/distar/guidesandnews/mco-guide): A framework that bypasses the animation wall, allowing for modern combat in Skyrim.
 - Delete MCO.dll
