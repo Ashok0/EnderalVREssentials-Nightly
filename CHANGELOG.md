@@ -15,7 +15,7 @@ New Mods:
 - VR Parallax Shader Fix - Experimental v1.0.1: Injects fixed parallax shaders into Skyrim VR. Based on original code from aers under MIT. 
 - Dynamic Animation Replacer for Skyrim VR 1415 v1.1.0a: This mod dynamically replaces the actors' animations depending on various conditions. Supports most actors, including creatures. Actors and animations added by mods are also supported. No ESP file.
 - Clear HUD VR v1.0: Provides an installer that lets you hide certain HUD elements for Skyrim VR based on your personal preference.
-- Animation Motion Revolution VR v1.5: This SKSE plugin removes the mismatch between displacement and custom animations driven by motion data (the infamous ice-skating problem). Welcome to 2021 guys.
+- Animation Motion Revolution VR v1.5.3: This SKSE plugin removes the mismatch between displacement and custom animations driven by motion data (the infamous ice-skating problem). Welcome to 2021 guys.
 - Blocking and Flash VR - Block Sparks and Impact Sounds v1.0: Block Sparks & Impact Sounds for Skyrim VR without affecting gameplay.
 - Splashes of Storms v1.2: SKSE plugin that adds splashes and ripples when raining.
 - Splashes of Storms VR v1.2: SKSE plugin that adds projectile based water splashes and ripples, and underwater explosions.
