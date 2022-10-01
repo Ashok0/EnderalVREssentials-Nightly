@@ -132,7 +132,7 @@ Updated Mods:
 - RaceMenu SE v0.4.19.11: Complete overhaul to the character creation menu including new customization features such as multiple RGBA warpaints, body paints, hand paint, and foot paints.
 - moreHUD VR v1.1.0: Stability improvements.
 - Water in Wells - Mesh-only Animated Wells v0.7: A mesh-only solution for animated water in wells and sewers. No ESP. 
-- Embers XD v2.6.1:  Added an option for vanilla-like sticky torch flame. Added Embers XD style purple brazier variant.
+- Embers XD v2.6.2:  Added an option for vanilla-like sticky torch flame. Added Embers XD style purple brazier variant.
 - Venerable Nordic Temples (2K - 4K) v0.2: A high quality retexture for Nordic temples and ruins, offering high fidelity visuals and a lore friendly, ancient aesthetic.
 - Rally's Candlelight and Magelight Fix SE - VR v1.3: Fix for the Candlelight Spell and Magelight Spell in SE/VR.
 - 4K SMIM Furniture Improvement v1.3: A 4K retexture of SMIM furniture textures.
