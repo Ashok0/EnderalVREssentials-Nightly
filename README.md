@@ -428,7 +428,7 @@ If you are using a language pack, you may need to change the font used by Dear D
          taa po 1.0	 
          taa ps 0
 
-[**VR Address Library for SKSEVR v0.51**](https://www.nexusmods.com/skyrimspecialedition/mods/58101?tab=files): VR Address Library database for end users. This is intended as a VR replacement for Address Library for SKSE for mods designed for it. Only download if the mod says this is a requirement. It is currently an alpha. This is not for SSE. This is different from Address Library for SKSE.
+[**VR Address Library for SKSEVR v0.52**](https://www.nexusmods.com/skyrimspecialedition/mods/58101?tab=files): VR Address Library database for end users. This is intended as a VR replacement for Address Library for SKSE for mods designed for it. Only download if the mod says this is a requirement. It is currently an alpha. This is not for SSE. This is different from Address Library for SKSE.
 
 [**Dynamic Animation Replacer for Skyrim VR 1415 v1.1.0a**](https://www.nexusmods.com/skyrimspecialedition/mods/33746?tab=files): This mod dynamically replaces the actors' animations depending on various conditions. Supports most actors, including creatures. Actors and animations added by mods are also supported. No ESP file.
 
@@ -498,7 +498,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 - Make the following changes to higgs_vr.ini to make all held objects use velocity-based movement (recommended):
 	- ForcePhysicsGrab = 1
 
-[**PLANCK v0.4.3**](https://www.nexusmods.com/skyrimspecialedition/mods/66025?tab=files): Physically-driven animation in Skyrim. Characters interact with physics and can be grabbed, melee hit detection is physically accurate, and much more.
+[**PLANCK v0.4.4**](https://www.nexusmods.com/skyrimspecialedition/mods/66025?tab=files): Physically-driven animation in Skyrim. Characters interact with physics and can be grabbed, melee hit detection is physically accurate, and much more.
 
 [**Spell Wheel VR v1.2.5**](https://www.nexusmods.com/skyrimspecialedition/mods/47630?tab=files): Selection wheel mod for Skyrim VR. It allows you to select spells, weapons, shields, arrows, potions, poisons, food, torch, armors and more without going into a menu very quickly by press of a button or button combinations to spawn the wheel and hold your hand over the item and letting go of the button. It's equipped automatically.
 
@@ -678,7 +678,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Remove Blurry Snowflakes v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/38358?tab=files): This mod removes the blurry snowflakes by using a transparent texture. The normal snowflakes are still present.
 
-[**Glorious Doors of Skyrim v1.03**](https://www.nexusmods.com/skyrimspecialedition/mods/32376?tab=files): All-In-One pack of all my doors including a handy Fomod installer and a new Dwemer door!
+[**Glorious Doors of Skyrim v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/32376?tab=files): All-In-One pack of all my doors including a handy Fomod installer and a new Dwemer door!
 - Delete ESP file.
 
 [**Rustic Windows - Special Edition v2.0**](https://www.nexusmods.com/skyrimspecialedition/mods/1937?tab=files): This mod retextures the Skyrim and Dragonborn windows in a lore-friendly way. The window glass has been revised to be thick, textured and insulating. The "opaque" nature of the glass has a purpose. 2K and 1K versions.
