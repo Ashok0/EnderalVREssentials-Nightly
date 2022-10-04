@@ -498,7 +498,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 - Make the following changes to higgs_vr.ini to make all held objects use velocity-based movement (recommended):
 	- ForcePhysicsGrab = 1
 
-[**PLANCK v0.4.5**](https://www.nexusmods.com/skyrimspecialedition/mods/66025?tab=files): Physically-driven animation in Skyrim. Characters interact with physics and can be grabbed, melee hit detection is physically accurate, and much more.
+[**PLANCK v0.4.6**](https://www.nexusmods.com/skyrimspecialedition/mods/66025?tab=files): Physically-driven animation in Skyrim. Characters interact with physics and can be grabbed, melee hit detection is physically accurate, and much more.
 
 [**Spell Wheel VR v1.2.5**](https://www.nexusmods.com/skyrimspecialedition/mods/47630?tab=files): Selection wheel mod for Skyrim VR. It allows you to select spells, weapons, shields, arrows, potions, poisons, food, torch, armors and more without going into a menu very quickly by press of a button or button combinations to spawn the wheel and hold your hand over the item and letting go of the button. It's equipped automatically.
 
