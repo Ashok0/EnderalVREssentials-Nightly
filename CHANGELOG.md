@@ -163,6 +163,7 @@ Updated Mods:
 - Playable Half Starling Race v1.01: Adds Half Starlings as a playable race.
 - Dirt and Blood - Dynamic Visual Effects v2.24: Your character will accumulate dirt and blood dynamically, which you can clean by swimming or standing in the rain.
 - Inferno - Fire Effects Redux v5.1: Spiritual successor to the original Ultimate HD Fire Effects﻿ mod by rheadude with improved meshes and textures!
+- Misc Retexture Project v2.7 An ongoing project to find and retexture overlooked items throughout Skyrim.
 
 Removed mods:
 - High Poly Project v5.3: Redundant with other texture/mesh mods.
