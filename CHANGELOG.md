@@ -127,6 +127,8 @@ Updated Mods:
 - DragonbornSpeaksNaturally - Beta v0.21.1-beta: Adds speech recognition to Skyrim VR or Skyrim SE so you can recite your dialogue lines to select them.
 - Spell Perk Item Distributor VR v5.2.0.5: Fix failure to load due to processing of non-ascii paths for mergemapper.
 - More Informative Console VR v1.1.0: This mod edits the UI to show a great deal of additional information on npcs, items, and other objects when the console is opened, similar to the way MFG console worked for Oldrim.
+- Weapon Throw VR v1.3.4: Allows you to throw your equipped weapons in VR by holding a button, swinging your hand, and releasing it.
+- Spell Wheel VR v1.3.0: Selection wheel mod for Skyrim VR. 
 - Dual Wield Block VR v1.7: SKSE plugin to let the player block attacks while dual wielding (two weapons or weapon + spell) or unarmed.
 - Enderal - Vatyr v5.0: Completely redesigned Vatyr in 4K for Enderal SE and VR.
 - RaceMenu SE v0.4.19.11: Complete overhaul to the character creation menu including new customization features such as multiple RGBA warpaints, body paints, hand paint, and foot paints.
