@@ -500,7 +500,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**PLANCK v0.4.6**](https://www.nexusmods.com/skyrimspecialedition/mods/66025?tab=files): Physically-driven animation in Skyrim. Characters interact with physics and can be grabbed, melee hit detection is physically accurate, and much more.
 
-[**Spell Wheel VR v1.2.5**](https://www.nexusmods.com/skyrimspecialedition/mods/47630?tab=files): Selection wheel mod for Skyrim VR. It allows you to select spells, weapons, shields, arrows, potions, poisons, food, torch, armors and more without going into a menu very quickly by press of a button or button combinations to spawn the wheel and hold your hand over the item and letting go of the button. It's equipped automatically.
+[**Spell Wheel VR v1.3.0**](https://www.nexusmods.com/skyrimspecialedition/mods/47630?tab=files): Selection wheel mod for Skyrim VR. It allows you to select spells, weapons, shields, arrows, potions, poisons, food, torch, armors and more without going into a menu very quickly by press of a button or button combinations to spawn the wheel and hold your hand over the item and letting go of the button. It's equipped automatically.
 
 [**Enchanted Weapons Charge Fix v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/62314?tab=files): Ever wondered why your enchanted weapon not charging when using Soul Siphon perk from Ordinator? Or why Summermyst's enchanted glove not recharging your weapon past the initial value when equipped? It's because there's a bug in Skyrim engine that prevent you from doing so. This mod will fix that and allow weapons to charge to their maximum limit.
 - Do not update to v2.0 as the lastest version is not VR compatible.
@@ -543,7 +543,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Simple Realistic Archery VR v1.26**](https://www.nexusmods.com/skyrimspecialedition/mods/28524?tab=files): Automatically unequips your arrows after shooting them, then reequips the arrow after pressing the trigger (MCM configurable) over your shoulder. It also has options for binding different arrows to different buttons, for the position and size of the quiver, and options for attribute costs. Up to 25 arrow types can be bound at once.
 
-[**Weapon Throw VR v1.3.3**](https://www.nexusmods.com/skyrimspecialedition/mods/31374?tab=files): Allows you to throw your equipped weapons in VR by holding a button, swinging your hand, and releasing it. All six melee weapon types, shields and torches are supported. Supports vanilla and mod added weapons. Includes Auto-Return and Auto-Aim features. Comes with an MCM to configure every setting.
+[**Weapon Throw VR v1.3.4**](https://www.nexusmods.com/skyrimspecialedition/mods/31374?tab=files): Allows you to throw your equipped weapons in VR by holding a button, swinging your hand, and releasing it. All six melee weapon types, shields and torches are supported. Supports vanilla and mod added weapons. Includes Auto-Return and Auto-Aim features. Comes with an MCM to configure every setting.
 
 [**Dual Wield Block VR v1.7**](https://www.nexusmods.com/skyrimspecialedition/mods/28456?tab=files): SKSE plugin to let the player block attacks while dual wielding (two weapons or weapon + spell) or unarmed.
 
