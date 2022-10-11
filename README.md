@@ -774,12 +774,18 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**TB's Wine 4K Version v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/61131?tab=files): This is a retexture containing no ESPs which comes in 3 Variants - 2K, 4K and 8K and aims to improve upon the default Skyrim textures, thank you very much for considering my mod (Also introduces some transparency into the glass).
 
-[**High Poly Mudcrab N Retexture v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/62967?tab=files): Pfuscher's High Poly Mudcrabs N Retexture.
-
 [**Cork Retexture v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/41903?tab=files): Cork retexture. 4x the size of vanilla's.
 
 [**Dibella Statue v1.04**](https://www.nexusmods.com/skyrimspecialedition/mods/61553?tab=files): Dibella statue replacer.
 - Delete ESP file.
+
+[**High Quality Food and Ingredients SE v1.9**](https://www.nexusmods.com/skyrimspecialedition/mods/10897): HQ textures of the food and ingredients for Skyrim Special Edition.
+
+[**Business Ledger HD Retexture v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/67319): This is an HD retexture of the Business Ledger by LamboMan ported with permission ("Please go ahead, you can do whatever you need with it"). 
+
+[**Handcarts SE - Everything changes v0.1**](https://www.nexusmods.com/skyrimspecialedition/mods/76672): It's been a long time, a lot has changed in Skyrim, but finally completely new handcarts started appearing on the streets))
+
+[**Rudy HQ - Miscellaneous SE v1.02**](https://www.nexusmods.com/skyrimspecialedition/mods/19867): HQ meshes for a glazed pottery with a new 4K/2K textures. HQ meshes for in-game silverware with a new HQ candles. Realistic apples, tomatoes, potatoes, and a common bed pillows, plus HQ meshes for a common plates.
 
 [**Terrain LOD for Septentrional Landscapes v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/39563): New overhaul for Terrain LOD landscape textures that corresponds with the texture mods you have installed..
 - Only used for terrain noise texture.  Remove ALL files except for the \textures\ folder.
@@ -810,6 +816,10 @@ If you are using a language pack, you may need to change the font used by Dear D
 - Currently using ONLY \meshes\architecture\farmhouse, \meshes\clutter\ruins\ruinspuzzlepillar*.nif, and \meshes\landscape\trees which have been fully tested.
 - Remove \meshes\architecture\farmhouse\fencewoven*.nif to prevent 'SD's Farmhouse Fences SE' from being overrided.
 - Remove \meshes\architecture\farmhouse\farmwell01.nif to prevent 'Water in Wells' from being overrided.
+
+[**Chicken Replacer - Mihail Monsters and Animals (SE-AE version) (''bird'') v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/76452): High quality vanilla Chicken replacer: make these birds finally worthy of having the entire population of Skyrim committed to their protection.
+
+[**High Poly Mudcrab N Retexture v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/62967?tab=files): Pfuscher's High Poly Mudcrabs N Retexture.
 
 [**FusaFusa Project - Fluffy Animals SE v14.2**](https://www.nexusmods.com/skyrimspecialedition/mods/5514?tab=files): Increase Fur Volume of Animals. They become more fluffy.
 
@@ -1153,6 +1163,8 @@ Required load order:
 [**Somnium Retextures v1.0**](https://www.scenicroute.games/projects/somnium): Textures/meshes for Apoapse's Accoutrement.
 
 [**Somnium Music Edits v1.0**](https://www.scenicroute.games/projects/somnium): New music for main menu.
+
+[**Nyghtfall - Somnium Edit v1.1**](https://www.scenicroute.games/projects/somnium): Adds new exploration and combat music tracks from Nyghtfall - Dark Fantasy Music to Enderal.
 
 [**Amanda Vanilla Outfit Override v1.0**]: Overrides Amanda's outfit with her vanilla Venturer outfit.
 
