@@ -106,8 +106,14 @@ New Mods:
 - Somnium Music Edits v1.0: New music for main menu.
 - Amanda Vanilla Outfit Override v1.0: Overrides Amanda's outfit with her vanilla Venturer outfit.
 - Nightingale Bow Scoped Override v1.0: Overrides Nightingale with scoped version for VR.
+- Nyghtfall - Somnium Edit v1.1: Adds new exploration and combat music tracks from Nyghtfall - Dark Fantasy Music to Enderal.
 - Story Mode v1.01: Enderal Story Mode includes gameplay tweaks to make the game enjoyable without worrying about micromanaging and difficulty.  Disables EGO when Somnium mods are active.  (eng/ger/rus)
 - Vanilla Cubemaps for Darker Water: Optional cubemaps without reflections for darker nighttime water.
+- Chicken Replacer - Mihail Monsters and Animals (SE-AE version) (''bird'') v1.0**]: High quality vanilla Chicken replacer: make these birds finally worthy of having the entire population of Skyrim committed to their protection.
+- High Quality Food and Ingredients SE v1.9: HQ textures of the food and ingredients for Skyrim Special Edition.
+- Business Ledger HD Retexture v1.0: This is an HD retexture of the Business Ledger by LamboMan ported with permission ("Please go ahead, you can do whatever you need with it"). 
+- Handcarts SE - Everything changes v0.1: It's been a long time, a lot has changed in Skyrim, but finally completely new handcarts started appearing on the streets))
+- Rudy HQ - Miscellaneous SE v1.02: HQ meshes for a glazed pottery with a new 4K/2K textures. HQ meshes for in-game silverware with a new HQ candles. Realistic apples, tomatoes, potatoes, and a common bed pillows, plus HQ meshes for a common plates.
 
 Updated Mods:
 - Enderal VR v3.3: Fixed quest Two souls part 5 cqc05: Romance with Calia. Some animation issues and Calia not responding (oh my). Moved some funitures (chairs) in MQP01House to make pathfinding easier for the player in VR. Fixed one Ending : slight modification of scene 2 MQ18a to fix potential player bugs (animations). Updated the questfunction script given in enderal 2.0.11.  Added a failsafe after the dream (mq10) so that the player can at least retrieve a scale =1.  Fixed a small issue in MQ15 (Companion not entering the vault)
