@@ -437,7 +437,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**ADXP Beta v1.2**](https://www.skyrim-guild.com/distar/guidesandnews/mco-guide): A framework that bypasses the animation wall, allowing for modern combat in Skyrim.
 - Delete MCO.dll
 
-[**Crash Logger VR v1.0.0.4**](https://www.nexusmods.com/skyrimspecialedition/mods/59818?tab=files): Generates crash logs when the game Just Works™. This is a VR port using fudgyduff's MIT source.
+[**Crash Logger VR v1.0.0.5**](https://www.nexusmods.com/skyrimspecialedition/mods/59818?tab=files): Generates crash logs when the game Just Works™. This is a VR port using fudgyduff's MIT source.
 
 [**PapyrusUtil VR - Scripting Utility Functions v3.6b**](https://www.nexusmods.com/skyrimspecialedition/mods/13048?tab=files): An SKSE plugin adding several new scripts with native functions that provide various conveniences related to data storage and other misc functions to the scripter/modder.  DynDOLOD requirement.
 
@@ -1154,17 +1154,20 @@ Required load order:
 
 [**Enderal - Gameplay Overhaul - EWO Patch v1.0**](https://www.scenicroute.games/projects/somnium): This is a patch for Enderal Gameplay Overhaul and Enderal Armor and Weapons Overhaul.
 
-[**Apoapse's Accoutrement v1.0**](https://www.scenicroute.games/projects/somnium): Weapons and armor have been totally remodeled, with assets pulled from dozens of excellent Skyrim mods, to match our “Age of Sail” theme. Most outfits have been hand-selected for different NPCs, both generic and unique, to fit the setting.
-- Removed Engarde.esp as Master in xEdit. (Replace Engarde.esp with blank ESP, remove errors in plugins, then Clean Masters.)
+[**Apoapse's Accoutrement v1.1.1**](https://www.scenicroute.games/projects/somnium): Weapons and armor have been totally remodeled, with assets pulled from dozens of excellent Skyrim mods, to match our “Age of Sail” theme. Most outfits have been hand-selected for different NPCs, both generic and unique, to fit the setting.
+- Removed ComelyCoiffures_EN.esp, Engarde.esp, TERAArmorsSSE.esp as Masters in xEdit. (Replace with blank ESP, remove errors in plugins, then Clean Masters.)
 
-[**Prime Fixes v2.0**](https://www.scenicroute.games/projects/somnium): Fixes pauldrons in Apoapse's Accoutrement. 
-- Remove all entries in xEdit with the exception of Armor Addon, Armor, and Outfit entries which override Apoapse's Accoutrement.
+[**Prime Fixes Collection v1.1.1**](https://www.scenicroute.games/projects/somnium): Fixes pauldrons in Apoapse's Accoutrement. 
+- Remove all "Primes_Fixes_v2.esp" entries in xEdit with the exception of Armor Addon, Armor, and Outfit entries which override Apoapse's Accoutrement.
 
-[**Somnium Retextures v1.0**](https://www.scenicroute.games/projects/somnium): Textures/meshes for Apoapse's Accoutrement.
+[**Screw the Black Guardian V2 v1.0**](https://www.scenicroute.games/projects/somnium): Replaces the Black Guardian fight with a more morally grey decision you have to make, and the whole scene is streamlined without cutting out the quality of the dialogue and exposition.
+- Removed Apoapse's Arsenal.esp as Master in xEdit. (Replace with blank ESP, remove errors in plugins, then Clean Masters.)
 
 [**Somnium Music Edits v1.0**](https://www.scenicroute.games/projects/somnium): New music for main menu.
 
-[**Nyghtfall - Somnium Edit v1.1**](https://www.scenicroute.games/projects/somnium): Adds new exploration and combat music tracks from Nyghtfall - Dark Fantasy Music to Enderal.
+[**Somnium Retextures v1.1.1**](https://www.scenicroute.games/projects/somnium): Textures/meshes for Apoapse's Accoutrement.
+
+[**Nyghtfall - Somnium Edit v1.1.1**](https://www.scenicroute.games/projects/somnium): Adds new exploration and combat music tracks from Nyghtfall - Dark Fantasy Music to Enderal.
 
 [**Amanda Vanilla Outfit Override v1.0**]: Overrides Amanda's outfit with her vanilla Venturer outfit.
 
