@@ -100,13 +100,14 @@ New Mods:
 - Noble Quarter Player Home Fixes (and EGO patch) v1.0: Fixes a small issue with "Enderal - Nobles Quarter Player home redone SE" and ensures compatibility with EGO and other mods.
 - Enderal - Gameplay Overhaul - EAO Patch v1.0: This is a patch for Enderal Gameplay Overhaul and Enderal Armor and Weapons Overhaul.
 - Enderal - Gameplay Overhaul - EWO Patch v1.0: This is a patch for Enderal Gameplay Overhaul and Enderal Armor and Weapons Overhaul.
-- Apoapse's Accoutrement v1.0: Weapons and armor have been totally remodeled, with assets pulled from dozens of excellent Skyrim mods, to match our “Age of Sail” theme. Most outfits have been hand-selected for different NPCs, both generic and unique, to fit the setting.
-- Prime Fixes v2.0: Fixes pauldrons in Apoapse's Accoutrement.
-- Somnium Retextures v1.0: Textures/meshes for Apoapse's Accoutrement.
+- Apoapse's Accoutrement v1.1.1: Weapons and armor have been totally remodeled, with assets pulled from dozens of excellent Skyrim mods, to match our “Age of Sail” theme. Most outfits have been hand-selected for different NPCs, both generic and unique, to fit the setting.
+- Prime Fixes Collection v1.1.1: Fixes pauldrons in Apoapse's Accoutrement.
+- Screw the Black Guardian V2 v1.0: Replaces the Black Guardian fight with a more morally grey decision you have to make, and the whole scene is streamlined without cutting out the quality of the dialogue and exposition.
 - Somnium Music Edits v1.0: New music for main menu.
+- Somnium Retextures v1.1.1: Textures/meshes for Apoapse's Accoutrement.
+- Nyghtfall - Somnium Edit v1.1.1: Adds new exploration and combat music tracks from Nyghtfall - Dark Fantasy Music to Enderal.
 - Amanda Vanilla Outfit Override v1.0: Overrides Amanda's outfit with her vanilla Venturer outfit.
 - Nightingale Bow Scoped Override v1.0: Overrides Nightingale with scoped version for VR.
-- Nyghtfall - Somnium Edit v1.1: Adds new exploration and combat music tracks from Nyghtfall - Dark Fantasy Music to Enderal.
 - Story Mode v1.01: Enderal Story Mode includes gameplay tweaks to make the game enjoyable without worrying about micromanaging and difficulty.  Disables EGO when Somnium mods are active.  (eng/ger/rus)
 - Vanilla Cubemaps for Darker Water: Optional cubemaps without reflections for darker nighttime water.
 - Chicken Replacer - Mihail Monsters and Animals (SE-AE version) (''bird'') v1.0**]: High quality vanilla Chicken replacer: make these birds finally worthy of having the entire population of Skyrim committed to their protection.
@@ -121,7 +122,7 @@ Updated Mods:
 - HIGGS - Enhanced VR Interaction v1.5.8: Hand/weapon collision, weapon two-handing, realistic object grabbing, and gravity gloves-style mechanics for Skyrim VR.
 - Magic Improvements for Skyrim VR v1.2: Vastly improved dual casting, spell effect size scales based on magicka percentage, and additional options for aiming spells in VR.
 - Caliente's Beautiful Bodies Enhancer - CBBE v1.7.1: A completely customisable female body replacer for TESV: Skyrim.
-- Crash Logger v1.0.0.4: Provide more info on TESForm and NiAVObject (names/editor IDs).
+- Crash Logger v1.0.0.5: Provide more info on TESForm and NiAVObject (names/editor IDs).
 - EngineFixesVR v1.22a: Parallax Fix.
 - DynDOLOD Resources SE v3.00 Alpha-28: DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD + tree LOD and the new, optional dynamic distant object LOD in a few simple steps.
 - Enderal SE - Bug Fixes v1.31: Removed the apparition script changes, which were slightly outdated. The fixes made by Bug Fixes are no longer needed.
