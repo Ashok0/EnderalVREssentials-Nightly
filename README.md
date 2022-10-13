@@ -81,7 +81,8 @@ Recommended:
 	* Tick "*Enable TAA FX*" to enable TAA effects.  While this reduces shimmering, it is NOT recommended to enable TAA effects as this breaks parallax textures. (There is a seperate TAA setting in-game which must always be enabled for menu artwork to display properly in VR.)
 	* Tick "*Clear HUD VR*" to hide Health, Magicka, Stamina bars, the Sneak Indicator, and Enchantment Charges.
 	* Tick "*Vanilla HUD Size for VR*" if you wish to increase the size of the HUD.
-	* Tick "*VRIK Rift-Index-WMR Controller Bindings*" if using a Rift, Valve Index, or WMR headset.	
+	* Tick "*VRIK Rift-Index-WMR Controller Bindings*" if using a Rift, Valve Index, or WMR headset.
+	* Tick "*Vanilla Cubemaps for Darker Water*" to enable optional cubemaps without reflections for darker nighttime water.	
 	* Tick "*Equippable Tattoo Skins UNP + CBBE*" if you wish to apply tattoos/bodypaint to your character (female only).	
 	* Tick "*Replace spiders with wolfs and bears*" OR "*Arachnophobia - No Spiders and Beetles*" if you have arachnophobia!  Choose only one.
 	* Tick "*Story Mode*" to enable tweaks gameplay tweaks to make the game enjoyable without worrying about micromanaging and difficulty. (If "Story Mode" is enabled with the Somnium Overhaul profile, EGO mods are effectively disabled.  This allows you to enjoy the Somnium outfits and weapons without worrying about the added difficulty from EGO mods.
