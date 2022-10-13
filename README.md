@@ -38,7 +38,7 @@ Minimum:
 * RAM: 8 GB
 * OS: Windows 7/8.1/10 (64-bit versions)
 * GPU: Nvidia GeForce GTX 970 / AMD RX 480 8GB or better
-* STORAGE: 174GB (174GB needed for installation, 94GB needed post installation)
+* STORAGE: 174GB (174GB needed for installation, 111GB needed post installation)
 
 Recommended:
 * CPU: Intel Core i7-4790 or AMD Ryzen 5 1500X or better
