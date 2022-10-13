@@ -38,14 +38,14 @@ Minimum:
 * RAM: 8 GB
 * OS: Windows 7/8.1/10 (64-bit versions)
 * GPU: Nvidia GeForce GTX 970 / AMD RX 480 8GB or better
-* STORAGE: 154GB (154GB needed for installation, 94GB needed post installation)
+* STORAGE: 174GB (174GB needed for installation, 94GB needed post installation)
 
 Recommended:
 * CPU: Intel Core i7-4790 or AMD Ryzen 5 1500X or better
 * RAM: 8 GB
 * OS: Windows 10 (64-bit versions)
 * GPU: Nvidia GeForce GTX 1070 8GB or better
-* STORAGE: 154GB (154GB needed for installation, 94GB needed post installation)
+* STORAGE: 174GB (174GB needed for installation, 111GB needed post installation)
 * WI-FI: 802.11ac or 802.11ax (for Virtual Desktop or Air Link; optional) 
 
 ## Requirements
@@ -85,11 +85,11 @@ Recommended:
 	* Tick "*Vanilla Cubemaps for Darker Water*" to enable optional cubemaps without reflections for darker nighttime water.	
 	* Tick "*Equippable Tattoo Skins UNP + CBBE*" if you wish to apply tattoos/bodypaint to your character (female only).	
 	* Tick "*Replace spiders with wolfs and bears*" OR "*Arachnophobia - No Spiders and Beetles*" if you have arachnophobia!  Choose only one.
-	* Tick "*Story Mode*" to enable tweaks gameplay tweaks to make the game enjoyable without worrying about micromanaging and difficulty. (If "Story Mode" is enabled with the Somnium Overhaul profile, EGO mods are effectively disabled.  This allows you to enjoy the Somnium outfits and weapons without worrying about the added difficulty from EGO mods.
+	* Tick "*Story Mode*" to enable gameplay tweaks to make the game enjoyable without worrying about micromanaging and difficulty. (If "Story Mode" is enabled with the Somnium Overhaul profile, EGO mods are effectively disabled.  This allows you to enjoy the Somnium outfits and weapons without worrying about the added difficulty from EGO mods.
 	* Tick "*DynDOLOD_Output_PERFORMANCE*" OR "*DynDOLOD_Output_QUALITY*".  Select only one.  The PERFORMANCE version uses "billboard1" trees for LOD4 for optimal performance.  The QUALITY version uses "level0" trees for LOD4.  This will greatly improve tree LODs but results in -10fps in large open areas on an RTX 3070.  The PERFORMANCE version is enabled by default.
 17.   (Optional) You can optimize your VR performance by installing either [VR Performance Toolkit](https://github.com/fholger/vrperfkit) (Compatible with all headsets) and/or the 64-bit DLL for [OpenComposite](https://gitlab.com/znixian/OpenOVR/) (Compatible with Oculus headsets only, highly recommended when using Air Link) to your Skyrim VR installation folder.  Backup and overwrite the existing DLL file in your Skyrim VR folder.  
 		* OpenComposite improves framerates by launching Enderal VR directly through the Oculus runtime and eliminating overhead from Steam VR.
-18.   (Optional) You can delete the \downloads\ folder in your Mod Organizer 2 folder to remove downloaded mods which are only needed during installation.  This will free up 61GB of hard disk space.
+18.   (Optional) You can delete the \downloads\ folder in your Mod Organizer 2 folder to remove downloaded mods which are only needed during installation.  This will free up 63GB of hard disk space.
 19.   Make sure "SKSE" is selected in the upper right dropdown bar and click "Run" to launch and play Enderal VR!  
 		* You can optionally click "Shortcut" underneath "Run" to create a shortcut for launching Enderal VR directly from the Windows desktop!
 
