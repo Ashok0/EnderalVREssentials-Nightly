@@ -5,9 +5,9 @@ Updated Tools:
 - EngineFixesVR Part 2 v1.22: SKSEVR plugin to fix various issues with the Skyrim Special Edition engine.
 - d3dcompiler_47.dll: Install this to your Skyrim Special Edition folder if you don't already have a copy of d3dcompiler_47.dll
 - DynDOLOD Standalone 3.0 Alpha-95: DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD + tree LOD and the new, optional dynamic distant object LOD in a few simple steps.
-- xLODGen Beta 94: Tool for generating terrain LOD.
-- Synthesis v0.23.7: A framework and GUI to construct a single Bethesda game patch from many patcher sources. Designed to allow any program to work as a patcher as long as it conforms to the CLI API.
-- LOOT v0.18.3: LOOT is a plugin load order optimisation tool for Skyrim VR.  It is designed to assist mod users in avoiding detrimental conflicts, by automatically calculating a load order that satisfies all plugin dependencies and maximises each plugin's impact on the user's game.
+- xLODGen Beta 95: Tool for generating terrain LOD.
+- Synthesis v0.24.1: A framework and GUI to construct a single Bethesda game patch from many patcher sources. Designed to allow any program to work as a patcher as long as it conforms to the CLI API.
+- LOOT v0.18.5: LOOT is a plugin load order optimisation tool for Skyrim VR.  It is designed to assist mod users in avoiding detrimental conflicts, by automatically calculating a load order that satisfies all plugin dependencies and maximises each plugin's impact on the user's game.
 
 New Mods:
 - PLANCK - Physical Animation and Character Kinetics v0.4.6: Physically-driven animation in Skyrim. Characters interact with physics and can be grabbed, melee hit detection is physically accurate, and much more.
