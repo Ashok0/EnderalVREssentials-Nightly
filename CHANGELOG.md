@@ -118,7 +118,6 @@ New Mods:
 - Immersive Smithing v1.0: It's time to "be the smith".... With the help of VRIK, Spell Wheel & HIGGS and with your trusty Black Smiths hammer in hand, improve weapons and armor like never before!
 - SMIM Compatible Smelter v1.0: Overwrite SMIM smelter with this file.
 - CC's HQ Mines Redone - AiO v1.5: This is a retexture of the Mines in skyrim. All textures handmade by me using Substance Designer 2018.
-- CC's HQ Mines Redone Parallax Textures v2.5: Parallax Textures for CC's HQ Mines Redone.
 - No More Hanging Moss v1.0: Effectively removes hanging moss from the game world with a mesh edit and optional esp. 
 
 Updated Mods:
@@ -201,3 +200,4 @@ Parallax Textures:
 - Pelt by Pfuscher v1.0: High Res Pelt with Parallax.
 - Skyrim 2020 Parallax by Pfuscher - 2K v8.4.2: Select textures installed for parallax farmhouses, roads, and trees.
 - Parallax Mesh Collection v2.02: Patches to add parallax to meshes.
+- CC's HQ Mines Redone Parallax Textures v2.5: Parallax Textures for CC's HQ Mines Redone.
