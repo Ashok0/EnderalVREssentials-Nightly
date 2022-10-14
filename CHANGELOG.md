@@ -115,6 +115,11 @@ New Mods:
 - Business Ledger HD Retexture v1.0: This is an HD retexture of the Business Ledger by LamboMan ported with permission ("Please go ahead, you can do whatever you need with it"). 
 - Handcarts SE - Everything changes v0.1: It's been a long time, a lot has changed in Skyrim, but finally completely new handcarts started appearing on the streets))
 - Rudy HQ - Miscellaneous SE v1.02: HQ meshes for a glazed pottery with a new 4K/2K textures. HQ meshes for in-game silverware with a new HQ candles. Realistic apples, tomatoes, potatoes, and a common bed pillows, plus HQ meshes for a common plates.
+- Immersive Smithing v1.0: It's time to "be the smith".... With the help of VRIK, Spell Wheel & HIGGS and with your trusty Black Smiths hammer in hand, improve weapons and armor like never before!
+- SMIM Compatible Smelter v1.0: Overwrite SMIM smelter with this file.
+- CC's HQ Mines Redone - AiO v1.5: This is a retexture of the Mines in skyrim. All textures handmade by me using Substance Designer 2018.
+- CC's HQ Mines Redone Parallax Textures v2.5: Parallax Textures for CC's HQ Mines Redone.
+- No More Hanging Moss v1.0: Effectively removes hanging moss from the game world with a mesh edit and optional esp. 
 
 Updated Mods:
 - Enderal VR v3.3: Fixed quest Two souls part 5 cqc05: Romance with Calia. Some animation issues and Calia not responding (oh my). Moved some funitures (chairs) in MQP01House to make pathfinding easier for the player in VR. Fixed one Ending : slight modification of scene 2 MQ18a to fix potential player bugs (animations). Updated the questfunction script given in enderal 2.0.11.  Added a failsafe after the dream (mq10) so that the player can at least retrieve a scale =1.  Fixed a small issue in MQ15 (Companion not entering the vault)
@@ -171,7 +176,6 @@ Updated Mods:
 - Enderal Distinctive Jewelry v1.5: Necklaces now use models from DovahBling Jewelry. Thanks testiger2 for the permission!
 - Playable Half Starling Race v1.01: Adds Half Starlings as a playable race.
 - Dirt and Blood - Dynamic Visual Effects v2.24: Your character will accumulate dirt and blood dynamically, which you can clean by swimming or standing in the rain.
-- Inferno - Fire Effects Redux v5.1: Spiritual successor to the original Ultimate HD Fire Effects﻿ mod by rheadude with improved meshes and textures!
 - Misc Retexture Project v2.7 An ongoing project to find and retexture overlooked items throughout Skyrim.
 
 Removed mods:
