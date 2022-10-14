@@ -540,6 +540,8 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Moons and Stars - Sky Overhaul SKSEVR v2.0**](https://www.nexusmods.com/skyrimspecialedition/mods/73667?tab=files): DLL plugin to fix moons and stars movement and phases. VR port using po3's MIT source code.
 
+[**Immersive Smithing v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/72298): It's time to "be the smith".... With the help of VRIK, Spell Wheel & HIGGS and with your trusty Black Smiths hammer in hand, improve weapons and armor like never before!
+
 [**HapticSkyrimVR - Spellcasting and Enhanced Bow and Melee Feedback SKSE Plugin v1.7.2**](https://www.nexusmods.com/skyrimspecialedition/mods/20364?tab=files): SKSEVR plugin to get spell casting and enhanced bow and melee haptic feedback on VR controllers.
 
 [**Simple Realistic Archery VR v1.26**](https://www.nexusmods.com/skyrimspecialedition/mods/28524?tab=files): Automatically unequips your arrows after shooting them, then reequips the arrow after pressing the trigger (MCM configurable) over your shoulder. It also has options for binding different arrows to different buttons, for the position and size of the quiver, and options for attribute costs. Up to 25 arrow types can be bound at once.
@@ -575,6 +577,8 @@ If you are using a language pack, you may need to change the font used by Dear D
 - Place above all other texture/mesh mods to avoid SMIM conflicts.
 - Remove \meshes\architecture\farmhouse\farmhousewindmill, \meshes\architecture\solitude\swindmill.nif, and \meshes\architecture\solitude\swindmillrotor.nif to revert windmills back to vanilla which arguably look better in VR.
 - Remove ESP file.
+
+[**SMIM Compatible Smelter v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/72298): Overwrite SMIM smelter with this file.
 
 [**Enderal Texture Workshop v1.5**](https://www.nexusmods.com/enderal/mods/275?tab=files): Vanilla-friendly retexture for various assets in Enderal.
 - Recommend installing before Enderal SE Retexture Pack Project.
@@ -654,9 +658,10 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**El Sopa - HD Medieval Anvil SE v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/48825?tab=files): New Model And Textures For The Anvil . The Hammer And Tongs. Performance Friendly. Ultra Immersive. All Resolutions. No ESP.
 - Delete blacksmithnovicetongs01.nif (this mesh causes visual glitches).
 
-[**Inferno - Fire Effects Redux v5.1**](https://www.nexusmods.com/skyrimspecialedition/mods/29316?tab=files): Spiritual successor to the original Ultimate HD Fire Effects mod by rheadude with improved meshes and textures! 
-- Use the following installation options: No ENB Light > 4x > Brighter > Realistic Hue > 1x > Vanilla > No Plugin.
+[**Inferno - Fire Effects Redux v4.1**](https://www.nexusmods.com/skyrimspecialedition/mods/29316?tab=files): Spiritual successor to the original Ultimate HD Fire Effects mod by rheadude with improved meshes and textures! 
+- Use the following installation options: Ultra > Brighter > Freesia > New > Regular > None > No Patch.
 - ESP file not supported.  Do not install patches.
+- Do not update to v5.1.  Causes fire to appear blue.
 
 [**Embers XD v2.6.2**](https://www.nexusmods.com/skyrimspecialedition/mods/37085?tab=files): An overhaul of campfires and other fire sources.
 - Use "Inferno Flames" if using "Inferno - Fire Effects Redux".
@@ -788,8 +793,15 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Rudy HQ - Miscellaneous SE v1.02**](https://www.nexusmods.com/skyrimspecialedition/mods/19867): HQ meshes for a glazed pottery with a new 4K/2K textures. HQ meshes for in-game silverware with a new HQ candles. Realistic apples, tomatoes, potatoes, and a common bed pillows, plus HQ meshes for a common plates.
 
+[**No More Hanging Moss v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/16426): Effectively removes hanging moss from the game world with a mesh edit and optional esp. 
+
 [**Terrain LOD for Septentrional Landscapes v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/39563): New overhaul for Terrain LOD landscape textures that corresponds with the texture mods you have installed..
 - Only used for terrain noise texture.  Remove ALL files except for the \textures\ folder.
+
+[**CC's HQ Mines Redone - AiO v1.5**](https://www.nexusmods.com/skyrimspecialedition/mods/18044): This is a retexture of the Mines in skyrim. All textures handmade by me using Substance Designer 2018.
+
+[**CC's HQ Mines Redone Parallax Textures v2.5**](https://www.nexusmods.com/skyrimspecialedition/mods/51261): Parallax Textures for CC's HQ Mines Redone.
+- Remove \textures\smim\ folder to prevent conflicts with other mods.
 
 [**Skyrim Remastered - Caves 4K Parallax v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/38220/?tab=files): A retexture of Skyrim's caves, with a complete overhaul for the ice caves to make them look like actual ice. Offered in 4k, 2k, and 1k texture quality with parallax options.
 
