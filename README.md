@@ -667,7 +667,8 @@ If you are using a language pack, you may need to change the font used by Dear D
 - Use "Inferno Flames" if using "Inferno - Fire Effects Redux".
 - Install Forges and Lava Craters Add-On.
 - Delete ESP files.
-- Delete \meshes\clutter\giant\giantcampfire01off.nif to prevent crashing at the Living Temple.
+
+[**Embers XD - Living Temple CTD Fix v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/421?tab=files): Replaces "giantcampfire01off.nif" back to vanilla mesh to avoid CTD when entering Living Temple.
 
 [**Animated Forge Water v0.5**](https://www.nexusmods.com/skyrimspecialedition/mods/52322?tab=files): A mesh only animated forge water replacer with refraction. No ESP. Includes patches for Elsopa and Embers.
 - Install "Elsopa and Embers XD" patch. 
