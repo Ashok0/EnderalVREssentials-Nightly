@@ -797,6 +797,8 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**No More Hanging Moss v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/16426): Effectively removes hanging moss from the game world with a mesh edit and optional esp. 
 
+[**CC's UHD Coal Piles v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/44851): A simple mod that remakes the coal piles next to the smelters in 8K. Also available in 4K, 2K and 1K.
+
 [**Terrain LOD for Septentrional Landscapes v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/39563): New overhaul for Terrain LOD landscape textures that corresponds with the texture mods you have installed..
 - Only used for terrain noise texture.  Remove ALL files except for the \textures\ folder.
 
