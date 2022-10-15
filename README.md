@@ -1,5 +1,5 @@
 # ENDERAL VR ESSENTIALS (EVRE)
-Latest update: October 13th, 2022 (v2.0-Release Candidate 2)
+Latest update: October 15th, 2022 (v2.0-Release Candidate 3)
 
 ## Table of contents
 * [Preamble](#preamble)
@@ -38,14 +38,14 @@ Minimum:
 * RAM: 8 GB
 * OS: Windows 7/8.1/10 (64-bit versions)
 * GPU: Nvidia GeForce GTX 970 / AMD RX 480 8GB or better
-* STORAGE: 174GB (174GB needed for installation, 111GB needed post installation)
+* STORAGE: 175GB (175GB needed for installation, 112GB needed post installation)
 
 Recommended:
 * CPU: Intel Core i7-4790 or AMD Ryzen 5 1500X or better
 * RAM: 8 GB
 * OS: Windows 10 (64-bit versions)
 * GPU: Nvidia GeForce GTX 1070 8GB or better
-* STORAGE: 174GB (174GB needed for installation, 111GB needed post installation)
+* STORAGE: 175GB (175GB needed for installation, 112GB needed post installation)
 * WI-FI: 802.11ac or 802.11ax (for Virtual Desktop or Air Link; optional) 
 
 ## Requirements
@@ -53,7 +53,7 @@ Recommended:
 * [Enderal: Forgotten Stories (Special Edition)](https://store.steampowered.com/app/976620/Enderal_Forgotten_Stories_Special_Edition)
 * [Premium NexusMods account](https://www.nexusmods.com/)
 * [Wabbajack](https://www.wabbajack.org/#/)
-* [EVREv2.0-RC2.wabbajack](https://github.com/Ashok0/EnderalVREssentials-Nightly/releases)
+* [EVREv2.0-RC3.wabbajack](https://github.com/Ashok0/EnderalVREssentials-Nightly/releases)
 	
 ## Installation
 1.  Add Enderal SE to your Steam library from [HERE](https://store.steampowered.com/app/976620/Enderal_Forgotten_Stories_Special_Edition/). The game needs to be in your Steam library but does not need to be installed.
@@ -64,8 +64,8 @@ Recommended:
 5.  Download Wabbajack from [HERE](https://www.wabbajack.org/#/) and place "Wabbajack.exe" in a blank folder i.e. C:\Games\Wabbajack 
 6.  Run Wabbajack one time and then exit the program.  
 7.  Create a new folder where you wish to install Enderal VR i.e. C:\Games\Enderal VR
-8.  Download "EVREv2.0-RC2.wabbajack" from [HERE](https://github.com/Ashok0/EnderalVREssentials-Nightly/releases) and place it anywhere outside of your Wabbajack folder.
-9.  Launch Wabbajack by double-clicking "EVREv2.0-RC2.wabbajack"
+8.  Download "EVREv2.0-RC3.wabbajack" from [HERE](https://github.com/Ashok0/EnderalVREssentials-Nightly/releases) and place it anywhere outside of your Wabbajack folder.
+9.  Launch Wabbajack by double-clicking "EVREv2.0-RC3.wabbajack"
 10.  Under "Installation Location", select the folder you created above under Step 7 and then click the green "PLAY" icon in the lower right. 
 11.  Wait for Wabbajack to download all the mods and patches required to play Enderal VR.  This could take several hours depending on your Internet connection.
 		* If you receive an error message during this step, a mod has most likely been updated preventing the modlist from installing.  Wait for me to update this Wabbajack modlist and then try again.
@@ -103,7 +103,7 @@ Once you start a new game, you can configure your individual Enderal VR mods thr
  
 ## Updating
 
-This Wabbajack modlist will be updated regularly with the latest versions of all its included mods.  If the Wabbajack is updated, just re-download [EVREv2.0-RC2.wabbajack](https://github.com/Ashok0/EnderalVREssentials-Nightly/releases) and re-install the Wabbajack file to keep your mods up to date with a single click.  Be sure to set the "Installation Location" to the same path used during the original installation and tick "Overwrite Installation" before hitting the "Run" button.  Updating should be much quicker than the initial installation process.    
+This Wabbajack modlist will be updated regularly with the latest versions of all its included mods.  If the Wabbajack is updated, just re-download [EVREv2.0-RC3.wabbajack](https://github.com/Ashok0/EnderalVREssentials-Nightly/releases) and re-install the Wabbajack file to keep your mods up to date with a single click.  Be sure to set the "Installation Location" to the same path used during the original installation and tick "Overwrite Installation" before hitting the "Run" button.  Updating should be much quicker than the initial installation process.    
 
 Wabbajack will delete all files that are not part of its modlist when updating!  Your downloads folder will not be touched.  If you have installed additional mods not included in the Wabbajack, you will need to re-install them manually if you choose to update your mods via the Wabbajack file.  You can alternatively update your mods manually through Mod Organizer 2.
 
