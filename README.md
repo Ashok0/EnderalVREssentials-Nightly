@@ -691,8 +691,6 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**Glorious Doors of Skyrim v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/32376?tab=files): All-In-One pack of all my doors including a handy Fomod installer and a new Dwemer door!
 - Delete ESP file.
 
-[**Rustic Windows - Special Edition v2.0**](https://www.nexusmods.com/skyrimspecialedition/mods/1937?tab=files): This mod retextures the Skyrim and Dragonborn windows in a lore-friendly way. The window glass has been revised to be thick, textured and insulating. The "opaque" nature of the glass has a purpose. 2K and 1K versions.
-
 [**Vanilla Table Replacers v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/33041?tab=files): Replaces some tables of the game specially the main tables for nobles.
 
 [**DUST x2048 By Ramccoid v6.1**](https://www.nexusmods.com/skyrimspecialedition/mods/38444?tab=files): This mod retextures the ambient dust particles which float in the air and also the falling dust effect in dungeons and such places.
