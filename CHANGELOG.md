@@ -193,6 +193,7 @@ Removed mods:
 - Enderal Upscale Project v1.0: Redundant with Enderal SE Retexture Project.
 - Basic Dining Set Replacer v1.0: Redundant with Silver Objects SMIMed.
 - Strike Obstruction Systems v1.05: Redundant with Blocking and Flash VR.
+- Rustic Windows - Special Edition v2.0: Redundant with Solitude HD by CleverCharff 4K 2K v1.1
 
 Parallax Textures:
 - Skyrim Remastered - Caves 4K Parallax v1.0: A retexture of Skyrim's caves, with a complete overhaul for the ice caves to make them look like actual ice. Offered in 4k, 2k, and 1k texture quality with parallax options.
