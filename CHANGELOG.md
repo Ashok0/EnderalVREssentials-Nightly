@@ -115,12 +115,14 @@ New Mods:
 - Business Ledger HD Retexture v1.0: This is an HD retexture of the Business Ledger by LamboMan ported with permission ("Please go ahead, you can do whatever you need with it"). 
 - Handcarts SE - Everything changes v0.1: It's been a long time, a lot has changed in Skyrim, but finally completely new handcarts started appearing on the streets))
 - Rudy HQ - Miscellaneous SE v1.02: HQ meshes for a glazed pottery with a new 4K/2K textures. HQ meshes for in-game silverware with a new HQ candles. Realistic apples, tomatoes, potatoes, and a common bed pillows, plus HQ meshes for a common plates.
-- Immersive Smithing v1.0: It's time to "be the smith".... With the help of VRIK, Spell Wheel & HIGGS and with your trusty Black Smiths hammer in hand, improve weapons and armor like never before!
+- Immersive Smithing v1.0.1: It's time to "be the smith".... With the help of VRIK, Spell Wheel & HIGGS and with your trusty Black Smiths hammer in hand, improve weapons and armor like never before!
 - SMIM Compatible Smelter v1.0: Overwrite SMIM smelter with this file.
 - CC's HQ Mines Redone - AiO v1.5: This is a retexture of the Mines in skyrim. All textures handmade by me using Substance Designer 2018.
 - No More Hanging Moss v1.0: Effectively removes hanging moss from the game world with a mesh edit and optional esp. 
 - Embers XD - Living Temple CTD Fix v1.0: Replaces "giantcampfire01off.nif" back to vanilla mesh to avoid CTD when entering Living Temple.
 - CC's UHD Coal Piles v1.1: A simple mod that remakes the coal piles next to the smelters in 8K. Also available in 4K, 2K and 1K.
+- Calia and Jespar Visual Overhaul v1.0: High poly heads for our beloved followers and love interests. Heavily based on their original looks.
+- Solitude HD by CleverCharff 4K 2K v1.1: Retexture of Solitude assets both interior and exterior. Available in 4K and 2K.
 
 Updated Mods:
 - Enderal VR v3.3: Fixed quest Two souls part 5 cqc05: Romance with Calia. Some animation issues and Calia not responding (oh my). Moved some funitures (chairs) in MQP01House to make pathfinding easier for the player in VR. Fixed one Ending : slight modification of scene 2 MQ18a to fix potential player bugs (animations). Updated the questfunction script given in enderal 2.0.11.  Added a failsafe after the dream (mq10) so that the player can at least retrieve a scale =1.  Fixed a small issue in MQ15 (Companion not entering the vault)
@@ -136,7 +138,7 @@ Updated Mods:
 - Immersive Draw Sheathe Sounds v1.1: Corrected folder structure so the mod will actually function.
 - Papyrus Extender SSE v5.2: SKSE64 plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events.
 - Papyrus Extender VR v5.2: SKSEVR plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events. This requires the original Papyrus Extender and is built from po3's source.
-- VR Address Library for SKSEVR v0.53: Add latest commonlib, po3 addresses (02026b1)
+- VR Address Library for SKSEVR v0.54: Add latest commonlib, po3 addresses (02026b1)
 - DragonbornSpeaksNaturally - Beta v0.21.1-beta: Adds speech recognition to Skyrim VR or Skyrim SE so you can recite your dialogue lines to select them.
 - Spell Perk Item Distributor VR v5.2.0.5: Fix failure to load due to processing of non-ascii paths for mergemapper.
 - More Informative Console VR v1.1.0: This mod edits the UI to show a great deal of additional information on npcs, items, and other objects when the console is opened, similar to the way MFG console worked for Oldrim.
