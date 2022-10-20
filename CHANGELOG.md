@@ -136,11 +136,11 @@ Updated Mods:
 - Enderal SE - Bug Fixes v1.31: Removed the apparition script changes, which were slightly outdated. The fixes made by Bug Fixes are no longer needed.
 - No Floating Quest Marker v1.01: Removes floating quest markers from the game.  Quest markers are still viewable on the compass.
 - Immersive Draw Sheathe Sounds v1.1: Corrected folder structure so the mod will actually function.
-- Papyrus Extender SSE v5.2: SKSE64 plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events.
-- Papyrus Extender VR v5.2: SKSEVR plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events. This requires the original Papyrus Extender and is built from po3's source.
+- Papyrus Extender SSE v5.3: SKSE64 plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events.
+- Papyrus Extender VR v5.3: SKSEVR plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events. This requires the original Papyrus Extender and is built from po3's source.
 - VR Address Library for SKSEVR v0.55.1: Add latest commonlib, po3 addresses (02026b1)
 - DragonbornSpeaksNaturally - Beta v0.21.1-beta: Adds speech recognition to Skyrim VR or Skyrim SE so you can recite your dialogue lines to select them.
-- Spell Perk Item Distributor VR v5.2.0.5: Fix failure to load due to processing of non-ascii paths for mergemapper.
+- Spell Perk Item Distributor VR v6.0.3: Fix failure to load due to processing of non-ascii paths for mergemapper.
 - More Informative Console VR v1.1.0: This mod edits the UI to show a great deal of additional information on npcs, items, and other objects when the console is opened, similar to the way MFG console worked for Oldrim.
 - Weapon Throw VR v1.3.4: Allows you to throw your equipped weapons in VR by holding a button, swinging your hand, and releasing it.
 - Spell Wheel VR v1.3.0: Selection wheel mod for Skyrim VR. 
