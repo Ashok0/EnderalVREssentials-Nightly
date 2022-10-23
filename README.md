@@ -1130,7 +1130,7 @@ Required load order:
 [**EGO SE - Enderal Gameplay Overhaul v1.89**](https://www.nexusmods.com/enderalspecialedition/mods/3?tab=files): This is a complete overhaul of the gameplay mechanics of Enderal. This includes a ton of balance changes, improvements to the ai, new gameplay mechanics, new weapons/spells/potions and much more. (ENG/GER/RUS)
 - Do not install 2.0.12 update.
 - Remove "Game Setting".fAutoAimMaxDegrees, "Game Setting".fAutoAimMaxDistance, and "Game Setting".fAutoAimScreenPercentage in xEdit to fix targeting reticules for VR.
-- Delete \EGO SE - Enderal Gameplay Overhaul\scripts \_00e_a0_banksystemquest.pex to fix problems with banking system in VR.
+- Delete \EGO SE - Enderal Gameplay Overhaul\scripts\ _00e_a0_banksystemquest.pex to fix problems with banking system in VR.
 
 [**EGO SE - Myths and Legends VI - The Forgotten One v1.01**](https://www.nexusmods.com/enderalspecialedition/mods/25?tab=files): A balance patch for Enderal SE Gameplay Overhaul. Compatible with all languages.
 
