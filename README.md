@@ -494,7 +494,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**VRIK Neardistance Fix Patch for Build**]: Sets fNearDistance to 13 to fix mountain flickering.
 
-[**HIGGS - Enhanced VR Interaction v1.5.8**](https://www.nexusmods.com/skyrimspecialedition/mods/43930?tab=files): Hand/weapon collision, realistic object grabbing, and gravity gloves-style mechanics for Skyrim VR.
+[**HIGGS - Enhanced VR Interaction v1.5.9**](https://www.nexusmods.com/skyrimspecialedition/mods/43930?tab=files): Hand/weapon collision, realistic object grabbing, and gravity gloves-style mechanics for Skyrim VR.
 - Remove any [HAVOK] settings from your Skyrim INI files as these settings are no longer necessary with HIGGS VR v1.2+.
 - Make the following changes to higgs_vr.ini to make all held objects use velocity-based movement (recommended):
 	- ForcePhysicsGrab = 1
