@@ -429,7 +429,7 @@ If you are using a language pack, you may need to change the font used by Dear D
          taa po 1.0	 
          taa ps 0
 
-[**VR Address Library for SKSEVR v0.57**](https://www.nexusmods.com/skyrimspecialedition/mods/58101?tab=files): VR Address Library database for end users. This is intended as a VR replacement for Address Library for SKSE for mods designed for it. Only download if the mod says this is a requirement. It is currently an alpha. This is not for SSE. This is different from Address Library for SKSE.
+[**VR Address Library for SKSEVR v0.59.1**](https://www.nexusmods.com/skyrimspecialedition/mods/58101?tab=files): VR Address Library database for end users. This is intended as a VR replacement for Address Library for SKSE for mods designed for it. Only download if the mod says this is a requirement. It is currently an alpha. This is not for SSE. This is different from Address Library for SKSE.
 
 [**Dynamic Animation Replacer for Skyrim VR 1415 v1.1.0a**](https://www.nexusmods.com/skyrimspecialedition/mods/33746?tab=files): This mod dynamically replaces the actors' animations depending on various conditions. Supports most actors, including creatures. Actors and animations added by mods are also supported. No ESP file.
 
@@ -521,9 +521,9 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Splashes of Skyrim - VR v1.2.1**](https://www.nexusmods.com/skyrimspecialedition/mods/47710?tab=files): SKSE plugin that adds projectile based water splashes and ripples, and underwater explosions.
 
-[**Splashes of Storms v1.2**](https://www.nexusmods.com/skyrimspecialedition/mods/72115?tab=files): SKSE plugin that adds splashes and ripples when raining.
+[**Splashes of Storms v1.3**](https://www.nexusmods.com/skyrimspecialedition/mods/72115?tab=files): SKSE plugin that adds splashes and ripples when raining.
 
-[**Splashes of Storms VR v1.2**](https://www.nexusmods.com/skyrimspecialedition/mods/73111?tab=files): SKSE plugin that adds projectile based water splashes and ripples, and underwater explosions.
+[**Splashes of Storms VR v1.3**](https://www.nexusmods.com/skyrimspecialedition/mods/73111?tab=files): SKSE plugin that adds projectile based water splashes and ripples, and underwater explosions.
 
 [**DragonbornSpeaksNaturally - Beta v0.21.1-beta**](https://www.nexusmods.com/skyrimspecialedition/mods/16514?tab=files): Adds speech recognition to Skyrim VR or Skyrim SE so you can recite your dialogue lines to select them.
 
@@ -540,7 +540,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Moons and Stars - Sky Overhaul SKSEVR v2.0**](https://www.nexusmods.com/skyrimspecialedition/mods/73667?tab=files): DLL plugin to fix moons and stars movement and phases. VR port using po3's MIT source code.
 
-[**Immersive Smithing v1.0.1**](https://www.nexusmods.com/skyrimspecialedition/mods/72298): It's time to "be the smith".... With the help of VRIK, Spell Wheel & HIGGS and with your trusty Black Smiths hammer in hand, improve weapons and armor like never before!
+[**Immersive Smithing v1.0.2**](https://www.nexusmods.com/skyrimspecialedition/mods/72298): It's time to "be the smith".... With the help of VRIK, Spell Wheel & HIGGS and with your trusty Black Smiths hammer in hand, improve weapons and armor like never before!
 
 [**HapticSkyrimVR - Spellcasting and Enhanced Bow and Melee Feedback SKSE Plugin v1.7.2**](https://www.nexusmods.com/skyrimspecialedition/mods/20364?tab=files): SKSEVR plugin to get spell casting and enhanced bow and melee haptic feedback on VR controllers.
 
@@ -665,7 +665,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 - ESP file not supported.  Do not install patches.
 - Do not update to v5.1.  Causes fire to appear blue.
 
-[**Embers XD v2.6.2**](https://www.nexusmods.com/skyrimspecialedition/mods/37085?tab=files): An overhaul of campfires and other fire sources.
+[**Embers XD v2.6.4**](https://www.nexusmods.com/skyrimspecialedition/mods/37085?tab=files): An overhaul of campfires and other fire sources.
 - Use "Inferno Flames" if using "Inferno - Fire Effects Redux".
 - Install Forges and Lava Craters Add-On.
 - Delete ESP files.
@@ -791,7 +791,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Business Ledger HD Retexture v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/67319): This is an HD retexture of the Business Ledger by LamboMan ported with permission ("Please go ahead, you can do whatever you need with it"). 
 
-[**Handcarts SE - Everything changes v0.1**](https://www.nexusmods.com/skyrimspecialedition/mods/76672): It's been a long time, a lot has changed in Skyrim, but finally completely new handcarts started appearing on the streets))
+[**Handcarts SE - Everything changes v0.2**](https://www.nexusmods.com/skyrimspecialedition/mods/76672): It's been a long time, a lot has changed in Skyrim, but finally completely new handcarts started appearing on the streets))
 
 [**Rudy HQ - Miscellaneous SE v1.02**](https://www.nexusmods.com/skyrimspecialedition/mods/19867): HQ meshes for a glazed pottery with a new 4K/2K textures. HQ meshes for in-game silverware with a new HQ candles. Realistic apples, tomatoes, potatoes, and a common bed pillows, plus HQ meshes for a common plates.
 
