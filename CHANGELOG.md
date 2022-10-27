@@ -17,8 +17,8 @@ New Mods:
 - Clear HUD VR v1.0: Provides an installer that lets you hide certain HUD elements for Skyrim VR based on your personal preference.
 - Animation Motion Revolution VR v1.5.3: This SKSE plugin removes the mismatch between displacement and custom animations driven by motion data (the infamous ice-skating problem). Welcome to 2021 guys.
 - Blocking and Flash VR - Block Sparks and Impact Sounds v1.0: Block Sparks & Impact Sounds for Skyrim VR without affecting gameplay.
-- Splashes of Storms v1.2: SKSE plugin that adds splashes and ripples when raining.
-- Splashes of Storms VR v1.2: SKSE plugin that adds projectile based water splashes and ripples, and underwater explosions.
+- Splashes of Storms v1.3: SKSE plugin that adds splashes and ripples when raining.
+- Splashes of Storms VR v1.3: SKSE plugin that adds projectile based water splashes and ripples, and underwater explosions.
 - SMIM Food Resized - All In One v1.0: A size reduction of the SMIM food models for VR and SSE.
 - ADXP Beta v1.2: A framework that bypasses the animation wall, allowing for modern combat in Skyrim.
 - Arctal's VRIK Tweaks v1.4: Fixes some pet peeves of mine with the VRIK mod. Currently including gesture system improvements, changes to ragdolling during knockback/death and a near-clip-distance bug fix.
@@ -113,9 +113,9 @@ New Mods:
 - Chicken Replacer - Mihail Monsters and Animals (SE-AE version) (''bird'') v1.0**]: High quality vanilla Chicken replacer: make these birds finally worthy of having the entire population of Skyrim committed to their protection.
 - High Quality Food and Ingredients SE v1.9: HQ textures of the food and ingredients for Skyrim Special Edition.
 - Business Ledger HD Retexture v1.0: This is an HD retexture of the Business Ledger by LamboMan ported with permission ("Please go ahead, you can do whatever you need with it"). 
-- Handcarts SE - Everything changes v0.1: It's been a long time, a lot has changed in Skyrim, but finally completely new handcarts started appearing on the streets))
+- Handcarts SE - Everything changes v0.2: It's been a long time, a lot has changed in Skyrim, but finally completely new handcarts started appearing on the streets))
 - Rudy HQ - Miscellaneous SE v1.02: HQ meshes for a glazed pottery with a new 4K/2K textures. HQ meshes for in-game silverware with a new HQ candles. Realistic apples, tomatoes, potatoes, and a common bed pillows, plus HQ meshes for a common plates.
-- Immersive Smithing v1.0.1: It's time to "be the smith".... With the help of VRIK, Spell Wheel & HIGGS and with your trusty Black Smiths hammer in hand, improve weapons and armor like never before!
+- Immersive Smithing v1.0.2: It's time to "be the smith".... With the help of VRIK, Spell Wheel & HIGGS and with your trusty Black Smiths hammer in hand, improve weapons and armor like never before!
 - SMIM Compatible Smelter v1.0: Overwrite SMIM smelter with this file.
 - CC's HQ Mines Redone - AiO v1.5: This is a retexture of the Mines in skyrim. All textures handmade by me using Substance Designer 2018.
 - No More Hanging Moss v1.0: Effectively removes hanging moss from the game world with a mesh edit and optional esp. 
@@ -138,7 +138,7 @@ Updated Mods:
 - Immersive Draw Sheathe Sounds v1.1: Corrected folder structure so the mod will actually function.
 - Papyrus Extender SSE v5.3: SKSE64 plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events.
 - Papyrus Extender VR v5.3: SKSEVR plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events. This requires the original Papyrus Extender and is built from po3's source.
-- VR Address Library for SKSEVR v0.57: Add latest commonlib, po3 addresses (02026b1)
+- VR Address Library for SKSEVR v0.59.1: Add latest commonlib, po3 addresses (02026b1)
 - DragonbornSpeaksNaturally - Beta v0.21.1-beta: Adds speech recognition to Skyrim VR or Skyrim SE so you can recite your dialogue lines to select them.
 - Spell Perk Item Distributor VR v6.0.3: Fix failure to load due to processing of non-ascii paths for mergemapper.
 - More Informative Console VR v1.1.0: This mod edits the UI to show a great deal of additional information on npcs, items, and other objects when the console is opened, similar to the way MFG console worked for Oldrim.
@@ -150,7 +150,7 @@ Updated Mods:
 - moreHUD VR v1.1.0: Stability improvements.
 - Glorious Doors of Skyrim (GDOS) SE v1.1: All-In-One pack of all my doors including a handy Fomod installer and a new Dwemer door!
 - Water in Wells - Mesh-only Animated Wells v0.7: A mesh-only solution for animated water in wells and sewers. No ESP. 
-- Embers XD v2.6.2:  Added an option for vanilla-like sticky torch flame. Added Embers XD style purple brazier variant.
+- Embers XD v2.6.4:  Added an option for vanilla-like sticky torch flame. Added Embers XD style purple brazier variant.
 - Venerable Nordic Temples (2K - 4K) v0.2: A high quality retexture for Nordic temples and ruins, offering high fidelity visuals and a lore friendly, ancient aesthetic.
 - Rally's Candlelight and Magelight Fix SE - VR v1.3: Fix for the Candlelight Spell and Magelight Spell in SE/VR.
 - 4K SMIM Furniture Improvement v1.3: A 4K retexture of SMIM furniture textures.
