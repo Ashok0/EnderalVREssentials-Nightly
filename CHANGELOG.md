@@ -123,6 +123,7 @@ New Mods:
 - CC's UHD Coal Piles v1.1: A simple mod that remakes the coal piles next to the smelters in 8K. Also available in 4K, 2K and 1K.
 - Calia and Jespar Visual Overhaul v1.0: High poly heads for our beloved followers and love interests. Heavily based on their original looks.
 - Solitude HD by CleverCharff 4K 2K v1.1: Retexture of Solitude assets both interior and exterior. Available in 4K and 2K.
+- Akropolis Stones Remastered v1.0: Fully retextured stone and pillar textures in Akropolis, with HD and realistic material properties, in order to be as detailed and interesting to look at as possible.
 
 Updated Mods:
 - Enderal VR v3.3: Fixed quest Two souls part 5 cqc05: Romance with Calia. Some animation issues and Calia not responding (oh my). Moved some funitures (chairs) in MQP01House to make pathfinding easier for the player in VR. Fixed one Ending : slight modification of scene 2 MQ18a to fix potential player bugs (animations). Updated the questfunction script given in enderal 2.0.11.  Added a failsafe after the dream (mq10) so that the player can at least retrieve a scale =1.  Fixed a small issue in MQ15 (Companion not entering the vault)
@@ -195,6 +196,7 @@ Removed mods:
 - Basic Dining Set Replacer v1.0: Redundant with Silver Objects SMIMed.
 - Strike Obstruction Systems v1.05: Redundant with Blocking and Flash VR.
 - Rustic Windows - Special Edition v2.0: Redundant with Solitude HD by CleverCharff 4K 2K v1.1
+- Akropolis Stones 8K HD Retexture v1.0: Redundant with Akropolis Stones Remastered v1.0.
 
 Parallax Textures:
 - Skyrim Remastered - Caves 4K Parallax v1.0: A retexture of Skyrim's caves, with a complete overhaul for the ice caves to make them look like actual ice. Offered in 4k, 2k, and 1k texture quality with parallax options.
