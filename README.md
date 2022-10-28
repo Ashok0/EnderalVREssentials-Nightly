@@ -540,7 +540,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Moons and Stars - Sky Overhaul SKSEVR v2.0**](https://www.nexusmods.com/skyrimspecialedition/mods/73667?tab=files): DLL plugin to fix moons and stars movement and phases. VR port using po3's MIT source code.
 
-[**Immersive Smithing v1.0.2**](https://www.nexusmods.com/skyrimspecialedition/mods/72298): It's time to "be the smith".... With the help of VRIK, Spell Wheel & HIGGS and with your trusty Black Smiths hammer in hand, improve weapons and armor like never before!
+[**Immersive Smithing v1.0.3**](https://www.nexusmods.com/skyrimspecialedition/mods/72298): It's time to "be the smith".... With the help of VRIK, Spell Wheel & HIGGS and with your trusty Black Smiths hammer in hand, improve weapons and armor like never before!
 
 [**HapticSkyrimVR - Spellcasting and Enhanced Bow and Melee Feedback SKSE Plugin v1.7.2**](https://www.nexusmods.com/skyrimspecialedition/mods/20364?tab=files): SKSEVR plugin to get spell casting and enhanced bow and melee haptic feedback on VR controllers.
 
