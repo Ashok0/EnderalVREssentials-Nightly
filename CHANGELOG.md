@@ -22,9 +22,6 @@ New Mods:
 - SMIM Food Resized - All In One v1.0: A size reduction of the SMIM food models for VR and SSE.
 - ADXP Beta v1.2: A framework that bypasses the animation wall, allowing for modern combat in Skyrim.
 - Arctal's VRIK Tweaks v1.4: Fixes some pet peeves of mine with the VRIK mod. Currently including gesture system improvements, changes to ragdolling during knockback/death and a near-clip-distance bug fix.
-- Base Object Swapper VR v1.6.0.5: SKSE plugin and framework for swapping base objects and references, using config files. VR port of MIT source.
-- Destructible Skyrim - Base Object Swapper v0.5.3.1: Smash, shout, and blow up the environment around you, without the need for silly, complicated patches! Be careful, though - just like with stealing, people aren't very fond of the destruction of their property!
-- Destructible Skyrim - Base Object Swapper - NonESL v0.5.3.1: Same as the plugin from the main file, but a regular plugin instead of an ESL flagged ESP (aka ESPFE).
 - Enderal SE Retexture Pack Project v2.0: A port of my Special Edition texture mod (SNRP) featuring edited textures as well as new to fit the aesthetics of Enderal. Still a work in progress.
 - Enchanted Weapons Charge Fix v1.1: Ever wondered why your enchanted weapon not charging when using Soul Siphon perk from Ordinator? Or why Summermyst's enchanted glove not recharging your weapon past the initial value when equipped? It's because there's a bug in Skyrim engine that prevent you from doing so. This mod will fix that and allow weapons to charge to their maximum limit.
 - Wearable Health Bars - Soul Gauge v1.5.3: Jewelry that displays Health, Magicka, Stamina, enchantment charge, or equipped ammo count on your hands. Glows in the dark!
