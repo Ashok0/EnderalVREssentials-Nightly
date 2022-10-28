@@ -1015,7 +1015,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Enderal Distinctive Jewelry v1.5**](https://www.nexusmods.com/enderalspecialedition/mods/370?tab=files): Distinctive models and textures for jewelry.
 
-[**Akropolis Stones HD v1.0**]: HD textures for the Akropolis stones.
+[**Akropolis Stones Remastered v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/488): Fully retextured stone and pillar textures in Akropolis, with HD and realistic material properties, in order to be as detailed and interesting to look at as possible.
 
 [**Conduit - Short-term Weapon Infusions v2.7**](https://www.nexusmods.com/skyrimspecialedition/mods/58023?tab=files): When holding a weapon in one hand and a spell in the other, you are able to temporarily "conduct" the spell through that weapon. Different categories of spells make the weapon do different things. This effect will overlay on top of normal enchants and does include additional weapon FX that will overlay too. It even works on Bound weapons.
 
