@@ -58,7 +58,6 @@ New Mods:
 - Fire of the Mountain SE v1.0: This is the translation of a very nice quest mod. I've either enhanced it a bit as there were some slight issues.
 - Enderal Distinctive Clothing v1.0: Distinctive retextures for clothing.
 - Enderal Distinctive Jewelry v1.0: Distinctive models and textures for jewelry.
-- Akropolis Stones HD v1.0: HD textures for the Akropolis stones.
 - Conduit - Short-term Weapon Infusions v2.7: When holding a weapon in one hand and a spell in the other, you are able to temporarily "conduct" the spell through that weapon. Different categories of spells make the weapon do different things. This effect will overlay on top of normal enchants and does include additional weapon FX that will overlay too. It even works on Bound weapons.
 - Conduit - Enderal Adaption Patch v2.5-EA1: This is an experimental rebalance (read: heavy nerf) of the mod for Enderal. If you feel Conduit is overtuned for normal Skyrim, you can use this patch there as well, it doesnt require Enderal. ESL-flagged.
 - Less Grass 1 - 50% Less v1.0: Reduces the density of grass for better visibility.
