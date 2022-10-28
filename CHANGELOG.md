@@ -151,6 +151,7 @@ Updated Mods:
 - Enderal - Vatyr v5.0: Completely redesigned Vatyr in 4K for Enderal SE and VR.
 - RaceMenu SE v0.4.19.11: Complete overhaul to the character creation menu including new customization features such as multiple RGBA warpaints, body paints, hand paint, and foot paints.
 - moreHUD VR v1.1.0: Stability improvements.
+- Inferno - Fire Effects Redux v5.1: Spiritual successor to the original Ultimate HD Fire Effects mod by rheadude with improved meshes and textures! 
 - Glorious Doors of Skyrim (GDOS) SE v1.1: All-In-One pack of all my doors including a handy Fomod installer and a new Dwemer door!
 - Water in Wells - Mesh-only Animated Wells v0.7: A mesh-only solution for animated water in wells and sewers. No ESP. 
 - Embers XD v2.6.4:  Added an option for vanilla-like sticky torch flame. Added Embers XD style purple brazier variant.
