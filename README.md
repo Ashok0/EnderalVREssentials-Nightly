@@ -666,10 +666,9 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**El Sopa - HD Medieval Anvil SE v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/48825?tab=files): New Model And Textures For The Anvil . The Hammer And Tongs. Performance Friendly. Ultra Immersive. All Resolutions. No ESP.
 - Delete blacksmithnovicetongs01.nif (this mesh causes visual glitches).
 
-[**Inferno - Fire Effects Redux v4.1**](https://www.nexusmods.com/skyrimspecialedition/mods/29316?tab=files): Spiritual successor to the original Ultimate HD Fire Effects mod by rheadude with improved meshes and textures! 
-- Use the following installation options: Ultra > Brighter > Freesia > New > Regular > None > No Patch.
+[**Inferno - Fire Effects Redux v5.1**](https://www.nexusmods.com/skyrimspecialedition/mods/29316?tab=files): Spiritual successor to the original Ultimate HD Fire Effects mod by rheadude with improved meshes and textures! 
+- Use the following installation options: No ENB Light > 4x > Normal > Realistic Hue > 1x > Vanilla > No Plugin
 - ESP file not supported.  Do not install patches.
-- Do not update to v5.1.  Causes fire to appear blue.
 
 [**Embers XD v2.6.4**](https://www.nexusmods.com/skyrimspecialedition/mods/37085?tab=files): An overhaul of campfires and other fire sources.
 - Use "Inferno Flames" if using "Inferno - Fire Effects Redux".
