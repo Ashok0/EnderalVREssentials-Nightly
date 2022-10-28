@@ -542,12 +542,6 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Immersive Smithing v1.0.2**](https://www.nexusmods.com/skyrimspecialedition/mods/72298): It's time to "be the smith".... With the help of VRIK, Spell Wheel & HIGGS and with your trusty Black Smiths hammer in hand, improve weapons and armor like never before!
 
-[**Base Object Swapper VR v1.6.0.5**](https://www.nexusmods.com/skyrimspecialedition/mods/61734?tab=files): SKSE plugin and framework for swapping base objects and references, using config files. VR port of MIT source.
-
-[**Destructible Skyrim - Base Object Swapper v0.5.3.1**](https://www.nexusmods.com/skyrimspecialedition/mods/77568?tab=files): Smash, shout, and blow up the environment around you, without the need for silly, complicated patches! Be careful, though - just like with stealing, people aren't very fond of the destruction of their property!
-
-[**Destructible Skyrim - Base Object Swapper - NonESL v0.5.3.1**](https://www.nexusmods.com/skyrimspecialedition/mods/77568?tab=files): Same as the plugin from the main file, but a regular plugin instead of an ESL flagged ESP (aka ESPFE).
-
 [**HapticSkyrimVR - Spellcasting and Enhanced Bow and Melee Feedback SKSE Plugin v1.7.2**](https://www.nexusmods.com/skyrimspecialedition/mods/20364?tab=files): SKSEVR plugin to get spell casting and enhanced bow and melee haptic feedback on VR controllers.
 
 [**Simple Realistic Archery VR v1.26**](https://www.nexusmods.com/skyrimspecialedition/mods/28524?tab=files): Automatically unequips your arrows after shooting them, then reequips the arrow after pressing the trigger (MCM configurable) over your shoulder. It also has options for binding different arrows to different buttons, for the position and size of the quiver, and options for attribute costs. Up to 25 arrow types can be bound at once.
