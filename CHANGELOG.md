@@ -115,6 +115,8 @@ New Mods:
 - Handcarts SE - Everything changes v0.2: It's been a long time, a lot has changed in Skyrim, but finally completely new handcarts started appearing on the streets))
 - Rudy HQ - Miscellaneous SE v1.02: HQ meshes for a glazed pottery with a new 4K/2K textures. HQ meshes for in-game silverware with a new HQ candles. Realistic apples, tomatoes, potatoes, and a common bed pillows, plus HQ meshes for a common plates.
 - Immersive Smithing v1.0.3: It's time to "be the smith".... With the help of VRIK, Spell Wheel & HIGGS and with your trusty Black Smiths hammer in hand, improve weapons and armor like never before!
+- ElSopa - HD Grindstone Redone SE Patch v1.0: Add compatibility for ElSopa's 'HD Grindstone Redone SE' mod. Place below the original mod in your load order and overwrite any files if required. Thanks to ElSopa for permission to use his meshes for this patch.
+- ElSopa - HD Medieval Anvil SE Patch v1.0: Adds compatibility for 'ElSopa - HD Medieval Anvil SE' Mod. Place this patch below the original in your load order and overwrite any files. Thanks to ElSopa for the permissions to use his meshes.
 - SMIM Compatible Smelter v1.0: Overwrite SMIM smelter with this file.
 - CC's HQ Mines Redone - AiO v1.5: This is a retexture of the Mines in skyrim. All textures handmade by me using Substance Designer 2018.
 - No More Hanging Moss v1.0: Effectively removes hanging moss from the game world with a mesh edit and optional esp. 
