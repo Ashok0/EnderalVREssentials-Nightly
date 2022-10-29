@@ -542,6 +542,10 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Immersive Smithing v1.0.3**](https://www.nexusmods.com/skyrimspecialedition/mods/72298): It's time to "be the smith".... With the help of VRIK, Spell Wheel & HIGGS and with your trusty Black Smiths hammer in hand, improve weapons and armor like never before!
 
+[**ElSopa - HD Grindstone Redone SE Patch v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/72298): Add compatibility for ElSopa's 'HD Grindstone Redone SE' mod. Place below the original mod in your load order and overwrite any files if required. Thanks to ElSopa for permission to use his meshes for this patch.
+
+[**ElSopa - HD Medieval Anvil SE Patch v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/72298): Adds compatibility for 'ElSopa - HD Medieval Anvil SE' Mod. Place this patch below the original in your load order and overwrite any files. Thanks to ElSopa for the permissions to use his meshes.
+
 [**HapticSkyrimVR - Spellcasting and Enhanced Bow and Melee Feedback SKSE Plugin v1.7.2**](https://www.nexusmods.com/skyrimspecialedition/mods/20364?tab=files): SKSEVR plugin to get spell casting and enhanced bow and melee haptic feedback on VR controllers.
 
 [**Simple Realistic Archery VR v1.26**](https://www.nexusmods.com/skyrimspecialedition/mods/28524?tab=files): Automatically unequips your arrows after shooting them, then reequips the arrow after pressing the trigger (MCM configurable) over your shoulder. It also has options for binding different arrows to different buttons, for the position and size of the quiver, and options for attribute costs. Up to 25 arrow types can be bound at once.
