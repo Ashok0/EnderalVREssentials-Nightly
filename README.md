@@ -361,7 +361,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**DynDOLOD Standalone 3.0 Alpha-95**](https://www.nexusmods.com/skyrimspecialedition/mods/32382?tab=files): DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD + tree LOD and the new, optional dynamic distant object LOD in a few simple steps.
 
-[**Synthesis v0.24.1**](https://github.com/Mutagen-Modding/Synthesis): A framework and GUI to construct a single Bethesda game patch from many patcher sources. Designed to allow any program to work as a patcher as long as it conforms to the CLI API.
+[**Synthesis v0.25**](https://github.com/Mutagen-Modding/Synthesis): A framework and GUI to construct a single Bethesda game patch from many patcher sources. Designed to allow any program to work as a patcher as long as it conforms to the CLI API.
 
 [**SSEEdit v4.0.4**](https://www.nexusmods.com/enderalspecialedition/mods/78?tab=files): SSEEdit is the Skyrim: Special Edition version of xEdit. xEdit is an advanced graphical module viewer/editor and conflict detector.
 
@@ -429,7 +429,7 @@ If you are using a language pack, you may need to change the font used by Dear D
          taa po 1.0	 
          taa ps 0
 
-[**VR Address Library for SKSEVR v0.59.1**](https://www.nexusmods.com/skyrimspecialedition/mods/58101?tab=files): VR Address Library database for end users. This is intended as a VR replacement for Address Library for SKSE for mods designed for it. Only download if the mod says this is a requirement. It is currently an alpha. This is not for SSE. This is different from Address Library for SKSE.
+[**VR Address Library for SKSEVR v0.60**](https://www.nexusmods.com/skyrimspecialedition/mods/58101?tab=files): VR Address Library database for end users. This is intended as a VR replacement for Address Library for SKSE for mods designed for it. Only download if the mod says this is a requirement. It is currently an alpha. This is not for SSE. This is different from Address Library for SKSE.
 
 [**Dynamic Animation Replacer for Skyrim VR 1415 v1.1.0a**](https://www.nexusmods.com/skyrimspecialedition/mods/33746?tab=files): This mod dynamically replaces the actors' animations depending on various conditions. Supports most actors, including creatures. Actors and animations added by mods are also supported. No ESP file.
 
@@ -438,7 +438,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**ADXP Beta v1.2**](https://www.skyrim-guild.com/distar/guidesandnews/mco-guide): A framework that bypasses the animation wall, allowing for modern combat in Skyrim.
 - Delete MCO.dll
 
-[**Crash Logger VR v1.0.0.5**](https://www.nexusmods.com/skyrimspecialedition/mods/59818?tab=files): Generates crash logs when the game Just Works™. This is a VR port using fudgyduff's MIT source.
+[**Crash Logger VR v1.1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/59818?tab=files): Generates crash logs when the game Just Works™. This is a VR port using fudgyduff's MIT source.
 
 [**PapyrusUtil VR - Scripting Utility Functions v3.6b**](https://www.nexusmods.com/skyrimspecialedition/mods/13048?tab=files): An SKSE plugin adding several new scripts with native functions that provide various conveniences related to data storage and other misc functions to the scripter/modder.  DynDOLOD requirement.
 
