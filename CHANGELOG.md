@@ -140,12 +140,13 @@ Updated Mods:
 - Immersive Draw Sheathe Sounds v1.1: Corrected folder structure so the mod will actually function.
 - Papyrus Extender SSE v5.3: SKSE64 plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events.
 - Papyrus Extender VR v5.3: SKSEVR plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events. This requires the original Papyrus Extender and is built from po3's source.
-- VR Address Library for SKSEVR v0.60: Add latest commonlib, po3 addresses (02026b1)
+- VR Address Library for SKSEVR v0.61: Add latest commonlib, po3 addresses (02026b1)
 - DragonbornSpeaksNaturally - Beta v0.21.1-beta: Adds speech recognition to Skyrim VR or Skyrim SE so you can recite your dialogue lines to select them.
 - Spell Perk Item Distributor VR v6.0.3: Fix failure to load due to processing of non-ascii paths for mergemapper.
 - More Informative Console VR v1.1.0: This mod edits the UI to show a great deal of additional information on npcs, items, and other objects when the console is opened, similar to the way MFG console worked for Oldrim.
 - Weapon Throw VR v1.3.4: Allows you to throw your equipped weapons in VR by holding a button, swinging your hand, and releasing it.
 - Spell Wheel VR v1.3.0: Selection wheel mod for Skyrim VR. 
+- Animated Forge Water v0.6: A mesh only animated forge water replacer with refraction. No ESP. Includes patches for Elsopa and Embers.
 - Dual Wield Block VR v1.7: SKSE plugin to let the player block attacks while dual wielding (two weapons or weapon + spell) or unarmed.
 - Enderal - Vatyr v5.0: Completely redesigned Vatyr in 4K for Enderal SE and VR.
 - RaceMenu SE v0.4.19.11: Complete overhaul to the character creation menu including new customization features such as multiple RGBA warpaints, body paints, hand paint, and foot paints.
