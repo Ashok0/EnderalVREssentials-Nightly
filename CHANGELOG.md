@@ -125,6 +125,8 @@ New Mods:
 - Calia and Jespar Visual Overhaul v1.0: High poly heads for our beloved followers and love interests. Heavily based on their original looks.
 - Solitude HD by CleverCharff 4K 2K v1.1: Retexture of Solitude assets both interior and exterior. Available in 4K and 2K.
 - Akropolis Stones Remastered v1.0: Fully retextured stone and pillar textures in Akropolis, with HD and realistic material properties, in order to be as detailed and interesting to look at as possible.
+- Base Object Swapper VR v2.0: SKSE plugin and framework for swapping base objects and references, using config files. VR port of MIT source
+- Destructible Skyrim - Base Object Swapper v0.5.3.1: Smash, shout, and blow up the environment around you, without the need for silly, complicated patches! Be careful, though - just like with stealing, people aren't very fond of the destruction of their property!
 
 Updated Mods:
 - Enderal VR v3.3: Fixed quest Two souls part 5 cqc05: Romance with Calia. Some animation issues and Calia not responding (oh my). Moved some funitures (chairs) in MQP01House to make pathfinding easier for the player in VR. Fixed one Ending : slight modification of scene 2 MQ18a to fix potential player bugs (animations). Updated the questfunction script given in enderal 2.0.11.  Added a failsafe after the dream (mq10) so that the player can at least retrieve a scale =1.  Fixed a small issue in MQ15 (Companion not entering the vault)
