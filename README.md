@@ -481,6 +481,8 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Spell Perk Item Distributor VR v6.0.3**](https://www.nexusmods.com/skyrimspecialedition/mods/59121?tab=files): SKSEVR plugin that can be used to add spells/perks/items/shouts/packages/outfits/keywords/factions to every NPC in the game, using config files. This is the VR version built from po3's source.
 
+[**Base Object Swapper VR v2.0**](https://www.nexusmods.com/skyrimspecialedition/mods/61734?tab=files): SKSE plugin and framework for swapping base objects and references, using config files. VR port of MIT source.
+
 [**VRIK V0.8.1. In-Dev Build 28**](https://www.nexusmods.com/skyrimspecialedition/mods/23416?tab=files): VRIK will display the player character's body in SkyrimVR and animate it to match your movements. Weapons can be kept, drawn, and sheathed in up to 14 visible holsters on your body. An input gesture system allows users to bind actions to gestures on each hand, reducing the need to open menus. An MCM menu allows full configuration of everything.
 - Make the following changes to these VRIK INI files to pre-configure MCM settings with proper behavior for bows:  
 	- vrik.ini: weaponAdjustment = 0
@@ -532,7 +534,11 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**Destructible Bottles Extended v1.5**](https://www.nexusmods.com/skyrim/mods/26017?tab=files): Hit the bottle and smash it in pieces! Latest version 1.5 includes also some glazed pottery items such as pots, jugs, plates and bowls.
 - LE mod.  Converted to Form 44 (SE) by opening and resaving ESP file in Creation Kit.
 - Needs processed by Cathedral Assets Optimizer with the following settings enabled: Process meshes, Full optimization, Always process headparts, Resave meshes. Process textures, necessary optimization, Compress textures, Generate mipmaps.  
+
 [**Alternative Smashing Glass Sounds v1.0**](https://www.nexusmods.com/skyrim/mods/26017?tab=files): Alternative HQ glass sounds thanks to rolloLG.
+
+[**Destructible Skyrim - Base Object Swapper v0.5.3.1**](https://www.nexusmods.com/skyrimspecialedition/mods/77568?tab=files): Smash, shout, and blow up the environment around you, without the need for silly, complicated patches! Be careful, though - just like with stealing, people aren't very fond of the destruction of their property!
+- Remove "Moveable Static" records in xEdit to fix invisible lanterns.
 
 [**Immersive Decomposing Dead v0.1.5**](https://www.nexusmods.com/skyrimspecialedition/mods/66166?tab=files): This mod makes it so dead bodies (NPCS and animals) decompose until turned into bones (a prosses that might attract rats). Also makes it so the dead are buried fast by npcs in a few towns.
 
