@@ -23,6 +23,8 @@ New Mods:
 - ADXP Beta v1.2: A framework that bypasses the animation wall, allowing for modern combat in Skyrim.
 - Arctal's VRIK Tweaks v1.4: Fixes some pet peeves of mine with the VRIK mod. Currently including gesture system improvements, changes to ragdolling during knockback/death and a near-clip-distance bug fix.
 - Enderal SE Retexture Pack Project v2.0: A port of my Special Edition texture mod (SNRP) featuring edited textures as well as new to fit the aesthetics of Enderal. Still a work in progress.
+- Nyghtfall - Dark Fantasy Music for Enderal v1.0.0: Adds new exploration and combat music tracks from Nyghtfall - Dark Fantasy Music to Enderal.
+- Nyghtfall - Combat Music Fix v1.0.1: Fixes missing combat music conditions.
 - Enchanted Weapons Charge Fix v1.1: Ever wondered why your enchanted weapon not charging when using Soul Siphon perk from Ordinator? Or why Summermyst's enchanted glove not recharging your weapon past the initial value when equipped? It's because there's a bug in Skyrim engine that prevent you from doing so. This mod will fix that and allow weapons to charge to their maximum limit.
 - Wearable Health Bars - Soul Gauge v1.5.3: Jewelry that displays Health, Magicka, Stamina, enchantment charge, or equipped ammo count on your hands. Glows in the dark!
 - Immersive Decomposing Dead v0.1.5: This mod makes it so dead bodies (NPCS and animals) decompose until turned into bones (a prosses that might attract rats). Also makes it so the dead are buried fast by npcs in a few towns.
@@ -104,7 +106,6 @@ New Mods:
 - Screw the Black Guardian V2 v1.0: Replaces the Black Guardian fight with a more morally grey decision you have to make, and the whole scene is streamlined without cutting out the quality of the dialogue and exposition.
 - Somnium Music Edits v1.0: New music for main menu.
 - Somnium Retextures v1.1.1: Textures/meshes for Apoapse's Accoutrement.
-- Nyghtfall - Somnium Edit v1.1.1: Adds new exploration and combat music tracks from Nyghtfall - Dark Fantasy Music to Enderal.
 - Amanda Vanilla Outfit Override v1.0: Overrides Amanda's outfit with her vanilla Venturer outfit.
 - Nightingale Bow Scoped Override v1.0: Overrides Nightingale with scoped version for VR.
 - Story Mode v1.01: Enderal Story Mode includes gameplay tweaks to make the game enjoyable without worrying about micromanaging and difficulty.  Disables EGO when Somnium mods are active.  (eng/ger/rus)
