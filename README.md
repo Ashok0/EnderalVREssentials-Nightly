@@ -900,6 +900,10 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**3D World Fog Map v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/340?tab=files): Add fog back to the 3D world map!
 
+[**Nyghtfall - Dark Fantasy Music for Enderal v1.0.0**](https://www.nexusmods.com/enderalspecialedition/mods/425): Adds new exploration and combat music tracks from Nyghtfall - Dark Fantasy Music to Enderal.
+
+[**Nyghtfall - Combat Music Fix v1.0.1**](https://www.nexusmods.com/enderalspecialedition/mods/425): Fixes missing combat music conditions.
+
 [**Myths and Legends VI - The Forgotten One v1.02**](https://www.nexusmods.com/enderalspecialedition/mods/25?tab=files): Adds a new Myths and Legends book, a new dungeon, and a completely new creature with unique mechanics.
 
 [**Yero's Cave Full v1.1**](https://www.nexusmods.com/enderalspecialedition/mods/376?tab=files): Enhances Yero's cave by adding an unique boss and exchanges the way of how soul gems are filled.
@@ -1196,8 +1200,6 @@ Required load order:
 [**Somnium Music Edits v1.0**](https://www.scenicroute.games/projects/somnium): New music for main menu.
 
 [**Somnium Retextures v1.1.1**](https://www.scenicroute.games/projects/somnium): Textures/meshes for Apoapse's Accoutrement.
-
-[**Nyghtfall - Somnium Edit v1.1.1**](https://www.scenicroute.games/projects/somnium): Adds new exploration and combat music tracks from Nyghtfall - Dark Fantasy Music to Enderal.
 
 [**Amanda Vanilla Outfit Override v1.0**]: Overrides Amanda's outfit with her vanilla Venturer outfit.
 
