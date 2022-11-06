@@ -62,23 +62,23 @@ Recommended:
 	* If you already have a pre-modded Skyrim VR folder and do not wish to uninstall the vanilla game, you can rename your \SkyrimVR\ folder and then redownload a second clean copy of the game from Steam by reverifying the files.  You can then use one copy of the game to continue playing Skyrim VR along with a second copy of the game for playing Enderal VR.
 3.  Run Skyrim VR one time from Steam and then exit the game.
 4.  Login to [Nexusmods.com](https://users.nexusmods.com/auth/sign_in) using a Premium login.
-5.  Download Wabbajack from [HERE](https://www.wabbajack.org/#/) and place "Wabbajack.exe" in a blank folder i.e. C:\Games\Wabbajack 
-6.  Run Wabbajack one time and then exit the program.  
-7.  Create a new folder where you wish to install Enderal VR i.e. C:\Games\Enderal VR
-8.  Download "EVREv2.0-RC5.wabbajack" from [HERE](https://github.com/Ashok0/EnderalVREssentials-Nightly/releases) and place it anywhere outside of your Wabbajack folder.
-9.  Launch Wabbajack by double-clicking "EVREv2.0-RC5.wabbajack"
-10.  Under "Installation Location", select the folder you created above under Step 7 and then click the green "PLAY" icon in the lower right. 
-11.  Wait for Wabbajack to download all the mods and patches required to play Enderal VR.  This could take several hours depending on your Internet connection.
+5.  Download Wabbajack v2.5 from [HERE](https://github.com/wabbajack-tools/wabbajack/releases/download/2.5.3.28/2.5.3.28.zip) and place the files in a blank folder i.e. C:\Games\Wabbajack 
+- Wabbajack v3.x does not work.
+6.  Create a new folder where you wish to install Enderal VR i.e. C:\Games\Enderal VR
+7.  Download "EVREv2.0-RC5.wabbajack" from [HERE](https://github.com/Ashok0/EnderalVREssentials-Nightly/releases) and place it anywhere outside of your Wabbajack folder.
+8.  Launch Wabbajack by double-clicking "EVREv2.0-RC5.wabbajack"
+9.  Under "Installation Location", select the folder you created above under Step 7 and then click the green "PLAY" icon in the lower right. 
+10.  Wait for Wabbajack to download all the mods and patches required to play Enderal VR.  This could take several hours depending on your Internet connection.
 		* If you receive an error message during this step, a mod has most likely been updated preventing the modlist from installing.  Wait for me to update this Wabbajack modlist and then try again.
 
-12. Once Wabbajack is done downloading and configuring Enderal VR, navigate to your game folder from Step 7.
-13. Copy the contents of \Game Folder Files\ to C:\Program Files (x86)\Steam\steamapps\common\SkyrimVR
-14. Launch Mod Organizer 2. 
-15. Select a game profile in the upper left drop down bar.  You can select 3 different options:
+11. Once Wabbajack is done downloading and configuring Enderal VR, navigate to your game folder from Step 7.
+12. Copy the contents of \Game Folder Files\ to C:\Program Files (x86)\Steam\steamapps\common\SkyrimVR
+13. Launch Mod Organizer 2. 
+14. Select a game profile in the upper left drop down bar.  You can select 3 different options:
 * **Enderal VR Essentials**: *This profile will give you an experience that is similar to the vanilla game. Gameplay mechanics are untouched outside of VR mods.*
 * **Enderal VR Essentials - Enderal Gameplay Overhaul**: *This profile completely overhauls the gameplay mechanics of Enderal with Ixion XVII's EGO mods. This includes a ton of balance changes, improvements to the AI, new gameplay mechanics, new weapons/spells/potions and much more.*
 * **Enderal VR Essentials - Somnium Overhaul**: *This profile contains all the features from the EGO profile along with an expansive new Enderal mod, "Apoapse’s Apparel", which was created by Scenic Route Games.  Scenic Route Games has hand-replaced every outfit and weapon in the game, as well as the majority of the other assets, to best achieve a more modern view of the Enderal worldspace.  This overhaul also replaces the main menu music with a newly composed theme from Scenic Route Games.  An end game fight is replaced with a more morally grey decision you have to make, and the whole scene is streamlined without cutting out the quality of the dialogue and exposition.* (**The Somnium assets have been temporarily removed at the request of Scenic Route Games.  They will be added back at a later date with official support from the original developer.  In the interim, perform the [following steps](#somnium-setup) to use the optional Somnium profile.**)
-16. Configure your mod loadout in Mod Organizer 2: 
+15. Configure your mod loadout in Mod Organizer 2: 
 	* Tick "*Enable TAA FX*" to enable TAA effects.  While this reduces shimmering, it is NOT recommended to enable TAA effects as this breaks parallax textures. (There is a seperate TAA setting in-game which must always be enabled for menu artwork to display properly in VR.)
 	* Tick "*Clear HUD VR*" to hide Health, Magicka, Stamina bars, the Sneak Indicator, and Enchantment Charges.
 	* Tick "*Vanilla HUD Size for VR*" if you wish to increase the size of the HUD.
@@ -88,10 +88,10 @@ Recommended:
 	* Tick "*Replace spiders with wolfs and bears*" OR "*Arachnophobia - No Spiders and Beetles*" if you have arachnophobia!  Choose only one.
 	* Tick "*Story Mode*" to enable gameplay tweaks to make the game enjoyable without worrying about micromanaging and difficulty. (If "Story Mode" is enabled with the Somnium Overhaul profile, EGO mods are effectively disabled.  This allows you to enjoy the Somnium outfits and weapons without worrying about the added difficulty from EGO mods).
 	* Tick "*DynDOLOD_Output_PERFORMANCE*" OR "*DynDOLOD_Output_QUALITY*".  Select only one.  The PERFORMANCE version uses "billboard1" trees for LOD4 for optimal performance.  The QUALITY version uses "level0" trees for LOD4.  This will greatly improve tree LODs but results in -10fps in large open areas on an RTX 3070.  The PERFORMANCE version is enabled by default.
-17.   (Optional) You can optimize your VR performance by installing either [VR Performance Toolkit](https://github.com/fholger/vrperfkit) (Compatible with all headsets) and/or the 64-bit DLL for [OpenComposite](https://gitlab.com/znixian/OpenOVR/) (Compatible with Oculus headsets only, highly recommended when using Air Link) to your Skyrim VR installation folder.  Backup and overwrite the existing DLL file in your Skyrim VR folder.  
+16.   (Optional) You can optimize your VR performance by installing either [VR Performance Toolkit](https://github.com/fholger/vrperfkit) (Compatible with all headsets) and/or the 64-bit DLL for [OpenComposite](https://gitlab.com/znixian/OpenOVR/) (Compatible with Oculus headsets only, highly recommended when using Air Link) to your Skyrim VR installation folder.  Backup and overwrite the existing DLL file in your Skyrim VR folder.  
 		* OpenComposite improves framerates by launching Enderal VR directly through the Oculus runtime and eliminating overhead from Steam VR.
-18.   (Optional) You can delete the \downloads\ folder in your Mod Organizer 2 folder to remove downloaded mods which are only needed during installation.  This will free up 58GB of hard disk space.
-19.   Make sure "SKSE" is selected in the upper right dropdown bar and click "Run" to launch and play Enderal VR!  
+17.   (Optional) You can delete the \downloads\ folder in your Mod Organizer 2 folder to remove downloaded mods which are only needed during installation.  This will free up 58GB of hard disk space.
+18.   Make sure "SKSE" is selected in the upper right dropdown bar and click "Run" to launch and play Enderal VR!  
 		* You can optionally click "Shortcut" underneath "Run" to create a shortcut for launching Enderal VR directly from the Windows desktop!
 
 ## Somnium Setup
