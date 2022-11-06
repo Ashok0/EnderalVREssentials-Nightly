@@ -98,6 +98,7 @@ Recommended:
 The Somnium assets have been temporarily removed at the request of Scenic Route Games.  They will be added back at a later date with official support from the original developer.  In the interim, perform the following steps to use the optional Somnium profile: 
 1. Install Somnium from the official website [**HERE**](https://www.scenicroute.games/projects/somnium).
 2. Copy the following files from Somnium to the corresponding mod folders in the Enderal VR Essentials installation location: 
+
 \Apoapse's Accoutrement\meshes\ and \Apoapse's Accoutrement\textures\
 \Screw the Black Guardian v2\Scripts\, \Screw the Black Guardian v2\Sound\, and \Screw the Black Guardian v2\Video\
 \Somnium Music Edits\Music\
