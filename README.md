@@ -1096,7 +1096,8 @@ Required load order:
 [**Jespar Has Steel SE v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/239?tab=files): Jespar no longer uses toothpicks in battles of life and death.
 
 [**Calia and Jespar Visual Overhaul v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/472?tab=files): High poly heads for our beloved followers and love interests. Heavily based on their original looks.
-- Removed \meshes\enderal\actors\michi_hair\ folder to fix problems with Jespar's skin.
+
+[**Face Discoloration Fix VR v1.0.3**](https://www.nexusmods.com/skyrimspecialedition/mods/42441?tab=files): Eliminates the dreaded "dark face" issue that occurs when the game encounters FaceGen errors.
 
 [**Seagulls of Skyrim v1.4**](https://www.nexusmods.com/skyrimspecialedition/mods/52153?tab=files): This mod adds seagulls along the coasts of Skyrim and Solstheim, with animated models and sounds from Mr. Siika Seagulls for Skyrim SE!
 
