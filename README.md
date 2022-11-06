@@ -62,7 +62,7 @@ Recommended:
 	* If you already have a pre-modded Skyrim VR folder and do not wish to uninstall the vanilla game, you can rename your \SkyrimVR\ folder and then redownload a second clean copy of the game from Steam by reverifying the files.  You can then use one copy of the game to continue playing Skyrim VR along with a second copy of the game for playing Enderal VR.
 3.  Run Skyrim VR one time from Steam and then exit the game.
 4.  Login to [Nexusmods.com](https://users.nexusmods.com/auth/sign_in) using a Premium login.
-5.  Download Wabbajack v2.5.3.28 from [HERE](https://github.com/wabbajack-tools/wabbajack/releases/download/2.5.3.28/2.5.3.28.zip) and place the files in a blank folder i.e. C:\Games\Wabbajack (Wabbajack v3.x does not work)
+5.  Download Wabbajack v2.5.3.28 from [HERE](https://github.com/wabbajack-tools/wabbajack/releases/download/2.5.3.28/2.5.3.28.zip). Place the files in a blank folder i.e. C:\Games\Wabbajack and run the program one time. (Wabbajack v3.x does not work)
 6.  Create a new folder where you wish to install Enderal VR i.e. C:\Games\Enderal VR
 7.  Download "EVREv2.0-RC5.wabbajack" from [HERE](https://github.com/Ashok0/EnderalVREssentials-Nightly/releases) and place it anywhere outside of your Wabbajack folder.
 8.  Launch Wabbajack by double-clicking "EVREv2.0-RC5.wabbajack"
