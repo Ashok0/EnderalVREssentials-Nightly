@@ -6,6 +6,7 @@ Latest update: November 5th, 2022 (v2.0-Release Candidate 4)
 * [System Requirements](#system-requirements)
 * [Requirements](#requirements)
 * [Installation](#installation)
+* [Somnium Setup](#somnium-setup)
 * [MCM Settings](#mcm-settings)
 * [In-Game Settings](#in-game-settings)
 * [Updating](#updating)
@@ -76,7 +77,7 @@ Recommended:
 15. Select a game profile in the upper left drop down bar.  You can select 3 different options:
 * **Enderal VR Essentials**: *This profile will give you an experience that is similar to the vanilla game. Gameplay mechanics are untouched outside of VR mods.*
 * **Enderal VR Essentials - Enderal Gameplay Overhaul**: *This profile completely overhauls the gameplay mechanics of Enderal with Ixion XVII's EGO mods. This includes a ton of balance changes, improvements to the AI, new gameplay mechanics, new weapons/spells/potions and much more.*
-* **Enderal VR Essentials - Somnium Overhaul**: *This profile contains all the features from the EGO profile along with an expansive new Enderal mod, "Apoapse’s Apparel", which was created by Scenic Route Games.  Scenic Route Games has hand-replaced every outfit and weapon in the game, as well as the majority of the other assets, to best achieve a more modern view of the Enderal worldspace.  This overhaul also replaces the main menu music with a newly composed theme from Scenic Route Games.  An end game fight is replaced with a more morally grey decision you have to make, and the whole scene is streamlined without cutting out the quality of the dialogue and exposition.* (**The Somnium profile has been temporarily removed at the request of Scenic Route Games. It will be added back in the next release with official support from the original developer.**)
+* **Enderal VR Essentials - Somnium Overhaul**: *This profile contains all the features from the EGO profile along with an expansive new Enderal mod, "Apoapse’s Apparel", which was created by Scenic Route Games.  Scenic Route Games has hand-replaced every outfit and weapon in the game, as well as the majority of the other assets, to best achieve a more modern view of the Enderal worldspace.  This overhaul also replaces the main menu music with a newly composed theme from Scenic Route Games.  An end game fight is replaced with a more morally grey decision you have to make, and the whole scene is streamlined without cutting out the quality of the dialogue and exposition.* (**The Somnium assets have been temporarily removed at the request of Scenic Route Games.  They will be added back at a later date with official support from the original developer.  In the interim, perform the [following steps](#somnium-setup) to use the optional Somnium profile.**)
 16. Configure your mod loadout in Mod Organizer 2: 
 	* Tick "*Enable TAA FX*" to enable TAA effects.  While this reduces shimmering, it is NOT recommended to enable TAA effects as this breaks parallax textures. (There is a seperate TAA setting in-game which must always be enabled for menu artwork to display properly in VR.)
 	* Tick "*Clear HUD VR*" to hide Health, Magicka, Stamina bars, the Sneak Indicator, and Enchantment Charges.
@@ -92,6 +93,15 @@ Recommended:
 18.   (Optional) You can delete the \downloads\ folder in your Mod Organizer 2 folder to remove downloaded mods which are only needed during installation.  This will free up 58GB of hard disk space.
 19.   Make sure "SKSE" is selected in the upper right dropdown bar and click "Run" to launch and play Enderal VR!  
 		* You can optionally click "Shortcut" underneath "Run" to create a shortcut for launching Enderal VR directly from the Windows desktop!
+
+## Somnium Setup
+The Somnium assets have been temporarily removed at the request of Scenic Route Games.  They will be added back at a later date with official support from the original developer.  In the interim, perform the following steps to use the optional Somnium profile: 
+1. Install Somnium from the official website [**HERE**](https://www.scenicroute.games/projects/somnium).
+2. Copy the following files from Somnium to the corresponding mod folders in the Enderal VR Essentials installation location:
+\Apoapse's Accoutrement\meshes\ and \Apoapse's Accoutrement\textures\
+\Screw the Black Guardian v2\Scripts\, \Screw the Black Guardian v2\Sound\, and \Screw the Black Guardian v2\Video\
+\Somnium Music Edits\Music\
+\Somnium Retextures\meshes\ and \Somnium Retextures\textures\
 
 ## MCM Settings
 Once you start a new game, you can configure your individual Enderal VR mods through the in-game Mod Configuration Menu (MCM) which is accessible under System > Mod Configuration.  All MCM settings are pre-configured for a good VR experience but following changes are suggested:
