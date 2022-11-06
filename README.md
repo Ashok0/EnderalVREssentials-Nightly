@@ -370,7 +370,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**xLODGen Beta 95**](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-80-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/): Tool for generating terrain LOD.
 
-[**DynDOLOD Standalone 3.0 Alpha-95**](https://www.nexusmods.com/skyrimspecialedition/mods/32382?tab=files): DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD + tree LOD and the new, optional dynamic distant object LOD in a few simple steps.
+[**DynDOLOD Standalone 3.0 Alpha-105**](https://www.nexusmods.com/skyrimspecialedition/mods/68518/?tab=files): DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD + tree LOD and the new, optional dynamic distant object LOD in a few simple steps.
 
 [**Synthesis v0.25**](https://github.com/Mutagen-Modding/Synthesis): A framework and GUI to construct a single Bethesda game patch from many patcher sources. Designed to allow any program to work as a patcher as long as it conforms to the CLI API.
 
@@ -405,7 +405,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**Enderal SE - Bug Fixes v1.32**](https://www.nexusmods.com/enderalspecialedition/mods/2?tab=files): Removed the apparition script changes, which were slightly outdated. The fixes made by Bug Fixes are no longer needed.
 - Do not install 2.0.12 update.
 
-[**SkyUI v1.2.0**](https://github.com/Odie/skyui-vr): Elegant, PC-friendly interface mod with many advanced features.
+[**SkyUI v1.2.1**](https://github.com/Odie/skyui-vr): Elegant, PC-friendly interface mod with many advanced features.
 - The new Highlight and Search features do not work if using "Dear Diary".
 
 [**JContainers VR v4.1.13**](https://www.nexusmods.com/skyrimspecialedition/mods/16495?tab=files): Extends Skyrim SE Papyrus scripts (or SKSE/C++ plugins) with JSON based serializable data structures like arrays and maps. Embedded Lua interpreter.
