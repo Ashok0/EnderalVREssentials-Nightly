@@ -99,10 +99,10 @@ The Somnium assets have been temporarily removed at the request of Scenic Route 
 1. Install Somnium from the official website [**HERE**](https://www.scenicroute.games/projects/somnium).
 2. Copy the following files from Somnium to the corresponding mod folders in the Enderal VR Essentials installation location: 
 
-\Apoapse's Accoutrement\meshes\ and \Apoapse's Accoutrement\textures\
-\Screw the Black Guardian v2\Scripts\, \Screw the Black Guardian v2\Sound\, and \Screw the Black Guardian v2\Video\
-\Somnium Music Edits\Music\
-\Somnium Retextures\meshes\ and \Somnium Retextures\textures\
+- \Apoapse's Accoutrement\meshes\ and \Apoapse's Accoutrement\textures\
+- \Screw the Black Guardian v2\Scripts\, \Screw the Black Guardian v2\Sound\, and \Screw the Black Guardian v2\Video\
+- \Somnium Music Edits\Music\
+- \Somnium Retextures\meshes\ and \Somnium Retextures\textures\
 
 ## MCM Settings
 Once you start a new game, you can configure your individual Enderal VR mods through the in-game Mod Configuration Menu (MCM) which is accessible under System > Mod Configuration.  All MCM settings are pre-configured for a good VR experience but following changes are suggested:
