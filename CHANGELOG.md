@@ -124,6 +124,7 @@ New Mods:
 - Embers XD - Living Temple CTD Fix v1.0: Replaces "giantcampfire01off.nif" back to vanilla mesh to avoid CTD when entering Living Temple.
 - CC's UHD Coal Piles v1.1: A simple mod that remakes the coal piles next to the smelters in 8K. Also available in 4K, 2K and 1K.
 - Calia and Jespar Visual Overhaul v1.0: High poly heads for our beloved followers and love interests. Heavily based on their original looks.
+- Face Discoloration Fix VR v1.0.3: Eliminates the dreaded "dark face" issue that occurs when the game encounters FaceGen errors.
 - Solitude HD by CleverCharff 4K 2K v1.1: Retexture of Solitude assets both interior and exterior. Available in 4K and 2K.
 - Akropolis Stones Remastered v1.0: Fully retextured stone and pillar textures in Akropolis, with HD and realistic material properties, in order to be as detailed and interesting to look at as possible.
 - Base Object Swapper VR v2.0: SKSE plugin and framework for swapping base objects and references, using config files. VR port of MIT source
