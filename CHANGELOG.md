@@ -4,7 +4,7 @@ Updated Tools:
 - Mod Organizer 2 v2.4.4: Fixed Discord invite. Removed Mass Effect support.
 - EngineFixesVR Part 2 v1.22: SKSEVR plugin to fix various issues with the Skyrim Special Edition engine.
 - d3dcompiler_47.dll: Install this to your Skyrim Special Edition folder if you don't already have a copy of d3dcompiler_47.dll
-- DynDOLOD Standalone 3.0 Alpha-95: DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD + tree LOD and the new, optional dynamic distant object LOD in a few simple steps.
+- DynDOLOD Standalone 3.0 Alpha-105: DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD + tree LOD and the new, optional dynamic distant object LOD in a few simple steps.
 - xLODGen Beta 95: Tool for generating terrain LOD.
 - Synthesis v0.25: A framework and GUI to construct a single Bethesda game patch from many patcher sources. Designed to allow any program to work as a patcher as long as it conforms to the CLI API.
 - LOOT v0.18.6: LOOT is a plugin load order optimisation tool for Skyrim VR.  It is designed to assist mod users in avoiding detrimental conflicts, by automatically calculating a load order that satisfies all plugin dependencies and maximises each plugin's impact on the user's game.
@@ -132,6 +132,7 @@ New Mods:
 Updated Mods:
 - Enderal VR v3.3: Fixed quest Two souls part 5 cqc05: Romance with Calia. Some animation issues and Calia not responding (oh my). Moved some funitures (chairs) in MQP01House to make pathfinding easier for the player in VR. Fixed one Ending : slight modification of scene 2 MQ18a to fix potential player bugs (animations). Updated the questfunction script given in enderal 2.0.11.  Added a failsafe after the dream (mq10) so that the player can at least retrieve a scale =1.  Fixed a small issue in MQ15 (Companion not entering the vault)
 - Enderal SE - Bug Fixes v1.32: Fixed an issue with Dreameater sneak damage calculation.
+- SkyUI v1.2.1: Elegant, PC-friendly interface mod with many advanced features.
 - HIGGS - Enhanced VR Interaction v1.5.9: Hand/weapon collision, weapon two-handing, realistic object grabbing, and gravity gloves-style mechanics for Skyrim VR.
 - Magic Improvements for Skyrim VR v1.2: Vastly improved dual casting, spell effect size scales based on magicka percentage, and additional options for aiming spells in VR.
 - Caliente's Beautiful Bodies Enhancer - CBBE v1.7.1: A completely customisable female body replacer for TESV: Skyrim.
