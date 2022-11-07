@@ -439,7 +439,7 @@ If you are using a language pack, you may need to change the font used by Dear D
          taa po 1.0	 
          taa ps 0
 
-[**VR Address Library for SKSEVR v0.61**](https://www.nexusmods.com/skyrimspecialedition/mods/58101?tab=files): VR Address Library database for end users. This is intended as a VR replacement for Address Library for SKSE for mods designed for it. Only download if the mod says this is a requirement. It is currently an alpha. This is not for SSE. This is different from Address Library for SKSE.
+[**VR Address Library for SKSEVR v0.62**](https://www.nexusmods.com/skyrimspecialedition/mods/58101?tab=files): VR Address Library database for end users. This is intended as a VR replacement for Address Library for SKSE for mods designed for it. Only download if the mod says this is a requirement. It is currently an alpha. This is not for SSE. This is different from Address Library for SKSE.
 
 [**Dynamic Animation Replacer for Skyrim VR 1415 v1.1.0a**](https://www.nexusmods.com/skyrimspecialedition/mods/33746?tab=files): This mod dynamically replaces the actors' animations depending on various conditions. Supports most actors, including creatures. Actors and animations added by mods are also supported. No ESP file.
 
@@ -448,7 +448,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**ADXP Beta v1.2**](https://www.skyrim-guild.com/distar/guidesandnews/mco-guide): A framework that bypasses the animation wall, allowing for modern combat in Skyrim.
 - Delete MCO.dll
 
-[**Crash Logger VR v1.2.0**](https://www.nexusmods.com/skyrimspecialedition/mods/59818?tab=files): Generates crash logs when the game Just Works™. This is a VR port using fudgyduff's MIT source.
+[**Crash Logger VR v1.3.0**](https://www.nexusmods.com/skyrimspecialedition/mods/59818?tab=files): Generates crash logs when the game Just Works™. This is a VR port using fudgyduff's MIT source.
 
 [**PapyrusUtil VR - Scripting Utility Functions v3.6b**](https://www.nexusmods.com/skyrimspecialedition/mods/13048?tab=files): An SKSE plugin adding several new scripts with native functions that provide various conveniences related to data storage and other misc functions to the scripter/modder.  DynDOLOD requirement.
 
@@ -491,7 +491,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Spell Perk Item Distributor VR v6.0.3**](https://www.nexusmods.com/skyrimspecialedition/mods/59121?tab=files): SKSEVR plugin that can be used to add spells/perks/items/shouts/packages/outfits/keywords/factions to every NPC in the game, using config files. This is the VR version built from po3's source.
 
-[**Base Object Swapper VR v2.0**](https://www.nexusmods.com/skyrimspecialedition/mods/61734?tab=files): SKSE plugin and framework for swapping base objects and references, using config files. VR port of MIT source.
+[**Base Object Swapper VR v2.5**](https://www.nexusmods.com/skyrimspecialedition/mods/61734?tab=files): SKSE plugin and framework for swapping base objects and references, using config files. VR port of MIT source.
 
 [**VRIK V0.8.1. In-Dev Build 28**](https://www.nexusmods.com/skyrimspecialedition/mods/23416?tab=files): VRIK will display the player character's body in SkyrimVR and animate it to match your movements. Weapons can be kept, drawn, and sheathed in up to 14 visible holsters on your body. An input gesture system allows users to bind actions to gestures on each hand, reducing the need to open menus. An MCM menu allows full configuration of everything.
 - Make the following changes to these VRIK INI files to pre-configure MCM settings with proper behavior for bows:  
