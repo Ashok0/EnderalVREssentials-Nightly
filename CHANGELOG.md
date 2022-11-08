@@ -113,7 +113,8 @@ New Mods:
 - Chicken Replacer - Mihail Monsters and Animals (SE-AE version) (''bird'') v1.0**]: High quality vanilla Chicken replacer: make these birds finally worthy of having the entire population of Skyrim committed to their protection.
 - High Quality Food and Ingredients SE v1.9: HQ textures of the food and ingredients for Skyrim Special Edition.
 - Business Ledger HD Retexture v1.0: This is an HD retexture of the Business Ledger by LamboMan ported with permission ("Please go ahead, you can do whatever you need with it"). 
-- Handcarts SE - Everything changes v0.2: It's been a long time, a lot has changed in Skyrim, but finally completely new handcarts started appearing on the streets))
+- Handcarts SE - Everything changes v0.3: It's been a long time, a lot has changed in Skyrim, but finally completely new handcarts started appearing on the streets.
+- burlap01.dds by Xtudo v0.1: This archive contains a wonderful and very atmospheric canopy texture burlap01.dds provided by Xtudo.
 - Rudy HQ - Miscellaneous SE v1.02: HQ meshes for a glazed pottery with a new 4K/2K textures. HQ meshes for in-game silverware with a new HQ candles. Realistic apples, tomatoes, potatoes, and a common bed pillows, plus HQ meshes for a common plates.
 - Immersive Smithing v1.0.3: It's time to "be the smith".... With the help of VRIK, Spell Wheel & HIGGS and with your trusty Black Smiths hammer in hand, improve weapons and armor like never before!
 - ElSopa - HD Grindstone Redone SE Patch v1.0: Add compatibility for ElSopa's 'HD Grindstone Redone SE' mod. Place below the original mod in your load order and overwrite any files if required. Thanks to ElSopa for permission to use his meshes for this patch.
