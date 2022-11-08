@@ -811,7 +811,9 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Business Ledger HD Retexture v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/67319): This is an HD retexture of the Business Ledger by LamboMan ported with permission ("Please go ahead, you can do whatever you need with it"). 
 
-[**Handcarts SE - Everything changes v0.2**](https://www.nexusmods.com/skyrimspecialedition/mods/76672): It's been a long time, a lot has changed in Skyrim, but finally completely new handcarts started appearing on the streets))
+[**Handcarts SE - Everything changes v0.3**](https://www.nexusmods.com/skyrimspecialedition/mods/76672): It's been a long time, a lot has changed in Skyrim, but finally completely new handcarts started appearing on the streets.
+
+[**burlap01.dds by Xtudo v0.1**](https://www.nexusmods.com/skyrimspecialedition/mods/76672): This archive contains a wonderful and very atmospheric canopy texture burlap01.dds provided by Xtudo.
 
 [**Rudy HQ - Miscellaneous SE v1.02**](https://www.nexusmods.com/skyrimspecialedition/mods/19867): HQ meshes for a glazed pottery with a new 4K/2K textures. HQ meshes for in-game silverware with a new HQ candles. Realistic apples, tomatoes, potatoes, and a common bed pillows, plus HQ meshes for a common plates.
 
