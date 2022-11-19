@@ -823,6 +823,8 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Kanjs - Bird Nests and Eggs - up to 4k v1.3**](https://www.nexusmods.com/skyrimspecialedition/mods/64905?tab=files): Kanjs - Nests and Eggs is a mod that retexture all bird nests, eggs and remeshes all nests!
 
+[**Kanjs Nests Egg Harvesting Fix v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/79026?tab=files): This is a mesh replacer for the eggs in Kanjs nests mod. When you harvest this mesh, one egg is removed in keeping with the amount of eggs you receive.
+
 [**Terrain LOD for Septentrional Landscapes v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/39563): New overhaul for Terrain LOD landscape textures that corresponds with the texture mods you have installed..
 - Only used for terrain noise texture.  Remove ALL files except for the \textures\ folder.
 
