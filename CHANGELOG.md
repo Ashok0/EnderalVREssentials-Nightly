@@ -128,6 +128,7 @@ New Mods:
 - Face Discoloration Fix VR v1.0.3: Eliminates the dreaded "dark face" issue that occurs when the game encounters FaceGen errors.
 - Solitude HD by CleverCharff 4K 2K v1.1: Retexture of Solitude assets both interior and exterior. Available in 4K and 2K.
 - Akropolis Stones Remastered v1.0: Fully retextured stone and pillar textures in Akropolis, with HD and realistic material properties, in order to be as detailed and interesting to look at as possible.
+- Kanjs - Bird Nests and Eggs - up to 4k v1.3: Kanjs - Nests and Eggs is a mod that retexture all bird nests, eggs and remeshes all nests!
 - Base Object Swapper VR v2.5: SKSE plugin and framework for swapping base objects and references, using config files. VR port of MIT source
 - Destructible Skyrim - Base Object Swapper v0.5.3.1: Smash, shout, and blow up the environment around you, without the need for silly, complicated patches! Be careful, though - just like with stealing, people aren't very fond of the destruction of their property!
 
