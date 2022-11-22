@@ -685,7 +685,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 - ESP file not supported.  Do not install patches.
 - Remove \meshes\weapons\torch.nif to fix blue torch flames.
 
-[**Embers XD v2.6.5**](https://www.nexusmods.com/skyrimspecialedition/mods/37085?tab=files): An overhaul of campfires and other fire sources.
+[**Embers XD v2.6.6**](https://www.nexusmods.com/skyrimspecialedition/mods/37085?tab=files): An overhaul of campfires and other fire sources.
 - Use "Inferno Flames" if using "Inferno - Fire Effects Redux".
 - Install Forges and Lava Craters Add-On.
 - Delete ESP files.
