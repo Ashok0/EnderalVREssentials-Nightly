@@ -109,6 +109,7 @@ New Mods:
 - Amanda Vanilla Outfit Override v1.0: Overrides Amanda's outfit with her vanilla Venturer outfit.
 - Nightingale Bow Scoped Override v1.0: Overrides Nightingale with scoped version for VR.
 - Story Mode v1.01: Enderal Story Mode includes gameplay tweaks to make the game enjoyable without worrying about micromanaging and difficulty.  Disables EGO when Somnium mods are active.  (eng/ger/rus)
+- Story Mode - No Health Regen v1.01: Enderal Story Mode includes gameplay tweaks to make the game enjoyable without worrying about micromanaging and difficulty.  Disables EGO when Somnium mods are active.  (eng/ger/rus)
 - Vanilla Cubemaps for Darker Water: Optional cubemaps without reflections for darker nighttime water.
 - Chicken Replacer - Mihail Monsters and Animals (SE-AE version) (''bird'') v1.0**]: High quality vanilla Chicken replacer: make these birds finally worthy of having the entire population of Skyrim committed to their protection.
 - High Quality Food and Ingredients SE v1.9: HQ textures of the food and ingredients for Skyrim Special Edition.
