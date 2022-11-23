@@ -825,6 +825,8 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Kanjs Nests Egg Harvesting Fix v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/79026?tab=files): This is a mesh replacer for the eggs in Kanjs nests mod. When you harvest this mesh, one egg is removed in keeping with the amount of eggs you receive.
 
+[**Dwarven Arrows and Bolts Revamped Texture 4k - 2k v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/2927?tab=files): A finely etched, richly detailed re-imagined texturing work of the Dwarven arrows and quiver. I put many hours of care and work to create something aesthetically beautiful so I can be enthralled by firing a reign of arrows upon my foes in glorious 4k :) Enjoy!
+
 [**Terrain LOD for Septentrional Landscapes v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/39563): New overhaul for Terrain LOD landscape textures that corresponds with the texture mods you have installed..
 - Only used for terrain noise texture.  Remove ALL files except for the \textures\ folder.
 
