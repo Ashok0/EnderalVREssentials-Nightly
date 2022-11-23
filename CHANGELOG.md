@@ -64,6 +64,7 @@ New Mods:
 - Conduit - Enderal Adaption Patch v2.5-EA1: This is an experimental rebalance (read: heavy nerf) of the mod for Enderal. If you feel Conduit is overtuned for normal Skyrim, you can use this patch there as well, it doesnt require Enderal. ESL-flagged.
 - Less Grass 1 - 50% Less v1.0: Reduces the density of grass for better visibility.
 - Steel Swords Redone v1.0: This mod adds new models and textures for the steel sword and steel greatsword.
+- Dwarven Arrows and Bolts Revamped Texture 4k - 2k v1.0: A finely etched, richly detailed re-imagined texturing work of the Dwarven arrows and quiver. I put many hours of care and work to create something aesthetically beautiful so I can be enthralled by firing a reign of arrows upon my foes in glorious 4k :) Enjoy!
 - Iron Things SE v1.2: Replacer meshes and textures for IRON THINGS: iron sword, greatsword, dagger, battleaxe, bow, and shield. Stand-alone is also available for download. Made in 2016 by ClipsyMoon, now on SE for all to enjoy ;) 
 - Fluffworks - Better Photoreal Foxes v1.0: A makeover for Skyrim's Foxes, Combining Better Foxes & Photoreal Foxes with Fluffworks Shell Texturing on top!
 - Arvak Replace SE v1.0: Arvak Replace.
