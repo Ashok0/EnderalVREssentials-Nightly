@@ -39,7 +39,7 @@ New Mods:
 - Dibella Statue v1.04: Dibella statue replacer.
 - High Poly Mudcrab N Retexture v1.0: Pfuscher's High Poly Mudcrabs N Retexture.
 - Cork Retexture v1.0: Cork retexture. 4x the size of vanilla's.
-- Silver Objects SMIMed v.3.1: Improve silver objects 3D models and shaders. Affects silver, Sovngarde, common, and Thieves Guild quest items. 
+- Silver Objects SMIMed v.4: Improve silver objects 3D models and shaders. Affects silver, Sovngarde, common, and Thieves Guild quest items. 
 - Waterspout Fixes v1.0: Fixes some things from the Waterspouts mod.
 - Enderal Texture Workshop v1.5: Vanilla-friendly retexture for various assets in Enderal.
 - Kolapon's Brand New Armor Sets and Weapons SE v1.1: Adds brand new sets of armor and weapons to different locations in Enderal.
@@ -164,7 +164,7 @@ Updated Mods:
 - Inferno - Fire Effects Redux v5.1: Spiritual successor to the original Ultimate HD Fire Effects mod by rheadude with improved meshes and textures! 
 - Glorious Doors of Skyrim (GDOS) SE v1.1: All-In-One pack of all my doors including a handy Fomod installer and a new Dwemer door!
 - Water in Wells - Mesh-only Animated Wells v0.7: A mesh-only solution for animated water in wells and sewers. No ESP. 
-- Embers XD v2.6.6:  Added an option for vanilla-like sticky torch flame. Added Embers XD style purple brazier variant.
+- Embers XD v2.6.7:  Added an option for vanilla-like sticky torch flame. Added Embers XD style purple brazier variant.
 - Venerable Nordic Temples (2K - 4K) v0.2: A high quality retexture for Nordic temples and ruins, offering high fidelity visuals and a lore friendly, ancient aesthetic.
 - Rally's Candlelight and Magelight Fix SE - VR v1.3: Fix for the Candlelight Spell and Magelight Spell in SE/VR.
 - 4K SMIM Furniture Improvement v1.3: A 4K retexture of SMIM furniture textures.
