@@ -637,7 +637,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**SMIM Food Resized - All In One v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/72797?tab=files): A size reduction of the SMIM food models for VR and SSE.
 
-[**Silver Objects SMIMed v.3.1**](https://www.nexusmods.com/skyrimspecialedition/mods/70787?tab=files): Improve silver objects 3D models and shaders. Affects silver, Sovngarde, common, and Thieves Guild quest items.
+[**Silver Objects SMIMed v.4**](https://www.nexusmods.com/skyrimspecialedition/mods/70787?tab=files): Improve silver objects 3D models and shaders. Affects silver, Sovngarde, common, and Thieves Guild quest items.
 
 [**Venerable Nordic Temples (2K - 4K) v0.2**](https://www.nexusmods.com/skyrimspecialedition/mods/38544?tab=files): A high quality retexture for Nordic temples and ruins, offering high fidelity visuals and a lore friendly, ancient aesthetic.
 
@@ -685,7 +685,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 - ESP file not supported.  Do not install patches.
 - Remove \meshes\weapons\torch.nif to fix blue torch flames.
 
-[**Embers XD v2.6.6**](https://www.nexusmods.com/skyrimspecialedition/mods/37085?tab=files): An overhaul of campfires and other fire sources.
+[**Embers XD v2.6.7**](https://www.nexusmods.com/skyrimspecialedition/mods/37085?tab=files): An overhaul of campfires and other fire sources.
 - Use "Inferno Flames" if using "Inferno - Fire Effects Redux".
 - Install Forges and Lava Craters Add-On.
 - Delete ESP files.
