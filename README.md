@@ -832,7 +832,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**CC's HQ Mines Redone - AiO v1.5**](https://www.nexusmods.com/skyrimspecialedition/mods/18044): This is a retexture of the Mines in skyrim. All textures handmade by me using Substance Designer 2018.
 
-[**CC's HQ Mines Redone Parallax Textures v2.5**](https://www.nexusmods.com/skyrimspecialedition/mods/51261): Parallax Textures for CC's HQ Mines Redone.
+[**CC's HQ Mines Redone Parallax Textures v2.6**](https://www.nexusmods.com/skyrimspecialedition/mods/51261): Parallax Textures for CC's HQ Mines Redone.
 - Remove \textures\smim\ folder to prevent conflicts with other mods.
 
 [**Skyrim Remastered - Caves 4K Parallax v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/38220/?tab=files): A retexture of Skyrim's caves, with a complete overhaul for the ice caves to make them look like actual ice. Offered in 4k, 2k, and 1k texture quality with parallax options.
