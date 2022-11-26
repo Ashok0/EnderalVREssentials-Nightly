@@ -220,4 +220,4 @@ Parallax Textures:
 - Pelt by Pfuscher v1.0: High Res Pelt with Parallax.
 - Skyrim 2020 Parallax by Pfuscher - 2K v8.4.2: Select textures installed for parallax farmhouses, roads, and trees.
 - Parallax Mesh Collection v2.02: Patches to add parallax to meshes.
-- CC's HQ Mines Redone Parallax Textures v2.5: Parallax Textures for CC's HQ Mines Redone.
+- CC's HQ Mines Redone Parallax Textures v2.6: Parallax Textures for CC's HQ Mines Redone.
