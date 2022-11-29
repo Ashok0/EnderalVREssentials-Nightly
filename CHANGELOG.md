@@ -148,8 +148,8 @@ Updated Mods:
 - Enderal SE - Bug Fixes v1.31: Removed the apparition script changes, which were slightly outdated. The fixes made by Bug Fixes are no longer needed.
 - No Floating Quest Marker v1.01: Removes floating quest markers from the game.  Quest markers are still viewable on the compass.
 - Immersive Draw Sheathe Sounds v1.1: Corrected folder structure so the mod will actually function.
-- Papyrus Extender SSE v5.3: SKSE64 plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events.
-- Papyrus Extender VR v5.3: SKSEVR plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events. This requires the original Papyrus Extender and is built from po3's source.
+- Papyrus Extender SSE v5.4: SKSE64 plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events.
+- Papyrus Extender VR v5.4: SKSEVR plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events. This requires the original Papyrus Extender and is built from po3's source.
 - VR Address Library for SKSEVR v0.66: Add latest commonlib, po3 addresses (02026b1)
 - DragonbornSpeaksNaturally - Beta v0.21.1-beta: Adds speech recognition to Skyrim VR or Skyrim SE so you can recite your dialogue lines to select them.
 - Spell Perk Item Distributor VR v6.0.3: Fix failure to load due to processing of non-ascii paths for mergemapper.
@@ -175,8 +175,8 @@ Updated Mods:
 - Delectable Docks SE - ESP Fix v1.0: SE port of my delectable docks mod.
 - Bank of Ark SE v1.02: Fixed the crashes and integrated the vault doors into the main mod again (huge thanks to "Apoapse" for identifying and fixing this issue).
 - ElSopa - High Quality Buckets SE - HOTFIX v1.3: Missing Meshes.
-- Frozen Electrocuted Combustion v5.0.5: Applies visual effects to NPCs and the player, when killed by magic status effects.
-- Frozen Electrocuted Combustion VR v5.0.5: Applies visual effects to NPCs and the player, when killed by air, ash, dragons, drain, fire, frost, fear, lightning, poison, soultrap, steam and sun damage status effects. VR version that requires original FEC to run.
+- Frozen Electrocuted Combustion v5.1: Applies visual effects to NPCs and the player, when killed by magic status effects.
+- Frozen Electrocuted Combustion VR v5.1: Applies visual effects to NPCs and the player, when killed by air, ash, dragons, drain, fire, frost, fear, lightning, poison, soultrap, steam and sun damage status effects. VR version that requires original FEC to run.
 - Fluffworks Medium v1.1f: Added following animals: Reindeer, Skeever, Goat, Fox, Dog, Cow, Black Troll.  Fixed missing textures on elks.  Make bear fur a bit thinner.
 - KS Hairdos SSE v1.9: KS Hairdos is a hair pack that contains 983 hairstyles. 876 hairstyles are for females, 107 are for males.
 - Enderal - Donkey v2.61: Eye fixes for each of the creatures. + DHO - (0 specular + 1% transparency) for hawks. No more shiny hair as well added realistic transparency. Sun shines on the correct side of the hawk now!
