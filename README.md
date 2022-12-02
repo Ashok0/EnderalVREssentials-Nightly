@@ -502,7 +502,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 - Make the following changes to these VRIK INI files to pre-configure MCM settings to allow for open hand spell casting:  
 	- vrikgestures.ini: castWhenHandsOpen = 2
 
-[**Arctal's VRIK Tweaks v1.4**](https://www.nexusmods.com/skyrimspecialedition/mods/63663?tab=files): Fixes some pet peeves of mine with the VRIK mod. Currently including gesture system improvements, changes to ragdolling during knockback/death and a near-clip-distance bug fix.
+[**Arctal's VRIK Tweaks v1.5**](https://www.nexusmods.com/skyrimspecialedition/mods/63663?tab=files): Fixes some pet peeves of mine with the VRIK mod. Currently including gesture system improvements, changes to ragdolling during knockback/death and a near-clip-distance bug fix.
 
 [**VRIK Neardistance Fix Patch for Build**]: Sets fNearDistance to 13 to fix mountain flickering.
 
