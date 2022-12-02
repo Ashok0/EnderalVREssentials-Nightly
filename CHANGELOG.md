@@ -21,7 +21,7 @@ New Mods:
 - Splashes of Storms VR v1.3: SKSE plugin that adds projectile based water splashes and ripples, and underwater explosions.
 - SMIM Food Resized - All In One v1.0: A size reduction of the SMIM food models for VR and SSE.
 - ADXP Beta v1.2: A framework that bypasses the animation wall, allowing for modern combat in Skyrim.
-- Arctal's VRIK Tweaks v1.4: Fixes some pet peeves of mine with the VRIK mod. Currently including gesture system improvements, changes to ragdolling during knockback/death and a near-clip-distance bug fix.
+- Arctal's VRIK Tweaks v1.5: Fixes some pet peeves of mine with the VRIK mod. Currently including gesture system improvements, changes to ragdolling during knockback/death and a near-clip-distance bug fix.
 - Enderal SE Retexture Pack Project v2.0: A port of my Special Edition texture mod (SNRP) featuring edited textures as well as new to fit the aesthetics of Enderal. Still a work in progress.
 - Nyghtfall - Dark Fantasy Music for Enderal v1.0.0: Adds new exploration and combat music tracks from Nyghtfall - Dark Fantasy Music to Enderal.
 - Nyghtfall - Combat Music Fix v1.0.1: Fixes missing combat music conditions.
