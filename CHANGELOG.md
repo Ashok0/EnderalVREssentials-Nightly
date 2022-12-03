@@ -38,6 +38,7 @@ New Mods:
 - TB's Wine 4K Version v1.1: This is a retexture containing no ESPs which comes in 3 Variants - 2K, 4K and 8K and aims to improve upon the default Skyrim textures, thank you very much for considering my mod (Also introduces some transparency into the glass).
 - Dibella Statue v1.04: Dibella statue replacer.
 - High Poly Mudcrab N Retexture v1.0: Pfuscher's High Poly Mudcrabs N Retexture.
+- GoT Dragon in Enderal - Drogon v1.0: Replace that Enderal dragon with Drogon, Rhaegal or Viserion.
 - Cork Retexture v1.0: Cork retexture. 4x the size of vanilla's.
 - Silver Objects SMIMed v.4: Improve silver objects 3D models and shaders. Affects silver, Sovngarde, common, and Thieves Guild quest items. 
 - Waterspout Fixes v1.0: Fixes some things from the Waterspouts mod.
