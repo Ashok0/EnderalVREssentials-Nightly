@@ -1155,6 +1155,8 @@ Required load order:
 
 [**Ancestral Spirit Replacer (Variant 2) v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/60?tab=files): Replaces the models Ancestral Spirits with high quality alternatives.
 
+[**GoT Dragon in Enderal - Drogon v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/497?tab=files): Replace that Enderal dragon with Drogon, Rhaegal or Viserion.
+
 [**XP32 Maximum Skeleton Special Extended - XPMSSE v4.81**](https://www.nexusmods.com/skyrimspecialedition/mods/1988?tab=files): XP32 Maximum Skeleton Special Extended is the update of XP32 Maximum Skeleton Extended for Skyrim Special Edition.
 
 [**Enderal Armor and Weapon Overhaul v2.0**](https://www.scenicroute.games/projects/somnium): This mod changes almost every piece of armor and weapon in the game. And some clothes. No more Skyrim flashbacks in Enderal.
