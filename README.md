@@ -448,7 +448,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**ADXP Beta v1.2**](https://www.skyrim-guild.com/distar/guidesandnews/mco-guide): A framework that bypasses the animation wall, allowing for modern combat in Skyrim.
 - Delete MCO.dll
 
-[**Crash Logger VR v1.5**](https://www.nexusmods.com/skyrimspecialedition/mods/59818?tab=files): Generates crash logs when the game Just Works™. This is a VR port using fudgyduff's MIT source.
+[**Crash Logger VR v1.6**](https://www.nexusmods.com/skyrimspecialedition/mods/59818?tab=files): Generates crash logs when the game Just Works™. This is a VR port using fudgyduff's MIT source.
 
 [**PapyrusUtil VR - Scripting Utility Functions v3.6b**](https://www.nexusmods.com/skyrimspecialedition/mods/13048?tab=files): An SKSE plugin adding several new scripts with native functions that provide various conveniences related to data storage and other misc functions to the scripter/modder.  DynDOLOD requirement.
 
