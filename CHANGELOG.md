@@ -119,7 +119,7 @@ New Mods:
 - Handcarts SE - Everything changes v0.3: It's been a long time, a lot has changed in Skyrim, but finally completely new handcarts started appearing on the streets.
 - burlap01.dds by Xtudo v0.1: This archive contains a wonderful and very atmospheric canopy texture burlap01.dds provided by Xtudo.
 - Rudy HQ - Miscellaneous SE v1.02: HQ meshes for a glazed pottery with a new 4K/2K textures. HQ meshes for in-game silverware with a new HQ candles. Realistic apples, tomatoes, potatoes, and a common bed pillows, plus HQ meshes for a common plates.
-- Immersive Smithing v1.0.3: It's time to "be the smith".... With the help of VRIK, Spell Wheel & HIGGS and with your trusty Black Smiths hammer in hand, improve weapons and armor like never before!
+- Immersive Smithing v1.0.4: It's time to "be the smith".... With the help of VRIK, Spell Wheel & HIGGS and with your trusty Black Smiths hammer in hand, improve weapons and armor like never before!
 - ElSopa - HD Grindstone Redone SE Patch v1.0: Add compatibility for ElSopa's 'HD Grindstone Redone SE' mod. Place below the original mod in your load order and overwrite any files if required. Thanks to ElSopa for permission to use his meshes for this patch.
 - ElSopa - HD Medieval Anvil SE Patch v1.0: Adds compatibility for 'ElSopa - HD Medieval Anvil SE' Mod. Place this patch below the original in your load order and overwrite any files. Thanks to ElSopa for the permissions to use his meshes.
 - SMIM Compatible Smelter v1.0: Overwrite SMIM smelter with this file.
@@ -165,7 +165,7 @@ Updated Mods:
 - Inferno - Fire Effects Redux v5.1: Spiritual successor to the original Ultimate HD Fire Effects mod by rheadude with improved meshes and textures! 
 - Glorious Doors of Skyrim (GDOS) SE v1.1: All-In-One pack of all my doors including a handy Fomod installer and a new Dwemer door!
 - Water in Wells - Mesh-only Animated Wells v0.7: A mesh-only solution for animated water in wells and sewers. No ESP. 
-- Embers XD v2.6.7:  Added an option for vanilla-like sticky torch flame. Added Embers XD style purple brazier variant.
+- Embers XD v2.6.8:  Added an option for vanilla-like sticky torch flame. Added Embers XD style purple brazier variant.
 - Venerable Nordic Temples (2K - 4K) v0.2: A high quality retexture for Nordic temples and ruins, offering high fidelity visuals and a lore friendly, ancient aesthetic.
 - Rally's Candlelight and Magelight Fix SE - VR v1.3: Fix for the Candlelight Spell and Magelight Spell in SE/VR.
 - 4K SMIM Furniture Improvement v1.3: A 4K retexture of SMIM furniture textures.
