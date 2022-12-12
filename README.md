@@ -556,7 +556,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Moons and Stars - Sky Overhaul SKSEVR v2.0**](https://www.nexusmods.com/skyrimspecialedition/mods/73667?tab=files): DLL plugin to fix moons and stars movement and phases. VR port using po3's MIT source code.
 
-[**Immersive Smithing v1.0.3**](https://www.nexusmods.com/skyrimspecialedition/mods/72298): It's time to "be the smith".... With the help of VRIK, Spell Wheel & HIGGS and with your trusty Black Smiths hammer in hand, improve weapons and armor like never before!
+[**Immersive Smithing v1.0.4**](https://www.nexusmods.com/skyrimspecialedition/mods/72298): It's time to "be the smith".... With the help of VRIK, Spell Wheel & HIGGS and with your trusty Black Smiths hammer in hand, improve weapons and armor like never before!
 
 [**ElSopa - HD Grindstone Redone SE Patch v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/72298): Add compatibility for ElSopa's 'HD Grindstone Redone SE' mod. Place below the original mod in your load order and overwrite any files if required. Thanks to ElSopa for permission to use his meshes for this patch.
 
@@ -685,7 +685,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 - ESP file not supported.  Do not install patches.
 - Remove \meshes\weapons\torch.nif to fix blue torch flames.
 
-[**Embers XD v2.6.7**](https://www.nexusmods.com/skyrimspecialedition/mods/37085?tab=files): An overhaul of campfires and other fire sources.
+[**Embers XD v2.6.8**](https://www.nexusmods.com/skyrimspecialedition/mods/37085?tab=files): An overhaul of campfires and other fire sources.
 - Use "Inferno Flames" if using "Inferno - Fire Effects Redux".
 - Install Forges and Lava Craters Add-On.
 - Delete ESP files.
