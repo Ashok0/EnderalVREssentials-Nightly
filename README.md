@@ -66,11 +66,11 @@ Recommended:
 6.  Create a new folder where you wish to install Enderal VR i.e. C:\Games\Enderal VR
 7.  Download "EVREv2.0-RC5.wabbajack" from [HERE](https://github.com/Ashok0/EnderalVREssentials-Nightly/releases) and place it anywhere outside of your Wabbajack folder.
 8.  Launch Wabbajack and select "Install from Disk".  Next, manually select the .wabbajack file under "Target Modlist".  **Do not attempt to install Enderal VR Essentials by double-clicking the .wabbajack file directly or the Wabbajack installation will fail with an error related to "\Extractors\windows-x64\7z.exe".**
-9.  Under "Modlist Installation Location", select the folder you created above under Step 7.  Tick "Overwrite Installation" if you are updating a previous installation and then click the green "PLAY" icon in the lower right. 
+9.  Under "Modlist Installation Location", select the folder you created above under Step 6.  Tick "Overwrite Installation" if you are updating a previous installation and then click the green "PLAY" icon in the lower right. 
 10.  Wait for Wabbajack to download all the mods and patches required to play Enderal VR.  This could take several hours depending on your Internet connection.
 		* If you receive an error message during this step, a mod has most likely been updated preventing the modlist from installing.  Wait for me to update this Wabbajack modlist and then try again.
 
-11. Once Wabbajack is done downloading and configuring Enderal VR, navigate to your game folder from Step 7.
+11. Once Wabbajack is done downloading and configuring Enderal VR, navigate to your game folder from Step 6.
 12. Copy the contents of \Game Folder Files\ to C:\Program Files (x86)\Steam\steamapps\common\SkyrimVR
 13. Launch Mod Organizer 2. 
 14. Select a game profile in the upper left drop down bar.  You can select 3 different options:
