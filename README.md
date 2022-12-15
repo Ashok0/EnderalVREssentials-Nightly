@@ -423,7 +423,10 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**EngineFixesVR v1.22a**](https://github.com/rollingrock/EngineFixesVR/releases): SKSEVR plugin to fix various issues with the Skyrim Special Edition engine.
 - Open EngineFixesVR.ini and add the following lines: MemoryManager = false, SelectAllocator = 1.
 
-[**VR Parallax Shader Fix v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/62090?tab=description): Injects fixed parallax shaders into Skyrim VR. Based on original code from aers under MIT.
+[**VR Parallax Shader Fix v1.0.2**](https://www.nexusmods.com/skyrimspecialedition/mods/62090?tab=description): Injects fixed parallax shaders into Skyrim VR. Based on original code from aers under MIT.
+- Requires Engine Fixes VR Part 2 in Skyrim folder
+- Requires d3dcompiler_47.dll in Skyrim folder
+- Required Load Order: SKSE, Engine Fixes VR, VR Parallax Shader Fix
 
 [**VR Parallax Shader Fix - Experimental v1.0.1**](https://www.nexusmods.com/skyrimspecialedition/mods/62090?tab=files): Injects fixed parallax shaders into Skyrim VR. Based on original code from aers under MIT. 
 - Requires Engine Fixes VR Part 2 in Skyrim folder
