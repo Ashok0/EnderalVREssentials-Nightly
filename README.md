@@ -1081,7 +1081,9 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**Frozen Electrocuted Combustion - v5.1**](https://www.nexusmods.com/skyrimspecialedition/mods/3532?tab=files): Applies visual effects to NPCs and the player, when killed by magic status effects.
 - Remove optional DLL.
 
-[**Frozen Electrocuted Combustion VR v5.1**](https://www.nexusmods.com/skyrimspecialedition/mods/59118?tab=files): Applies visual effects to NPCs and the player, when killed by air, ash, dragons, drain, fire, frost, fear, lightning, poison, soultrap, steam and sun damage status effects. VR version that requires original FEC to run.
+[**Frozen Electrocuted Combustion VR v5.1**](https://www.nexusmods.com/skyrimspecialedition/mods/59118?tab=files): Applies visual effects to NPCs and the player, when killed by air, ash, dragons, drain, fire, frost, fear, lightning, poison, soultrap, steam and sun damage status effects. VR version that requires original FEC to run
+
+[*Enderal SE - Frozen Electrocuted Combustion v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/505?tab=files): Compatibility patch for Frozen Electrocuted Combustion.
 
 Required load order:
 * VR Address Library for SKSEVR
@@ -1089,6 +1091,7 @@ Required load order:
 * Papyrus Extender VR
 * Frozen Electrocuted Combustion 
 * Frozen Electrocuted Combustion VR
+* Enderal SE - Frozen Electrocuted Combustion
 
 [**Enderal NPC Overhaul - SE version v2.3.1**](https://www.nexusmods.com/enderalspecialedition/mods/150?tab=description): Overhaul of all NPCs in Enderal. Most important NPCs are given unique look (100+), others - KS Hairdos Hair. NO ESP. No requirements.
 
