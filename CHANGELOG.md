@@ -175,7 +175,7 @@ Updated Mods:
 - Sprint Jump VR v1.1.3: Removed unnecessary and incorrect fJumpFallHeightMin setting modification which had nothing to do with jump distance apparently.
 - Storm Lightning for SSE and VR v1.4.17: A remake of Minty's Lightning mod as an SKSE plugin. The purpose of this mod is stability and scalability. It can summon up to 50 sheet lightnings and 50 fork lightnings per second and up to 31 cells distance. This results in a more natural and enjoyable storm experience.
 - Delectable Docks SE - ESP Fix v1.0: SE port of my delectable docks mod.
-- Bank of Ark SE v1.02: Fixed the crashes and integrated the vault doors into the main mod again (huge thanks to "Apoapse" for identifying and fixing this issue).
+- Bank of Ark SE v1.04: Fixed the crashes and integrated the vault doors into the main mod again (huge thanks to "Apoapse" for identifying and fixing this issue).
 - ElSopa - High Quality Buckets SE - HOTFIX v1.3: Missing Meshes.
 - Frozen Electrocuted Combustion v5.1: Applies visual effects to NPCs and the player, when killed by magic status effects.
 - Frozen Electrocuted Combustion VR v5.1: Applies visual effects to NPCs and the player, when killed by air, ash, dragons, drain, fire, frost, fear, lightning, poison, soultrap, steam and sun damage status effects. VR version that requires original FEC to run.
