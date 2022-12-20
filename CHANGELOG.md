@@ -11,7 +11,7 @@ Updated Tools:
 
 New Mods:
 - PLANCK - Physical Animation and Character Kinetics v0.5: Physically-driven animation in Skyrim. Characters interact with physics and can be grabbed, melee hit detection is physically accurate, and much more.
-- VR Parallax Shader Fix v1.0.2: Injects fixed parallax shaders into Skyrim VR. Based on original code from aers under MIT.
+- VR Parallax Shader Fix v1.0.3: Injects fixed parallax shaders into Skyrim VR. Based on original code from aers under MIT.
 - VR Parallax Shader Fix - Experimental v1.0.1: Injects fixed parallax shaders into Skyrim VR. Based on original code from aers under MIT. 
 - Dynamic Animation Replacer for Skyrim VR 1415 v1.1.0a: This mod dynamically replaces the actors' animations depending on various conditions. Supports most actors, including creatures. Actors and animations added by mods are also supported. No ESP file.
 - Clear HUD VR v1.0: Provides an installer that lets you hide certain HUD elements for Skyrim VR based on your personal preference.
