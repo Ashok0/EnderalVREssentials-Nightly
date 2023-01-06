@@ -521,7 +521,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**Enchanted Weapons Charge Fix v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/62314?tab=files): Ever wondered why your enchanted weapon not charging when using Soul Siphon perk from Ordinator? Or why Summermyst's enchanted glove not recharging your weapon past the initial value when equipped? It's because there's a bug in Skyrim engine that prevent you from doing so. This mod will fix that and allow weapons to charge to their maximum limit.
 - Do not update to v2.0 as the lastest version is not VR compatible.
 
-[**Wearable Health Bars - Soul Gauge v1.5.3**](https://www.nexusmods.com/skyrimspecialedition/mods/65737?tab=files): Jewelry that displays Health, Magicka, Stamina, enchantment charge, or equipped ammo count on your hands. Glows in the dark!
+[**Wearable Health Bars - Soul Gauge v1.6**](https://www.nexusmods.com/skyrimspecialedition/mods/65737?tab=files): Jewelry that displays Health, Magicka, Stamina, enchantment charge, or equipped ammo count on your hands. Glows in the dark!
 
 [**Spellsiphon - Complete Edition v5.23**](https://www.nexusmods.com/enderalspecialedition/mods/357?tab=files): Experience gameplay focused on combos and synergy. Lessen the need for menus or hotkeys through a system where swapping spells and weapons is streamlined and rewarding. Continue the fight at 0 magicka by using new spell types. Enjoy a plethora of new sounds and visual effects. Grow in power by playing skillfully, not just from levels and gear.
 
