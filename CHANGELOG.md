@@ -4,7 +4,7 @@ Updated Tools:
 - Mod Organizer 2 v2.4.4: Fixed Discord invite. Removed Mass Effect support.
 - EngineFixesVR Part 2 v1.22: SKSEVR plugin to fix various issues with the Skyrim Special Edition engine.
 - d3dcompiler_47.dll: Install this to your Skyrim Special Edition folder if you don't already have a copy of d3dcompiler_47.dll
-- DynDOLOD Standalone 3.0 Alpha-108: DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD + tree LOD and the new, optional dynamic distant object LOD in a few simple steps.
+- DynDOLOD Standalone 3.0 Alpha-111: DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD + tree LOD and the new, optional dynamic distant object LOD in a few simple steps.
 - xLODGen Beta 97: Tool for generating terrain LOD.
 - Synthesis v0.25: A framework and GUI to construct a single Bethesda game patch from many patcher sources. Designed to allow any program to work as a patcher as long as it conforms to the CLI API.
 - LOOT v0.18.6: LOOT is a plugin load order optimisation tool for Skyrim VR.  It is designed to assist mod users in avoiding detrimental conflicts, by automatically calculating a load order that satisfies all plugin dependencies and maximises each plugin's impact on the user's game.
@@ -144,7 +144,7 @@ Updated Mods:
 - HIGGS - Enhanced VR Interaction v1.5.10: Hand/weapon collision, weapon two-handing, realistic object grabbing, and gravity gloves-style mechanics for Skyrim VR.
 - Magic Improvements for Skyrim VR v1.2: Vastly improved dual casting, spell effect size scales based on magicka percentage, and additional options for aiming spells in VR.
 - Caliente's Beautiful Bodies Enhancer - CBBE v1.7.1: A completely customisable female body replacer for TESV: Skyrim.
-- Crash Logger v1.6: Provide more info on TESForm and NiAVObject (names/editor IDs).
+- Crash Logger v1.7: Provide more info on TESForm and NiAVObject (names/editor IDs).
 - EngineFixesVR v1.22a: Parallax Fix.
 - DynDOLOD Resources SE v3.00 Alpha-30: DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD + tree LOD and the new, optional dynamic distant object LOD in a few simple steps.
 - Enderal SE - Bug Fixes v1.31: Removed the apparition script changes, which were slightly outdated. The fixes made by Bug Fixes are no longer needed.
@@ -152,7 +152,7 @@ Updated Mods:
 - Immersive Draw Sheathe Sounds v1.1: Corrected folder structure so the mod will actually function.
 - Papyrus Extender SSE v5.4: SKSE64 plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events.
 - Papyrus Extender VR v5.4: SKSEVR plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events. This requires the original Papyrus Extender and is built from po3's source.
-- VR Address Library for SKSEVR v0.70: Add latest commonlib, po3 addresses (02026b1)
+- VR Address Library for SKSEVR v0.72: Add latest commonlib, po3 addresses (02026b1)
 - DragonbornSpeaksNaturally - Beta v0.21.1-beta: Adds speech recognition to Skyrim VR or Skyrim SE so you can recite your dialogue lines to select them.
 - Spell Perk Item Distributor VR v6.3.0.1: Fix failure to load due to processing of non-ascii paths for mergemapper.
 - More Informative Console VR v1.1.0: This mod edits the UI to show a great deal of additional information on npcs, items, and other objects when the console is opened, similar to the way MFG console worked for Oldrim.
