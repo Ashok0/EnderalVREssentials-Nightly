@@ -134,7 +134,7 @@ New Mods:
 - Akropolis Stones Remastered v1.0: Fully retextured stone and pillar textures in Akropolis, with HD and realistic material properties, in order to be as detailed and interesting to look at as possible.
 - Kanjs - Bird Nests and Eggs - up to 4k v1.3: Kanjs - Nests and Eggs is a mod that retexture all bird nests, eggs and remeshes all nests!
 - Kanjs Nests Egg Harvesting Fix v1.0: This is a mesh replacer for the eggs in Kanjs nests mod. When you harvest this mesh, one egg is removed in keeping with the amount of eggs you receive.
-- Base Object Swapper VR v2.5: SKSE plugin and framework for swapping base objects and references, using config files. VR port of MIT source
+- Base Object Swapper VR v2.5.1: SKSE plugin and framework for swapping base objects and references, using config files. VR port of MIT source
 - Destructible Skyrim - Base Object Swapper v0.5.3.1: Smash, shout, and blow up the environment around you, without the need for silly, complicated patches! Be careful, though - just like with stealing, people aren't very fond of the destruction of their property!
 
 Updated Mods:
@@ -152,7 +152,7 @@ Updated Mods:
 - Immersive Draw Sheathe Sounds v1.1: Corrected folder structure so the mod will actually function.
 - Papyrus Extender SSE v5.4: SKSE64 plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events.
 - Papyrus Extender VR v5.4: SKSEVR plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events. This requires the original Papyrus Extender and is built from po3's source.
-- VR Address Library for SKSEVR v0.72: Add latest commonlib, po3 addresses (02026b1)
+- VR Address Library for SKSEVR v0.73: Add latest commonlib, po3 addresses (02026b1)
 - DragonbornSpeaksNaturally - Beta v0.21.1-beta: Adds speech recognition to Skyrim VR or Skyrim SE so you can recite your dialogue lines to select them.
 - Spell Perk Item Distributor VR v6.3.0.1: Fix failure to load due to processing of non-ascii paths for mergemapper.
 - More Informative Console VR v1.1.0: This mod edits the UI to show a great deal of additional information on npcs, items, and other objects when the console is opened, similar to the way MFG console worked for Oldrim.
