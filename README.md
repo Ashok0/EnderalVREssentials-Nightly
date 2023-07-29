@@ -484,7 +484,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**Smaller HUD for VR Larger Text Patch**]: An override patch for [Smaller HUD for VR](https://www.nexusmods.com/skyrimspecialedition/mods/30726?tab=files) to increase text size while retaining the smaller HUD elements from the original mod.  Overrides "Smaller HUD for VR" with vanilla skyvr_hmd_info.nif to increase text size.  Rescales Health, Magica, Stamina, and Quest Update Base Instance sprites in vr_hmd_info.swf to shrink HUD elements from vanilla Skyrim back to the smaller sizes used in the original "Smaller HUD for VR" mod.  Shifts Quest Update Base Instance sprite on X-axis to prevent menu clipping.  Patch created with JPEXS Free Flash Decompiler.
 - Place after other Skyrim SE HUD mods.
 
-[**Path of the Prophet (No Floating Quest Marker) v1.09**](https://www.nexusmods.com/skyrimspecialedition/mods/63279): Removes floating quest markers from the game.  Quest markers are still viewable on the compass.
+[**Path of the Prophet (No Floating Quest Marker) v1.01**](https://www.nexusmods.com/skyrimspecialedition/mods/63279): Removes floating quest markers from the game.  Quest markers are still viewable on the compass.
 
 [**MCM Recorder v1.07**](https://www.nexusmods.com/skyrimspecialedition/mods/61719?tab=files): Configuring MCMs has never been easier!
 - Place JSON scripts in \McmRecorder\Recording_XXX_XXXXXX\ folder 
