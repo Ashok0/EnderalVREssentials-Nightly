@@ -1083,7 +1083,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Frozen Electrocuted Combustion VR v5.1**](https://www.nexusmods.com/skyrimspecialedition/mods/59118?tab=files): Applies visual effects to NPCs and the player, when killed by air, ash, dragons, drain, fire, frost, fear, lightning, poison, soultrap, steam and sun damage status effects. VR version that requires original FEC to run
 
-[*Enderal SE - Frozen Electrocuted Combustion v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/505?tab=files): Compatibility patch for Frozen Electrocuted Combustion.
+[**Enderal SE - Frozen Electrocuted Combustion v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/505?tab=files): Compatibility patch for Frozen Electrocuted Combustion.
 
 Required load order:
 * VR Address Library for SKSEVR
