@@ -12,7 +12,6 @@ Updated Tools:
 New Mods:
 - PLANCK - Physical Animation and Character Kinetics v0.5: Physically-driven animation in Skyrim. Characters interact with physics and can be grabbed, melee hit detection is physically accurate, and much more.
 - VR Parallax Shader Fix v1.0.3: Injects fixed parallax shaders into Skyrim VR. Based on original code from aers under MIT.
-- VR Parallax Shader Fix - Experimental v1.0.1: Injects fixed parallax shaders into Skyrim VR. Based on original code from aers under MIT. 
 - Dynamic Animation Replacer for Skyrim VR 1415 v1.1.0a: This mod dynamically replaces the actors' animations depending on various conditions. Supports most actors, including creatures. Actors and animations added by mods are also supported. No ESP file.
 - Clear HUD VR v1.0: Provides an installer that lets you hide certain HUD elements for Skyrim VR based on your personal preference.
 - Animation Motion Revolution VR v1.5.3: This SKSE plugin removes the mismatch between displacement and custom animations driven by motion data (the infamous ice-skating problem). Welcome to 2021 guys.
@@ -60,7 +59,6 @@ New Mods:
 - Yero's Cave Full v1.1: Enhances Yero's cave by adding an unique boss and exchanges the way of how soul gems are filled.
 - Fire of the Mountain SE v1.0: This is the translation of a very nice quest mod. I've either enhanced it a bit as there were some slight issues.
 - Enderal Distinctive Clothing v1.0: Distinctive retextures for clothing.
-- Enderal Distinctive Jewelry v1.0: Distinctive models and textures for jewelry.
 - Conduit - Short-term Weapon Infusions v2.7: When holding a weapon in one hand and a spell in the other, you are able to temporarily "conduct" the spell through that weapon. Different categories of spells make the weapon do different things. This effect will overlay on top of normal enchants and does include additional weapon FX that will overlay too. It even works on Bound weapons.
 - Conduit - Enderal Adaption Patch v2.5-EA1: This is an experimental rebalance (read: heavy nerf) of the mod for Enderal. If you feel Conduit is overtuned for normal Skyrim, you can use this patch there as well, it doesnt require Enderal. ESL-flagged.
 - Less Grass 1 - 50% Less v1.0: Reduces the density of grass for better visibility.
